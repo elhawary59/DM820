@@ -6601,8 +6601,8 @@ Version: 1.0+git504+9967f99-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 31584428e919516841eaccd7d13fb97a
-SHA256sum: f3b0212eb6a9cef18c248306b3860cb0081401559a4a99e4ba51d30383213ab3
+MD5Sum: cb1dadaac7a19eabf30df64de7f9bb31
+SHA256sum: c8197c015d7cd627f743032a25ff537f937d800cf85389d7e288f96885289901
 Size: 706
 Filename: enigma2-plugin-extensions-backupsuite-dbg_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
@@ -6618,9 +6618,9 @@ Recommends: enigma2-plugin-systemplugins-mphelp-dev, mtd-utils-dev, mtd-utils-ub
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4939767e8f50a9859f755d7abd47f062
-SHA256sum: be9a0711fff93bd25e542a93f5ffbab288c52425840eec1f7bae5dfd78505da6
-Size: 778
+MD5Sum: 3baebc227457325f2e9f1e8367e26fa6
+SHA256sum: 29ce30fcd12edbdb73ec29d44b7050dfe0aa481ec66c10b3c91b2b1b5e947e10
+Size: 780
 Filename: enigma2-plugin-extensions-backupsuite-dev_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: enigma2-plugin-extensions-backupsuite version 1.0+gitAUTOINC+9967f99cb3-r0 - Development files
@@ -6634,8 +6634,8 @@ Depends: enigma2-plugin-extensions-backupsuite
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a7284f888c05688e779ea12bc2281424
-SHA256sum: 161d2cddf05e349635550af9d42c7822527e1d3f6fc675b98ecaa3bdbe5b0633
+MD5Sum: 169748f4d83fcb977241493cbe111817
+SHA256sum: 35e38be711434a3f888ee1f229e9718ad444bb0c089650ef285a00ded104bb45
 Size: 10100
 Filename: enigma2-plugin-extensions-backupsuite-src_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
@@ -6650,8 +6650,8 @@ Depends: enigma2-plugin-extensions-backupsuite, enigma2-plugin-systemplugins-mph
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 85ea10a61a8ae3892030b224b2f03ed4
-SHA256sum: a7ea3681e6e32cb5860d88697b9bce99d2d8a2f4a8ac4c877e9b6a1bc51bb3a2
+MD5Sum: 8d081cf7eebd4c9e6a2a96e414e3d783
+SHA256sum: 6ce60682bae125587c6b540d0ec513563e2742f9b32116930fabb5518c2747d1
 Size: 84100
 Filename: enigma2-plugin-extensions-backupsuite_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
@@ -6695,67 +6695,67 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-dbg
-Version: 2.0+git51+98ff721-r0
+Version: 2.0+git63+39c4bd8-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 60e44904c76ce2f7b080155072ef7de5
-SHA256sum: 4da523597794be2c681ffe76251a61afa0f291e3b466d4fcc4a0618374fa3a30
+MD5Sum: b0d6c14c35ed5a49fcf0f2431565bff5
+SHA256sum: 07cc9ad3b58759f07fd4a83f011ea39598331028fe388723a37f6a7a607a4d98
 Size: 720
-Filename: enigma2-plugin-extensions-filecommander-dbg_2.0+git51+98ff721-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-filecommander-dbg_2.0+git63+39c4bd8-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+98ff721fea-r0 - Debugging files
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+39c4bd8356-r0 - Debugging files
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-dev
-Version: 2.0+git51+98ff721-r0
-Depends: enigma2-plugin-extensions-filecommander (= 2.0+git51+98ff721-r0)
+Version: 2.0+git63+39c4bd8-r0
+Depends: enigma2-plugin-extensions-filecommander (= 2.0+git63+39c4bd8-r0)
 Recommends: python-core-dev, python-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 750a7fdf16ff9ad4354e43c438aac451
-SHA256sum: cef398bf81c7cbca3e6d2d81013ec1b4f50adb74065cae0a42bad2ea5254012c
-Size: 770
-Filename: enigma2-plugin-extensions-filecommander-dev_2.0+git51+98ff721-r0_mips32el.ipk
+MD5Sum: 8f7a3aa24eeb56d604bb2d3ba78d9582
+SHA256sum: 3f31b4613ec655353e4f4b8e6449255148d16cac2033daa07c9308efe6a9565c
+Size: 772
+Filename: enigma2-plugin-extensions-filecommander-dev_2.0+git63+39c4bd8-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+98ff721fea-r0 - Development files
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+39c4bd8356-r0 - Development files
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-src
-Version: 2.0+git51+98ff721-r0
+Version: 2.0+git63+39c4bd8-r0
 Depends: enigma2-plugin-extensions-filecommander
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a3020922f44efa1a177641ef9ca9c855
-SHA256sum: 3a3fd63af5d5003122759c2df8e723337163ecaed2fd4ae38a3b87c896086ae7
-Size: 39728
-Filename: enigma2-plugin-extensions-filecommander-src_2.0+git51+98ff721-r0_mips32el.ipk
+MD5Sum: ba63c381f1025fbc66dbeb329843e9ca
+SHA256sum: 6a86caa53a231429d4835f4cdb510aff86ed90c41e750d17fe6d84ed3ae06e08
+Size: 40620
+Filename: enigma2-plugin-extensions-filecommander-src_2.0+git63+39c4bd8-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+98ff721fea-r0 - Source files
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+39c4bd8356-r0 - Source files
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander
-Version: 2.0+git51+98ff721-r0
+Version: 2.0+git63+39c4bd8-r0
 Depends: python-core
 Replaces: enigma2-plugin-vision-filecommander
 Conflicts: enigma2-plugin-vision-filecommander
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9443d3a66b4b7c9b4750909dc29a4aff
-SHA256sum: 56e284f4befe155bc2b8783fb9edd5055c82301447f287eb07ce905158afdfb5
-Size: 107154
-Filename: enigma2-plugin-extensions-filecommander_2.0+git51+98ff721-r0_mips32el.ipk
+MD5Sum: 0e68d745977291433d4fcd9bf65328e0
+SHA256sum: bdd3584e3d18045b898edf26d6ac0cf22bfe8981cac9dc0adb08a3ba0b1b79f1
+Size: 109622
+Filename: enigma2-plugin-extensions-filecommander_2.0+git63+39c4bd8-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+98ff721fea-r0
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+39c4bd8356-r0
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
@@ -6896,8 +6896,8 @@ Version: 1.0+git15+8c1c779-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fa8a353d5d707ddab6eef949c985cd1a
-SHA256sum: b6d3fd4dc365c150bf00443d9ce81d4ac13be04cc483f002eaad81191ade9ff6
+MD5Sum: 999d521b5384c13aeea1647e12fd57af
+SHA256sum: 369e7083674881c81685b16b4ec747b454d316059d87a77420494bfef1625397
 Size: 724
 Filename: enigma2-plugin-extensions-weatherplugin2-dbg_1.0+git15+8c1c779-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-weatherplugin2.bb
@@ -6913,9 +6913,9 @@ Recommends: enigma2-plugin-skincomponents-weathercomponent-dev, enigma2-plugin-s
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 104964de502e5b3ca184d2478f7bd42f
-SHA256sum: 7ef99cace5e63d0de9bf2458cc3f5edd560fadba739fbad5d16228480434bfbc
-Size: 806
+MD5Sum: e3cca41c12dc8295881aed0b1576a9c6
+SHA256sum: 6410233a87134b001f1935fb92db2057429b9f5168cb2c829a1119539f5e9600
+Size: 804
 Filename: enigma2-plugin-extensions-weatherplugin2-dev_1.0+git15+8c1c779-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-weatherplugin2.bb
 Description: enigma2-plugin-extensions-weatherplugin2 version 1.0+gitAUTOINC+8c1c779490-r0 - Development files
@@ -6929,8 +6929,8 @@ Depends: enigma2-plugin-extensions-weatherplugin2
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 450572872a4f9f568babf2f63237bd0f
-SHA256sum: a370925ce9000b379d8f1c67faf4212f3cfdabb37280597d46094f24225ae19e
+MD5Sum: 79c5d789045ff6937f26391bf174abe5
+SHA256sum: e15a19618f82513e282dd45c3c1bda38a250405bed20aaa4336299799e78a8a2
 Size: 8738
 Filename: enigma2-plugin-extensions-weatherplugin2-src_1.0+git15+8c1c779-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-weatherplugin2.bb
@@ -6945,13 +6945,29 @@ Depends: enigma2-plugin-extensions-weatherplugin2, enigma2-plugin-skincomponents
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9e318b86fa5f7018bf9bf2dd46696a81
-SHA256sum: da0b7196b3c555acdf1ec3ea658b010b37ffa5ee6bba106a1ab2616044b239db
+MD5Sum: f1b922e908f42480b4ea01e71e369d2f
+SHA256sum: 7ecc1d391af722c1f57301c78d097352197a26ac34ff0f3fe5868ee99de4308c
 Size: 323306
 Filename: enigma2-plugin-extensions-weatherplugin2_1.0+git15+8c1c779-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-weatherplugin2.bb
 Description: Enigma2 Plugin: extensions-weatherplugin2
 OE: enigma2-plugin-extensions-weatherplugin2
+License: GPLv3
+Priority: optional
+
+Package: enigma2-plugin-softcams-ncam
+Version: git10500+7120ce4-r0
+Depends: libc6 (>= 2.31+git0+1094741224), libcrypto1.1 (>= 1.1.1g), libssl1.1 (>= 1.1.1g), softcam-support
+Section: base
+Architecture: mips32el
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: 119cd23598b576b50a406cb3249a6c8a
+SHA256sum: 5568e8a854d784dfb75218fe308aac4b9739836df901a5118a9ce9a7aa80d32b
+Size: 766328
+Filename: enigma2-plugin-softcams-ncam_git10500+7120ce4-r0_mips32el.ipk
+Source: enigma2-plugin-softcams-ncam.bb
+Description: enigma2-plugin-softcams-ncam version gitAUTOINC+7120ce4978-r0
+OE: enigma2-plugin-softcams-ncam
 License: GPLv3
 Priority: optional
 
@@ -6978,9 +6994,9 @@ Recommends: glibc-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 3b4935b7cb16f97a75e5e70cc61ab717
-SHA256sum: e7d0ccf0ecfe6aa4269ec6de74a38befa58c2b261b63ee65b8beacabe059b1b3
-Size: 21920
+MD5Sum: 909bb41473de645ba34a093fa9b2be3c
+SHA256sum: 88283be97ecad8d5a5c398c78dba00b95ac61e33405e268067eead74ef87a45a
+Size: 21940
 Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.1+git729+64b5f03-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Debugging files
@@ -6995,8 +7011,8 @@ Recommends: enigma2-dev, glibc-dev
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 9afa627c807437f6fae26f240c97c9af
-SHA256sum: 1d0b7b19346ee424b7b35e623e19e3656d75891e23cfe5c197e1f948a809ffd9
+MD5Sum: c4d8f6956933a45f8a7c5028efcb5f99
+SHA256sum: 7e45719dd5b479ba013d7169a8b895756dd7157829ef1697d2bab7b492d313b9
 Size: 754
 Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dev_3.1+git729+64b5f03-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
@@ -7011,9 +7027,9 @@ Depends: enigma2-plugin-systemplugins-autobouquetsmaker
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 2188be4675fe1e5075ff58342b712171
-SHA256sum: f29ac75b26519002f8cbac706bc0ae009dd0976d9324236e37ddb99151c38621
-Size: 38276
+MD5Sum: 7b72625a563f204c84ae53ea823a2f3a
+SHA256sum: 127f97121474b1b24f219297eaa89767048b0432c085802b293d296110525e71
+Size: 38298
 Filename: enigma2-plugin-systemplugins-autobouquetsmaker-po_3.1+git729+64b5f03-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: systemplugins-autobouquetsmaker (translations)
@@ -7027,9 +7043,9 @@ Depends: enigma2
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: c8190315ee9a7ff6a45b09b4c446838c
-SHA256sum: 024cb7bb8005789592e92c5512114ba2234eac54e826ea12c466310b80de0a17
-Size: 47370
+MD5Sum: d6793cbf32c8b7800a3b325af098964d
+SHA256sum: 200597a991b1d721b460e2bd872012ee31a74ff26b9e656c045454175ab4a2de
+Size: 47402
 Filename: enigma2-plugin-systemplugins-autobouquetsmaker-src_3.1+git729+64b5f03-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Source files
@@ -7043,9 +7059,9 @@ Depends: enigma2, libc6 (>= 2.31+git0+1094741224)
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: dc87a278bb8aabfa69e135a5f99f28b6
-SHA256sum: daaeee4313d30f6dcbb355b49500635000689bdd932ba29561b62756da790b52
-Size: 218894
+MD5Sum: bfdcd8c389218f15d8b14ec44cb9bd6f
+SHA256sum: c145378e1b996fbde80583ec739be175ad7a73908c4486417358952c4323d1f0
+Size: 218822
 Filename: enigma2-plugin-systemplugins-autobouquetsmaker_3.1+git729+64b5f03-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: systemplugins-autobouquetsmaker
@@ -79096,14 +79112,14 @@ License: openssl
 Priority: optional
 
 Package: openvision-bootlogo-dbg
-Version: 20200525-r0
+Version: 20200526-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f13207e6c54bf3e27dab5e1a9b48871d
-SHA256sum: 83f1169cdf356f7ccf32259d8fdce584040da516e4af936130ff88593d0363db
-Size: 674
-Filename: openvision-bootlogo-dbg_20200525-r0_mips32el.ipk
+MD5Sum: e9fc71ff862f4ae82bee2cbe8bb1b786
+SHA256sum: fce92f9f2279712e8bc56dcddc5531f1418100b6c35d38860db962320af5d78f
+Size: 672
+Filename: openvision-bootlogo-dbg_20200526-r0_mips32el.ipk
 Source: openvision-bootlogo.bb
 Description: openvision-bootlogo version 1.0-r0 - Debugging files
 OE: openvision-bootlogo
@@ -79111,16 +79127,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openvision-bootlogo-dev
-Version: 20200525-r0
-Depends: openvision-bootlogo (= 20200525-r0)
+Version: 20200526-r0
+Depends: openvision-bootlogo (= 20200526-r0)
 Recommends: initscripts-dev, showiframe-dev, update-rc.d-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6b036677b9bf4d49d3ecf7455d171446
-SHA256sum: 2dfa912250e5bb7dc0d566d12d663db9a93401652a579926269ffc4eb337767c
+MD5Sum: 9df46f83483546702fe14dc32e77f4fb
+SHA256sum: 7576da14771e9c9d175dabfcc877904e18da7c761537df1c96a09227ff1d3da3
 Size: 742
-Filename: openvision-bootlogo-dev_20200525-r0_mips32el.ipk
+Filename: openvision-bootlogo-dev_20200526-r0_mips32el.ipk
 Source: openvision-bootlogo.bb
 Description: openvision-bootlogo version 1.0-r0 - Development files
 OE: openvision-bootlogo
@@ -79128,16 +79144,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openvision-bootlogo
-Version: 20200525-r0
+Version: 20200526-r0
 Depends: showiframe
 Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c99020e9dd4badffcd8a25a6a0785110
-SHA256sum: b8e501329e4585252e4133316a2ab74ba6bd063db749e6ee3c4e0caadd7a1641
-Size: 614180
-Filename: openvision-bootlogo_20200525-r0_mips32el.ipk
+MD5Sum: 52449dabd4da610fdd26efc894daa2fd
+SHA256sum: c670bfa028845072b6d54b36734ff142332891dedcce85a4ebaf5a5a617e4358
+Size: 614182
+Filename: openvision-bootlogo_20200526-r0_mips32el.ipk
 Source: openvision-bootlogo.bb
 Description: openvision-bootlogo version 1.0-r0
 OE: openvision-bootlogo
