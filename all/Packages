@@ -3,9 +3,9 @@ Version: 1.2.1-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 36e0ebd158411f52deb23587fb350b69
-SHA256sum: 7d2e5097fbf679a083a1aa650319c604e7673d6b9e2d7faf36e7aafd1184fc15
-Size: 5412
+MD5Sum: 5549ece9278f7c409f37f715cbd2d917
+SHA256sum: 540d768ba00ba5ae0798c97a6784f52f91c8b4417341245ccf18304dd40f6b66
+Size: 5408
 Filename: alsa-topology-conf_1.2.1-r0_all.ipk
 Source: alsa-topology-conf_1.2.1.bb
 Description: ALSA topology configuration files
@@ -19,9 +19,9 @@ Version: 1.2.1.2-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9d329e4c8e4d28a4fab8f0f288cbe3f4
-SHA256sum: 8baa0a39a5980ccf1acaafb1c98cfbbbaf5838f5b13109124b177c9f20901980
-Size: 15466
+MD5Sum: d4a4c75a66cbf46e714d3868c0ceb864
+SHA256sum: 87b6d0d9e73a380cf344e3d0f378d5475cc338ed4ec94263ec8610b5df708424
+Size: 15454
 Filename: alsa-ucm-conf_1.2.1.2-r0_all.ipk
 Source: alsa-ucm-conf_1.2.1.2.bb
 Description: ALSA Use Case Manager configuration
@@ -35,9 +35,9 @@ Version: 2019.01.06-r0
 Section: doc
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7b414e0bc1c3413c3a623d6b9d2d7093
-SHA256sum: f58ed5e2626168762788aec951827af94d596c118345fa95ae854314727696fa
-Size: 16552
+MD5Sum: d82470756dfa2712c9da03b47f85c129
+SHA256sum: 2643f845de3351386c2641dcecf76c744018d1dd91b775d6bb2a753417e0f07c
+Size: 16560
 Filename: autoconf-archive-doc_2019.01.06-r0_all.ipk
 Source: autoconf-archive_2019.01.06.bb
 Description: a collection of freely re-usable Autoconf macros - Documentation files
@@ -51,9 +51,9 @@ Version: 2019.01.06-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5d9d609a7f7e15504722e22e5feb76ca
-SHA256sum: 3f2ccc6ad511d861b406b2e60357d913e7360818c39fd751af687066326c47d2
-Size: 307824
+MD5Sum: 4ca7db00df8cd4b91b730bb15f8c55ff
+SHA256sum: 1d50f09752eb8634cc379d6b12329010cc7685171133a22f09de1a81dfc4acf4
+Size: 307730
 Filename: autoconf-archive_2019.01.06-r0_all.ipk
 Source: autoconf-archive_2019.01.06.bb
 Description: a collection of freely re-usable Autoconf macros
@@ -67,9 +67,9 @@ Version: 20190110-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9d227447081b762e503214c041ef010d
-SHA256sum: 0c57a926df83d7d9eb3f3e824403b7564d5e1df97fc234dc4099c594f9a62fe8
-Size: 790
+MD5Sum: c9dc4a56d56a31acf7ddb751d316b8be
+SHA256sum: a44c32d05e66413e79e903627818486594bd0b9a6994986ac44d76bafb78b66e
+Size: 792
 Filename: ca-certificates-dbg_20190110-r0_all.ipk
 Source: ca-certificates_20190110.bb
 Description: Common CA certificates - Debugging files
@@ -85,8 +85,8 @@ Recommends: openssl-bin-dev
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4bf91d14dc152b7a25983fc8016b092e
-SHA256sum: 6ed214b3f56f45545b28b8069e6ac6188c1020b95dbe511fc36491c15afddf50
+MD5Sum: 051e867aaa578fe25b3d5f31191b442b
+SHA256sum: bc6ff8d97c275c6644bb40aacf0d93379045c927f4c9ade2e0f0225444c58d88
 Size: 836
 Filename: ca-certificates-dev_20190110-r0_all.ipk
 Source: ca-certificates_20190110.bb
@@ -101,8 +101,8 @@ Version: 20190110-r0
 Section: doc
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1173ba42d1975f4408100d97067e51d1
-SHA256sum: 5eb6bed72ed402959855502162dce6e7942ae6b027af43204296fc18e6b85817
+MD5Sum: f5f0c73ae797882c971e156f48e12961
+SHA256sum: 42b5bacee92a161e761d06eab75f98ee2be4391fa900389312ebf5a2574e0c52
 Size: 2086
 Filename: ca-certificates-doc_20190110-r0_all.ipk
 Source: ca-certificates_20190110.bb
@@ -118,9 +118,9 @@ Depends: openssl-bin
 Section: misc
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eed8a944f296a4afc4f31ee3750542ec
-SHA256sum: 54274b5e112d669b365df888c54a85b8450b5d033a4b75b013d3534527cd9643
-Size: 117986
+MD5Sum: bad90bd17077cd8259a934d8dc544967
+SHA256sum: 3c6f0710e125a18cd1559c73f587030959e993e2f0306e40f6b9b9cc2a09b520
+Size: 117958
 Filename: ca-certificates_20190110-r0_all.ipk
 Source: ca-certificates_20190110.bb
 Description: Common CA certificates
@@ -134,9 +134,9 @@ Version: git3566+5a8fd3d-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8c0955e7b2efff1717df5598becc4965
-SHA256sum: 7abc8092686eb416c52fc9114d9d1523daae414a6226fc4c3f61c6767ed4d29a
-Size: 678
+MD5Sum: 1def663b3929de5bdf31451dc6813559
+SHA256sum: b4988b4cb843734a84a858845f20464b7e40cd2b7e8354a35e0c3f6b8a5f8055
+Size: 680
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
@@ -151,8 +151,8 @@ Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-de
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4725ccb2a8465cf16f749830fbb0c81a
-SHA256sum: e3ad975083a1296f679178db7f90f00b87f8eb9f7469829820d5915c6f849de9
+MD5Sum: b7b59f5f340c3ba5edf8175096aecdb8
+SHA256sum: f28053d7d636e30340e8800f877449a2341fe6a35501021f726c75ca59fa78e3
 Size: 860
 Filename: enigma2-plugin-extensions-e2iplayer-dev_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -166,9 +166,9 @@ Version: git3566+5a8fd3d-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4a07e62fc2e2849a8ca4a5e13836e099
-SHA256sum: e473e0cd3cf96b1c989307ca83c78450c7670f0fb3348ee4903ec39e072ad4aa
-Size: 834418
+MD5Sum: a943bf42d4bc80578d0bf5ca317ce5eb
+SHA256sum: 0f9046afcabffa4d3d0a6bdee3e537bca960d638c3ecfae6b99ab359d310d3d3
+Size: 834406
 Filename: enigma2-plugin-extensions-e2iplayer-src_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Source files
@@ -182,9 +182,9 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 37bec2fd0a260ab3638376a63dbcd117
-SHA256sum: 788f93668aba9b5090848af238d76d310aa16b8595ae8024a11572492e6f4e0a
-Size: 5792208
+MD5Sum: 1702807af93f27d0533a8602f6972b2a
+SHA256sum: a8d9094f37a0ff89dfe2ecd915fdc66e3c982ad36418294618eb1727ad01c0f6
+Size: 5791940
 Filename: enigma2-plugin-extensions-e2iplayer_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
@@ -199,9 +199,9 @@ Conflicts: enigma2-plugin-extensions-xmltvimport-rytec
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 08879df51f485a086d7e77e4241dd9b3
-SHA256sum: 93386de0af43c5153d383dc340e54512bfc36b88a5b99eac7eaf05b023d26bfc
-Size: 4222
+MD5Sum: 5618eea9f0c71a7d13387cbaee422042
+SHA256sum: 7ee44a7defe3c244636d0a5f123f70807e5f3c9c2337bed8aea957cc92481042
+Size: 4230
 Filename: enigma2-plugin-extensions-epgimport-rytec_20200504-r0_all.ipk
 Source: enigma2-plugin-extensions-epgimport-rytec.bb
 Description: enigma2-plugin-extensions-epgimport-rytec version 20200504-r0
@@ -214,9 +214,9 @@ Version: git6+fc7065c-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0bf11f1e4667dfa459b012a8aca3fcdc
-SHA256sum: e69d5f0566d8173cc3de55479c1d1990efeb833df6d61d8cec7d3f87deebb6ca
-Size: 672
+MD5Sum: ea9c0f14f53d89385c6b3abe25e38d5c
+SHA256sum: bad0c1a9d6aac12ab4d25c81b60ec9db06c8f065b2a15c72046b269774877093
+Size: 670
 Filename: enigma2-plugin-fonts-opensans-dbg_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans - Debugging files
@@ -230,8 +230,8 @@ Depends: enigma2-plugin-fonts-opensans (= git6+fc7065c-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c3d5c61cc5a2a25fa63e43ec6e220042
-SHA256sum: de95e8cb98cb7948d76b14e9360faeeba52697c8d4c8957cfdab40632d4c6e9b
+MD5Sum: 7e36eaf79020f2d2732fb312c4f7593e
+SHA256sum: 6f1ffaec0fe4ea2e4e6ff6f886aa7928bc28b5dca4efc00f3bda032b8c3aef2f
 Size: 708
 Filename: enigma2-plugin-fonts-opensans-dev_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
@@ -245,9 +245,9 @@ Version: git6+fc7065c-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f18027f0bb267a469392d7ac3315de46
-SHA256sum: 5acf897c629a290c0993f642e121c649cbdf37411bd7b55fbad8a31358390e8b
-Size: 111998
+MD5Sum: 4e84971ab4730829d9a5457da4061d0a
+SHA256sum: db91fd7d45b2842e8e680cc6906e705bd3670ac32891c01b1e729bc4939d6949
+Size: 112454
 Filename: enigma2-plugin-fonts-opensans_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans
@@ -260,8 +260,8 @@ Version: git6+fc7065c-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7fba834c20189b6bbd1777932d27eee3
-SHA256sum: 62e894f1d4db9c514eba3ca7bfd308e7ef7ad0a4e38a536402f90c82a2244cfb
+MD5Sum: 293712d0267ec06c3d7312973eb024c0
+SHA256sum: 1fcba230d3e766647646a2b0f60939862323fb7d10b8a7b7ed15f56f490598bd
 Size: 672
 Filename: enigma2-plugin-fonts-segoe-dbg_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
@@ -276,8 +276,8 @@ Depends: enigma2-plugin-fonts-segoe (= git6+fc7065c-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd793d04d3aaa321a0428e09e939c562
-SHA256sum: 7d7eb52819f807b3c8b31e6ce411a5561048f851055cc9532bcf88af1f5e0403
+MD5Sum: 9570214e32390e07d9364e96c7700450
+SHA256sum: 0c8e98d6ffd1b95b07f06a85de94b80c592e89379b755a6c489709d43b292561
 Size: 706
 Filename: enigma2-plugin-fonts-segoe-dev_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
@@ -291,9 +291,9 @@ Version: git6+fc7065c-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 899eaab77ed2d5a95bc5051ff5936b01
-SHA256sum: 936b8d27333ca2fc1ac95081fd885fe8f29531183047511b1773ac8bcb2ab524
-Size: 581420
+MD5Sum: 0857b63f6af1c2fe0a10a3e32ace5cf3
+SHA256sum: dfa8e90ff9112dbf8220f9dce16cf0eddfd56a8ce6b4a08b550b4750123018a8
+Size: 582172
 Filename: enigma2-plugin-fonts-segoe_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
 Description: Enigma2 font segoe
@@ -307,9 +307,9 @@ Depends: font-valis-enigma
 Section: base
 Architecture: all
 Maintainer: Mike Looijmans
-MD5Sum: 154e10589045791d671ea4d6c859dd39
-SHA256sum: 2480948c32a02a80855ef6da0826db42cf9168887715198dd7c13d00a06354b0
-Size: 117102
+MD5Sum: bbe981aed2975002d6d93ec7bd312f1c
+SHA256sum: 8a8916892d80db4f6d8bbbe3c5a4f14d34e85c57b1687364f126e379e04c95d9
+Size: 117090
 Filename: enigma2-plugin-skins-magic_1.2+git331+8b5fb84-r0_all.ipk
 Source: enigma2-plugin-skins-magic.bb
 Description: enigma2-plugin-skins-magic version 1.2+gitAUTOINC+8b5fb84750-r0
@@ -322,9 +322,9 @@ Version: git48+f711a31-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ff3efb4a125c0a4deb32d65b535ddc8a
-SHA256sum: b895c69a460625de0d431687908ada50d27e420ae5d732293cd9d11e2757ac13
-Size: 684
+MD5Sum: 3325cf5d9165aebcab8692a9e1837e7f
+SHA256sum: 83f2f6bc63c78c84652257ddb6df65c46d533ae1ac908b6cbd007326b1bfe20d
+Size: 680
 Filename: enigma2-plugin-skins-octetfhd-dbg_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Debugging files
@@ -339,8 +339,8 @@ Recommends: enigma2-plugin-extensions-weatherplugin2-dev, enigma2-plugin-fonts-o
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eaf60c6fbd0382d1b2db5ca1cb2c11e8
-SHA256sum: a721d656b52a3f04adda2446a7de8f3475fbbdf3027b66dea9a0e3ec52680ff3
+MD5Sum: 121cdbb36399c72af0427aa092b22ba6
+SHA256sum: e398e70d976b0120b8955557a01b3b5bbdef424c57ae1f080c51ff484a1158ff
 Size: 760
 Filename: enigma2-plugin-skins-octetfhd-dev_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
@@ -355,9 +355,9 @@ Depends: enigma2-plugin-extensions-weatherplugin2, enigma2-plugin-fonts-opensans
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d19f4f6ad8cfafe94914a405e6445e5c
-SHA256sum: 97c9b0ee188363fb2fd8daa70ab51b6e160599a1031d051ea45c0b8e2dbb8332
-Size: 1269786
+MD5Sum: 253d2f20316fc1bf9ce7eda626a0c9db
+SHA256sum: 521e4c53ff2e78200ab7ec58d439eccbd832e57c54971f5a925d71c4177d2d8b
+Size: 1269754
 Filename: enigma2-plugin-skins-octetfhd_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD
@@ -366,47 +366,47 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git2090+d1006f2-r0
+Version: 0.1+git2100+301ed70-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 1dc26c273833d1837c1728112777eacc
-SHA256sum: dd6d07fd4460c1effc1ae65989f99d9c5f714380031cbbe22b777cbdf126f904
+MD5Sum: 17980bde6f0f2c8613506e060096e510
+SHA256sum: db362226672165b5383ee67b7c15b2335134fc31c03b907a39da48cb0281cbe6
 Size: 674
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2090+d1006f2-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2100+301ed70-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+d1006f2cd7-r0 - Debugging files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+301ed7077a-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git2090+d1006f2-r0
-Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2090+d1006f2-r0)
+Version: 0.1+git2100+301ed70-r0
+Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2100+301ed70-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 01ed7bc08834b4a216c927ea11584684
-SHA256sum: 2884e2412218ed18263a14d3e9f40fdebb48173bee07154a1fb6fdd28abf78e6
-Size: 710
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2090+d1006f2-r0_all.ipk
+MD5Sum: 44aa8652d3d6b4de583638f283cae693
+SHA256sum: 7100f28b9274f7cc9b076ece84fa08104f60bc9d4c405538f15dee171fc1677b
+Size: 708
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2100+301ed70-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+d1006f2cd7-r0 - Development files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+301ed7077a-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git2090+d1006f2-r0
+Version: 0.1+git2100+301ed70-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: e17ecbd262e7ac9f89945422cdb5c1a6
-SHA256sum: 434e67a232b8f887396f0dc294a95f2c768839b4a53287465e10969bf3d4f5eb
-Size: 383232
-Filename: enigma2-plugin-skins-pli-hd_0.1+git2090+d1006f2-r0_all.ipk
+MD5Sum: d7bb7882b36872fceb10690832ceaa17
+SHA256sum: aff44a1c94a91cfec081775804223b79ee9ad033bf9baa1f9f39e0613873f11a
+Size: 382506
+Filename: enigma2-plugin-skins-pli-hd_0.1+git2100+301ed70-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+d1006f2cd7-r0
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+301ed7077a-r0
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
@@ -416,9 +416,9 @@ Version: 2009.11.12-r0
 Section: base
 Architecture: all
 Maintainer: Mike Looijmans
-MD5Sum: f65b3f0b223833167dc629cb34cb7ffe
-SHA256sum: 6825961c951ce326a38f3fcbab0df8e8cda4fe328db2402356a397e3eb86144c
-Size: 31556
+MD5Sum: e6b1f8fd40c46e5a20fa5788b8392474
+SHA256sum: 156a6c0fc35a58f8b9edf596087d9cf951c12cf7410bffeaf4729d104df82c71
+Size: 31560
 Filename: font-valis-enigma_2009.11.12-r0_all.ipk
 Source: enigma2-plugin-skins-magic.bb
 Description: enigma2-plugin-skins-magic version 1.2+gitAUTOINC+8b5fb84750-r0
@@ -427,14 +427,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dbg
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: b907a7102e2a974731d10235aca699ec
-SHA256sum: c7c81cc5f4df8ce754868aaf764fc0d4c508763d2bf8ba9127fb5ef4cf30c2de
+MD5Sum: 35532a34b57b7fb9d9427d3c3c81839b
+SHA256sum: 045857613a5f4eed6f7ab20cec007826615028526db0fa303e67dcd80cd0221b
 Size: 650
-Filename: frequency-xml-list-atsc-dbg_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-atsc-dbg_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Debugging files
 OE: frequency-xml-list-atsc
@@ -442,15 +442,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dev
-Version: git629+c4fdec3-r0
-Depends: frequency-xml-list-atsc (= git629+c4fdec3-r0)
+Version: git630+4cf0db6-r0
+Depends: frequency-xml-list-atsc (= git630+4cf0db6-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: f23c085d3def909116c65f7d1e522f0b
-SHA256sum: b743206e330f4910d8ce3de6165e459d653219e3934b277a2b2366d05a3371aa
+MD5Sum: b67cc5658ed8fe89d3e0da013fd1a3c6
+SHA256sum: 8ab9e57657d6c5e8d61c4031cec93355ee68a0b0d71b8fbd920e7170f314476f
 Size: 684
-Filename: frequency-xml-list-atsc-dev_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-atsc-dev_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Development files
 OE: frequency-xml-list-atsc
@@ -458,14 +458,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 935e51556b18ba04deb2d86c56e8dd93
-SHA256sum: bd14ad1f0f7d0b0d1d5a4d31b29a4a1d0ed9bd2f547fe96ca42d659790def3a5
-Size: 1470
-Filename: frequency-xml-list-atsc_git629+c4fdec3-r0_all.ipk
+MD5Sum: d2b02669078e59e34a8084ab193155aa
+SHA256sum: 62965522f2f0a5e9ba09c004774bcfbceb59a80969e87b61bf8015ccbd82a446
+Size: 1472
+Filename: frequency-xml-list-atsc_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2
 OE: frequency-xml-list-atsc
@@ -473,14 +473,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dbg
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 736725ccbaec06c25cc990501a876301
-SHA256sum: b594914db76a43f939c2917c063ad11fbd8d78bd63d2c3cf8b17f72e5312b132
+MD5Sum: 46b42574f5df18e9b2b8e61c8d676a89
+SHA256sum: 344ceefeb38878074a2e8859421ccfd5d9ed93d3bdbc55291115ffd7c211de6e
 Size: 650
-Filename: frequency-xml-list-cables-dbg_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-cables-dbg_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Debugging files
 OE: frequency-xml-list-cables
@@ -488,15 +488,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dev
-Version: git629+c4fdec3-r0
-Depends: frequency-xml-list-cables (= git629+c4fdec3-r0)
+Version: git630+4cf0db6-r0
+Depends: frequency-xml-list-cables (= git630+4cf0db6-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 66961cccbcd573bfc0f8dc7fe0e4641e
-SHA256sum: 663fc00a181446346a0e9b5fe916d244dd49f33c5574c1297d6ac55721259e51
+MD5Sum: cd56fde4a949ad1e12f5cd479c7df451
+SHA256sum: a8f6e4c7fef7fb78b6a30156f6594e7934fb93e82e8dec11474a775899eabbc0
 Size: 686
-Filename: frequency-xml-list-cables-dev_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-cables-dev_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Development files
 OE: frequency-xml-list-cables
@@ -504,14 +504,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: b952a290e5db08b5fdb3086a5af793af
-SHA256sum: 9c366a6962a08da73e4bbe0738c8e6c5cede9c7c18d8c9cfb981de4a7fa71fb6
+MD5Sum: d21cf58c5a119a1d4968ad690d54da56
+SHA256sum: ecf79a8dcfc277f4b8e14551ae747de1e446261a6240a06d180fe3bf3493da08
 Size: 15330
-Filename: frequency-xml-list-cables_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-cables_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2
 OE: frequency-xml-list-cables
@@ -519,14 +519,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dbg
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 3fdffedc67865fe2898ff0bb03b1a2f6
-SHA256sum: f06f07a1cdc43cde6d5fcec7d272831e864a7da0636138a62adeb6dd7eb243eb
-Size: 652
-Filename: frequency-xml-list-satellites-dbg_git629+c4fdec3-r0_all.ipk
+MD5Sum: ff48dfe6168c012e7f5ca13c7c53448e
+SHA256sum: dace198888198fd2ffa52d0cf16b1c1572b24edccc9b82b3c27dc9786d477c97
+Size: 650
+Filename: frequency-xml-list-satellites-dbg_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Debugging files
 OE: frequency-xml-list-satellites
@@ -534,15 +534,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dev
-Version: git629+c4fdec3-r0
-Depends: frequency-xml-list-satellites (= git629+c4fdec3-r0)
+Version: git630+4cf0db6-r0
+Depends: frequency-xml-list-satellites (= git630+4cf0db6-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 68679a5fad9c175e635419f42b84365d
-SHA256sum: 82dfb6c2b75a872b9500acc2202960cad8f921b796af059279b302bda0530b18
+MD5Sum: 2a98d17c8a77d8e6078bcfa29732b31e
+SHA256sum: 5d526ab1fe25da3ba93166d5e71b17a39668316e137356be52b0e1814bbf73c4
 Size: 688
-Filename: frequency-xml-list-satellites-dev_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-satellites-dev_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Development files
 OE: frequency-xml-list-satellites
@@ -550,14 +550,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 8caa62c0bb195e8422fa68fe336466ee
-SHA256sum: d3a34c7277d20e3dc398e9f6a4d1f61017220b263ddc9fd16b923e7a8f1ef6ed
-Size: 25482
-Filename: frequency-xml-list-satellites_git629+c4fdec3-r0_all.ipk
+MD5Sum: 75fbd8625c29eef4d14cf5d4042f4b52
+SHA256sum: bd14d2b8b094558ac581f7958e1ffcc3fad1527cda07fdd653d21099a9671a24
+Size: 25506
+Filename: frequency-xml-list-satellites_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2
 OE: frequency-xml-list-satellites
@@ -565,14 +565,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dbg
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 7c3ee27f96db2d34476a407b181c01fd
-SHA256sum: 05b6efa9aa80928b1e84cad2efa27ec1e6f523c6f032d85c2dbf21cdd9c1d973
+MD5Sum: 9cba956708c1ecdd814c5da6bce7dc6b
+SHA256sum: 377e805c668578a665693257e0fcca758a8023cf35526e9caecfa7ba46418604
 Size: 652
-Filename: frequency-xml-list-terrestrial-dbg_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-terrestrial-dbg_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Debugging files
 OE: frequency-xml-list-terrestrial
@@ -580,15 +580,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dev
-Version: git629+c4fdec3-r0
-Depends: frequency-xml-list-terrestrial (= git629+c4fdec3-r0)
+Version: git630+4cf0db6-r0
+Depends: frequency-xml-list-terrestrial (= git630+4cf0db6-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: c7c9ccc6d779e8f12a072795d23f16ba
-SHA256sum: 3781133cb707f5fdbc26fc89be167020f6bdbba735819373847efa8dbd90f8e5
-Size: 688
-Filename: frequency-xml-list-terrestrial-dev_git629+c4fdec3-r0_all.ipk
+MD5Sum: ebba5cf771a7dc451303cc3f6a55c177
+SHA256sum: 2782ab11979f9631d7def311d56a423cd48881d779f3088935a59122f9f28d9f
+Size: 686
+Filename: frequency-xml-list-terrestrial-dev_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Development files
 OE: frequency-xml-list-terrestrial
@@ -596,14 +596,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial
-Version: git629+c4fdec3-r0
+Version: git630+4cf0db6-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 55c88cbd95fad8e257989315eae7b70f
-SHA256sum: b4831d685c2d62ac1bd78bdf137e02752858ebd0c990eaff6ade8897b320de9e
+MD5Sum: ac89df98084fc2aa6a962bca31b2f8a7
+SHA256sum: d672280a459d74deae140bfed590747c8b263748d239e8a987085c8a96415c98
 Size: 14478
-Filename: frequency-xml-list-terrestrial_git629+c4fdec3-r0_all.ipk
+Filename: frequency-xml-list-terrestrial_git630+4cf0db6-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2
 OE: frequency-xml-list-terrestrial
@@ -611,15 +611,15 @@ License: GPLv2+
 Priority: optional
 
 Package: iso-codes-dbg
-Version: 4.4-r0
+Version: 4.5.0-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e83929456995f7e6b2eaf5bde5650a40
-SHA256sum: 35201221dea7348e0dbbcd3404d2181c459e1aaf1f5c1adc2d0ad2d467ed2117
-Size: 722
-Filename: iso-codes-dbg_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 0d379987a9c3bb0c5e10193366cd2fde
+SHA256sum: ae6dda4296f2e5141014bb8fc21f76c1e31157e18c648bfc6bb137cdda4b8e1f
+Size: 726
+Filename: iso-codes-dbg_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - Debugging files
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -627,16 +627,16 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-dev
-Version: 4.4-r0
-Depends: iso-codes (= 4.4-r0)
+Version: 4.5.0-r0
+Depends: iso-codes (= 4.5.0-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0873da02d5ea744a36c9a9d83b394b7b
-SHA256sum: 93caa923ec877c9dce9ab0a7ea4f957f850d9f42caf3cc28a9aa9ca65e9280a2
-Size: 1008
-Filename: iso-codes-dev_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f0d02eaf6c4a5a9ccc3ce50d0c70a38c
+SHA256sum: 7c9042a136e96cfa8fe1cacc7fb0290a0c9ba1e8aa8ded88ca3a418582db92a7
+Size: 1014
+Filename: iso-codes-dev_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - Development files
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -644,17 +644,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ab
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ab-translation, iso-codes-locale
 Recommends: virtual-locale-ab
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cce228029d834beb1d216dc53bc3e7c5
-SHA256sum: bd800928e77e1434cd797f051533a3529f1f8ed3e08ddd0fda1b73c2944406a6
-Size: 1262
-Filename: iso-codes-locale-ab_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 42e5c770e878d686d046f358b47f31c8
+SHA256sum: 23c9523bc421f779e83dc873a75ed7a84d5e53e57026a46ccfc0e40202ef989c
+Size: 1264
+Filename: iso-codes-locale-ab_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ab translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -662,17 +662,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ace
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ace-translation, iso-codes-locale
 Recommends: virtual-locale-ace
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bbc00c5e427f992c8160936d2eb09246
-SHA256sum: e2cb0d2ed02a0cbea5a7dc637647fe4315ac93d757599e480c6a52ceef73a64e
-Size: 1256
-Filename: iso-codes-locale-ace_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 76f66e68594d33637ee3bf9e12896603
+SHA256sum: 778390787cf163f09eb131e8151b4f79a74cdf1512e1c098ddd2b7a502afa138
+Size: 1258
+Filename: iso-codes-locale-ace_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ace translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -680,17 +680,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ach
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ach-translation, iso-codes-locale
 Recommends: virtual-locale-ach
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c6bfc95a30d21daff945d159c2c6098c
-SHA256sum: 27df243deea7c91c86e1016ce14ce7856bbf1cb07d162c246d15f32289492d50
-Size: 4120
-Filename: iso-codes-locale-ach_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b7e40f9630b939cc1e6ffe4d76ae82ef
+SHA256sum: 9c2a45589f8a534fa92b3371ebc4c21481ef71fff85f543230fa90dca4c4e738
+Size: 4122
+Filename: iso-codes-locale-ach_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ach translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -698,17 +698,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-af
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: af-translation, iso-codes-locale
 Recommends: virtual-locale-af
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d66039a13b6b65eedbc83d92b4e55dd1
-SHA256sum: c2835bbe3b4f9463f8746ba34e0955dd72cef6878c176a96d5656c63dd62ae17
-Size: 10512
-Filename: iso-codes-locale-af_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b4373dc5e3c2058fe3c5742cfb778cb5
+SHA256sum: 1bdad089f991008019f5367239d06dd6625dc1b9bd08c606a21daf3ea6bd43ea
+Size: 10524
+Filename: iso-codes-locale-af_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - af translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -716,17 +716,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ak
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ak-translation, iso-codes-locale
 Recommends: virtual-locale-ak
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c1505836ef7ca19768ae9f8f24931019
-SHA256sum: 0486b6724d5fcb0ca94d3cfa65a8cf8db06c4b7fa2024b64aab1c8bad1b213aa
-Size: 1260
-Filename: iso-codes-locale-ak_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: c3b34fade96f84662175c121287ecb4d
+SHA256sum: d6d9c885426574dc71094559de7a9c3268ec8c4bd9acfa4cc45ad6985717a317
+Size: 1262
+Filename: iso-codes-locale-ak_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ak translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -734,17 +734,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-am
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: am-translation, iso-codes-locale
 Recommends: virtual-locale-am
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0305d0148743cf97808b5c4a248f01c3
-SHA256sum: 3791df7dc0c63afcc6a191df89a49d7dbf72113e3fa2f3cba70a44b4fef55685
-Size: 5890
-Filename: iso-codes-locale-am_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: fc43d36f2c5065c1b2ecc7c0e7f7e56c
+SHA256sum: d0c96f6163585313183793d0b8e6caf2d6d77767fcee41ee0511e5d1232d28a0
+Size: 5892
+Filename: iso-codes-locale-am_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - am translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -752,17 +752,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-an
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: an-translation, iso-codes-locale
 Recommends: virtual-locale-an
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 17009d5b8afa6daf450fc2af06ecf695
-SHA256sum: bce84d29a71d0ea1cc12f427c1a7d1883f54a4734b2353df16f2e5ad328e803b
-Size: 1258
-Filename: iso-codes-locale-an_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: c841048106f53b1dfc268c6147072185
+SHA256sum: b01e08c31d6e78d1f477866365bcedd6984e4c59aec6a3db13dfce59ef09fcd0
+Size: 1260
+Filename: iso-codes-locale-an_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - an translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -770,17 +770,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ar
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ar-translation, iso-codes-locale
 Recommends: virtual-locale-ar
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aa3a9e1ad8e4443dfbeb0603e5c6ca29
-SHA256sum: e18a38434a43fbdb9092d9b5dae21871048c920521274970de7f56f75a6962a1
-Size: 16882
-Filename: iso-codes-locale-ar_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: dfc3eb5e94f0011145ceeecb360a7da1
+SHA256sum: d718f3d4b03e1ee17416fe0dbd7aa868acec78e5664edfa235b5df0e62bb3a76
+Size: 16958
+Filename: iso-codes-locale-ar_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ar translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -788,17 +788,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-as
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: as-translation, iso-codes-locale
 Recommends: virtual-locale-as
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4133305f40f173e47251f703bcc471e6
-SHA256sum: 6fa28ce6dbb0fcdf6eeb730027d9635755a6fdad8e759260d4a2e76b14c196cf
-Size: 17998
-Filename: iso-codes-locale-as_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 101443a061eac9d6aadec62b32f03baa
+SHA256sum: f3285d60f4a20e177ebf25ef2b3c06263e323149b8d40d6d34b42b75fae67b49
+Size: 17994
+Filename: iso-codes-locale-as_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - as translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -806,17 +806,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ast
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ast-translation, iso-codes-locale
 Recommends: virtual-locale-ast
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b682e89eaf4f850e7a9372d448deb72
-SHA256sum: b55705207033281e148a583c954dbe3ec34d255b7863ac7991d52c89ade961f1
-Size: 79776
-Filename: iso-codes-locale-ast_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: e21d2fe440154c7527cbe481d0f6087a
+SHA256sum: 164a0c04ffea8d8b6a04a7268f88e53b9facc0d7bc22a9b7860327b9c43be279
+Size: 80192
+Filename: iso-codes-locale-ast_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ast translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -824,17 +824,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ay
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ay-translation, iso-codes-locale
 Recommends: virtual-locale-ay
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 13eb55906f93175cd648ad7da407b250
-SHA256sum: 9b8ffe41b154ce427db31400d577e0990f5159e458b14c2972b570473527b877
+MD5Sum: 1f59d8575e7171d54efee8a5ce75e478
+SHA256sum: fe90b2be8f3bb8e46491fe7bb2106dbf72f2a0e54a0f0aa82d70b289f5a27537
 Size: 1258
-Filename: iso-codes-locale-ay_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-ay_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ay translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -842,17 +842,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-az
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: az-translation, iso-codes-locale
 Recommends: virtual-locale-az
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1d27decee30f69f7ac2ce6af2a03fd9b
-SHA256sum: 3ac41a62b04a29e2bb0907acb0f93d2723c227eccc801c5a0a38aa052795dadd
-Size: 6200
-Filename: iso-codes-locale-az_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ec75f01cd3fcaaa8b15a0211ced4e021
+SHA256sum: b1de0690e47b6177b712896be95010070f268dc512f0a38c44af9a80897f587d
+Size: 6216
+Filename: iso-codes-locale-az_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - az translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -860,17 +860,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ba
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ba-translation, iso-codes-locale
 Recommends: virtual-locale-ba
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b3c5c05ce13790a8f49781dd7cef696
-SHA256sum: fab28204f1d325c1df6da31625fe2735bcda419d02bffb8daf79f0f15082233b
+MD5Sum: 9454fe924b67c899e70ff0dc1f94b85e
+SHA256sum: 008d6b313f65fc7de184cb4824b5a53a2fdb4bc67bcd76c16072fdb8dad57525
 Size: 1258
-Filename: iso-codes-locale-ba_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-ba_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ba translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -878,17 +878,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-bar
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: bar-translation, iso-codes-locale
 Recommends: virtual-locale-bar
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8d241d93c732d4cf182ca3d425e0f911
-SHA256sum: c7c75138168f10446e852e33fc9ae7b44b64070e2f04cbc3c711256cabd2a585
-Size: 3408
-Filename: iso-codes-locale-bar_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 98dab3a2b845667d811ee75418144e7a
+SHA256sum: 23f6dceeaf591664039518f2e359817313e2500f1a9d85708fa2097691d5d143
+Size: 3416
+Filename: iso-codes-locale-bar_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bar translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -896,17 +896,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-be
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: be-translation, iso-codes-locale
 Recommends: virtual-locale-be
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c9ce17b815611ecb59058bb4289b6162
-SHA256sum: ea77b50dd2d7662594d10f4018d229d4b8841dc1310c32eb2031de89a93e19f9
-Size: 98470
-Filename: iso-codes-locale-be_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 1023ed3b049f89f23480df661235c8c3
+SHA256sum: 3e7baf22d2873279db56b7bb5aec81f4c77f4c7b794e71e84d77dfb1aa5f655c
+Size: 97822
+Filename: iso-codes-locale-be_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - be translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -914,17 +914,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-bg
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: bg-translation, iso-codes-locale
 Recommends: virtual-locale-bg
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eef98743799d28348bada79ee2341e6f
-SHA256sum: 11207c5b362ebd25b1bb48ae25179afbfec3ac629006f8c7336e7c01323f7954
-Size: 24218
-Filename: iso-codes-locale-bg_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 78a5eddba32260ddae99c9c13b2f22b1
+SHA256sum: bd1d5918f942bfee9499787cac39d116993e1038d69c0f06c53e55088c0baf6c
+Size: 24168
+Filename: iso-codes-locale-bg_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bg translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -932,35 +932,53 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-bi
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: bi-translation, iso-codes-locale
 Recommends: virtual-locale-bi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d6b77d95b21ce40cc947235b3b87b9ed
-SHA256sum: c058ab1abc5da14bca7689bf7df780e755e5474abf9a512f39e59716ff8b7c09
-Size: 1258
-Filename: iso-codes-locale-bi_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b319c2514d7d9f8b13aed66f3f72f227
+SHA256sum: bfc1b1f0fbf02868b8041929b31dfebb54ed507446d4e8cf022dd591e25a8e19
+Size: 1260
+Filename: iso-codes-locale-bi_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bi translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
 License: LGPLv2.1
 Priority: optional
 
+Package: iso-codes-locale-bn-bd
+Version: 4.5.0-r0
+Provides: bn-bd-translation, iso-codes-locale
+Recommends: virtual-locale-bn-bd
+Section: base
+Architecture: all
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: e5cf3d8c4cb607e3b9e039768e0a5105
+SHA256sum: 465d2eff69c902c34cfa1692a7b6d311511f76c8e1a8ed4ad61c7ce1725109ca
+Size: 3248
+Filename: iso-codes-locale-bn-bd_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
+Description: ISO language, territory, currency, script codes and their translations - bn_BD translations
+OE: iso-codes
+HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
+License: LGPLv2.1
+Priority: optional
+
 Package: iso-codes-locale-bn-in
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: bn-in-translation, iso-codes-locale
 Recommends: virtual-locale-bn-in
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c03d09d4692e49b84cb36e281f175e37
-SHA256sum: b700f1dd995104c4b2aab4bfe33dce7e4abff0975b767174230a4995e8fac687
-Size: 9940
-Filename: iso-codes-locale-bn-in_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 3fe6bbff17db78bc8df0558a44546dc5
+SHA256sum: aee0446b49032a8800168824c638cb244d0dcb0ba65e8f914d81283267e900ff
+Size: 9936
+Filename: iso-codes-locale-bn-in_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn_IN translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -968,17 +986,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-bn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: bn-translation, iso-codes-locale
 Recommends: virtual-locale-bn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c4ccc96aa058ee9ed4d712cc63fda87e
-SHA256sum: 1ec3eedb0a73961654657ea9118fb8ea506be6fba9502b21b3632098f749904e
-Size: 38290
-Filename: iso-codes-locale-bn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 36e5989c6ae36a11e0944d479adef6c9
+SHA256sum: d20a2bb3e28d1a2165e3630945e1002e448b06036b3f6b68791ec429d9484095
+Size: 39196
+Filename: iso-codes-locale-bn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -986,17 +1004,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-br
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: br-translation, iso-codes-locale
 Recommends: virtual-locale-br
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d7c81b156200d7722c8646718cceaba8
-SHA256sum: 33d20c9655a6a20fa0cc0c3ea97692e14b7bf2ff13c5c7f692dfb1472210f62c
-Size: 18830
-Filename: iso-codes-locale-br_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d0ab36175b34e38a224b710589e63b36
+SHA256sum: 06f0f17c1250be1494ba8bccc25c2782169def7e57a40ddb0207d894250d96b8
+Size: 18854
+Filename: iso-codes-locale-br_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - br translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1004,17 +1022,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-bs
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: bs-translation, iso-codes-locale
 Recommends: virtual-locale-bs
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 77a27b57b9fe55d637608ca6f5833e7a
-SHA256sum: 0647b705a2d618330b91436ad99d094092f4890e8e0853960f3abba766ce7174
-Size: 10066
-Filename: iso-codes-locale-bs_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 209420cef6957a1e892f352330a5bb02
+SHA256sum: c17c1811e4bb9e70b64902d4b415b1b6ac5ee275e5db7733aded279dc7bea8f3
+Size: 10110
+Filename: iso-codes-locale-bs_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bs translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1022,17 +1040,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-byn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: byn-translation, iso-codes-locale
 Recommends: virtual-locale-byn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bb213f8b3c3edd18fcce9e7eb070f77e
-SHA256sum: b2e66591a93d7c0a21f39f58c960034b5d4d00310751fb65f21ec6ee2e1fb955
-Size: 5590
-Filename: iso-codes-locale-byn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 6861bb9c4fc5fd05a1c07cc6425427c4
+SHA256sum: c512ba14ae8af3bd2b6df809ff093383fc5bcfb2581f4179d5cb8a1d5a8398b7
+Size: 5586
+Filename: iso-codes-locale-byn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - byn translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1040,17 +1058,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ca
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ca-translation, iso-codes-locale
 Recommends: virtual-locale-ca
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cce6a76c6c6f773be78bbbf63fad00e0
-SHA256sum: eddc72de46188f9018b9e3d24964e47159218cc28434fd51c306917d24e67bae
-Size: 26598
-Filename: iso-codes-locale-ca_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 47f1646db68de71307b8917f7e1dcf80
+SHA256sum: 5b3f2ed3c855db25c050fda6203e2c8475454c4b2707767b63c2360cabe1e3c9
+Size: 26840
+Filename: iso-codes-locale-ca_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ca translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1058,17 +1076,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ce
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ce-translation, iso-codes-locale
 Recommends: virtual-locale-ce
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 11b6e837843da8a75cfc0ee8b126248b
-SHA256sum: 9d067328ed7bd05b96fa0b7edbdf990bbcf92cada2543be6437b09c956961d39
-Size: 4876
-Filename: iso-codes-locale-ce_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5d6bf63ab516cbbdbd52ca99b9f6634c
+SHA256sum: 9170c414cb9cbbe4998d707cbbf87e562943e73097d1e25c7f3a966d15bacaff
+Size: 4880
+Filename: iso-codes-locale-ce_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ce translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1076,17 +1094,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ch
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ch-translation, iso-codes-locale
 Recommends: virtual-locale-ch
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 301d98c171a025a7f7bd62b6c2ea3fa9
-SHA256sum: a1f2bf67870cbf4927203c31001ee24af7e6e73d9f27d7a0140a2f87f8d0631b
+MD5Sum: 57249b383c835925a1fde254e3502955
+SHA256sum: 1530fbf054dfda37e6bb68c6fda39d09087e83e4816f9dc22bd05c94382be0f5
 Size: 1664
-Filename: iso-codes-locale-ch_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-ch_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ch translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1094,17 +1112,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-chr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: chr-translation, iso-codes-locale
 Recommends: virtual-locale-chr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1943673b4935826214972f0a2d70c4e9
-SHA256sum: 07ef0d542903d54f78f74cef9f4ad5cdc55ca2ff348aaf3ab700c6aef3e8afeb
-Size: 2968
-Filename: iso-codes-locale-chr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 660e8721f32c3285d9a6637ac1a7e68f
+SHA256sum: 597915963bb364094a0a0b795ea0c0d6be810c6a45c9a032ec270d87b0f66a55
+Size: 2970
+Filename: iso-codes-locale-chr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - chr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1112,17 +1130,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ckb
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ckb-translation, iso-codes-locale
 Recommends: virtual-locale-ckb
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d790fe9fbe603ac4b2832faf650c8e6b
-SHA256sum: 99881c84a461592e0c14da046f36e267b2febfacd34ebe41f375b8ab714e431a
-Size: 4588
-Filename: iso-codes-locale-ckb_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 02d9b6c28897c7c7e088acde04576898
+SHA256sum: 384d14ad052d554bc3c0a237ade9ffe1f0851b1e8f8ec47e30a8be5ea2310bc5
+Size: 4590
+Filename: iso-codes-locale-ckb_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ckb translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1130,17 +1148,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-crh
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: crh-translation, iso-codes-locale
 Recommends: virtual-locale-crh
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c73871b6f8acfe2d00633200148ec7c6
-SHA256sum: 60bf35f6d04b39cf63409fbc706dfa3e4d4f80fdf7c66dec0416e1c2177d5f8a
-Size: 70320
-Filename: iso-codes-locale-crh_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: be8e5190969fc52f02009f0c09eaad72
+SHA256sum: d7b1ebe4be53ef5a34ef779cce886e864572c2a7400be3da15af67ec38bc6d2c
+Size: 70282
+Filename: iso-codes-locale-crh_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - crh translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1148,17 +1166,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-cs
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: cs-translation, iso-codes-locale
 Recommends: virtual-locale-cs
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a1fb60b4b1d235847e6e79401052c016
-SHA256sum: 77fd1341fc032293699988856faa846a12c4ea32ddf22407636fda3bf2694ccf
-Size: 26736
-Filename: iso-codes-locale-cs_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 3a050a98bc8f725bc681a867be74fd14
+SHA256sum: 2cbc6f1000242e8a895bd525912bf62b9bffb91e68939464a0de0e68f00ab026
+Size: 26720
+Filename: iso-codes-locale-cs_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cs translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1166,17 +1184,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-csb
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: csb-translation, iso-codes-locale
 Recommends: virtual-locale-csb
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b67c2b3deae6c9e84b7e8a25ff866771
-SHA256sum: 2b319dc8feb1f7d1351dd4abfc1bf54f58348b8343bbbcca845f36e42c393a81
-Size: 2784
-Filename: iso-codes-locale-csb_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5db5b7dc4be4e556a59d08c885273d42
+SHA256sum: bd6885da5df9b78c4422594396ea497d90453cab1de58ecc0fc7ac6ac9d5f602
+Size: 2786
+Filename: iso-codes-locale-csb_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - csb translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1184,17 +1202,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-cv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: cv-translation, iso-codes-locale
 Recommends: virtual-locale-cv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 236d268f9979d0cbdca5cb8f426d8361
-SHA256sum: 8ef2b6e83d7e419187e5e7e7c5f52dda2455c6a6c2c3aa52fb27c057199686ca
-Size: 4884
-Filename: iso-codes-locale-cv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: c07b1c120f892a3f202b54da52644db3
+SHA256sum: ca9024a3aa8bc6250402468d17f924c2dbaabba1bed8cfedd7b3ce8fe35f3edd
+Size: 4880
+Filename: iso-codes-locale-cv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1202,17 +1220,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-cy
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: cy-translation, iso-codes-locale
 Recommends: virtual-locale-cy
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ddef6d35afb081ecba9e928f4a00627d
-SHA256sum: e0b9e02cff179395f91e87871307f034cb2abdc8b09f29bd5eae4a5a839f6ef7
-Size: 10444
-Filename: iso-codes-locale-cy_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 7f7b894fdece9c3ea769768f0c5f6ee0
+SHA256sum: 8104e8755b3af68804de2c9bcda3b3248153cd4736f117cf2b99a07c312163b8
+Size: 10416
+Filename: iso-codes-locale-cy_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cy translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1220,17 +1238,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-da
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: da-translation, iso-codes-locale
 Recommends: virtual-locale-da
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 979b02f545bd4605c9bb000ceea658e9
-SHA256sum: ae39d52b83611d094d3e276b8b13128ecf8b46bf0e3ac882137a9496d95179fa
-Size: 65914
-Filename: iso-codes-locale-da_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 521bd1cc575e05f735b907809da378e8
+SHA256sum: b38e34ee8c403b9d569dace893c01c030f3580e46946d79e188795d77175a2b8
+Size: 65776
+Filename: iso-codes-locale-da_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - da translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1238,17 +1256,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-de
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: de-translation, iso-codes-locale
 Recommends: virtual-locale-de
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 23ea303af89dfd654f4f9284b90e5a33
-SHA256sum: 635aa8178b2980b92d4a35aa71f4fa9491b12ee062ebf5a95c0342f5a4e7def6
-Size: 167658
-Filename: iso-codes-locale-de_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: e3a4425d0c7de6e2b78b79578c6a12c4
+SHA256sum: 2c43c493df2da53c83f1735cb84d2c136725ade3e30e0e37d757ce0dba782509
+Size: 167452
+Filename: iso-codes-locale-de_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - de translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1256,17 +1274,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-dv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: dv-translation, iso-codes-locale
 Recommends: virtual-locale-dv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 05067295c4d30157195da5e4ca3713ad
-SHA256sum: 00dac58be6ce5cc7e6bf10e9c297a90e211b9a85efca21c00cfa5517adc68805
-Size: 4834
-Filename: iso-codes-locale-dv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f2ed4cc9354e1d5e2ae56a08b59a07f0
+SHA256sum: ab37e020d0729f9879c140c7122156e3a71d2aa53b034d7bfe55c8a4b9037995
+Size: 4848
+Filename: iso-codes-locale-dv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - dv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1274,17 +1292,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-dz
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: dz-translation, iso-codes-locale
 Recommends: virtual-locale-dz
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8e0a05b1618a3ee47086d90c05becb00
-SHA256sum: 365ef9ec2eff8da5e355a30925b68c30a3c02e801ce16f5d2d5c23da1b577bdc
-Size: 10052
-Filename: iso-codes-locale-dz_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d415345cfec3bb31473e9d6b790c1b2b
+SHA256sum: a9cf930cc402e7480fed37f27fc25714334750359b8908dae721e4e117a6fa11
+Size: 10042
+Filename: iso-codes-locale-dz_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - dz translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1292,17 +1310,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ee
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ee-translation, iso-codes-locale
 Recommends: virtual-locale-ee
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cf341d27fb30a94b7b8cd60b80c2fe1e
-SHA256sum: 3b408d31fe1bbb02f2653a5f017f11eb8b5989f2be2a6044929c0a5089c69f0e
-Size: 1254
-Filename: iso-codes-locale-ee_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 4c620d73424ecc75b48887c16319a862
+SHA256sum: c4862663ba18c8dbe841c91a28060064fa70ef4d68e1e1d5cd484577836594ac
+Size: 1258
+Filename: iso-codes-locale-ee_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ee translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1310,17 +1328,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-el
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: el-translation, iso-codes-locale
 Recommends: virtual-locale-el
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0cf18d1733143ecc841ef98e34b15868
-SHA256sum: 669cb3d36ae78ee91b38400c2f7d137d5b0768143f0c4744aa25089e6d28d669
-Size: 32510
-Filename: iso-codes-locale-el_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b14b483d65935e3045407944c670b641
+SHA256sum: 8aca67e37cbe9b498964136d3da02e15bd2a5b428bd5cd482652b4faec39da89
+Size: 32840
+Filename: iso-codes-locale-el_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - el translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1328,17 +1346,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-en
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: en-translation, iso-codes-locale
 Recommends: virtual-locale-en
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 35d0f2f0ea753c0d9e879d484b253b28
-SHA256sum: 04925cd7c1060f122fe2501ed5a1701a6674e8015915e777b3a7eb1b2b214815
-Size: 24850
-Filename: iso-codes-locale-en_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 9633a0e17be80582d0f7613477b11fe3
+SHA256sum: d4ead676681c6350b9fa4812a4257723bdb6d4101ecfa4345f74566c8ae8c5a4
+Size: 25100
+Filename: iso-codes-locale-en_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - en translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1346,17 +1364,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-eo
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: eo-translation, iso-codes-locale
 Recommends: virtual-locale-eo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1e5fc7f5884ca24c06144186cfde15b9
-SHA256sum: a58f4bc6dcfd0eadb71b93fa17da86c8707dc904367d0d757bf9bec1ab9ecbaf
-Size: 21054
-Filename: iso-codes-locale-eo_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 903a4d8bbac052fcbd7d85979ae664c0
+SHA256sum: 25d9b75bea81f07d7ba26c193cbf0dbafa112055dbf3f4a893d012e9d566795b
+Size: 21048
+Filename: iso-codes-locale-eo_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - eo translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1364,17 +1382,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-es
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: es-translation, iso-codes-locale
 Recommends: virtual-locale-es
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: da126d176c40eef621a709845d8f41ba
-SHA256sum: 5376e69cdf55bc35ba7e5fc95490c564bde5424c118ee4c4cc760c4f7a2d44f3
-Size: 30066
-Filename: iso-codes-locale-es_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a0957ac2f0408acc784c918bd49081e0
+SHA256sum: 1b473c94a89f6093c128beb145894b97b2546278cfc684af5a80cffdd07731ff
+Size: 30564
+Filename: iso-codes-locale-es_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - es translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1382,17 +1400,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-et
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: et-translation, iso-codes-locale
 Recommends: virtual-locale-et
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8996452aaf16ea46d3410386c11fb802
-SHA256sum: c7444a3787255e159286791e519dbd5ceaa4faf14c580b9a2353a6a69552b05d
-Size: 29842
-Filename: iso-codes-locale-et_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 0b64ae105e05ae5c1ef81e5fc269a868
+SHA256sum: 3122aef37145c5637429fbfbb549857f7c453f566f2f6ea41239eefa5896baa2
+Size: 29852
+Filename: iso-codes-locale-et_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - et translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1400,17 +1418,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-eu
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: eu-translation, iso-codes-locale
 Recommends: virtual-locale-eu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c853776b937b7e3f6d560e2d574d5db9
-SHA256sum: 115a99e95ab9dbd03e420fb7821f47a330bc66d73ca72709eead6803749d4ee4
-Size: 25742
-Filename: iso-codes-locale-eu_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 371ec0b51bb8ae56b4a20d5fb28ae6b0
+SHA256sum: 7a91378c54a5b5d57c59967294ffefba6b8bc800ae6dfe0bc7fd444ce06c59fc
+Size: 29092
+Filename: iso-codes-locale-eu_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - eu translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1418,17 +1436,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-fa
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: fa-translation, iso-codes-locale
 Recommends: virtual-locale-fa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 79c44bf8d0df26e3ded79b5e08cc0f43
-SHA256sum: 7e810c940d7d3321886658eedab7143bd40adabd8438ffb8b4fb1565f0c7d82b
-Size: 16020
-Filename: iso-codes-locale-fa_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f034bf52fc6b1ee3c4f2cf8be68d1575
+SHA256sum: 884629f742deb5f8fec7acdbe375d632d8b914e588386e1a7898cab3cbfcf3a7
+Size: 16048
+Filename: iso-codes-locale-fa_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fa translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1436,17 +1454,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ff
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ff-translation, iso-codes-locale
 Recommends: virtual-locale-ff
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 241432b9a2402033560ac9089cb3059c
-SHA256sum: a8e2335eeabff8528100380dd358e3001cb94b70e641e853bc4b21309a5f065e
-Size: 2474
-Filename: iso-codes-locale-ff_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d8f73ccfe7b763a930d2fdfc7d61fabc
+SHA256sum: d39633ce4c79a460a154cbd1fbb1a4b75565744e06cf4011b089f4401d1c26ad
+Size: 2478
+Filename: iso-codes-locale-ff_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ff translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1454,17 +1472,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-fi
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: fi-translation, iso-codes-locale
 Recommends: virtual-locale-fi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4e63ad1fc2c8bb117436c0ec1161bb52
-SHA256sum: c13173b92017a152c8236d0403788e941097a40c9d6ed2eaa25e942e44050f59
-Size: 24708
-Filename: iso-codes-locale-fi_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 42d26455244725711907ae613e4669b1
+SHA256sum: 58bdcd4dcba8d8fe14b05992306f308007fe3cfcc7935f30a7219d3c31a84b95
+Size: 24736
+Filename: iso-codes-locale-fi_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fi translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1472,17 +1490,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-fo
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: fo-translation, iso-codes-locale
 Recommends: virtual-locale-fo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3225b30cd8be8813e04132f02f2a9abd
-SHA256sum: ddb711d8ed3dc0489784fd2ecde21206a4fbd94533f87de5d41c09229cb65f22
-Size: 2926
-Filename: iso-codes-locale-fo_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a173e8d4fda32bdf17aec5c3d64eb8e9
+SHA256sum: d0e2dee3b1c381ed2b3ade4db91bf5bc07a44b05411090bb91fa369ea26f9d90
+Size: 2934
+Filename: iso-codes-locale-fo_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fo translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1490,17 +1508,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-fr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: fr-translation, iso-codes-locale
 Recommends: virtual-locale-fr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bc4d101dbbbcaac381b718bdad8f56db
-SHA256sum: 620967eb368634fca098ec3fc551161b7cf2e9f2d33ce1a6624c9586fd8125b4
-Size: 179946
-Filename: iso-codes-locale-fr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 73734f49a981e8d147863e6cb208c31e
+SHA256sum: 4d30b7225643805ccd6cd28bffc80627e34823594dc6481943fc833c287d777f
+Size: 180776
+Filename: iso-codes-locale-fr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1508,17 +1526,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-frp
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: frp-translation, iso-codes-locale
 Recommends: virtual-locale-frp
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 01e09a694ad6ccbc02aa662acb31905b
-SHA256sum: c2c80f4dc6382ac5f6e30342d3b3db1c907fd8ee39ee9ba7e8fdf5680624d350
-Size: 4338
-Filename: iso-codes-locale-frp_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 8dcb9ff5fbed0e932a64d67a65f80ebf
+SHA256sum: 95113e0893a104064af04e5d61f059a75fa2896109459d5d74b9140c7600989e
+Size: 4354
+Filename: iso-codes-locale-frp_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - frp translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1526,17 +1544,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-fur
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: fur-translation, iso-codes-locale
 Recommends: virtual-locale-fur
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fb3507941fc144ea0ab03dbe537479da
-SHA256sum: eca979bbcaaaa7d828a87b539ae8378fa9220da4ce96a78e83f46dde5a97113f
-Size: 2074
-Filename: iso-codes-locale-fur_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: afb10dfdea3131529407a36a3914b9eb
+SHA256sum: 4ef7fae6fe673848e8c929d0cbfb64eb383ed05574a3bf8456aaefb1cd8941e4
+Size: 2078
+Filename: iso-codes-locale-fur_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fur translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1544,17 +1562,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-fy
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: fy-translation, iso-codes-locale
 Recommends: virtual-locale-fy
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eca80fd4287ac284cd49074b5f49374f
-SHA256sum: 402c2c65f246d9dc6679045c4d17009db5e0fb0e3258becc95f05ae2d8716792
-Size: 4380
-Filename: iso-codes-locale-fy_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 1c98b5a721adf482c7f04dc580d26cf1
+SHA256sum: 6fceca33572ca193fdbfa61da60ff727069d10fd940330418cb455e7a47df060
+Size: 4346
+Filename: iso-codes-locale-fy_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fy translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1562,17 +1580,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ga
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ga-translation, iso-codes-locale
 Recommends: virtual-locale-ga
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aadf341dac9af284b61466f3ee8a29c6
-SHA256sum: 234b782cf6b93a2765e80e3de1279faba58736ad8e1087bb436cf60f759f86e3
-Size: 16812
-Filename: iso-codes-locale-ga_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 6517cc3c15d979652968a914aca6eb8a
+SHA256sum: 895998d99e500f82fcb4219c9f3fffe3a36861f148450818b68596b0e8f497c2
+Size: 16808
+Filename: iso-codes-locale-ga_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ga translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1580,17 +1598,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-gez
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: gez-translation, iso-codes-locale
 Recommends: virtual-locale-gez
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 99966d344e3989c343a41db3dd3d5104
-SHA256sum: 6192e253afd1ddf278a8cd119392d947c9a80bf04c7baaca4019da994472ac47
-Size: 5592
-Filename: iso-codes-locale-gez_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 3f509b64b4ea16b41d54778d4543318e
+SHA256sum: 7c1b76940b067db986621fff22f21b3404453d98468527d31146191016f005aa
+Size: 5612
+Filename: iso-codes-locale-gez_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gez translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1598,17 +1616,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-gl
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: gl-translation, iso-codes-locale
 Recommends: virtual-locale-gl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6239528606f7f516530fe6edcc837122
-SHA256sum: 3f9941c7ce819ac00496ad617a09fb588f4ad835217ba3d725b6f2da7f3d8d42
-Size: 88532
-Filename: iso-codes-locale-gl_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 830f97af880cca66f16d8bb8651025b4
+SHA256sum: fb264e6077d56c4cd315cf732e02b43182b3a05153a290022fddaf8fbd0f29dc
+Size: 89058
+Filename: iso-codes-locale-gl_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gl translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1616,17 +1634,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-gn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: gn-translation, iso-codes-locale
 Recommends: virtual-locale-gn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a417b09732c2980b48cc29432f6a6d0b
-SHA256sum: 784e825c77dd14c41432fab02f0d58f4b97d396e5a6f1fbd6b25789fb3c059b3
-Size: 3408
-Filename: iso-codes-locale-gn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 80c037292047c29a850f1ef7f8fa0b6f
+SHA256sum: 0451c69f86b7e40747e9a20c369ac554a7f383314ec10b23b0f315eebda2781c
+Size: 3410
+Filename: iso-codes-locale-gn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gn translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1634,17 +1652,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-gu
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: gu-translation, iso-codes-locale
 Recommends: virtual-locale-gu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d6557d319a44335b2287045ee3bbb876
-SHA256sum: 24f696f0b47a3616f0676202f1dfad9c30453a7d111974e1e3a4d2742064f832
-Size: 27512
-Filename: iso-codes-locale-gu_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 3b5c8939e67576ca074ca7b143324535
+SHA256sum: 58e65324144b62de012c7397ed7321091e31fee3be3466fc047a572780230c6b
+Size: 27502
+Filename: iso-codes-locale-gu_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gu translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1652,17 +1670,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-gv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: gv-translation, iso-codes-locale
 Recommends: virtual-locale-gv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cc554553fdfcaee56363f773c79e92ba
-SHA256sum: 578112b899d8a493810660a2e1018dbbfbc232aa93957a332d9cb261f44f8d4e
-Size: 4206
-Filename: iso-codes-locale-gv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f9dfe2a7fb8a0bfa3d0436ce4ae1ad73
+SHA256sum: 2afa0cfaa0f330b91e84629b50c9d5fcf26900df46e4a6f21ee9fd58ccb20f3f
+Size: 4200
+Filename: iso-codes-locale-gv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1670,17 +1688,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ha
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ha-translation, iso-codes-locale
 Recommends: virtual-locale-ha
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e7997b497bff46e3a21ee79d551cd7b8
-SHA256sum: b2b9a803394662be2287fbf670e484db8f4b233edbc7a5fc704f5fd62bd81d8e
-Size: 2806
-Filename: iso-codes-locale-ha_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 0164c978ad0ccd6664a640180a7b0e7a
+SHA256sum: ecb9e7d2338a39898f9d59463cba73e3f71a3e1587c47d21f3d2d3338c76a466
+Size: 2800
+Filename: iso-codes-locale-ha_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ha translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1688,17 +1706,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-haw
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: haw-translation, iso-codes-locale
 Recommends: virtual-locale-haw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 49095cc856c9660f8039e258544b300f
-SHA256sum: d03e5744374d196ffe773943946f0cb0876ce3fa613e1e619817ecfdf6b888bb
-Size: 1724
-Filename: iso-codes-locale-haw_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 915cecbe1aabf9d18daaec8851f36e0e
+SHA256sum: 44939061525617c9bcfee0af552bd41396f314a48ad4d4e0ca0961ebffb66bd3
+Size: 1726
+Filename: iso-codes-locale-haw_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - haw translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1706,17 +1724,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-he
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: he-translation, iso-codes-locale
 Recommends: virtual-locale-he
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a3a5d87bbf25a6e3a019e7adc6faa35a
-SHA256sum: d0c64588e6d9531e357481984dcc65436c14fb6fc49b7ac690b707884173f663
-Size: 11006
-Filename: iso-codes-locale-he_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d91ee5fb38fb1e89cb0e26c330e190a9
+SHA256sum: 09502dc2e3c3663f14b322115814f093c2a7feb32779f4bad410fe2bdf0142c2
+Size: 11004
+Filename: iso-codes-locale-he_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - he translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1724,17 +1742,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-hi
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: hi-translation, iso-codes-locale
 Recommends: virtual-locale-hi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3ca4364fe138495a147c9bf94ad3470c
-SHA256sum: af92de1f5536ad54bc63b1a8eeedf136c3e736ff07007a4fe45615fc0bd6f83f
-Size: 12316
-Filename: iso-codes-locale-hi_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 132d86769aa18cec1fd53ba0058d9596
+SHA256sum: 444f90daf97ec84bce2e5e7b93fbd0c5ad82c6318138a3f25a38405bfc2a7027
+Size: 12296
+Filename: iso-codes-locale-hi_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hi translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1742,17 +1760,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-hr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: hr-translation, iso-codes-locale
 Recommends: virtual-locale-hr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aecd5ad0bf139e457ae62b4e3d0c55df
-SHA256sum: a2f8437d5af338fbfa6a8213a243d091aa0240b8a7133f9e7278b7ea303151c8
-Size: 22338
-Filename: iso-codes-locale-hr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 9873ec3d5f8e272257129fd7d6209479
+SHA256sum: a60af33eaac14694401199093ee1a36c5ec21696b1e166ff16a01e1a98c3306c
+Size: 40684
+Filename: iso-codes-locale-hr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1760,17 +1778,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ht
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ht-translation, iso-codes-locale
 Recommends: virtual-locale-ht
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f4f9c3acce9eb8d5858b43a8d688c385
-SHA256sum: bd28d3844ce760790488fcbe9d2c3526fdbde9ca46c80efdde4cbb46bdc94792
-Size: 3886
-Filename: iso-codes-locale-ht_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 53b8d35ee2affb99322d8824444dc3ab
+SHA256sum: b0f26ef1226c934b5f85494c63884768a443592c5acf02720fd67349e74f13d9
+Size: 3880
+Filename: iso-codes-locale-ht_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ht translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1778,17 +1796,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-hu
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: hu-translation, iso-codes-locale
 Recommends: virtual-locale-hu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d03067ed95a63d1635ff686d239c72fe
-SHA256sum: 662dd865e1bcc1df3d74439c9c69a75f8a7c0605acf857736698b9b40b4ee890
-Size: 56180
-Filename: iso-codes-locale-hu_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f30b583dca8041f6562190a73220acf6
+SHA256sum: ecc26e6a055c7667f6cd4bcf81e21c770cfa42e5fe67f3e829a63aecb54b4c18
+Size: 56156
+Filename: iso-codes-locale-hu_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hu translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1796,17 +1814,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-hy
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: hy-translation, iso-codes-locale
 Recommends: virtual-locale-hy
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cc07ce2529271fb7b6a2e83644d3f182
-SHA256sum: e9414e280a206759c1b553c13a6922c273670817fb57755a77fe43d1087e44b4
-Size: 9496
-Filename: iso-codes-locale-hy_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 11e1c4200d614bfd60f1a63ef44d3e2a
+SHA256sum: 42d48fecc2e7a50e44e8ea44150bb3fb7ab41a0d090e074e79ebed14d288b71c
+Size: 9492
+Filename: iso-codes-locale-hy_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hy translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1814,17 +1832,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ia
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: ia-translation, iso-codes-locale
 Recommends: virtual-locale-ia
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fa455301dcc51c3c2b767f8cf4ee6c1b
-SHA256sum: 58ed4e7b96c34c9423d464eae0ceb281f388c34221cf031d457df77fa457b850
-Size: 10598
-Filename: iso-codes-locale-ia_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a0a340916375953aaaa90ea5cbe5cef0
+SHA256sum: 5b77e5618a049e5d0026759a90e045085983a73bb5ef36673370b223342a6bc6
+Size: 10612
+Filename: iso-codes-locale-ia_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ia translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1832,17 +1850,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-id
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: id-translation, iso-codes-locale
 Recommends: virtual-locale-id
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 418a2f8d42ffa8a9b7698ef822185804
-SHA256sum: 39ca880bfb1d4d1758b7523df4612dd1e84b703d5279fc6da4ebf26889e81cec
-Size: 130052
-Filename: iso-codes-locale-id_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 31f1332d3c56527b8f58a393681631e0
+SHA256sum: 4272358f8be5d00c58d6dcb9dac170e8252471e19aa3ee833284b561174e5925
+Size: 130884
+Filename: iso-codes-locale-id_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - id translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1850,17 +1868,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-io
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: io-translation, iso-codes-locale
 Recommends: virtual-locale-io
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f69ceb3a0b15e9019345aad6a4f2d47a
-SHA256sum: c3e2743327ebb8caaf143cf8710a96542b4f112d4c10b3d26a7d52d59f00bfe0
-Size: 4078
-Filename: iso-codes-locale-io_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b39153d83c240045562dd93e854a156c
+SHA256sum: 9ad79bdf639908fe92f838cc26530ba3ed0bae4cba2fa2854704d3ab80371864
+Size: 4076
+Filename: iso-codes-locale-io_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - io translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1868,17 +1886,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-is
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: is-translation, iso-codes-locale
 Recommends: virtual-locale-is
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5b939f6132aeb5e2d07dca82deb40d96
-SHA256sum: c5fe90d9023d9c2a9383ac3cdaa13889fe1be5083859f27b53ae0bd2dc0510b9
-Size: 60606
-Filename: iso-codes-locale-is_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f48080865a9bd58dbede4c8b16dde4ac
+SHA256sum: 10248ddf53e77e45b1a600edebd8ef1cd3538dedb8eb0e0e03b2863913e3ee63
+Size: 60034
+Filename: iso-codes-locale-is_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - is translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1886,17 +1904,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-it
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, it-translation
 Recommends: virtual-locale-it
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e0c4bbca480970012deeaa670d1beab9
-SHA256sum: 172bd84163daba34bcd182af5b225eaed309e9f98b4910ab26e579f95cd93c64
-Size: 164842
-Filename: iso-codes-locale-it_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: aae74894ee31998a6478be0a2029844d
+SHA256sum: baeed59e3a6246542976c39ee58edb4a3b9390847f0e26ec81123f3022ec76fc
+Size: 164404
+Filename: iso-codes-locale-it_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - it translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1904,17 +1922,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-iu
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, iu-translation
 Recommends: virtual-locale-iu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c76fbff7be6592b08b24ace251210fce
-SHA256sum: 60585ce2bcad1a6813ed7e8a79d2b4fa72f36c4623bfa1d742bc241290d2255f
-Size: 1822
-Filename: iso-codes-locale-iu_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d326627890804e27c6d8fc7bc0165abb
+SHA256sum: 7319aacc139479968a5d12ecd0048b00dc42c786a9ef720f611e694229b94ae2
+Size: 1820
+Filename: iso-codes-locale-iu_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - iu translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1922,17 +1940,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ja
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ja-translation
 Recommends: virtual-locale-ja
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5d79b9ec0baeefc3e37663cdc88f6dba
-SHA256sum: d324d18368c09001e012092496e84c57cb5b8760935b911a1ac162094bc300f3
-Size: 58696
-Filename: iso-codes-locale-ja_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 7fc81268c71ec3bf082f1c63a423f9b8
+SHA256sum: 149d0e183d23e03f5226c77d61260c1d52117b58e87d3d575274d5ed171529f5
+Size: 58596
+Filename: iso-codes-locale-ja_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ja translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1940,17 +1958,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-jam
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, jam-translation
 Recommends: virtual-locale-jam
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3cf2f1b17fc27b02637c358a83166387
-SHA256sum: c2a42edeff5bc6e2fdd3ab68c185967bbbadbd0476c08e96bd6f3497112fa90a
-Size: 3908
-Filename: iso-codes-locale-jam_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f4242cf5fcb5226564db178abe818be1
+SHA256sum: 944112a1f27618a67042b952c1983c2eace3f18bec191899c2afbff490a59027
+Size: 3902
+Filename: iso-codes-locale-jam_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - jam translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1958,17 +1976,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ka
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ka-translation
 Recommends: virtual-locale-ka
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8217829fbce348cee88857be6499f43b
-SHA256sum: 03152dbd8fb612d84efb785b1bdeb46ec5999945a0808f2c3333319b05fb135e
+MD5Sum: a382a643c773d471a1b3776014d12716
+SHA256sum: a65ade0f0b52067dc8bb2b0bfe6de22d3516d42b3a3ba318cd48acc37e4192f3
 Size: 9080
-Filename: iso-codes-locale-ka_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-ka_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ka translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1976,17 +1994,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kab
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kab-translation
 Recommends: virtual-locale-kab
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7615087a5e9d22ea12906f2024ea6a75
-SHA256sum: 3f1ef4aa975ebe6f527f9b3893665c42f63ae71eccc66b05a58b1148c9a62367
-Size: 3344
-Filename: iso-codes-locale-kab_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: bc5d6b4ae1a89b67132cfbe4c0438d62
+SHA256sum: e013d0d65150c3a91c1d6a4a4bf6931a6f0cb56625fe0411a046810b71a16094
+Size: 5806
+Filename: iso-codes-locale-kab_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kab translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -1994,17 +2012,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ki
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ki-translation
 Recommends: virtual-locale-ki
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bae236afe44d7308f877dfe83546f4e1
-SHA256sum: d9bc8b35402045de2b777d03236df0f4ab1ec9971fbe7f252f0eccd12396e5d4
-Size: 2662
-Filename: iso-codes-locale-ki_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 43135ae20666eecc0bb27a0f5abaaa82
+SHA256sum: d70d606fdc9ae7677b54c521122a603e5b24063bbc3b00f9c9fb620b29fda70d
+Size: 2668
+Filename: iso-codes-locale-ki_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ki translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2012,17 +2030,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kk
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kk-translation
 Recommends: virtual-locale-kk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 072157fba46ca29bb65ed76aca357d98
-SHA256sum: 975eecfffa0b6dc9347a512c135c282e7a349a76f64faafa1f23e097118a839a
-Size: 9478
-Filename: iso-codes-locale-kk_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d745537464ae08fbbbbfbb0b46a9d294
+SHA256sum: aaf8dbe1ac29f198280d4e16d283a9aeee9ac7cf4b050649fa817b4a8331a6a3
+Size: 9492
+Filename: iso-codes-locale-kk_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kk translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2030,17 +2048,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kl
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kl-translation
 Recommends: virtual-locale-kl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 27b51c17aa59dc23f1736f530d4e5476
-SHA256sum: 5f504d2d57a8ca210183ebd6ce4700a8a8b6ff0c678a85963c7ed7a1540376f7
-Size: 1262
-Filename: iso-codes-locale-kl_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 8e66f28b08a62e4af75756091c87812d
+SHA256sum: c7a0c4cf1449e8de28e430acc8e7bf1d2b7322769b50ae26b21e39ca40a5a59e
+Size: 1264
+Filename: iso-codes-locale-kl_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kl translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2048,17 +2066,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-km
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, km-translation
 Recommends: virtual-locale-km
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 57603c11fa7a8cb10d7da032b8c4e4ed
-SHA256sum: 2ec0d3abed15f986746b56b319361459075903b42e00a0fcdae66461ce2c62ef
-Size: 9968
-Filename: iso-codes-locale-km_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: eebf0fda0b5068cc786d8b61f23ec98b
+SHA256sum: 794e57efc9c31986373146150d18117a8fff196baef200e6a5eef55d98830aa9
+Size: 9960
+Filename: iso-codes-locale-km_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - km translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2066,17 +2084,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kn-translation
 Recommends: virtual-locale-kn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 89d74975326a91f1b55c178a76911ed4
-SHA256sum: 43fe8d8d65f5c7c7d735e9f1c9af3b52624f18485d65aeb3b6a91d15db317f05
-Size: 106770
-Filename: iso-codes-locale-kn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 773572ef137a67e8912f8efec3d777fe
+SHA256sum: 06021fe8b5c65bf66e198fcf0a6d280c12d601b2112b434adf203c9750157bd8
+Size: 107056
+Filename: iso-codes-locale-kn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kn translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2084,17 +2102,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ko
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ko-translation
 Recommends: virtual-locale-ko
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: efd04857cc7ad2fdaec71665f5aacf7b
-SHA256sum: e219bab8f6b4124042c847d8ac082748dccbf1220dcd67c52bcef057032461f1
-Size: 24070
-Filename: iso-codes-locale-ko_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a2d1831046adf7aec8f437b6277481ab
+SHA256sum: 27ccebb0a84fdfdf783a595aecb5da935ec607c5600008f209fa962c2a675738
+Size: 23984
+Filename: iso-codes-locale-ko_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ko translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2102,17 +2120,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kok
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kok-translation
 Recommends: virtual-locale-kok
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c6892eb2e88b4abf7d0f7e109a8709b6
-SHA256sum: 6ebae9de84fe958629ab499442143242ca342676bfa07a8908b0d535a2f76ea1
-Size: 3880
-Filename: iso-codes-locale-kok_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 99069b25b8fbbaf1823a9235a2c5a990
+SHA256sum: c7524ae9f0882a750a908adc6c649b61ea149885cab891b3dcac161095c99628
+Size: 3906
+Filename: iso-codes-locale-kok_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kok translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2120,17 +2138,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ku
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ku-translation
 Recommends: virtual-locale-ku
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a16feccd67edc1e36f1eb6983f69f203
-SHA256sum: 48c2f13cef66e260869b28aa186685050d3909970d850896ae469a162ac3fc30
-Size: 8520
-Filename: iso-codes-locale-ku_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 3375235c3b22778af319fbe9bb02a534
+SHA256sum: beb634fe610cb15cbb4bd7060c8343ffa55cbdbadee49d50bee0ec00a796a6c7
+Size: 8508
+Filename: iso-codes-locale-ku_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ku translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2138,17 +2156,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kv-translation
 Recommends: virtual-locale-kv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6db79866d93a817ff310ca768b05b3e2
-SHA256sum: c6e905466478721181516c981a7c01ab9ff97b1a2d90b0978e13510ca5480318
-Size: 3272
-Filename: iso-codes-locale-kv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: af09d7e6a1c11dbe2201f81174033f98
+SHA256sum: a18369c19d81a26b7a6ea6f76fd43b9ce6a5507d8138fe2b6b9bf749fa7724b9
+Size: 3276
+Filename: iso-codes-locale-kv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2156,17 +2174,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-kw
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, kw-translation
 Recommends: virtual-locale-kw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a372077ae38198649d48ebea9eb3b210
-SHA256sum: 03a0b99d1ba75064e54447d62f25c2f6b8a53c03c75108f73f480fba6bbb8c52
-Size: 4360
-Filename: iso-codes-locale-kw_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 925744c2f5336dbb268805c5a0adbc6d
+SHA256sum: e0fff2d4796dbfcd531da33aa1ad39acce2d7a8a119da9422e847734602c086c
+Size: 4302
+Filename: iso-codes-locale-kw_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kw translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2174,17 +2192,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ky
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ky-translation
 Recommends: virtual-locale-ky
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b17b78a6cf5b36c2200376f0608fccf
-SHA256sum: 7b5f01fd4c768eb4473ce2abfaeac1123975b4d74f423d6d1653923d3dd370e4
-Size: 9096
-Filename: iso-codes-locale-ky_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: faaf7435cfd716be2eb4e7289fe1c335
+SHA256sum: 428bb348ccab3ccae5f53e493e7b7aff8e6ebc10e021de4c7d1987dd897ffd47
+Size: 9104
+Filename: iso-codes-locale-ky_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ky translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2192,17 +2210,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-lo
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, lo-translation
 Recommends: virtual-locale-lo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c263d603f053e3b1b9248a6a513b4ac2
-SHA256sum: b92e033562cb1c4cf3724b6e7277995cf363b95e22d5e6bcff09e085789166c5
+MD5Sum: 48159e4399ebe1558ea2d1bd6f8aeec6
+SHA256sum: ceb23cecb1d82f3c4125adb5a4e56335e469cf39f387d0a77da6b21ded9fd3e8
 Size: 2862
-Filename: iso-codes-locale-lo_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-lo_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lo translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2210,17 +2228,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-lt
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, lt-translation
 Recommends: virtual-locale-lt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e55199be7edaf305d89ae41eabd667c1
-SHA256sum: 7d5dcce7f6c362b42bbfde07819a9c4d7330a9a929d41324b286a1c6ecc61761
-Size: 55198
-Filename: iso-codes-locale-lt_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 7f23f5c21c30143703a24b7c4061d5ce
+SHA256sum: c4e35a08d4ed6a7fecd0f07e2265c6e20b162a3840c36cc863fbdfcd4bfb6122
+Size: 55184
+Filename: iso-codes-locale-lt_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lt translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2228,17 +2246,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-lv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, lv-translation
 Recommends: virtual-locale-lv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bd9e3768dd59d3fa458f56b99cd89605
-SHA256sum: 8b44659c741e95f67266ab69d789fcd67676858d3bd712dc683dee2a6c55d06f
-Size: 23226
-Filename: iso-codes-locale-lv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 03ad2a174071b9535382fc4c9f496ebc
+SHA256sum: 37dc7c91a1b1ab6622c3cfc38297c288a17ee2bb6261ff7e820ec2dafdba5e82
+Size: 23252
+Filename: iso-codes-locale-lv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2246,17 +2264,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mai
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mai-translation
 Recommends: virtual-locale-mai
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: af9375e94b652c77afc3e30a34552d92
-SHA256sum: dc1d4c4971d2c2b877b0f51c27c9c0ed2ed47e77e3e035a576f621321677246c
-Size: 2652
-Filename: iso-codes-locale-mai_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5fd7dabaae9b4bad1e27876beced47ca
+SHA256sum: 9a2bd92f7f8b23bd1abd3b33f413a465029e97ccb3423f0d371969e79b39cd2e
+Size: 2654
+Filename: iso-codes-locale-mai_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mai translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2264,17 +2282,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mhr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mhr-translation
 Recommends: virtual-locale-mhr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 408b438b49c9148f97facb499bad2fb5
-SHA256sum: 6fbe549d76635de7c1a1053e450b4a6818d86d9dd16ad3b50345800cec075d03
-Size: 3280
-Filename: iso-codes-locale-mhr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a6979cebb66df7330c073a0f5ee4e2f2
+SHA256sum: 0756fc76813f697d737e1d2bbfc852606f5c048948f1f17207d25e2e179d6d4e
+Size: 3242
+Filename: iso-codes-locale-mhr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mhr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2282,17 +2300,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mi
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mi-translation
 Recommends: virtual-locale-mi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5bfa1d6399bb3d470b0e9f505f333042
-SHA256sum: ad8e7e397998146ca2105aecd58ee936cf87d21b4f81ee0ba8107951ebc9ddf0
-Size: 5210
-Filename: iso-codes-locale-mi_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: d930aee8d37e3c0b2fab56e8881f2df7
+SHA256sum: 350b1e91041d6a94f7a550f8f4bf5a3281e9b1cfe113a5a27803425436b6dfd6
+Size: 5200
+Filename: iso-codes-locale-mi_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mi translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2300,17 +2318,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mk
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mk-translation
 Recommends: virtual-locale-mk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6f328201321900d5a079783376faf4b2
-SHA256sum: a3bd12e69d70b7b0944af50a6b8226eda3529e56290b054debdaa7856c071e76
-Size: 10052
-Filename: iso-codes-locale-mk_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a711a1e43406ebd4a60e035248bbd83f
+SHA256sum: 2b2e88035a2db1712ca2356dc5f0b4cf041745d3111e335326b1aaf71122918b
+Size: 10064
+Filename: iso-codes-locale-mk_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mk translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2318,17 +2336,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ml
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ml-translation
 Recommends: virtual-locale-ml
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 02acb27c889527c423b8a68e9d04584c
-SHA256sum: e86e05507b4d02aa98ec7163bc5a29788c194962bffc3e1261f38ae2e856589f
-Size: 18494
-Filename: iso-codes-locale-ml_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b1ba6eb2d91789c4e1fb74d844b17ce9
+SHA256sum: cf2a6f59e6cf1a6fc29e5b4fcf9acf6aa63a7e216b6958219fe3fe35e9d1817e
+Size: 18496
+Filename: iso-codes-locale-ml_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ml translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2336,17 +2354,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mn-translation
 Recommends: virtual-locale-mn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6f4a4328edc26d664a5f6d47d2ae23f1
-SHA256sum: afd6f8b5f406c29f28741c3820e9eaac88861a76f72b276b208559c6ffd23cd3
-Size: 8894
-Filename: iso-codes-locale-mn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 4839c2a1609c773146970a4126452183
+SHA256sum: d917f19dd8b0efb0afa340ba181351c9e6145326e78efb8da4a6c422bc67d81b
+Size: 8884
+Filename: iso-codes-locale-mn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mn translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2354,17 +2372,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mo
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mo-translation
 Recommends: virtual-locale-mo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9ac43ccf4b35771414877151ba8b6d4c
-SHA256sum: 8fa94dd96599550f7a99651579f0c10eaa02b7f8e2c1f0c27e34986d0d87c528
-Size: 1838
-Filename: iso-codes-locale-mo_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 9cd334aa5839234730706a91208c743e
+SHA256sum: 559750cc03fb5dcb564f7c29f8b3306804a250191e3bbecb7f9909015ad76300
+Size: 1844
+Filename: iso-codes-locale-mo_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mo translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2372,17 +2390,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mr-translation
 Recommends: virtual-locale-mr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9270f73508331d32edf8cf99dfee7dfa
-SHA256sum: 8a17412c6df114658bfb0ecf4f203da859fc6be19d26284819fc926b1fda2bdd
-Size: 119174
-Filename: iso-codes-locale-mr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 9664954474ff21f49b78602186104f68
+SHA256sum: e7f5d8d42ed451a478921f9e1dfbccb4372de04550aff32c5a50c6c9c90d1e08
+Size: 120636
+Filename: iso-codes-locale-mr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2390,17 +2408,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ms
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ms-translation
 Recommends: virtual-locale-ms
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a17f9d46a78ac030cd872bcc384f6280
-SHA256sum: ad4ddb28f4f45921e977cb8b8478b2b750139dbf85865df751f6082614d73efb
-Size: 5642
-Filename: iso-codes-locale-ms_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: fdaac86601299dcff2be44e1fc745559
+SHA256sum: 7102b7d33c3b0097b2bbb116710987189b198e3a875e3b18e706c94974a21645
+Size: 5632
+Filename: iso-codes-locale-ms_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ms translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2408,17 +2426,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-mt
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, mt-translation
 Recommends: virtual-locale-mt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3f925628aec0fdd3e6b9ed004e056880
-SHA256sum: 9201c3cce3729750d661572156f71286af622d75963946205dac7723bedb3938
-Size: 8614
-Filename: iso-codes-locale-mt_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: fc8ff1263cefd87e44d9796876c30a65
+SHA256sum: adfc9dc1cb51e699faaaabb02e9bcbeacb735726f19d7b9d3fd2fa98b7416326
+Size: 8600
+Filename: iso-codes-locale-mt_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mt translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2426,17 +2444,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-my
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, my-translation
 Recommends: virtual-locale-my
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 525259e33a655db07e4275a4ffd6c37c
-SHA256sum: b6fd55215e0f707d3732e202211d198bf16ff01851b503622a6176791f8ff29b
-Size: 4764
-Filename: iso-codes-locale-my_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5a26c13c02ed36c3c0ba8c1e1481232e
+SHA256sum: bce46caff06561d2747f36bbe373c93f01c1e26639755f7c5b5a8412ea7cafe3
+Size: 4760
+Filename: iso-codes-locale-my_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - my translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2444,17 +2462,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-na
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, na-translation
 Recommends: virtual-locale-na
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d915aa8ea81cc9d54e371565ce578d01
-SHA256sum: 443398d2d527e19d4fcb5aa96914f154de0da1db2dd71b40ee5e456ec52527c8
-Size: 3446
-Filename: iso-codes-locale-na_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 949dacd5679f3a92c06c17b3c42d1aff
+SHA256sum: 9699b78e9a7ca5659dd1178a90f06cf065ee75d7eedb7294e9c54a053fe62ab9
+Size: 3438
+Filename: iso-codes-locale-na_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - na translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2462,17 +2480,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nah
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nah-translation
 Recommends: virtual-locale-nah
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 76a65e7d2d0ce29d37452ffa0198e778
-SHA256sum: ee907625d10664e81cc2924694be1fcd7f32d9e9666c55673bda43aa9709001b
-Size: 3886
-Filename: iso-codes-locale-nah_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 33971806e6f7286da7bb224792f60faa
+SHA256sum: 67da0f66b7b584abdf8be88df0088bb19ef6e1caa2b35d7aed44f067766efbe3
+Size: 3884
+Filename: iso-codes-locale-nah_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nah translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2480,17 +2498,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nb-no
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nb-no-translation
 Recommends: virtual-locale-nb-no
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7101ca0b3cf81e6928481513654f5c5f
-SHA256sum: 941e39de2e63d3113565114701fb0e6cf33aef51c694024bf13fb72f588d1545
-Size: 1640
-Filename: iso-codes-locale-nb-no_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 199b23785a37029b72af0049701897e5
+SHA256sum: bc30fef3ce30e95769bdfdd55c2c502fcb32b8d5cc7fa274b62a8b96628ad610
+Size: 1642
+Filename: iso-codes-locale-nb-no_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nb_NO translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2498,17 +2516,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nb
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nb-translation
 Recommends: virtual-locale-nb
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 155247252fc32a58e9d3affe4ecafe5c
-SHA256sum: 147089933833fcd3e53ffebb65fb509d6c8ed0353df33f08b83d0f7cfc641449
-Size: 14818
-Filename: iso-codes-locale-nb_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ae3beaf1aadd27ac071bc3c190541757
+SHA256sum: 1326fd5aa59588056f59e9ea4cfdb3b7612d3adccf1c9b7e8f9bd591bbb30faf
+Size: 14814
+Filename: iso-codes-locale-nb_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nb translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2516,17 +2534,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ne
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ne-translation
 Recommends: virtual-locale-ne
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 926c36165589de25e5a86f962cb60c87
-SHA256sum: df8205e5dbca6afe904695e0be866b348c30579b9b8da61429a58a02d36c9dfc
-Size: 9596
-Filename: iso-codes-locale-ne_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: be4f6a65b13eeb50667e92efb7a3170e
+SHA256sum: 1c52266685a8e5603da3319e08b7f802ad6d56a96b1c6d44dcdd35cd817b45cc
+Size: 9600
+Filename: iso-codes-locale-ne_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ne translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2534,17 +2552,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nl
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nl-translation
 Recommends: virtual-locale-nl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: be95d637c1b2b7d48bd7560cff78c001
-SHA256sum: 473eefd015e5be3ff24f985ea121754847e6442d08db99ca640471f8931012d4
-Size: 90304
-Filename: iso-codes-locale-nl_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 04d4414b6e11ac58493d2aef45112f4c
+SHA256sum: 7301b7bfa7d968bd082f8ea1a5e2bbb4a88428e3533019aaeb8a2aadc5cfc6a9
+Size: 91980
+Filename: iso-codes-locale-nl_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nl translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2552,17 +2570,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nn-translation
 Recommends: virtual-locale-nn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 50ab71e16eecf9b8c84e8798da7797cb
-SHA256sum: c0d25e58e52f65c3cd82c5b40f41d11fe4e543ba9d7940ddb667bcca62188460
-Size: 15108
-Filename: iso-codes-locale-nn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 38b4a62037de4999d355cc90db0cfbdf
+SHA256sum: 1ac0125af9b2729f6d17d768e1cf28a1ad81cb0428b08e7f341df76c321147f4
+Size: 15120
+Filename: iso-codes-locale-nn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nn translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2570,17 +2588,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nso
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nso-translation
 Recommends: virtual-locale-nso
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 486498babaac4f80f17b94645242f97c
-SHA256sum: 0e4e0091a6e6e636744e92e9259d028ff4e60508330f9ec96f1b7d146a866afb
-Size: 4510
-Filename: iso-codes-locale-nso_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: acd8509bc25a1605066600d7394ff2cc
+SHA256sum: 0247ba662e1b495e00589ce5d2faf026dab37274d5641a575dc37d67b595463d
+Size: 4484
+Filename: iso-codes-locale-nso_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nso translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2588,17 +2606,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-nv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, nv-translation
 Recommends: virtual-locale-nv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 02e3cb5a320b6899c4a80fad15533209
-SHA256sum: 15194d663118693f3df5d09fb318c65d3333995382f1f3420e7c2e110b41f57f
-Size: 3294
-Filename: iso-codes-locale-nv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: c99dfb4374dd3bd037c769ddc08b4725
+SHA256sum: ae82c9acac79f450f5aa4a9afa5cf980eba294c8549cc9373e18b5b1c327c111
+Size: 3296
+Filename: iso-codes-locale-nv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2606,17 +2624,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-oc
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, oc-translation
 Recommends: virtual-locale-oc
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a51d06b4a1ab5f426c839f0bcb5000e2
-SHA256sum: d0bd84cc038f644da4cb028f296bc023a2201f2244fd5cffb6752581eef5ed8c
-Size: 11874
-Filename: iso-codes-locale-oc_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 51e27180f67558be636088c3fe0d691f
+SHA256sum: cde583fd3205d52c3606c2f25dfc58d08788e452b13dd9ee2fc1f56782f1f0d6
+Size: 12024
+Filename: iso-codes-locale-oc_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - oc translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2624,17 +2642,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-or
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, or-translation
 Recommends: virtual-locale-or
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a72999a858e1c610f7ff4884b00e9ef0
-SHA256sum: 9a1cac50199794147761b0e1f9582c072865a1d130c9bcef38816ea36c78e778
-Size: 68592
-Filename: iso-codes-locale-or_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 54302ee8b0a1f7c72f80baae8b84aa7f
+SHA256sum: 544d371accd8deb5551919b8faea7082fa14644f50f8f0b1161eae350be4eec2
+Size: 68714
+Filename: iso-codes-locale-or_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - or translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2642,17 +2660,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-pa
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, pa-translation
 Recommends: virtual-locale-pa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e8fcf6b40ebecf19218dd3abbcb41962
-SHA256sum: de86bc023f8c8d203e423d3e59170b1b65437ed400399079af4f82a6b4c3bae8
-Size: 116430
-Filename: iso-codes-locale-pa_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: dc56b350c627121e011480dd9af74b96
+SHA256sum: 2cb284fb646a88b5b6efe80f8ce2c28a6c49c893f739f56de32a5c780306fc2a
+Size: 116400
+Filename: iso-codes-locale-pa_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pa translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2660,17 +2678,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-pap
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, pap-translation
 Recommends: virtual-locale-pap
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1c827ba64fe2afb79969cda86141db5f
-SHA256sum: c9cc9097d2f484ef6c5989fb13f0a3b5e5df176c5117c25367734a3b83926b61
-Size: 1260
-Filename: iso-codes-locale-pap_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 90f12fb05d160ed70fe846fe62d5923f
+SHA256sum: 29ae3c7e005a97babfcfa6ac2528771e785438aaf655fd38be80e37d4fd9a970
+Size: 1266
+Filename: iso-codes-locale-pap_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pap translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2678,17 +2696,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-pi
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, pi-translation
 Recommends: virtual-locale-pi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 305c9a3d05b21530cda391889a41b47e
-SHA256sum: 84bc717b9bbe78dd24a6285ba10df087c3232d373f2c338da63fbba2aa30e9db
+MD5Sum: 1690819728d22804668ded1880d482a3
+SHA256sum: 3913973ea41d9baf2ca34e05726533a157ecd0efdd6940c72b3d756af9583afa
 Size: 4054
-Filename: iso-codes-locale-pi_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-pi_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pi translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2696,17 +2714,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-pl
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, pl-translation
 Recommends: virtual-locale-pl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d114da182e4789bb875b217b73c878e4
-SHA256sum: d662affe8b8b8d3bb8e30bc32ef03f95a997588e9433ade821d90af3e7c78524
-Size: 113178
-Filename: iso-codes-locale-pl_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a38f773dbf1318f9b912b73a9108f3ec
+SHA256sum: 39fb365b390239ac1b9df05e213f6a721318ec21685cea9136a9b154f4802ef2
+Size: 113470
+Filename: iso-codes-locale-pl_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pl translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2714,17 +2732,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ps
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ps-translation
 Recommends: virtual-locale-ps
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9a9abc5ed85aaca36fa9c9877d1facda
-SHA256sum: 6cadb63b43dfe3587893b6923cb30f9a6a41543701b4518faca41014713140e2
-Size: 4406
-Filename: iso-codes-locale-ps_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a8e6c42630b483156256e49fbdfb8e02
+SHA256sum: fd26f988d89e7057561caabb2bdd8835fcb40d31df7fb8bda371c8f6f2cf9177
+Size: 4404
+Filename: iso-codes-locale-ps_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ps translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2732,17 +2750,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-pt-br
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, pt-br-translation
 Recommends: virtual-locale-pt-br
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 00f4ff35833206b7420e305e98ad0be9
-SHA256sum: 2999e6eb66d0eae12c187dfd141b95794a40cf00c9360e3f9f3c0ea05576e0fb
-Size: 24696
-Filename: iso-codes-locale-pt-br_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: e13cbc125dc76b8e3a9df34fc7a85d4f
+SHA256sum: 84f1f6e348c952855e36dd149769ee1a57a63fecd5884c86e9759ef6f5d5c06a
+Size: 24930
+Filename: iso-codes-locale-pt-br_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pt_BR translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2750,17 +2768,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-pt
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, pt-translation
 Recommends: virtual-locale-pt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f2ab61ae992e1d33a6923af67224dd4f
-SHA256sum: 41ac505752a64512b7621008c5e27dac04d2bf3540c0612ab4fb676a6a4ab2fa
-Size: 18682
-Filename: iso-codes-locale-pt_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 76e30030a42cb06c975b50a7b949a71d
+SHA256sum: e2cf35c590feddf960ce6b05aa29438f9951abd093805eb28ef89ca364c7c967
+Size: 18856
+Filename: iso-codes-locale-pt_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pt translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2768,17 +2786,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ro
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ro-translation
 Recommends: virtual-locale-ro
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 038a173f20784571e96cb9084a8dcf07
-SHA256sum: 4afd58c1b07398c723d9881021ab073099e00160bf11f5ebe9cb465b3ab36f4e
-Size: 28990
-Filename: iso-codes-locale-ro_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: e52568e0258d9a1be85e7b7890a2f720
+SHA256sum: e499fd38713f470405cacc580ba38beab498a732586aa641db26f1e305783ac2
+Size: 29066
+Filename: iso-codes-locale-ro_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ro translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2786,17 +2804,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ru
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ru-translation
 Recommends: virtual-locale-ru
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ad52bd87729f8e4329f5b423ea54a7ab
-SHA256sum: e2f7820e57c996932ae2dc0d53f6e986b2787d01776cde8c4d23e2dd903242f4
-Size: 27606
-Filename: iso-codes-locale-ru_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5b0ed1427e317781b19d7dcfb808452c
+SHA256sum: fe4503d2391152ded7a53ba358ea7f9b9e08f9f3f60ff6d114c49713f2c50e3f
+Size: 27588
+Filename: iso-codes-locale-ru_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ru translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2804,17 +2822,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-rw
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, rw-translation
 Recommends: virtual-locale-rw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 252c5d0fde60980f7ee967ff1c10f21f
-SHA256sum: 949e0257d352e3ef6972797b8c93d5e1005664993973edafbef48e073acd49cf
-Size: 16100
-Filename: iso-codes-locale-rw_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 6fdb6f48f11106041a9ff34d12d29c7d
+SHA256sum: e808343f1d5fcd6f867841b43ef5f4f32643621ed67b794e665950b71a19583c
+Size: 16092
+Filename: iso-codes-locale-rw_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - rw translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2822,17 +2840,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sc
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sc-translation
 Recommends: virtual-locale-sc
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a14e474f2d013dcfb64f4b9aa654591d
-SHA256sum: fb78f3a9a1188a56b0de9a8917ac4eb173f3886531580653823d821cfd7d0f50
-Size: 61394
-Filename: iso-codes-locale-sc_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 95c1cb4c8dfedb562f8513a5a3433532
+SHA256sum: 1ec770f32dfeda68b31145eb39260059cfe22b65c8561c08f716b8790caa115d
+Size: 61586
+Filename: iso-codes-locale-sc_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sc translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2840,17 +2858,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sd
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sd-translation
 Recommends: virtual-locale-sd
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bc1cc99c1da46047531332c7da1410c9
-SHA256sum: 7479e04cc0d84a4e6aa4d019a79d62c4962557269e64fa377520f98b2f6f846d
-Size: 2574
-Filename: iso-codes-locale-sd_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5a8b9f5969082cad4639f8b74640fdd8
+SHA256sum: 7d139eeea2ffbd84f2ebb332efde18d73367804d5b4a958a793b7d786929aa27
+Size: 2576
+Filename: iso-codes-locale-sd_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sd translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2858,17 +2876,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-si
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, si-translation
 Recommends: virtual-locale-si
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7e409100f0d61a695b2e99dbf34d097c
-SHA256sum: 19ed5fc46150d626793d6e820a142b38fe0595e6b0cb9b0e721bf3e3f65a1555
+MD5Sum: e4d34e26bae66eb2a85f4aff716a5eb4
+SHA256sum: 39479d75d0653c913e18818d4fa8925c988639a4964fb5131c54bc2e9bd75fc6
 Size: 9586
-Filename: iso-codes-locale-si_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-si_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - si translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2876,17 +2894,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sk
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sk-translation
 Recommends: virtual-locale-sk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d92742b390b38140d4528297e077aa55
-SHA256sum: a54fb91198949e248ce2438b9f87819817cf0abc76ead913f2d2169411bd37ea
-Size: 25568
-Filename: iso-codes-locale-sk_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 674b79148dc6d3154ce0ebb4383db9d2
+SHA256sum: 7360a5796ba9e9e9ddfe3dcee8b570213ca8f3f0a4965d09c3326644479927fb
+Size: 25536
+Filename: iso-codes-locale-sk_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sk translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2894,17 +2912,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sl
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sl-translation
 Recommends: virtual-locale-sl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 41dd5f781a41236624a092d24ed71e73
-SHA256sum: 931646dcc842765029b380ddb1678668097db08636005dbc20df6797ba36d483
-Size: 45350
-Filename: iso-codes-locale-sl_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ebe53a1b40eb0536e136468e2c0454f8
+SHA256sum: 335bbbfa2ad55b369662b36628b671247d4881483bebe8dc36b4090b980f27b4
+Size: 45478
+Filename: iso-codes-locale-sl_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sl translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2912,17 +2930,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-so
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, so-translation
 Recommends: virtual-locale-so
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 189a98451ccd2b13685b3dcafaff3004
-SHA256sum: 1ea80bfa5b04f035937b6f3a9e42ea22bfc637bb9691287af61337257424fa9e
-Size: 3410
-Filename: iso-codes-locale-so_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 68a09a4fb78f93aece037a5fb8a51296
+SHA256sum: 3fb099b80dff73c9007a8657cdcd1dea5f260b75eb61c262ca9c89d3119d6295
+Size: 3406
+Filename: iso-codes-locale-so_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - so translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2930,17 +2948,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-son
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, son-translation
 Recommends: virtual-locale-son
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8ce043b14203faa3b3d1d47904645d28
-SHA256sum: 74a7e9439f17dae91b9dbe044052898d043bf09f7b9c754775fa796b93741c72
-Size: 4516
-Filename: iso-codes-locale-son_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a3e94a02c888d9760ce5135075ca3944
+SHA256sum: 954148dc8bff9755ab9b7b564ebbf653c6794b68fb66022f4f85f6ed5719cb25
+Size: 4508
+Filename: iso-codes-locale-son_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - son translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2948,17 +2966,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sq
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sq-translation
 Recommends: virtual-locale-sq
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: be0758af9c347bbcb6e5638fb6a98522
-SHA256sum: 1e8ab4d6557baa99d85c80bcc516118799c5aa749b67eac50eff82784bbf1795
-Size: 8056
-Filename: iso-codes-locale-sq_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: aa767c443f3a63af476b95b2cdc9b318
+SHA256sum: 2785e43a56eaa33b0554b261179b16a2e1c067b9377ae7859dca3bae9e32451b
+Size: 9048
+Filename: iso-codes-locale-sq_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sq translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2966,17 +2984,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sr+latin
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sr+latin-translation
 Recommends: virtual-locale-sr+latin
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 45a40e8cb582cb67e6d05cf2ead3ac22
-SHA256sum: 59236f6acd99689197504471a8d8a9034bf415d729c29bab7770bdc35fe20d69
-Size: 67786
-Filename: iso-codes-locale-sr+latin_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ed8de5eda570e80c95d677d830cd907a
+SHA256sum: d9a62f43e11d3eed15121adce862e00ae3b6cc76a640337fd8a13c493e81b45e
+Size: 67840
+Filename: iso-codes-locale-sr+latin_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sr@latin translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -2984,17 +3002,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sr-translation
 Recommends: virtual-locale-sr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4527531222afd62b8a25a29b9d80c925
-SHA256sum: d409d61297b66a9f3e7a9e9457e027bcad8e84a26c978a5d52e08a40ac335e6a
-Size: 77956
-Filename: iso-codes-locale-sr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: bb8d45670d5ae427c5e7ce26c7411f8f
+SHA256sum: 3593d6a9d9d3ad3c6235f02e245f4bcc21bd5e50a6a633e1d8de3263ce791600
+Size: 78738
+Filename: iso-codes-locale-sr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3002,17 +3020,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sv
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sv-translation
 Recommends: virtual-locale-sv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7f1d58236cc4472e3f019160cdec6f14
-SHA256sum: 207b05a15b10f68ad0bec1eda23e77a067b4f789a89dc14a150461beb892b732
-Size: 159040
-Filename: iso-codes-locale-sv_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: f9a3cb8f763bb6684add4931446baafc
+SHA256sum: 1a2b79cfd82e0e5729a093314621b2d233973d396fd4e09bfcf2b8fb6f110862
+Size: 159068
+Filename: iso-codes-locale-sv_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sv translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3020,17 +3038,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-sw
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, sw-translation
 Recommends: virtual-locale-sw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d34863a06594cea6a9c4fe0046872811
-SHA256sum: d629edaceb614b9ea606f404c3f395e20614f8c3ef6751bbb1ff2642b0a9fa49
-Size: 3546
-Filename: iso-codes-locale-sw_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 809441a479261cccef173288938a0557
+SHA256sum: 561097794bcd895514d4e6b32b445731e9b488009e867bcb1c6d718d84cb6fdf
+Size: 3556
+Filename: iso-codes-locale-sw_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sw translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3038,17 +3056,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ta
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ta-translation
 Recommends: virtual-locale-ta
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 03ff7ee633822d73ee543c7d902976ff
-SHA256sum: 07798fc73f22589f2233fd0517223687465dde91fba3e2771c40d89365650f99
-Size: 117332
-Filename: iso-codes-locale-ta_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ca03763865eb670292741b22794911fe
+SHA256sum: 8c54bb0d9cc0fe853411fa41447904395c1afb685e9879d1d76a8021abc6b4a3
+Size: 117640
+Filename: iso-codes-locale-ta_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ta translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3056,17 +3074,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-te
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, te-translation
 Recommends: virtual-locale-te
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e3c0092ca92c58c0f8f1f1e7a9637c2c
-SHA256sum: e851c0aedf23eca1c2aa3e8bba46712b44958e63ca1324ba8b027b86818f749e
-Size: 18334
-Filename: iso-codes-locale-te_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 81d1cbe3fe53cf834affc2c2ace16d43
+SHA256sum: d32da5983e5aa1ae6f19cd8a0eec94dbb6676d6ee371a3e21d2448c248013a4a
+Size: 18368
+Filename: iso-codes-locale-te_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - te translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3074,17 +3092,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tg
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tg-translation
 Recommends: virtual-locale-tg
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4ab1ce28a5fc6a1b92975e3ca058bc7e
-SHA256sum: 7a0a92f718136f5708f28e97f04eaff9e9b095c69e194ae8e786852c26c590a9
-Size: 10330
-Filename: iso-codes-locale-tg_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ba7404cd33d74922fbd293c5f9392f67
+SHA256sum: f298a621601a984b99316e18fa3a0aa4d4d84c7f305e78f03d175d81289152b1
+Size: 10336
+Filename: iso-codes-locale-tg_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tg translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3092,17 +3110,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-th
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, th-translation
 Recommends: virtual-locale-th
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: dff21a9705f2e5b3824fcbbc76686877
-SHA256sum: dd6c61cea5059e33f38d27e6bdcd850511898bffb2ec24568fb2cbca69dad6bb
-Size: 57674
-Filename: iso-codes-locale-th_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 31a1140d65d111bacb40b4695b448ef3
+SHA256sum: 10bb3b23b0de1f9fd2bd08deb02f7a21c2126db0078adb6d83e3a8095bcc514c
+Size: 57728
+Filename: iso-codes-locale-th_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - th translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3110,17 +3128,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ti
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ti-translation
 Recommends: virtual-locale-ti
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 70aa8b443a8a9a46edd3a8b59320b1a5
-SHA256sum: 4c7e1663cea679c538153fd15dc96b671ec628c800d7ab3271b3439e145043d7
-Size: 6050
-Filename: iso-codes-locale-ti_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 752155d67843898a9f51922db3935948
+SHA256sum: 9bfa1209fdfa9b2a565688eb150ac14826dae10bc8fa5bfa0e15952e7c19f1ba
+Size: 6028
+Filename: iso-codes-locale-ti_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ti translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3128,17 +3146,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tig
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tig-translation
 Recommends: virtual-locale-tig
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 71e96722015c3e9be83326e8ddee5fb6
-SHA256sum: 6879bfb60cb7ac99315160a8aa09abc2c53328bcaa176f7684120f682dce0dde
-Size: 5600
-Filename: iso-codes-locale-tig_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: c737ee9566be1c7675b4f447166a3f7b
+SHA256sum: dffd70b5830442a7144e15cbfb3e52ea693654ffed75fb92c1dc0ae3a8b642f6
+Size: 5586
+Filename: iso-codes-locale-tig_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tig translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3146,17 +3164,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tk
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tk-translation
 Recommends: virtual-locale-tk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0cb1278a38e0a5435df1cd9d45777f2a
-SHA256sum: b48e53bf6322990d237a711c374979e6414d9edb1052861d4b692cde853c8bde
-Size: 6438
-Filename: iso-codes-locale-tk_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 842a78b32816b3eb7069ff6b7de094e2
+SHA256sum: 4a9abe5b2898f5574ae27b7d19e011c6f588c6ce2231e9ded3efca031a7143ac
+Size: 6440
+Filename: iso-codes-locale-tk_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tk translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3164,17 +3182,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tl
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tl-translation
 Recommends: virtual-locale-tl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f80d69cf9bcd17145bd237926ec0b18f
-SHA256sum: 9c8d077e0edeca37da3fb4f14b135769fb7b3efaf9b098c2f848ca2cc4783d52
-Size: 6774
-Filename: iso-codes-locale-tl_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 0d95c1b4f3410d90d7ae8130a3cfa290
+SHA256sum: 774ab3c6d96d7d982fdd6ba45753d81522b8f4242096d578455185072ad7faf6
+Size: 6784
+Filename: iso-codes-locale-tl_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tl translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3182,17 +3200,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tr
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tr-translation
 Recommends: virtual-locale-tr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6acc09cc7c115e946089834ce339eff3
-SHA256sum: 8d99aa9d5417eace73d311b31b5ae0e721b08f7baa302f78c592ed8d210a4911
-Size: 102324
-Filename: iso-codes-locale-tr_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 1e8c2ec29d862ad17ff3e958ea3235a6
+SHA256sum: 61689a81a6c0d2ad0416e6452de1b7d9579718968d599984495757d68d5b0ca0
+Size: 120622
+Filename: iso-codes-locale-tr_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tr translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3200,17 +3218,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tt+iqtelif
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tt+iqtelif-translation
 Recommends: virtual-locale-tt+iqtelif
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 10a2ca09f276ca544d89eb2384d45d12
-SHA256sum: b079c50cfc4593e53d0c684c941f437a31480e717ab2d2e9730c46bb3c4bb3d9
-Size: 9080
-Filename: iso-codes-locale-tt+iqtelif_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 06c4e0b389c7c1b677c39300b86d767a
+SHA256sum: bbd24d41278999eefc07aca7f41141798a9af4097060442e610e6866a488aa6c
+Size: 9398
+Filename: iso-codes-locale-tt+iqtelif_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tt@iqtelif translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3218,17 +3236,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-tt
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, tt-translation
 Recommends: virtual-locale-tt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9aa38dfb6cd2c62525ab0c84e6d3b961
-SHA256sum: c64d66560bf9458ef1c49c42e1af8e736440ee709139abdb033cce60b6139633
-Size: 10382
-Filename: iso-codes-locale-tt_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: b87aa01eb61e841d0b116db3226b62b2
+SHA256sum: 0aff8c107e14e4b4d57391f9803be861e2ce7901274b6c911a7c03812321ebfd
+Size: 10434
+Filename: iso-codes-locale-tt_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tt translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3236,17 +3254,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ug
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ug-translation
 Recommends: virtual-locale-ug
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9dbdc6c3537e827dd8c439b63d53444a
-SHA256sum: 8816479f48745e128c9e4c41871a52dac3cd6b0a6069c78c0799f40bd9e4a850
-Size: 9362
-Filename: iso-codes-locale-ug_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 6bd9f045c8105f1c87c3aa65f7b2524d
+SHA256sum: c7904e3fb082deed6fc9076e3e078cbac4d9269bc560f0e3cd5fb871b9bacc4d
+Size: 9672
+Filename: iso-codes-locale-ug_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ug translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3254,17 +3272,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-uk
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, uk-translation
 Recommends: virtual-locale-uk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cd5d150d806edb38be2d461458a2abe8
-SHA256sum: 7916f0e473b84b54b40e0e272ac7bba593444b75566d521f1565505086eff29e
-Size: 221988
-Filename: iso-codes-locale-uk_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 9e129914b769330bbf9205b00e87fbfa
+SHA256sum: 80c06a4e3b29d8278695d108e808b6170f2e9438139ef3d4db5e9cadc6979322
+Size: 223152
+Filename: iso-codes-locale-uk_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - uk translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3272,17 +3290,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ur
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ur-translation
 Recommends: virtual-locale-ur
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8d9b40e546a389e1d6a170a6159734d1
-SHA256sum: 617b843f45c25350b10adc289273b8c4fe87f0fbdb004c50a23a8e664125a704
-Size: 5166
-Filename: iso-codes-locale-ur_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 945ed4119e5aa112e335df61cd87f907
+SHA256sum: 13967c74b2efe7d9741aecc6b649baaeee1141756341e00a4f7755f12d8c87cb
+Size: 5218
+Filename: iso-codes-locale-ur_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ur translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3290,17 +3308,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-uz
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, uz-translation
 Recommends: virtual-locale-uz
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2e7815ff5c30134f36292e61b6683a28
-SHA256sum: d09d0010d17b2688597af40431426ae7e6edf99fa9be92e88e3740540541bdcc
-Size: 4084
-Filename: iso-codes-locale-uz_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: a07bb5ca81e9ee1c5171937f1e15deb0
+SHA256sum: ec89e575e525714c5c87e8bbc61052a3ee329990dc60787005a11849ea83dfae
+Size: 4072
+Filename: iso-codes-locale-uz_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - uz translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3308,17 +3326,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-ve
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, ve-translation
 Recommends: virtual-locale-ve
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c4d1d03a2155b2ef48ecce863beb6816
-SHA256sum: e9ac988f205590d38722516b4046221fc700985526c5413d02ece9715ffb1e9a
-Size: 4234
-Filename: iso-codes-locale-ve_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 09f1167148ced30bfb66335d5c86018f
+SHA256sum: 08d6e048bfb80844b12f59dff1be7060f76beeb8814962b530bc50b39ef9456d
+Size: 4236
+Filename: iso-codes-locale-ve_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ve translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3326,17 +3344,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-vi
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, vi-translation
 Recommends: virtual-locale-vi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eb78c3c9a4ccfadbe5e01a231e7cc433
-SHA256sum: 73c1e760ad42079f36e421d233569dd3a950e517e539891493e4e1a5b86bd4b5
-Size: 65614
-Filename: iso-codes-locale-vi_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 975d23a1669fb3031f6492cf23d1b00b
+SHA256sum: 56a717545fb8c0bc33af25adbe104dc6a61a1f81ead500b2f398037c84ad9e19
+Size: 64880
+Filename: iso-codes-locale-vi_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - vi translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3344,17 +3362,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-wa
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, wa-translation
 Recommends: virtual-locale-wa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e9fe433c59c9d097697d6504b27d1641
-SHA256sum: 537bad48cfea65a1df840b46d147b2f186d035f015bfab4d63bb19f96f362805
-Size: 18196
-Filename: iso-codes-locale-wa_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 6ff023941d7f3531872a73c5dbfc0d35
+SHA256sum: c1ada202f63f5a8a2b52b5328ba00645cd1e362f5ee90ae5be96d66d5c00fb69
+Size: 18164
+Filename: iso-codes-locale-wa_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wa translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3362,17 +3380,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-wal
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, wal-translation
 Recommends: virtual-locale-wal
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8c1aa22985db292b53b73acc589fbd81
-SHA256sum: 3eff37e0af6480c8ee25ad8f59b3fe9e2918ccd5ab0543d9e897216035ba6106
-Size: 3280
-Filename: iso-codes-locale-wal_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 69ac4d35bfc400c49594b36e1859394f
+SHA256sum: bdef9e31da95cc7e8d02de68e957f3004c928971f1074c8bf732d1bf7dd4f80a
+Size: 3278
+Filename: iso-codes-locale-wal_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wal translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3380,17 +3398,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-wo
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, wo-translation
 Recommends: virtual-locale-wo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4a9e3f346a67192c5316c9a8e2e843f2
-SHA256sum: c52f26aff33bec4dda754b58d75af16a7acf5f82459ca284dedf950ccba7235c
-Size: 8008
-Filename: iso-codes-locale-wo_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 5e3bccf6e0b90d2e3b511e47ddf18d15
+SHA256sum: a7b18d4e70af1aeb740d7e0885bd99d9a3add2bd28c5997325c1f2886a92c2be
+Size: 8014
+Filename: iso-codes-locale-wo_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wo translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3398,17 +3416,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-xh
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, xh-translation
 Recommends: virtual-locale-xh
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 47b21003856de76d89a8f44d69377d9e
-SHA256sum: 232bc3610a0f75efb65f8da82e393b00527184e5cf4c5ecf2ccb75f9253aef74
+MD5Sum: 13df692886938172bf26684c9d284822
+SHA256sum: d6ffc0cf15021b3ffcd9a59b0893a903da55a9d731398d298d45de7e8ba7920d
 Size: 3040
-Filename: iso-codes-locale-xh_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+Filename: iso-codes-locale-xh_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - xh translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3416,17 +3434,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-yo
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, yo-translation
 Recommends: virtual-locale-yo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 17bafa75ec21927a0543d1e35d6b81d5
-SHA256sum: 1bdc66b318841eb041e6d31e0c568f14727967e29a4c05e57cbee1a7b88aed08
-Size: 5078
-Filename: iso-codes-locale-yo_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 7b5309f9d93b6110395910242ae798e5
+SHA256sum: 4bad963a8b09d8b032cf8d6f64dd38609eaa135b78d019963437589c754fb440
+Size: 5074
+Filename: iso-codes-locale-yo_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - yo translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3434,17 +3452,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-zh-cn
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, zh-cn-translation
 Recommends: virtual-locale-zh-cn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: df56cd217843007e1cea9b8e06cc3f37
-SHA256sum: cb805cf85164a7c8582274cf5bf90b45e574f6cf6ba6666522e1a6c069aa957f
-Size: 68458
-Filename: iso-codes-locale-zh-cn_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 582e008fcc8bf0ad5024ecb4e95621d9
+SHA256sum: 167c608b61915bf6ee0c8c66addc91b7ea0bc382e33335408e50f8386a12e249
+Size: 68372
+Filename: iso-codes-locale-zh-cn_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_CN translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3452,17 +3470,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-zh-hant
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, zh-hant-translation
 Recommends: virtual-locale-zh-hant
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c09787294abb48636181ff18a61332d3
-SHA256sum: cb86f3f19c7c13d349089a4e83393c206c9359c0baa57db4e3df1abc7eb6a2af
-Size: 3384
-Filename: iso-codes-locale-zh-hant_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 21e6019fe00bc74f0dc7d3a3aa3e0f26
+SHA256sum: f046dd49099ac08b49396c8559d227a2c3530a010b3d86f50a810cdbb8eee489
+Size: 3386
+Filename: iso-codes-locale-zh-hant_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_Hant translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3470,17 +3488,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-zh-hk
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, zh-hk-translation
 Recommends: virtual-locale-zh-hk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b13d724fa280153df32a64908a907329
-SHA256sum: d46b387e446693d166bb6731c4f1ccac4c3bfa1b5674887c6972cb815894e3df
-Size: 18458
-Filename: iso-codes-locale-zh-hk_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 2e165e11b10bc4f0c956d2bad748cad6
+SHA256sum: 30ed6c43cda1bfdb5a2ada2c75912725ea4a23a7d13b6863d426f0bdf2d9151f
+Size: 19076
+Filename: iso-codes-locale-zh-hk_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_HK translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3488,17 +3506,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-zh-tw
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, zh-tw-translation
 Recommends: virtual-locale-zh-tw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66da79ede5c0be73f2cc43cbb1a200a9
-SHA256sum: b9f6974ce68e8790aecc256145762691827f8d6aee7935fcaa342eadf4131dc5
-Size: 36770
-Filename: iso-codes-locale-zh-tw_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: c5771221e5c1f8cacd89ec11a45a7fc3
+SHA256sum: a8a6ba31214f2dfdb844a2b45845efa857d119705f949775a963e56259f8cef7
+Size: 36588
+Filename: iso-codes-locale-zh-tw_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_TW translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3506,17 +3524,17 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes-locale-zu
-Version: 4.4-r0
+Version: 4.5.0-r0
 Provides: iso-codes-locale, zu-translation
 Recommends: virtual-locale-zu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fc9e663b7eee4d11f5dfcf868beb2836
-SHA256sum: b01c4bb54a412b412365ef4b4a86e9a5b0170d0cc1a90de8bb335645a0ca056f
-Size: 4112
-Filename: iso-codes-locale-zu_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: ff5a9ea5dc2e0063ba51417516438468
+SHA256sum: 6174543ed5326cc4f0a245313b10f5ed6a1949dfc275a043e75bb2995caefeac
+Size: 4110
+Filename: iso-codes-locale-zu_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zu translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3524,15 +3542,15 @@ License: LGPLv2.1
 Priority: optional
 
 Package: iso-codes
-Version: 4.4-r0
+Version: 4.5.0-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e80703a79b59bc37efb011ead3326df0
-SHA256sum: a54471078f571d59ff3256d5b72a1be465c52a0afb90c8efb2712c55b68457bb
-Size: 251886
-Filename: iso-codes_4.4-r0_all.ipk
-Source: iso-codes_4.4.bb
+MD5Sum: 6af91c945bdd21a512b88d084d68b9d5
+SHA256sum: 8d3e493cbccada7038846122a38bb427c771349c2dfc6415a48c831b8f258fbf
+Size: 251546
+Filename: iso-codes_4.5.0-r0_all.ipk
+Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations
 OE: iso-codes
 HomePage: https://salsa.debian.org/iso-codes-team/iso-codes
@@ -3544,9 +3562,9 @@ Version: 1.0-r10
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bbed85b85726257fa0fa4ae43da4f582
-SHA256sum: 150ceab69fc71b0c55e0b7d089880ca7ad3ecaa4b1cb48893cb6bbe0292bcc6b
-Size: 680
+MD5Sum: baa4378c1e41f96c424acec582da7877
+SHA256sum: 30f65832e13dd92743f5b603d2fb14e57dc24341ac10c3bd816f76caa5ca2262
+Size: 682
 Filename: run-postinsts-dbg_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Debugging files
@@ -3561,9 +3579,9 @@ Recommends: initscripts-dev, update-rc.d-dev
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b30bb9650da2e092e1373044258d5e6a
-SHA256sum: bc3c5d33a04c7b1cb31eb510667429f788ab91d7189d02a573919e5a3076c78c
-Size: 738
+MD5Sum: 184fbcbfdf26b4f37fdb751495210254
+SHA256sum: 8891bd454c69c68625fa512c09cdb8fb3dc6074d50770b21dc5cfe518cf15f7c
+Size: 740
 Filename: run-postinsts-dev_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Development files
@@ -3577,9 +3595,9 @@ Recommends: update-rc.d
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9e232341bb8949f52364f710d24f98b3
-SHA256sum: f8baf8bbcf7b87eb02bfc619e33b81d694f35bc44489833b26c8451417722bd8
-Size: 1892
+MD5Sum: 836dcf6c84109800c01cd7805c94803c
+SHA256sum: 56f739c40799ee3fe5cdbf8a3a3a7bd9d220b353d11f95475df8e624346b8e9e
+Size: 1894
 Filename: run-postinsts_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device
@@ -3592,9 +3610,9 @@ Version: 2018102501-r0
 Section: base
 Architecture: all
 Maintainer: OpenPLi team
-MD5Sum: dfecc529ebc4908ec80afb95a7967515
-SHA256sum: 3fedc514bcbdd8d5046161575422ffd2980319c7f028d1da6c37c44a99c71ff2
-Size: 5014
+MD5Sum: f943b8a04511cf427cf903a1ba358d53
+SHA256sum: 8a55994058ce50b81e9f2512ea9dcb8e865a8ffad110090edee62dbab731468e
+Size: 5010
 Filename: settings-autorestore_2018102501-r0_all.ipk
 Source: settings-autorestore.bb
 Description: settings-autorestore version 2018102501-r0
@@ -3608,8 +3626,8 @@ Recommends: update-rc.d
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 161bb3c52935231c58964adead49fec1
-SHA256sum: 0f275d7249ada6abc8dbadafcb3d601a518116d6f3aa454f21bb243e78ff34d9
+MD5Sum: 15e5fc981c9cb5195a046a7787680ca1
+SHA256sum: ebbaa6cf0b1726b0a1e12cbd6ada66e69250d9cf21eeddd5984f3dc727af757a
 Size: 980
 Filename: softcam-support_2-r0_all.ipk
 Source: softcam-support.bb
@@ -3623,8 +3641,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd62762ac2a06f5d7536e62fc06dcb38
-SHA256sum: 9157a614822262691ab7a6daa5a6919c439d2e038a6e0982a0f52c2e8e8d4130
+MD5Sum: 1ff98eaa0406c9b91078414e99b3718f
+SHA256sum: f980e065f184f0fa428570a2a73a9ab765d02a615a578beff6dd07b9c0807c18
 Size: 656
 Filename: tuxbox-common-dbg_1.0-r0_all.ipk
 Source: tuxbox-common.bb
@@ -3639,8 +3657,8 @@ Depends: tuxbox-common (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c6bfe6502b0845bc57cce9a1c4dee525
-SHA256sum: edb8427d0e1d71bfdbcedbd1f84d1d7ce6f852eaf97a2fc634aef78109bf4711
+MD5Sum: d1d68c8e083799070a6b50d771134984
+SHA256sum: 52689037148f763669f4b31961d8659d1878a957c60caab70e1d075f8d652168
 Size: 688
 Filename: tuxbox-common-dev_1.0-r0_all.ipk
 Source: tuxbox-common.bb
@@ -3654,9 +3672,9 @@ Version: 1.0-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9c7533c68c0103471a647a9ebb0868e7
-SHA256sum: ed51994f2567dbb52f24ab315ea30d6e138c18565f2bdca87ad1678c34e67280
-Size: 784
+MD5Sum: 4c8fddbbfda41fb1f18048657e2d0dc7
+SHA256sum: f9f17b25d1b2a073680bb4155611a2472661f0b64f31d0d34311549057e26d05
+Size: 786
 Filename: tuxbox-common_1.0-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 1.0-r0
@@ -3670,9 +3688,9 @@ Conflicts: timezone-africa, timezone-america, timezone-antarctica, timezone-arct
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0eb2e0c7431868196de021728334e597
-SHA256sum: d6cbcffacdde2eaed267359052613cd7598b16e900e30c064a326cdd9255c479
-Size: 83812
+MD5Sum: 0afc639f6aaf9188d7b9891fb8e17e45
+SHA256sum: 9ed0e900eaf7cf221e8905784b9a635be72787cb3efbb78ce209cb693d7189f8
+Size: 84052
 Filename: tzdata_2020a-r0_all.ipk
 Source: tzdata_2020a.bb
 Description: Timezone data
@@ -3686,9 +3704,9 @@ Version: 0.8-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3b8dc7cf1bdc62ceaff0a615970b836a
-SHA256sum: 428474bfd2d296ee1674e9f77e05902c401429bc3308da5fa5ca3d97fa9d726b
-Size: 752
+MD5Sum: f99bd26fdbdea5a45666800532605f5c
+SHA256sum: a72e9505afcb47a6c95486059422b126a6fb26de2c10cf0e20719e8d78ad033c
+Size: 754
 Filename: update-rc.d-dbg_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d - Debugging files
@@ -3703,9 +3721,9 @@ Depends: update-rc.d (= 0.8-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: dc94483bd6a428b78bf5a967fcd95e07
-SHA256sum: 46f5eb9c4eb332e01cae58314d754e1ba1b446e5bc6f0de0342f23f3cfe05376
-Size: 778
+MD5Sum: fa9e8c3362832d06a78bdaa498b6e55f
+SHA256sum: 47db8cfe246bfe935b5670219d7e14c386a01191a13fcc356469aee8db70e640
+Size: 780
 Filename: update-rc.d-dev_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d - Development files
@@ -3719,9 +3737,9 @@ Version: 0.8-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a6141848f9d65f21d1aaaba28aadad3a
-SHA256sum: 87487f16ed8fd7ab4770e4b48ae20b333a06d877e76711734d7944e808e6bb62
-Size: 3020
+MD5Sum: d1d98bf47622b797fc376aa45c68439b
+SHA256sum: a058e7b3c9ec6735ef4172799b3211661c6d3b4a2a0e04461e72a73dc0b316c4
+Size: 3022
 Filename: update-rc.d_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d
@@ -3735,8 +3753,8 @@ Version: 2-r0
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: cad6405f0a15cc430abfb3107b9ae4b5
-SHA256sum: 38f701804daf448bd635ad5dbaa846c94d1e21dd9c884017aa02066c265223de
+MD5Sum: 5dffe31fae7bc9c6548c72713171c034
+SHA256sum: 38236c0f23e0d48cfd132acc56c7ba5cf47b53972ad79fef36a8d266881492a4
 Size: 938
 Filename: volatile-media_2-r0_all.ipk
 Source: volatile-media.bb
@@ -3750,9 +3768,9 @@ Version: 2020.04.29-r0
 Section: net
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e4393431f111f076486d3b23d1ce7bc3
-SHA256sum: b9380c8e8591ec50c149ac65a012561f02e177cb79af8627a94c05e6ce6eea2d
-Size: 3254
+MD5Sum: c4d80071d8cef7cafaa20912f1349d86
+SHA256sum: 61b4c05d887f3c3a4e5a8a8515ee044584ed2c11e71bd8d4932d07954e522ebd
+Size: 3252
 Filename: wireless-regdb-static_2020.04.29-r0_all.ipk
 Source: wireless-regdb_2020.04.29.bb
 Description: Wireless Central Regulatory Domain Database
@@ -3768,9 +3786,9 @@ Suggests: crda
 Section: net
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1d16cfda82f50cbd0fda36248d0bed60
-SHA256sum: 39e3118b1baed7ca04adc29b36edc5c067e8f5b5eec6d1e5d7a78e05223c69be
-Size: 3150
+MD5Sum: 55d465ce75327ade0554c35b3ceeafbb
+SHA256sum: 78167704af9cab9cfb83c7b694e5d52c748aa564199c5a20c1ce09e4d4c37ea1
+Size: 3154
 Filename: wireless-regdb_2020.04.29-r0_all.ipk
 Source: wireless-regdb_2020.04.29.bb
 Description: Wireless Central Regulatory Domain Database
