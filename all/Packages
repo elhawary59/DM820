@@ -134,9 +134,9 @@ Version: git3566+5a8fd3d-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1def663b3929de5bdf31451dc6813559
-SHA256sum: b4988b4cb843734a84a858845f20464b7e40cd2b7e8354a35e0c3f6b8a5f8055
-Size: 680
+MD5Sum: 5fc3247af954946124a70dc7a7f4d1b5
+SHA256sum: 4ffd2c0d4adf87aad868482f92799bc0b84e4999fd3efc61c97776b071a4ff5d
+Size: 676
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
@@ -151,9 +151,9 @@ Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-de
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b7b59f5f340c3ba5edf8175096aecdb8
-SHA256sum: f28053d7d636e30340e8800f877449a2341fe6a35501021f726c75ca59fa78e3
-Size: 860
+MD5Sum: ed2ffd9675f548127d2f4d1804b8bd37
+SHA256sum: 13a5ab14fd4d4dbe1011c7a5d559d1c832498b679c43b51f4c0f626cf18d30b9
+Size: 858
 Filename: enigma2-plugin-extensions-e2iplayer-dev_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
@@ -166,8 +166,8 @@ Version: git3566+5a8fd3d-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a943bf42d4bc80578d0bf5ca317ce5eb
-SHA256sum: 0f9046afcabffa4d3d0a6bdee3e537bca960d638c3ecfae6b99ab359d310d3d3
+MD5Sum: 88049b968dae069771b7ddc1b3bcc8d5
+SHA256sum: 0c3febf54990d8ec2e70c4bd645051917cb4d9e02a142d2ae798f58816be1a4b
 Size: 834406
 Filename: enigma2-plugin-extensions-e2iplayer-src_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -182,8 +182,8 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1702807af93f27d0533a8602f6972b2a
-SHA256sum: a8d9094f37a0ff89dfe2ecd915fdc66e3c982ad36418294618eb1727ad01c0f6
+MD5Sum: 2af79bed48fd53942912de1e9189cb74
+SHA256sum: f1c2e62c8e63a77e748e1c09dfd334903190308cafca63e4dd95fa135ed96f1d
 Size: 5791940
 Filename: enigma2-plugin-extensions-e2iplayer_git3566+5a8fd3d-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
@@ -3763,16 +3763,49 @@ OE: volatile-media
 License: GPLv2+
 Priority: optional
 
+Package: wireless-regdb-dbg
+Version: 2018.10.24-r0
+Section: devel
+Architecture: all
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: 7308c9abd482306392d390b2afbf02e3
+SHA256sum: 195c1f6364b1522caa7a363f011923300b8e8607609d27cfcb2e5db091651fe4
+Size: 722
+Filename: wireless-regdb-dbg_2018.10.24-r0_all.ipk
+Source: wireless-regdb_2018.10.24.bb
+Description: Wireless Central Regulatory Domain Database - Debugging files
+OE: wireless-regdb
+HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
+License: ISC
+Priority: optional
+
+Package: wireless-regdb-dev
+Version: 2018.10.24-r0
+Depends: wireless-regdb (= 2018.10.24-r0)
+Section: devel
+Architecture: all
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: 3f2b612aef7cc4c2539c1fef42a8a882
+SHA256sum: 5f1ccf8ad55c607d535f9867c73bd39ed680fd3efd6ab09ecac51176301bb090
+Size: 752
+Filename: wireless-regdb-dev_2018.10.24-r0_all.ipk
+Source: wireless-regdb_2018.10.24.bb
+Description: Wireless Central Regulatory Domain Database - Development files
+OE: wireless-regdb
+HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
+License: ISC
+Priority: optional
+
 Package: wireless-regdb-static
-Version: 2020.04.29-r0
+Version: 2018.10.24-r0
 Section: net
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c4d80071d8cef7cafaa20912f1349d86
-SHA256sum: 61b4c05d887f3c3a4e5a8a8515ee044584ed2c11e71bd8d4932d07954e522ebd
-Size: 3252
-Filename: wireless-regdb-static_2020.04.29-r0_all.ipk
-Source: wireless-regdb_2020.04.29.bb
+MD5Sum: 1f9026bcdcf7d0535f04fcaa525e618b
+SHA256sum: 809f0973b3b828795f1522a2c294b43542244889aa55588227c4b00250028666
+Size: 3382
+Filename: wireless-regdb-static_2018.10.24-r0_all.ipk
+Source: wireless-regdb_2018.10.24.bb
 Description: Wireless Central Regulatory Domain Database
 OE: wireless-regdb
 HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
@@ -3780,17 +3813,17 @@ License: ISC
 Priority: optional
 
 Package: wireless-regdb
-Version: 2020.04.29-r0
+Version: 2018.10.24-r0
 Conflicts: wireless-regdb-static
 Suggests: crda
 Section: net
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 55d465ce75327ade0554c35b3ceeafbb
-SHA256sum: 78167704af9cab9cfb83c7b694e5d52c748aa564199c5a20c1ce09e4d4c37ea1
-Size: 3154
-Filename: wireless-regdb_2020.04.29-r0_all.ipk
-Source: wireless-regdb_2020.04.29.bb
+MD5Sum: e5959cbf57a6c531fa8ea1fea095c3a7
+SHA256sum: a4629c5d17dd5b0683ceb23e66e1ae9a390d9ecdaffa9c59332c8f55b3b786d2
+Size: 3274
+Filename: wireless-regdb_2018.10.24-r0_all.ipk
+Source: wireless-regdb_2018.10.24.bb
 Description: Wireless Central Regulatory Domain Database
 OE: wireless-regdb
 HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
