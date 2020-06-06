@@ -2065,9 +2065,9 @@ Recommends: alsa-lib-dbg, bluez5-dbg, glib-2.0-dbg, glibc-dbg, sbc-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c6d7e52dd94e4db5dc51c3588d4edbfb
-SHA256sum: 0417eec33a959fb9e42dd85b0f489b5977f28eb162b38d2e4d40bfed05c32a76
-Size: 124984
+MD5Sum: 0e7f8473d628c96130b74ebe31e98b86
+SHA256sum: 5a575b23d2d9d1eebc7d4d4e8e1d5f7c8c4e58f98324c802c391adc1456cf81b
+Size: 124970
 Filename: bluez-alsa-dbg_1.0-r0_mips32el.ipk
 Source: bluez-alsa.bb
 Description: Bluetooth Audio ALSA Backend - Debugging files
@@ -2083,8 +2083,8 @@ Recommends: alsa-lib-dev, bluez5-dev, glib-2.0-dev, glibc-dev, initscripts-dev, 
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66486ffc74fc47cb2c1783eb542f15a8
-SHA256sum: 2298e488c3d0d8f89993166b01f2a727d6b03601e7b06a428969f321da464c37
+MD5Sum: f5d3a01820db20cb3bfd83a7f2731a70
+SHA256sum: 2aa76d6d35c3ffffcf6e7ee06f9d2574c132512061617d06b91652cf6056409f
 Size: 774
 Filename: bluez-alsa-dev_1.0-r0_mips32el.ipk
 Source: bluez-alsa.bb
@@ -2100,9 +2100,9 @@ Depends: bluez-alsa-dev (= 1.0-r0)
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4bfcc45827ad2ae24323cf690851fcca
-SHA256sum: ce8c2791f15a67a9e32605f51be9a279f0f8237e8698034ba57aa0bdc43112d5
-Size: 47358
+MD5Sum: 7eeb0fb375f44296b4b13f60bfc6671f
+SHA256sum: 37b5f856e57fb1542f32c46fbf5c218001f90a018bede54d0585a7142a5e84cb
+Size: 47280
 Filename: bluez-alsa-staticdev_1.0-r0_mips32el.ipk
 Source: bluez-alsa.bb
 Description: Bluetooth Audio ALSA Backend - Development files (Static Libraries)
@@ -2118,9 +2118,9 @@ Recommends: update-rc.d
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f62be6d85a44e60e3225df1502fe43d3
-SHA256sum: f13f7804fa83cd124b57934db9ac7f135a86058cf702a19a04ec7249d13d7b7b
-Size: 46954
+MD5Sum: 1bc105e0e4111a8a54517d80f34c8435
+SHA256sum: 8317fcd9a368205e49dfad9c7071fa3afdb1cd32ae744902a43fd0ea0739f7e3
+Size: 46930
 Filename: bluez-alsa_1.0-r0_mips32el.ipk
 Source: bluez-alsa.bb
 Description: Bluetooth Audio ALSA Backend
@@ -2134,8 +2134,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7171606d442a8c5fbce6e6a5248b2989
-SHA256sum: 63e7757b75b0b71870d5f11f2d54d35743cd81a372a2646ea00824539cb22ab1
+MD5Sum: 07b4425ffccb43cb8a745d73c94893a7
+SHA256sum: 700964b16c39f9f50d26eb6e725b2b19908943cbc176f03bf2ac21cb9816fa29
 Size: 692
 Filename: bluez-conf-dbg_1.0-r0_mips32el.ipk
 Source: bluez-conf_1.0.bb
@@ -2151,8 +2151,8 @@ Recommends: bluez5-dev, glib-2.0-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bfc2e19ed428b84e20bf815e23f66ee8
-SHA256sum: 87c3570d9b047a3f5134a5dda9b6b62038be0134e77f953dae41254473ef88c7
+MD5Sum: 089c9f9f26656d76a3d3936e0ab6b38c
+SHA256sum: 8a8d65a7056246f28bef495310d7376210f38f63520acb0e020c8024dc2e002d
 Size: 742
 Filename: bluez-conf-dev_1.0-r0_mips32el.ipk
 Source: bluez-conf_1.0.bb
@@ -2166,8 +2166,8 @@ Version: 1.0-r0
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d654f1bad45df4e08c1f00b7531e9bc9
-SHA256sum: 2a8fff25cb88b4884608544d62e3232692ee3ba654910d07dd26d7da53f80ea5
+MD5Sum: 2273dd9d5ad60a223ba68a6e35ddcb89
+SHA256sum: 5d5aae5c0597dc53e42d5cb13feabe56d0b65e751697f44705f69bc72fe3876f
 Size: 2660
 Filename: bluez-conf_1.0-r0_mips32el.ipk
 Source: bluez-conf_1.0.bb
@@ -2182,9 +2182,9 @@ Recommends: glib-2.0-dbg, glibc-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6b41e19e29cc70a4d2037ce3313560bb
-SHA256sum: ca512eff456776b7f4ad23339724cde5c7fa0cbed747f6575fa7e9e58c4a65bc
-Size: 146656
+MD5Sum: ca7045f062dabb8697a3a8b82e195569
+SHA256sum: fe6cf91aded0ee6f025325f1f937e771ba545866ab282e66dfdd1cb83fac59c8
+Size: 146588
 Filename: bluez-hidd-dbg_1.0-r0_mips32el.ipk
 Source: bluez-hidd_1.0.bb
 Description: Linux Bluetooth HIDD COMPAT Backport - Debugging files
@@ -2199,9 +2199,9 @@ Recommends: bluez5-dev, glib-2.0-dev, glibc-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3f7b2fb43cdb05da770649eacf704996
-SHA256sum: 1e326912159241ff87d1f8dae0d6480a856c456d6621f007a9ae433568daa68a
-Size: 738
+MD5Sum: 8e5742d009c02ce6a18bd538374a50f8
+SHA256sum: d2646f5b21ea50204069b8a255a83a04b511ea0046fe4c664bb1fa9c85d3867e
+Size: 740
 Filename: bluez-hidd-dev_1.0-r0_mips32el.ipk
 Source: bluez-hidd_1.0.bb
 Description: Linux Bluetooth HIDD COMPAT Backport - Development files
@@ -2215,9 +2215,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libglib-2.0-0 (>= 2.64.2)
 Section: console
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3c8e00bd42753ade062c34e1e2ec856c
-SHA256sum: a0e52974c42124f249c970629f0f179723996e6402ab5971c70dc301fe8b44b4
-Size: 45562
+MD5Sum: 516cfddc5e0feb96da23057230d7365f
+SHA256sum: 2b7da4fa077f7d12a6769c21f963f9114e7e3c641ec6ce56956201841eb1b6bf
+Size: 45522
 Filename: bluez-hidd_1.0-r0_mips32el.ipk
 Source: bluez-hidd_1.0.bb
 Description: Linux Bluetooth HIDD COMPAT Backport
@@ -2231,9 +2231,9 @@ Recommends: dbus-lib-dbg, glib-2.0-dbg, glibc-dbg, libical-dbg, libudev-dbg, rea
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 63b34ba912e09ac58db1af778983f38a
-SHA256sum: 663ad83fe5776e812a59912f347d6f03c357c836a8857ffc970255ded166e1bb
-Size: 3636676
+MD5Sum: b632e41878c9519b34e6feece56153df
+SHA256sum: b99885578390b6e7d59b9aefe11d68e2fa38ab51ae577763de2cd2d5f92b2dad
+Size: 3638568
 Filename: bluez5-dbg_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5 - Debugging files
@@ -2249,9 +2249,9 @@ Recommends: dbus-dev, dbus-lib-dev, glib-2.0-dev, glibc-dev, initscripts-dev, li
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ac8ffa8fe321ca22e39f9a1478d19ce8
-SHA256sum: 3e0e4e0d2dd39821b61e6bb0c34ab0e91eab2faeb1f383160c67a0e0805dd420
-Size: 25876
+MD5Sum: 17d0dcd2f8daf2b8b8a07e3d5102a88e
+SHA256sum: 18e8dcafbed75613dea5068d8737c9e6e12642601b1b05100e3d4798a2515905
+Size: 25882
 Filename: bluez5-dev_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5 - Development files
@@ -2265,9 +2265,9 @@ Version: 5.54-r0
 Section: doc
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bb7653ba9b2f4cbabab4dda04419bae7
-SHA256sum: 9784674934e3c79ecc2ff58ef24290e9b1bfaf9b7dec63f623dfb5fc3ac6a8e1
-Size: 11714
+MD5Sum: f40ab1d53c59e6b46954d026f86b36e6
+SHA256sum: 4b6654a3bc9a483e52205f476d3925a9f9ea11d47321a6d7ce9895b39d8c2a39
+Size: 11706
 Filename: bluez5-doc_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5 - Documentation files
@@ -2282,9 +2282,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libdbus-1-3 (>= 1.12.16), libglib-2.0-
 Section: libs
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bf48017cf48498a92a63569fabec4d1c
-SHA256sum: 413cbb8cf7cfbe84ad9140206a1616b6b5360cebb2f65898d8fc6b7fdebcdd1e
-Size: 420084
+MD5Sum: 7d4ebc1148e570443abda7f8f2966a96
+SHA256sum: e56b282b981c18641f0990ce75603f64be505b53af604ae5f22297a7d164057f
+Size: 421746
 Filename: bluez5-noinst-tools_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5
@@ -2299,9 +2299,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libdbus-1-3 (>= 1.12.16), libglib-2.0-
 Section: libs
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fa4dfe0c83e49230d3426b6644a0b952
-SHA256sum: 755a7aaf70f7afde3715cf2615460fe3d8b3719cfbd09eb7754e6768aedf0b40
-Size: 137186
+MD5Sum: df7624a5aba2c0848c4af58dfbc5f6f0
+SHA256sum: 841de88f5571dc3f003eef34b83a4ea84d899ada4a7f549e3c7f3637da99bdad
+Size: 137122
 Filename: bluez5-obex_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5
@@ -2316,9 +2316,9 @@ Depends: python3-core, python3-dbus
 Section: libs
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 35c4bb6c2a84c9990dfad58f47831e58
-SHA256sum: 5ac700af3079af6687fd513247520f92bedf8c4e0eb7e10276f3c064204fb7a9
-Size: 31188
+MD5Sum: ca8be4743fb7c43dd6273d41174a010c
+SHA256sum: 80922137cf60f391f9fca51d7ce2e595b88132cced01f4f07f775e25b6f8b30b
+Size: 31190
 Filename: bluez5-testtools_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5
@@ -2336,9 +2336,9 @@ Recommends: update-rc.d
 Section: libs
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 82e2e7598a3168702a1fe14da38ef522
-SHA256sum: 564a22493d0f78ce65f7d919a5976eeb2fb8db3b85ed03e3141f2795d65178ca
-Size: 785886
+MD5Sum: f296fec41d8f7d11f3b0528f293a8a86
+SHA256sum: f9462c3d6f0e86c48fed49c5a2967fb520c3006c644a210efb42abcbf279a34c
+Size: 785910
 Filename: bluez5_5.54-r0_mips32el.ipk
 Source: bluez5_5.54.bb
 Description: Linux Bluetooth Stack Userland V5
@@ -2456,9 +2456,9 @@ Recommends: glibc-dbg, libxcrypt-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eec2c524c8041cd76c0323985926ecec
-SHA256sum: 15f1ceb4a04d16d21d5aaaf6f34825e4408be40eeb354b8b34e843d641abda4c
-Size: 1250544
+MD5Sum: 5c77260cc44adb4bae12bc7cd2ea6eb1
+SHA256sum: 7a8ef963f02f08da457a9ccc3a32bd4b928275ccf0b570653e0163a6afa18c1c
+Size: 1250390
 Filename: busybox-dbg_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
 Description: Tiny versions of many common UNIX utilities in a single small executable - Debugging files
@@ -2474,9 +2474,9 @@ Recommends: glibc-dev, initscripts-dev, libxcrypt-dev, mtd-utils-dev, odhcp6c-de
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3add483522cbcc38d1913a12b6a25f45
-SHA256sum: 9ba4548a886b53331c999a12533ea0c39d7c2c729ef8c604d886be9a28f60a59
-Size: 1070
+MD5Sum: e3eb7ba6e8a7dcd924b25efafc22f312
+SHA256sum: 561ab19001ff5a6e6ab2cbd97fb173bde6fb3bfe4ca87bcae1b8383b71ea2005
+Size: 1072
 Filename: busybox-dev_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
 Description: Tiny versions of many common UNIX utilities in a single small executable - Development files
@@ -2494,8 +2494,8 @@ Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1afa23f604fd933a2e0fd296277c5acf
-SHA256sum: 3220f1d386ae512edfb4e1bde12eaf08173f8522b4947f3c8fba721fe16a0f48
+MD5Sum: a3bbbfe87759647ca238c3a2c24402e3
+SHA256sum: ed2b7a6b8eae5e4b90e094e67008614a09be54c33f0e0fb7e3b2e0f51a2ff787
 Size: 1930
 Filename: busybox-inetd_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
@@ -2511,9 +2511,9 @@ Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cfa63ac18165fc180d09ee3ce9526db2
-SHA256sum: 7ed26d58b688772cedcb1036c23b4e73d93f36151e7ade7de4d5f2a8c7985eec
-Size: 4776
+MD5Sum: ea96c3bb814bc78e8bb48bede58c97c1
+SHA256sum: b1d48fe48c1fa51ac8be50e83db905e9982dc9af9926cae67310df9215a4d8d1
+Size: 2604
 Filename: busybox-mdev_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
 Description: Tiny versions of many common UNIX utilities in a single small executable
@@ -2530,9 +2530,9 @@ Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 02b9f6e52f7850ff088ec2d681491c6c
-SHA256sum: a0f8f8e0a74831ad9cc2165e490031021d27444dc40efaf4d6a3f4d3572da247
-Size: 2684
+MD5Sum: 253948e948693afb300ad5bb214665b9
+SHA256sum: 202516f0f0f1cf25204ba7a79d515ea1cff6b9810f3bc1eaaabad0a1bffbd1ea
+Size: 2686
 Filename: busybox-syslog_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
 Description: Tiny versions of many common UNIX utilities in a single small executable
@@ -2546,9 +2546,9 @@ Version: 1.31.1-r0
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 17de5a5a40cac1c78825ed7a0f8ff661
-SHA256sum: 51897421c3b3ddde87229769844ca92fb7cbbcd118cc7ba882e7f2a0f15d4f5e
-Size: 1802
+MD5Sum: 8a7e359f0191bcd9f3ffffcd690f7d94
+SHA256sum: e08f41c370f6e8c113507801cc1a4c78a77631d9b7f3d13576582391cb82b3fc
+Size: 1806
 Filename: busybox-udhcpc_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
 Description: Tiny versions of many common UNIX utilities in a single small executable
@@ -2564,9 +2564,9 @@ Recommends: busybox-inetd, busybox-udhcpc
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd9739332197c43f1cd4663640859607
-SHA256sum: a17b5ae8653fa9e10628d9f042bf2229bcf51b5525e83515974cd58cd9462da9
-Size: 418734
+MD5Sum: f98203246e873a48d2e49c74acf4bdd1
+SHA256sum: 685fd0dce84d8e41e0c76833616a4b018e7fd7a255f8b33ff151e1c98f59cf83
+Size: 418774
 Filename: busybox_1.31.1-r0_mips32el.ipk
 Source: busybox_1.31.1.bb
 Description: Tiny versions of many common UNIX utilities in a single small executable
@@ -6599,8 +6599,8 @@ Version: 1.0+git504+9967f99-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 53fcf49c2e7fe8e65d32d2b99caaea5c
-SHA256sum: 18f4267b5aecee06335bf1bcde0f72bbeda37822829f766892a7edddfd7d9ea4
+MD5Sum: 9160b69bbdd8cb25f79a0fb6acc9e462
+SHA256sum: 99aaac37af3acfaf86d240f3cd78570c9c1c6a0320af8f3d320d00ba0f52dc6b
 Size: 706
 Filename: enigma2-plugin-extensions-backupsuite-dbg_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
@@ -6616,8 +6616,8 @@ Recommends: enigma2-plugin-systemplugins-mphelp-dev, mtd-utils-dev, mtd-utils-ub
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9dbfb14bfa75a860a35fb332911ef692
-SHA256sum: 02b4382c94b692da728eb063c0aafc65feb42eb6559ef2a85a57eb2765124bdf
+MD5Sum: 9fd299509df723413864c37e094ba29a
+SHA256sum: 8cfb2b9d77fbe876434ed891df0870fff9d7d2a0843574132d68643d71bd3964
 Size: 780
 Filename: enigma2-plugin-extensions-backupsuite-dev_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
@@ -6632,9 +6632,9 @@ Depends: enigma2-plugin-extensions-backupsuite
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5bfe71b7226376c5c18eb16874d5731e
-SHA256sum: d09ce14bdc836d357b7dcdeca5ea6f178bf06fd3ad19634477a562f3878c1286
-Size: 10098
+MD5Sum: 6eea1fed70632f5b7ece65b695c20910
+SHA256sum: b5ebed624e496bfa5e6f5e503457a01efa94756edeb8893e2c133973b6d979d9
+Size: 10102
 Filename: enigma2-plugin-extensions-backupsuite-src_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
 Description: enigma2-plugin-extensions-backupsuite version 1.0+gitAUTOINC+9967f99cb3-r0 - Source files
@@ -6648,8 +6648,8 @@ Depends: enigma2-plugin-extensions-backupsuite, enigma2-plugin-systemplugins-mph
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 820adaa1d3e47455b65188e3f44691cd
-SHA256sum: a516cd6f334304a73fdd67e8e06bbc428e6c76f9b68231baca5205453c03ff24
+MD5Sum: db5e3a54068cd8f910442da5844c6a9d
+SHA256sum: 946164e0ba6b2d40a9990ba674152dbfa53b7b7a77cef158229b9640c07d0908
 Size: 84056
 Filename: enigma2-plugin-extensions-backupsuite_1.0+git504+9967f99-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-backupsuite.bb
@@ -6693,67 +6693,67 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-dbg
-Version: 2.0+git112+7160c15-r0
+Version: 2.0+git116+a1c91fc-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3c454e82113b2186af88c07cf28deb4a
-SHA256sum: c05c5677d396162ed8325a6a910556adb03520cd7351947b0d666811f1bf89ad
-Size: 720
-Filename: enigma2-plugin-extensions-filecommander-dbg_2.0+git112+7160c15-r0_mips32el.ipk
+MD5Sum: 49e17b3c75dc3f9ab89c6be3e0a414ab
+SHA256sum: bfe9f9f609a767c53890a8daec7ceec44b719a130180bea6895e48a79e91ae49
+Size: 722
+Filename: enigma2-plugin-extensions-filecommander-dbg_2.0+git116+a1c91fc-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+7160c15201-r0 - Debugging files
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+a1c91fc846-r0 - Debugging files
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-dev
-Version: 2.0+git112+7160c15-r0
-Depends: enigma2-plugin-extensions-filecommander (= 2.0+git112+7160c15-r0)
+Version: 2.0+git116+a1c91fc-r0
+Depends: enigma2-plugin-extensions-filecommander (= 2.0+git116+a1c91fc-r0)
 Recommends: python-core-dev, python-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: da210fa54743080ac705076ec198ff85
-SHA256sum: 7418c83aba3924975674754d7a9c6fba081582eff610151d42a149d7a6d119c5
+MD5Sum: 820c9a15c3696376f1bee3f546606091
+SHA256sum: 9df175a7e2adc860b6804cea6bcaf2bcad0a8fece7725e9e92044aaa14c5d75b
 Size: 772
-Filename: enigma2-plugin-extensions-filecommander-dev_2.0+git112+7160c15-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-filecommander-dev_2.0+git116+a1c91fc-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+7160c15201-r0 - Development files
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+a1c91fc846-r0 - Development files
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-src
-Version: 2.0+git112+7160c15-r0
+Version: 2.0+git116+a1c91fc-r0
 Depends: enigma2-plugin-extensions-filecommander
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0e151059efddd8e088b94848da671886
-SHA256sum: e81e1b8cb0d0776e1cb4b05203f79d006c5a114730ae4df4e2c2c12265de4106
-Size: 42472
-Filename: enigma2-plugin-extensions-filecommander-src_2.0+git112+7160c15-r0_mips32el.ipk
+MD5Sum: d7d85e485e4c933512cbb9de854946c6
+SHA256sum: b2b83de09391f5db45924ed91c348b104b87ee537664039cd2acd65183f2ad2f
+Size: 42514
+Filename: enigma2-plugin-extensions-filecommander-src_2.0+git116+a1c91fc-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+7160c15201-r0 - Source files
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+a1c91fc846-r0 - Source files
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander
-Version: 2.0+git112+7160c15-r0
+Version: 2.0+git116+a1c91fc-r0
 Depends: python-core
 Replaces: enigma2-plugin-vision-filecommander
 Conflicts: enigma2-plugin-vision-filecommander
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 35ab0a9ec17502214e8223a0cb4585af
-SHA256sum: 68d3ac584310f1c160fcbd0d7fc140cf6203feedd0ae4cf8f0add7d9c6032e27
-Size: 116436
-Filename: enigma2-plugin-extensions-filecommander_2.0+git112+7160c15-r0_mips32el.ipk
+MD5Sum: e8ab08de57c177bebbd775c9315c5cd2
+SHA256sum: 2e0cd7ad5053a1a14748cbef67244c9ccb6a6fffab81d490642cf9e00120232d
+Size: 116158
+Filename: enigma2-plugin-extensions-filecommander_2.0+git116+a1c91fc-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
-Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+7160c15201-r0
+Description: enigma2-plugin-extensions-filecommander version 2.0+gitAUTOINC+a1c91fc846-r0
 OE: enigma2-plugin-extensions-filecommander
 License: GPLv2+
 Priority: optional
@@ -6887,70 +6887,6 @@ Description: enigma2-plugin-extensions-tmbd version 1+gitAUTOINC+958893ad71-r0
 OE: enigma2-plugin-extensions-tmbd
 HomePage: https://github.com/Dima73/enigma2-plugin-extensions-tmbd
 License: PD
-Priority: optional
-
-Package: enigma2-plugin-extensions-weatherplugin2-dbg
-Version: 1.0+git15+8c1c779-r0
-Section: devel
-Architecture: mips32el
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c1e8251028d40ac03851a6a93527d6f8
-SHA256sum: d9de99e5672d85faf2076b574c23dad0a87d0d8c917a6f69d67d23a810aaf976
-Size: 726
-Filename: enigma2-plugin-extensions-weatherplugin2-dbg_1.0+git15+8c1c779-r0_mips32el.ipk
-Source: enigma2-plugin-extensions-weatherplugin2.bb
-Description: enigma2-plugin-extensions-weatherplugin2 version 1.0+gitAUTOINC+8c1c779490-r0 - Debugging files
-OE: enigma2-plugin-extensions-weatherplugin2
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-extensions-weatherplugin2-dev
-Version: 1.0+git15+8c1c779-r0
-Depends: enigma2-plugin-extensions-weatherplugin2 (= 1.0+git15+8c1c779-r0)
-Recommends: enigma2-plugin-skincomponents-weathercomponent-dev, enigma2-plugin-systemplugins-weathercomponenthandler-dev, python-dev
-Section: devel
-Architecture: mips32el
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 213d83b71519e97da0011f5f49cd4aa5
-SHA256sum: b991d680cd894b891d2a533b1f886418ac897c7c71cddeef354fba3af7b25c80
-Size: 804
-Filename: enigma2-plugin-extensions-weatherplugin2-dev_1.0+git15+8c1c779-r0_mips32el.ipk
-Source: enigma2-plugin-extensions-weatherplugin2.bb
-Description: enigma2-plugin-extensions-weatherplugin2 version 1.0+gitAUTOINC+8c1c779490-r0 - Development files
-OE: enigma2-plugin-extensions-weatherplugin2
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-extensions-weatherplugin2-src
-Version: 1.0+git15+8c1c779-r0
-Depends: enigma2-plugin-extensions-weatherplugin2
-Section: devel
-Architecture: mips32el
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 820a2442691b26157dc8c2e8785d4dc2
-SHA256sum: d883fa345c960c3163837e4ba05f52f38339bd768451fe9cb800f68aeffdc13c
-Size: 8738
-Filename: enigma2-plugin-extensions-weatherplugin2-src_1.0+git15+8c1c779-r0_mips32el.ipk
-Source: enigma2-plugin-extensions-weatherplugin2.bb
-Description: enigma2-plugin-extensions-weatherplugin2 version 1.0+gitAUTOINC+8c1c779490-r0 - Source files
-OE: enigma2-plugin-extensions-weatherplugin2
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-extensions-weatherplugin2
-Version: 1.0+git15+8c1c779-r0
-Depends: enigma2-plugin-extensions-weatherplugin2, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
-Section: base
-Architecture: mips32el
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bce7c08920fc27213cb5546037d9882c
-SHA256sum: a8bf024cc72cde984b606e304fbb425bd357b3214c91fd774ac6cd1812399920
-Size: 323298
-Filename: enigma2-plugin-extensions-weatherplugin2_1.0+git15+8c1c779-r0_mips32el.ipk
-Source: enigma2-plugin-extensions-weatherplugin2.bb
-Description: Enigma2 Plugin: extensions-weatherplugin2
-OE: enigma2-plugin-extensions-weatherplugin2
-License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-softcams-ncam
@@ -7225,9 +7161,9 @@ Recommends: glibc-dbg, libkmod-dbg, util-linux-libblkid-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 75c075e73303fea1969264260aa61ae1
-SHA256sum: 2b5477dea740422890527dc1026e5aa28dbbae55b3d2566dd69a96e64c7ec3e1
-Size: 653240
+MD5Sum: 8f8aa8eff31b64d4d9659d93a30c35da
+SHA256sum: b2171f05e6640a4d1b0816b2743eaf9d957570a50e6c2a43ddf88d0fffd7d35e
+Size: 654718
 Filename: eudev-dbg_3.2.9-r0_mips32el.ipk
 Source: eudev_3.2.9.bb
 Description: eudev is a fork of systemd's udev - Debugging files
@@ -7243,9 +7179,9 @@ Recommends: glib-2.0-dev, glibc-dev, initscripts-dev, kmod-dev, libkmod-dev, lib
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6cb2e56d3a2d78c0b80c7a73c6c560a5
-SHA256sum: 402bd5f2b95cea292e204aaf8b1668e63aaf4751e0ff452131a4f7516ab230db
-Size: 4920
+MD5Sum: 0210bf2d02c4b0f8fda86550d220832e
+SHA256sum: dfe3dc23b3102c83eb588a616b20ae528707ba330e33da7b7d4de4aaf82b182d
+Size: 4908
 Filename: eudev-dev_3.2.9-r0_mips32el.ipk
 Source: eudev_3.2.9.bb
 Description: eudev is a fork of systemd's udev - Development files
@@ -7261,9 +7197,9 @@ Provides: udev-hwdb
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 579c66dcaab60671f4db1c202aaa7494
-SHA256sum: 692fe55e0b114c77ba1ce9bec0918c246dcab9c7fc243c4c434580de4c2f7bbf
-Size: 784038
+MD5Sum: 96975f456349d7479cc22fcfab21f033
+SHA256sum: d5836e481ef19dd0701eee519000d0625b4353cfc549b2ba7ebbddd11f3bbd06
+Size: 783774
 Filename: eudev-hwdb_3.2.9-r0_mips32el.ipk
 Source: eudev_3.2.9.bb
 Description: eudev is a fork of systemd's udev
@@ -7278,9 +7214,9 @@ Depends: eudev-dev (= 3.2.9-r0)
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ec70708a2d82224ce207e742e6d9f2e3
-SHA256sum: d551d861a2f2b6b6162d3df6935784080b7980ffe9588548524fe082216ac407
-Size: 285438
+MD5Sum: 181c4eb3acaa9fdd4971c2e688715263
+SHA256sum: 0ef75328f0cd421bc95debddde637f3a40a4796249fa2547043ba0406fe7a8bf
+Size: 285342
 Filename: eudev-staticdev_3.2.9-r0_mips32el.ipk
 Source: eudev_3.2.9.bb
 Description: eudev is a fork of systemd's udev - Development files (Static Libraries)
@@ -7297,9 +7233,9 @@ Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: db88b0c677bc1d142705ca5f87a76223
-SHA256sum: 13ad4838927dbe3003a79bac762608b612750668e435e4b70522c642fc2e117a
-Size: 222072
+MD5Sum: a3192ec7904d8000e505b0d60aab7c93
+SHA256sum: fd2f570012a6c06ab24426ec6e8f88b1b8c376d9b1151d15054b940ad5cedf2c
+Size: 222464
 Filename: eudev_3.2.9-r0_mips32el.ipk
 Source: eudev_3.2.9.bb
 Description: eudev is a fork of systemd's udev
@@ -35400,9 +35336,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 49dede17d8bfe08b90b3ef183710163e
-SHA256sum: 469f1c090ddd4f409cc787ae914107c7be7bd54c601717b1a1ee8594add1d1e2
-Size: 5786
+MD5Sum: 0c222c0adb97a58bd698fcea00f065a0
+SHA256sum: 205549a3aa62fb624f20c75c529cb42269ad13b7b90aa3c9f0d761483522b399
+Size: 5784
 Filename: gstreamer1.0-plugins-bad-accurip_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for accurip
@@ -35417,9 +35353,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2ea6aeddeed69e56ee72e77ed1c3ba96
-SHA256sum: d5d668b7ac01b737bcb771875d75b4b4e3914a6bf0f0a01ac45e6f6f9c8e4178
-Size: 5784
+MD5Sum: 30d13c5d0eee30ed097f36dfae71d949
+SHA256sum: 80476cfc55e8e5133ed115ffb8a38aa99791d323f87438a1f107eb46ee887192
+Size: 5780
 Filename: gstreamer1.0-plugins-bad-adpcmdec_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for adpcmdec
@@ -35434,9 +35370,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e6e76cae37e53a277107a81e02c62967
-SHA256sum: d64acffc3ab444d57fc811ceda5428395a850aa1d26ec59c95d891859552ce01
-Size: 6276
+MD5Sum: 03b4443da9cfe71552427b8656db7af4
+SHA256sum: 29d73e99734b2097b52fd0038232275839e3b3f3c49110127dc8ef3c88c4dd09
+Size: 6288
 Filename: gstreamer1.0-plugins-bad-adpcmenc_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for adpcmenc
@@ -35451,9 +35387,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cc2324a8028e9b85a1c244c748ffdad5
-SHA256sum: 4f24a2e9d6ea55f666df9e1f0fa8b2228938e2daa237e6de9a0fe429a03853f2
-Size: 22750
+MD5Sum: 2e6b8e5902738ca90e35dd4816aa8327
+SHA256sum: 38ddcd2911bf5613f1637f176cf71f9e5aae9ade1c8bf1c927a1473b00cb49f1
+Size: 22746
 Filename: gstreamer1.0-plugins-bad-aiff_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for aiff
@@ -35468,9 +35404,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6f14ca605406139a39514fc6147b74ad
-SHA256sum: b2770a27be0d5dbc5adcea82acf0de5b6579b84615c333db3aeae46648e17278
-Size: 17806
+MD5Sum: 015e3c57c58fd40b61e9f99b07a56bdf
+SHA256sum: 710effd60766aa10f4306ad2eb718b7ad5e5e9e1080cc707a4d0d556b4b2f596
+Size: 17794
 Filename: gstreamer1.0-plugins-bad-apps_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x
@@ -35485,9 +35421,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cc46071d35f833d59da6b60546f9de11
-SHA256sum: 186c8ec8abb169b1763a37e516d6a376ce8316db2778acaab2dc1d62c4df7880
-Size: 29454
+MD5Sum: 1ce9dfa9efec2fbf83ef31553e1ed7dc
+SHA256sum: f965c1c39bcba08c0faf3078ecec697dd1189e26cfe887eebe6054d59890af2a
+Size: 29450
 Filename: gstreamer1.0-plugins-bad-asfmux_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for asfmux
@@ -35502,9 +35438,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 17fe24e57b8b7860458d7fefaea0e880
-SHA256sum: 10cb399fd5d288d6928a33d6286e6d61bb67dc4a914863c3d431ce8194ec86e0
-Size: 13330
+MD5Sum: 520978b5a7acedfec92b14990cbe9af5
+SHA256sum: 97503d2d6a1afd8b14c3c2af36c3feb365d1db1a83a90b39ea61439e1398ffca
+Size: 13322
 Filename: gstreamer1.0-plugins-bad-audiobuffersplit_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for audiobuffersplit
@@ -35519,9 +35455,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7b0d9463eab407619475452ca1e00227
-SHA256sum: bb31e6a076ba3b045b9b2f3bf2e4a0b7681c6c01d0881ea7e15eb5b4a0ebd5b5
-Size: 4726
+MD5Sum: 6b502fe7a230aa8766c754a597788a5d
+SHA256sum: d8752099e3a773cb78036da16482fd633fee3e2a8ae89e511e67eb87dc82ac87
+Size: 4722
 Filename: gstreamer1.0-plugins-bad-audiofxbad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for audiofxbad
@@ -35536,9 +35472,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2)
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 15c06bb5a1bfec4004b214391506a6fb
-SHA256sum: 61a08cc422b7e507ba52a419c8bbcb2cbf86f1991cf9b51b1f97ba5cbe1373da
-Size: 7086
+MD5Sum: 1b2d54f5547f27fba50d67bd90bb3af0
+SHA256sum: 0d61dbbc04d17ba0dae9c59846854debf8bdb2c41a9dee1581d690a48a4f999b
+Size: 7082
 Filename: gstreamer1.0-plugins-bad-audiolatency_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for audiolatency
@@ -35553,9 +35489,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 30b7a492fa35ee6e7a855142c265d23c
-SHA256sum: ce5d1b3ff425bdeeb53df901d5debbcc404ad836981f2f5277d583d5b013c8b6
-Size: 8674
+MD5Sum: 3e8437dc7202e2377d51615df99a4bf9
+SHA256sum: 1c90b2d77cc52b3c3efa70c5657f7a0663c1802c9a0c8d3dab1f5e8352c0aa00
+Size: 8672
 Filename: gstreamer1.0-plugins-bad-audiomixmatrix_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for audiomixmatrix
@@ -35570,9 +35506,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2e1b070752448fcfb39e7d593efc752d
-SHA256sum: c42304028021456592763a5d5a08d2edadfd5abb7ddff10db7769fc113ac224a
-Size: 16370
+MD5Sum: c1187d9c4422278b818bf4866649d2a2
+SHA256sum: 86b65aad9dfbba857ecac25c93c594edaea940ef3284485c3b1cb6b9f3df99fd
+Size: 16358
 Filename: gstreamer1.0-plugins-bad-audiovisualizers_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for audiovisualizers
@@ -35587,9 +35523,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: beb0fcf3bf87fdd3b8b7904efb0809e6
-SHA256sum: 16d84a0f8e3464bf533188925f46316b09a46286310f472b217f1578e60f8a53
-Size: 11562
+MD5Sum: cb6600d2e59e9437a35ff583e6f93b59
+SHA256sum: 1591ab5ef186c223dc9c4ca7adcfcd9b5fad065a9f308fde32738f0e9d343f3b
+Size: 11582
 Filename: gstreamer1.0-plugins-bad-autoconvert_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for autoconvert
@@ -35604,9 +35540,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 86fd008c1d7afc275f4d882cde9a7694
-SHA256sum: c89214bb5365f1205781754c62d1116d3523fe14e94fdd24f16756bc953d9b62
-Size: 8082
+MD5Sum: fa02e86cc08b3be67c08f28cdb570650
+SHA256sum: 36929b65bd2d7bc28fc1c65d941f1c589a6037be19c758c0d9a0260100122a89
+Size: 8072
 Filename: gstreamer1.0-plugins-bad-bayer_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for bayer
@@ -35621,9 +35557,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libbz2-1 (>= 1.0.8), libc6
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bc42fc2586d4cdb282351e2a243b9e5a
-SHA256sum: b1253af9ad20817b4e3b7df9916794024ea2867d5f1dc237286f754134b81930
-Size: 7462
+MD5Sum: 0e580cffcdef8d37bc7b2c5be11d0a53
+SHA256sum: 005b2a345792d00fc0459a9f86d0de583266224906948a2e37c29a693c5cb89a
+Size: 7458
 Filename: gstreamer1.0-plugins-bad-bz2_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for bz2
@@ -35638,9 +35574,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c240dce87ba849a56a81572aa55f3ede
-SHA256sum: 63e8d8b0d2557ef651bbd47e68a8820dfa0b88c06bf96576b0a6386d956244e3
-Size: 26558
+MD5Sum: 3dc68dc3fbfd31fa9fc154231fff2c40
+SHA256sum: 28e5bf5fe4e21b92bed411c8a27ca14e4181c233b99ad30fe750a3d0c7af86ed
+Size: 26556
 Filename: gstreamer1.0-plugins-bad-camerabin_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for camerabin
@@ -35655,9 +35591,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f12d948f4ecc8c17531c7024cb537e91
-SHA256sum: 5c60bbdeaa3d448baa19689c73eecc8f55be9bebe36f6062e6b207ddebd8cb17
-Size: 66126
+MD5Sum: c4d9b8de55f08a69b8b4fc28c5df3b6d
+SHA256sum: 8e91c5f7c996e8e1a228f790847769392824eec954def8664cfb58864c0e69ac
+Size: 66106
 Filename: gstreamer1.0-plugins-bad-closedcaption_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for closedcaption
@@ -35672,9 +35608,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d6183f442aa7019746b33195009ac985
-SHA256sum: 28c05a3404816d51323170b7eb4205f90ac501ab8ee0052527d68fde9d2e750d
-Size: 12390
+MD5Sum: 31533a162a230a62339adfe4cfb88398
+SHA256sum: 8c4f4144ce51393727a82cf695565ed915fb1c537390dc5f4757a1b50b33ff92
+Size: 12374
 Filename: gstreamer1.0-plugins-bad-coloreffects_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for coloreffects
@@ -35689,9 +35625,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b8a4b6de537f659cf9552db73be4eabd
-SHA256sum: 48c113b32d9e59e03d1eab469b004d8f642985977442952ecb2d6be6939aa7aa
-Size: 36738
+MD5Sum: 6854fd7737b883269b40140e2308e922
+SHA256sum: 492b89397b0a58096c3a8b9d5cdd5cd7719e1a1563fad9d10cc2b0d6830f664d
+Size: 36718
 Filename: gstreamer1.0-plugins-bad-curl_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for curl
@@ -35706,9 +35642,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 707956497e63f459e6e1b79f00a054e9
-SHA256sum: da1e1e99acd136aa996d530ca1d61dee18bab2c41e5655e6ae340882c1bdb568
-Size: 76004
+MD5Sum: 92fce17a37c2529f0a1f189f2a1157c4
+SHA256sum: 973eee3833580a60a57396be9b3fc8859336aac8e61e1f40781c061dc5d72175
+Size: 76036
 Filename: gstreamer1.0-plugins-bad-dash_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for dash
@@ -35723,9 +35659,9 @@ Recommends: cairo-dbg, directfb-dbg, faad2-dbg, glib-2.0-dbg, glibc-dbg, gstream
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 072184620d784ef289ffaae32b9eb00b
-SHA256sum: ae516797c27140fa38fbeb9be95fad06f05de71b1b3665e00219bc96c47e3504
-Size: 5619828
+MD5Sum: 4ea38b9c661f428cf4ce139ef52e25af
+SHA256sum: a877c2632e10c499ec5f58e3820c3e5f10256f71e040e5d2da69a8b21d697206
+Size: 5621264
 Filename: gstreamer1.0-plugins-bad-dbg_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - Debugging files
@@ -35740,9 +35676,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a5ef494eb7beccd7e53e626845dba3e1
-SHA256sum: 9ed06dd20a88edeb867bf4d35474f0012de96846dc317905912ef7b9b1759e45
-Size: 28216
+MD5Sum: d4325c28eb3dd2c1d17a5410911da9aa
+SHA256sum: bba347ba7d07d7279239ec227af9612606f6554e0b5ab8d2f8a951574a5c9b31
+Size: 28200
 Filename: gstreamer1.0-plugins-bad-debugutilsbad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for debugutilsbad
@@ -35757,9 +35693,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c11397f450171bc493bc8143ff53ec6d
-SHA256sum: 7d90797b25b1c79c17ee114c28c9acda0aa9496e3abc8aa1356006cf72c85c73
-Size: 50938
+MD5Sum: 9c9ef44072ead6aea1bf2fced49f56fa
+SHA256sum: 6bc0f0bdb4757b8dd0c0c273a906d4f49ebb1339ce11e3e0388d99761f236092
+Size: 50942
 Filename: gstreamer1.0-plugins-bad-decklink_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for decklink
@@ -35775,9 +35711,9 @@ Recommends: bzip2-dev, cairo-dev, curl-dev, directfb-dev, faac-dev, faad2-dev, g
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9d6c2b5dcd1bdd5e44eac58343f1405d
-SHA256sum: ca37629f8eb899a5077d2b95d09b986c65ca6dce20abd99c0e503d6419e06ffc
-Size: 94738
+MD5Sum: 93862eba89e98411370960791ee7f505
+SHA256sum: c645ca9589d103143ac2e47daf4e5e93330a9db57896faa21d9d3a39c7c0d6f1
+Size: 94730
 Filename: gstreamer1.0-plugins-bad-dev_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - Development files
@@ -35792,9 +35728,9 @@ Depends: directfb (>= 1.7.7), gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 98f6e9d5122df0c9ad86a3dad4705d21
-SHA256sum: 8c9de5b6f611a3e03d2fc770b9c9bde83a1070fe42bd744e5ef435341e9adabf
-Size: 19282
+MD5Sum: 2905557d1a0999031ada9378e08a4251
+SHA256sum: 97c6ccf87ddd2bc2edb0336700bdecf452e2c6f9469a504e6218b99ac5750fec
+Size: 19254
 Filename: gstreamer1.0-plugins-bad-directfb_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for directfb
@@ -35809,9 +35745,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f67b3e8e63a9ac9baaf51282c5456738
-SHA256sum: c2d31fe1e0d273b53113f488ff3926b6f654590dce53febc2b93d14a0e8b0b34
-Size: 31286
+MD5Sum: ee2a99b43de9c89ad7e7cd106f2adb47
+SHA256sum: d12b12071cd53e45bb7049056fbd0b0a43926fcc6f3efcb4e16826722fa52b3c
+Size: 31288
 Filename: gstreamer1.0-plugins-bad-dtls_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for dtls
@@ -35826,9 +35762,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f948b8d0a6503c3c6ae088eddb207f1d
-SHA256sum: 31914829e6a0d67c85ddcf65db0c98115bb2d5f192f43c34c552146364dbaaf1
-Size: 41240
+MD5Sum: 60c25988c1aeff7953a250ac1b029d93
+SHA256sum: 46ee95e7f1712c09dbe0f1445b39f1b715200451ec725da5f985ef82b0d28fc3
+Size: 41216
 Filename: gstreamer1.0-plugins-bad-dvb_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for dvb
@@ -35843,9 +35779,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3e521e31e9b09a8c4734b95ebbdc59c5
-SHA256sum: 86ebf22a35507c0579624c761dbaf36c3118872aa92668422408baa3ca5fde4c
-Size: 23758
+MD5Sum: af63beb5d94e9a057d25f868c0765d82
+SHA256sum: c31e8abda786108e6f807bb5215a5dc5db5fe6d1abce2f4d9d6103063531187a
+Size: 23696
 Filename: gstreamer1.0-plugins-bad-dvbsuboverlay_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for dvbsuboverlay
@@ -35860,9 +35796,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f50146b1bd8b50010c2c017bd8855b0f
-SHA256sum: fcba870c34d023ae7bbeba1a4d2112f27c87e3cdd5c8b298573a00f4cbd6839c
-Size: 22134
+MD5Sum: 0f6df1d261868bb2a161f6071bf5319b
+SHA256sum: 0e5498a601def0c22e01df355bcbbc7c789bd3c959d52941fe1dba475c2281df
+Size: 22118
 Filename: gstreamer1.0-plugins-bad-dvdspu_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for dvdspu
@@ -35877,9 +35813,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9e8956a21bc5f16570626a4b09692d27
-SHA256sum: a969f6908285e6699c2b478f4d6691d3ac888ea335b104368f3cb3aa4a4b33d6
-Size: 8940
+MD5Sum: f4799bd8de6f3764ff5ab1e3b2ba0aa8
+SHA256sum: 6850cbdf169497c42f5dc003822b4229dd1616b1bf11b9db24c8ce6ce03a501d
+Size: 8936
 Filename: gstreamer1.0-plugins-bad-faac_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for faac
@@ -35894,9 +35830,9 @@ Depends: faad2 (>= 2.8.8), gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f6b0891be25025ea3ecddfcb9a771da4
-SHA256sum: 2803cf1bb3538998bb68aa34ce56123c0cdd747a3067341691db56c5ca5994a6
-Size: 9046
+MD5Sum: ad414fe8c62e466c5de0ed4047ca4f64
+SHA256sum: dd24cf323a9b3bb32c9afa90615df2f21a6c58eccfde489cfdfbcfe2927ec3db
+Size: 9042
 Filename: gstreamer1.0-plugins-bad-faad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for faad
@@ -35911,8 +35847,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2)
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 31d476b6ae5996ea1a0ab0983b4c6020
-SHA256sum: 2daf98502e91b45d344fd88873bab3172df34be5289fe1e5384eef3e718a8a4a
+MD5Sum: c4de67c072d6eb0063b71069832c8181
+SHA256sum: 6343a0a6af0bfc259c55b8e7f1e164de6cc54e4aea9a078e5ac8821c7ab85d33
 Size: 6092
 Filename: gstreamer1.0-plugins-bad-faceoverlay_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -35928,9 +35864,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9a5d0751fed89c4142bef63779d4bf52
-SHA256sum: ad547fa6159eb7c1c553226d83b95375a75bac3ddb2247915b314723e29fde4a
-Size: 5700
+MD5Sum: a046710a3211150273277ea0a6afa8e9
+SHA256sum: 244665fc0f3ae4ecffb3ded0462d0ff90dfa345aadcada7ea1c03b1d9e3e95ae
+Size: 5702
 Filename: gstreamer1.0-plugins-bad-fbdevsink_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for fbdevsink
@@ -35945,9 +35881,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e48815af356abc6c84811f806c55402f
-SHA256sum: a9d33b3d60cf6924125d4a2ca0dbfc46ee3d91d282d9a0e34d59f87b11296193
-Size: 6658
+MD5Sum: 115d0672666ea55d5bacd8f19f6eb0a7
+SHA256sum: 249510ecb189af6569dd989eec8d986c1f5824170b185388ab5b94feb3a57650
+Size: 6654
 Filename: gstreamer1.0-plugins-bad-festival_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for festival
@@ -35962,9 +35898,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b352da6e0218ffae45899433ceff023f
-SHA256sum: de4c599510ecaf2fe53e9d441a7114f583234beb4f3f70a65df6d236ff6b6945
-Size: 15148
+MD5Sum: 5b04bb5767d657ed72c87a93b106f0e2
+SHA256sum: 48130b82144d672e81759566d9cced546e95243a98d780d7d130dbcf8780d35b
+Size: 15140
 Filename: gstreamer1.0-plugins-bad-fieldanalysis_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for fieldanalysis
@@ -35979,9 +35915,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1cdb0b0fcc80eef7b1a686da6045465a
-SHA256sum: c2a8bedf5c8aaa2c5dd58c4b2d068011cbf380af619fe01086de2f0ec6125e75
-Size: 9256
+MD5Sum: a3ddd2968d2e7a4ce49dccb4fd5b8b28
+SHA256sum: da729754d5b487e8dc698e885a9dc9d641a6af10fe45b47fc3beaa68e5dbc084
+Size: 9248
 Filename: gstreamer1.0-plugins-bad-freeverb_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for freeverb
@@ -35996,9 +35932,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f10b19449d432042b97b2d56d71351bd
-SHA256sum: 9c60d8e70a7d0f87cf3a3fb764b97927fe0d46be8ae9899cb247bad6d35e8f7a
-Size: 17054
+MD5Sum: 0be1d7ba2e0599057f001d530c5685d4
+SHA256sum: facf9fa24456febf736787d900e44b2552acab6773e15c22b42438789f5d67f6
+Size: 17028
 Filename: gstreamer1.0-plugins-bad-frei0r_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for frei0r
@@ -36013,8 +35949,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 531336e0e61108b969e3d67ec63d3594
-SHA256sum: 0d1d0432864547dada6e4b6a377470d6a2895587182715021d10e2c6231e9892
+MD5Sum: b0066e8033817c8bec44ff50e5f89df2
+SHA256sum: ea23b44a904dc0ac49e9888f78dcca39d22ad44273b5690ba1f0a7c60ec01bc1
 Size: 12486
 Filename: gstreamer1.0-plugins-bad-gaudieffects_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36030,9 +35966,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 60fd08bc4ea70142791ae9a4cf7cdab0
-SHA256sum: 646742d35f5cb8812b82158eb40a73861544b9e7b50fa47c37c937743d55c16f
-Size: 17396
+MD5Sum: 6d7a5ebcff92353d8152285c025ff153
+SHA256sum: 2b9ab44290d606a5b6abe8f71f11152a54ce048066ca87f374b59803289a7f7a
+Size: 17402
 Filename: gstreamer1.0-plugins-bad-gdp_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for gdp
@@ -36047,9 +35983,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ac10ebd89dfc7265ddff167202374240
-SHA256sum: 319a5eb7df31d179a8d39556a9c9dacf753a11dcc942eed799ecd4d4023aa6f0
-Size: 18512
+MD5Sum: 37bd81d48901fea7d32a13b94c800b02
+SHA256sum: 443c7e42bb6df2ab35d6f647d349145915ebaa6835593c7e1ead234979bf7719
+Size: 18488
 Filename: gstreamer1.0-plugins-bad-geometrictransform_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for geometrictransform
@@ -36064,9 +36000,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9fb7dfabad56192d59da0cf0ed43c901
-SHA256sum: 5b3dac3343e787297cf7036af01af385650787ceafbb6c50cc0c3a9ad0eafd37
-Size: 37654
+MD5Sum: 0988ee80e8fe7716cdb60c542565c12c
+SHA256sum: 59c3e855f6b8b6722777546db5c3104a0224c8f23f5f975b5097f42b4e1aba9c
+Size: 37646
 Filename: gstreamer1.0-plugins-bad-hls_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for hls
@@ -36081,9 +36017,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5ea4701eed3d8554577929746961ea5c
-SHA256sum: 04af56560daaf56ed233b11c402995e22de6632132c14d34b8fb876811639317
-Size: 14066
+MD5Sum: 11a62165d41b54b7c07807dfa9938a64
+SHA256sum: 4592664bb5b8279a0ad8df5f0fc1c273bc069ef4d31a72a6b3df6e4f27019ac6
+Size: 14062
 Filename: gstreamer1.0-plugins-bad-id3tag_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for id3tag
@@ -36098,9 +36034,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 176c50b06c596fc57c67e5c3474a9b2d
-SHA256sum: d2a75f6e3e4cb4131ca5698169b2b96653cbb4ef5f1c58e742bb2cb58da6321f
-Size: 16624
+MD5Sum: d22b26fae224c2071e8c15b8fe44908d
+SHA256sum: 6b1f849724df9d36ac1734c55e49b2bc645e6785f6f3a40668aa8b2aaf0c514d
+Size: 16584
 Filename: gstreamer1.0-plugins-bad-inter_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for inter
@@ -36115,9 +36051,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 032d9a7598492060441459a233000c49
-SHA256sum: 24de715428e02d1ce23357e0792ed225b6b1e42e8300ea8ec8f4547b7c55f02f
-Size: 12716
+MD5Sum: 0d96165f1e9801329c8baa0c88068fbc
+SHA256sum: 46ed14ed5046f9398e8c6aec357307ab3ba04e43b3ddd033833017b28cd7f73d
+Size: 12712
 Filename: gstreamer1.0-plugins-bad-interlace_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for interlace
@@ -36132,9 +36068,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2553e14be7b87147a3f025d16c14bbb5
-SHA256sum: 5eb77939d7bf792c55ac317ada741aaa7666ef010acc9fa2adfe2c969eca2db0
-Size: 30834
+MD5Sum: 24fbc6adf3c18a88e4480d9ac4697a13
+SHA256sum: 5df69e6faf0251a3f71848a33b86677e177725dc50c493a15abdf6e401d69ca2
+Size: 30830
 Filename: gstreamer1.0-plugins-bad-ipcpipeline_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for ipcpipeline
@@ -36149,9 +36085,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2)
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bbbc8660c735ccdc1ca49af72c86c5ef
-SHA256sum: 6192cb265f817a6c30bb04a40be6984e63ccc2f76139d0933d707978805fa0b3
-Size: 5478
+MD5Sum: e59a635fe5f7ef38096437901efd9a34
+SHA256sum: ff287bd7e7d2d86d9ad540112983d50c19c522c5c67b28171afc2b9c446edee3
+Size: 5482
 Filename: gstreamer1.0-plugins-bad-ivfparse_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for ivfparse
@@ -36166,9 +36102,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9098f00e399f3c3ac0cfc47deb36beaa
-SHA256sum: 4830d5feb3e1b026eae3911e4824d47c3c77d6add89ddc837ddfaefc9b4b05b4
-Size: 11144
+MD5Sum: f35841147e8b53eab4709e4623d2e231
+SHA256sum: 83f1caa38a9e49b8b268233453e6b4cf458b395ce9ecda8583ff0270debf215f
+Size: 11148
 Filename: gstreamer1.0-plugins-bad-ivtc_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for ivtc
@@ -36183,9 +36119,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ed9388b358f3bb073a7c313976ee6227
-SHA256sum: 1eefde800a4347098248511793a8f77d1da5efad66d8f7d241f2e2eb4d525178
-Size: 15808
+MD5Sum: 77d540150c9365f882fa3b2d20d3d454
+SHA256sum: 84846d2c0f0bd2f4d063a836c8985418fc96b068bde1e80b877368037ed13e9f
+Size: 15796
 Filename: gstreamer1.0-plugins-bad-jp2kdecimator_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for jp2kdecimator
@@ -36200,9 +36136,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b3c4b341d2dd3f922a7d938a4cc2663a
-SHA256sum: 148ed336efe7c669da590745d51ee1b12bec6c5d0d24e8581029f11609a59526
-Size: 13430
+MD5Sum: 725fbbfe32f6f756d523139729ed4072
+SHA256sum: d472b765abebbf547e9e16a04f573a7c209e82b5e49cf96e7bba72961a0a6d54
+Size: 13410
 Filename: gstreamer1.0-plugins-bad-jpegformat_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for jpegformat
@@ -36217,8 +36153,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 97c4658dd17cc7757c96241d1ef6ba1d
-SHA256sum: c8782dd2b7b5a1949ae1d4b8c7a2423fd6c52b4521778cf6a9284cf1d3412910
+MD5Sum: a1f8b1d4ea86bf388495cb062ecf5e6f
+SHA256sum: 22f7e0d6938449010b40923c196016f5fba48970d85ce3432f71118c43f1c8ee
 Size: 7220
 Filename: gstreamer1.0-plugins-bad-legacyrawparse_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36235,8 +36171,8 @@ Recommends: virtual-locale-af
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6344d38deb637087b350c7e9dcfff567
-SHA256sum: 98f058083ff5deb58adc34d41c07df440facf6f66f90ce1249a545ea259726d8
+MD5Sum: e7f6afa8e7fbeac8b2dcd5d7e869da2f
+SHA256sum: 512c474526c5ce52aeb40cd060ca946c670473b87affab2ec5e552c69c1fbc38
 Size: 1308
 Filename: gstreamer1.0-plugins-bad-locale-af_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36253,8 +36189,8 @@ Recommends: virtual-locale-ast
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 025389df470bcd2263554c67af3d1443
-SHA256sum: 13fb143d1747827486c716756b219e027414624678bb19ea4451ae7ceb2ab162
+MD5Sum: 3b051bbf4b45d45d7640b874ca22997c
+SHA256sum: 1d3d4866faed7d60bb5ac316d8bd9f5e5a7c2bea6a69b0ae4ad36ef676de8182
 Size: 2654
 Filename: gstreamer1.0-plugins-bad-locale-ast_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36271,9 +36207,9 @@ Recommends: virtual-locale-az
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b82a00b5a0e80b601664378bdb07a653
-SHA256sum: feb7b509282d2e93c4b55a84f33995be42508b47311a2ffbd74a79a68bc06e48
-Size: 1366
+MD5Sum: 40f2c4c6e40dec66c76d2a1929211f36
+SHA256sum: b02c7dc5efb0579eac7953b5750ca102e347bca758ecd12efde02cd01da7cc35
+Size: 1364
 Filename: gstreamer1.0-plugins-bad-locale-az_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - az translations
@@ -36289,9 +36225,9 @@ Recommends: virtual-locale-bg
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 440f1bc587acaf9a4c126dfcb08ec65a
-SHA256sum: d112ef9f45e322dadbbd5534fab7ba22cbe56f0e211d0f2fd4a91d06f33d799a
-Size: 2744
+MD5Sum: 67c16f801e7980eda4d820b994c671d3
+SHA256sum: b5ea610775ae81d177d8ba4d94675e5a087d25f26ed5ff4b51599e85c9557240
+Size: 2752
 Filename: gstreamer1.0-plugins-bad-locale-bg_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - bg translations
@@ -36307,9 +36243,9 @@ Recommends: virtual-locale-ca
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4a16a8ab92552dbffb3709fcd77e1cd9
-SHA256sum: 1a0a99eef62c0bc5a51e2f9dca98882f03d04f3dd0b091a37ab920a18a2c6963
-Size: 1744
+MD5Sum: 4fa2001c24ec0ca5245dada9af20eceb
+SHA256sum: 207b2add02b9aac04c68a7899d4ddcb9852f0e129f632385f4c63f48b14ee070
+Size: 1738
 Filename: gstreamer1.0-plugins-bad-locale-ca_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - ca translations
@@ -36325,9 +36261,9 @@ Recommends: virtual-locale-cs
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd71b86a404bcf26408b229da27d89c9
-SHA256sum: 6e33f46844e8df997032de4dfa28dad15b879f35c727ff19b8708747987f2c31
-Size: 2704
+MD5Sum: effc4d20351813b4fa04ad7b54fa145c
+SHA256sum: 735617e6e9f492cccb3f9a090d62d3c235e0b4f2a9aeb7b494b1fdd2298a2f77
+Size: 2702
 Filename: gstreamer1.0-plugins-bad-locale-cs_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - cs translations
@@ -36343,9 +36279,9 @@ Recommends: virtual-locale-da
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9d786613e02772b63b920774af91a42e
-SHA256sum: b1e6eb79df49dd34f85dbd0a5e0d0803f03a2f3b5c72c6ebaa3f68c12b254c85
-Size: 2472
+MD5Sum: abaf1206b09c3d69c99eb265627f1562
+SHA256sum: 8890e40eb89652a3a9d6627b1fd5dcef0874f2db5ef9e042287f8bcd12cd4cac
+Size: 2462
 Filename: gstreamer1.0-plugins-bad-locale-da_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - da translations
@@ -36361,9 +36297,9 @@ Recommends: virtual-locale-de
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e89e5598763facd49054ac6d44646494
-SHA256sum: a48968bf37142bd2ae50f109b50c5d0927a190670acba3bd6f205e90fb76e0eb
-Size: 2632
+MD5Sum: 0799a0bece9fca52f7335716b0697e9d
+SHA256sum: eed0a975f1dae8dd3983f7df6d8d12a15c22eb7b3c4f5db619a8897384ce57da
+Size: 2634
 Filename: gstreamer1.0-plugins-bad-locale-de_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - de translations
@@ -36379,9 +36315,9 @@ Recommends: virtual-locale-el
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7cce9a9fcbc84230388610560df9fc46
-SHA256sum: e21cc03aa32c284717279e47d1fe2f8e26da37a6accecb489ada84bca9f83b2e
-Size: 1884
+MD5Sum: e5e1412e7165b24bfd8773c6b60063b4
+SHA256sum: 10e2ae460326462187c45213f1d68ba051896571f16ae05ef5e87ff531945a5c
+Size: 1878
 Filename: gstreamer1.0-plugins-bad-locale-el_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - el translations
@@ -36397,8 +36333,8 @@ Recommends: virtual-locale-en-gb
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: edb4b0c849dc1ac03c7a063fc3253c5c
-SHA256sum: 50a3b6d6b2f1bd802fc624e7d530a59f226c4f8b4cd708b7abdee6e5b056de90
+MD5Sum: 4719b32304e2f1b3e2879b06b5ec3a74
+SHA256sum: d55af6e4c4d8533302720368652a6f7e91104e952bf68f89129f659e09a5407f
 Size: 1278
 Filename: gstreamer1.0-plugins-bad-locale-en-gb_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36415,9 +36351,9 @@ Recommends: virtual-locale-eo
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c4e5b5264e14d17a0d8d76e5ea65d658
-SHA256sum: 59afa26e8de2bbe00ba59ec6aa35a96fa6d0f64004ebda513752884eee61add3
-Size: 1664
+MD5Sum: e6d893928a937477393f5ed44014775f
+SHA256sum: a3611847a8430cee778519585b03aff1ea6e4d68c2acafba4f747f21a5ad197c
+Size: 1668
 Filename: gstreamer1.0-plugins-bad-locale-eo_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - eo translations
@@ -36433,8 +36369,8 @@ Recommends: virtual-locale-es
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 73c663ac70dcde449b85e0a89945c722
-SHA256sum: 6d594d8e01a145a7c6256a4bffa86d3a4c6fb95635b9fddaccafbf3e11fc4b59
+MD5Sum: f19c01ee28d6763519b7129dfc7e8a7b
+SHA256sum: c030535f6024615c17f655a3e9bbc77457cb81186e60dd5068bcb11c9f524bdd
 Size: 1752
 Filename: gstreamer1.0-plugins-bad-locale-es_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36451,8 +36387,8 @@ Recommends: virtual-locale-eu
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 521124c9683db499ced667380a76bc4f
-SHA256sum: 0c2192f0c369b6c47889369e98e2db2f587d99496bfecee46b55cc160d7331ff
+MD5Sum: 50512616acce40a3a491aa0756bd180f
+SHA256sum: 1842cef33d54b59bfc33415cd0269e1afb3861c27be2a3a1add85707feefc056
 Size: 1644
 Filename: gstreamer1.0-plugins-bad-locale-eu_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36469,9 +36405,9 @@ Recommends: virtual-locale-fi
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d7e148bb727a42122744e1e7c44cf1c5
-SHA256sum: 82b00a50a66fd3bd0a307a5302c86f790cf1a233631575679ce6f7f90dd70cd9
-Size: 1620
+MD5Sum: 447238d21ea1d59934c959a939bd2b9a
+SHA256sum: 191535ad598c2762592b3ce9f4a7afcf41a7b2a433885ef8374bc7848e2af8e2
+Size: 1624
 Filename: gstreamer1.0-plugins-bad-locale-fi_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - fi translations
@@ -36487,9 +36423,9 @@ Recommends: virtual-locale-fr
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d3ed63625402dcd00ee57f5e87ea66fd
-SHA256sum: d6ca7818a4ae3ca11d1ee748e11b1e3ee4e956c6761c4b763a3033371676bf20
-Size: 2568
+MD5Sum: 5f5ae3fa01ecb2947b3a0239397d32e7
+SHA256sum: a584730b49edd81ce208a08de6ec15ca4dd5ac1895ebacf992819e35dcdc83e3
+Size: 2580
 Filename: gstreamer1.0-plugins-bad-locale-fr_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - fr translations
@@ -36505,8 +36441,8 @@ Recommends: virtual-locale-fur
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f1ed122645d799bcf2ad53f234de337b
-SHA256sum: 14c517cb0ed278eb7b991cd6eaf433eecd69732744a3f2011f6277758cf53fee
+MD5Sum: 0c3e0cf67900186dfda050b5ac5ccf89
+SHA256sum: 055deef7bf20cd9521459f636bbfb7fc1a87f4aa6399c0fc5e27207000aa5e4e
 Size: 2542
 Filename: gstreamer1.0-plugins-bad-locale-fur_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36523,9 +36459,9 @@ Recommends: virtual-locale-gl
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 90286163ea6e036ad25dc241110917e5
-SHA256sum: ea5b82e941ffb664a130e2adcc5817da576480c03ace7ca1a0a1ab2a83ab0592
-Size: 1772
+MD5Sum: b1bb188ddad7d55d08b4a65d7ad06787
+SHA256sum: 25c720bb3f4116db294ec770205cae1dafabe4e74b578472cb3d86c68d3c6067
+Size: 1776
 Filename: gstreamer1.0-plugins-bad-locale-gl_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - gl translations
@@ -36541,9 +36477,9 @@ Recommends: virtual-locale-hr
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5a7c6a70757fc44e0bddc408e201d0c9
-SHA256sum: 2aa7ecbaaee679577f61c3df777372ca49eaa6c261bc7122889a935de4436657
-Size: 2616
+MD5Sum: c35326b74b81ac595db274dcb370dbc6
+SHA256sum: 0d5c7e2ecdd983b53240039bb77fea0b7ba9d764b4b49c5f440e2f75aaff1e28
+Size: 2624
 Filename: gstreamer1.0-plugins-bad-locale-hr_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - hr translations
@@ -36559,8 +36495,8 @@ Recommends: virtual-locale-hu
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cb2f4fe26665259dd340b5a3f48c801c
-SHA256sum: d02b1ecf59e1b7cbd02457dbedf968e9ac9cff7f2e43dfb26bc4bf860671cce9
+MD5Sum: 8b1d81eccf085846a28b1a01a2884aad
+SHA256sum: ddfcdec4910090ceba6931f4862506b6bb708efd8b59ebe1f57700b7eec4665c
 Size: 2696
 Filename: gstreamer1.0-plugins-bad-locale-hu_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36577,9 +36513,9 @@ Recommends: virtual-locale-id
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 117b08174979ace99cdfe97c2de0e984
-SHA256sum: d81f19a7198d4f1f8334139db02e0d685641096c5f0b9e8ca757ec83993ab3e1
-Size: 2442
+MD5Sum: ccad14d272894e96f845b54a08c9c598
+SHA256sum: 360235c573a732774102cde2a9b7421ca39845bd3279dbb43476a320f284c7f9
+Size: 2444
 Filename: gstreamer1.0-plugins-bad-locale-id_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - id translations
@@ -36595,9 +36531,9 @@ Recommends: virtual-locale-it
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7c6d921ed413aa6ceb3ebd2c9a3270b9
-SHA256sum: 4dac38690681c8d0a48eeba14f6f19b0937709eb805ed663f3c04bbf481cc2c0
-Size: 2554
+MD5Sum: 2ab06249ab1940c305b4f06febb166cd
+SHA256sum: 597c31deb951350eeccc80efed69154e23b233637636f747628f78a0653fbe49
+Size: 2552
 Filename: gstreamer1.0-plugins-bad-locale-it_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - it translations
@@ -36613,9 +36549,9 @@ Recommends: virtual-locale-ja
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5bbc142002bc34d46acc14672cf27e41
-SHA256sum: 5075cb3885009cf7b2cee68cc7d47b2d226d72ac553216a135262351e19a3e0f
-Size: 1844
+MD5Sum: 19d5e2b4b2e1bab30e70b6e2e9f4c438
+SHA256sum: eb4a56972d7af8352f21fe155cdf4a5fd2fac5b68912bea7f8adef1f60919b0f
+Size: 1840
 Filename: gstreamer1.0-plugins-bad-locale-ja_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - ja translations
@@ -36631,8 +36567,8 @@ Recommends: virtual-locale-ky
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4d47ffcc31316134811e15dc1883b878
-SHA256sum: 36bf3908225b3fb81ba01b0d9c7a9a5e39364b54aaa813d45d8244f496630e6c
+MD5Sum: 929e4c2e94e68e59551183a4c1165148
+SHA256sum: d045c7d3b410a2b1866a5b60e469a2e1fb149638ac252de2443f48a792c8a095
 Size: 1482
 Filename: gstreamer1.0-plugins-bad-locale-ky_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36649,8 +36585,8 @@ Recommends: virtual-locale-lt
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 369db766f09ba08890fe80b3e85fa060
-SHA256sum: b34766d67d0ec4a42525920cba08b0be23858633a657e821792ad35b1532d993
+MD5Sum: 3cbd26e61b51b947444b2a4b9a23f1fa
+SHA256sum: 168e759613645bce098af8d5e30e2f5b40b7b11ec2267aab95ddd05649e45cfc
 Size: 1552
 Filename: gstreamer1.0-plugins-bad-locale-lt_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36667,9 +36603,9 @@ Recommends: virtual-locale-lv
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 073951ee8690a2b4a04c710784359366
-SHA256sum: e479d1e598839065083cd96fc74ded94ff62813933395a93cc1fe7cf1108aa96
-Size: 2252
+MD5Sum: dd8cdca6530281e2b5184d58ef25a085
+SHA256sum: 9787bbb6e3ad682d6aec8a8037b2a5abf2b964a4b0c6090cac1f8352a788b783
+Size: 2242
 Filename: gstreamer1.0-plugins-bad-locale-lv_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - lv translations
@@ -36685,9 +36621,9 @@ Recommends: virtual-locale-mt
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ffafefe75e0fcb5dc94348fc88357308
-SHA256sum: dda86cd5a09a282052b0e32fb841002db7c9093393c90bbf97e12e9fa2a94698
-Size: 1592
+MD5Sum: 4042d0c915dfa292b0d8c47f3136b56e
+SHA256sum: 7bdee211d3ca6edb47acb5cc1bff4f32cc87138508bd00b401deb53abca4b074
+Size: 1590
 Filename: gstreamer1.0-plugins-bad-locale-mt_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - mt translations
@@ -36703,9 +36639,9 @@ Recommends: virtual-locale-nb
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0070bc4171174592484d0190d8a3b8fb
-SHA256sum: 4d2050540e0f7a0026c86f4e677e5c82fb606513208c9a8a62b96b0da4f9dcfa
-Size: 2456
+MD5Sum: aa1dc062d4057034554fb3e4716b827b
+SHA256sum: 4d13b2e3cc59d1da1ff9735a10ce21a48c9ddd9c3df098e7637a249717206898
+Size: 2460
 Filename: gstreamer1.0-plugins-bad-locale-nb_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - nb translations
@@ -36721,9 +36657,9 @@ Recommends: virtual-locale-nl
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e12b31595e201f474aa4dcaa0b1c9ba4
-SHA256sum: 57df7ae3f00b1563627e74059b7faafd396062bf60c450ff67668e9cde6fb0ba
-Size: 2524
+MD5Sum: 65905698186143c27ad278c31f70490e
+SHA256sum: 5f05022a76efff13504f7756b59c31db2e1ecca8187cd271a1679e44414c1dd4
+Size: 2518
 Filename: gstreamer1.0-plugins-bad-locale-nl_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - nl translations
@@ -36739,8 +36675,8 @@ Recommends: virtual-locale-or
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f4b4920f45f85a106f61be3c58f4cc02
-SHA256sum: a3101ad9fbb25caa3a585dcb1562d7a0c9ea61175b5a0e70cac3a136cbb4c42f
+MD5Sum: f5afad703a0fb08fa9644c876cde422e
+SHA256sum: 130e6d09f3bdb9012649980bd7481c64d1fe75d977a1a3a73af0b23138026739
 Size: 1326
 Filename: gstreamer1.0-plugins-bad-locale-or_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36757,9 +36693,9 @@ Recommends: virtual-locale-pl
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 841d1630bd08fcf3abe5950345573bb5
-SHA256sum: d5b2079989226836aa15a85268a9406e42cf5e59c0c0789061fe277ae84ceb15
-Size: 2572
+MD5Sum: 55ddaf03a3454ba635c380a30d48dc07
+SHA256sum: 922aa5bb5e848761c76121bfca79df141df86eaa0163d5cfd16109b975556523
+Size: 2566
 Filename: gstreamer1.0-plugins-bad-locale-pl_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - pl translations
@@ -36775,9 +36711,9 @@ Recommends: virtual-locale-pt-br
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a8ea6b604f0bdef1a9a0c2ce97d2850b
-SHA256sum: 736dd12c0a595c4a740c206b4d5d26ba527bf0030f67ccf4c45caa910d2890ba
-Size: 2558
+MD5Sum: f55cf2f952b11ab41c2b7bbdca6227d3
+SHA256sum: de7cc8c7defd4264f70df912be56720c006a4c21aa5db7341e8a5740761c7a65
+Size: 2560
 Filename: gstreamer1.0-plugins-bad-locale-pt-br_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - pt_BR translations
@@ -36793,8 +36729,8 @@ Recommends: virtual-locale-ro
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d9d68a25fb3ae46f94d43e95abd53006
-SHA256sum: fbd8b49460bfb3350798cddf00e2be490f0614d2e29a2898196e466880262140
+MD5Sum: ae4aaca91508a9006cb4712bcefd8919
+SHA256sum: a19ebbd28aeffd06aa63a273d96aeec424feddb57654a677bc76387f0d789a02
 Size: 1692
 Filename: gstreamer1.0-plugins-bad-locale-ro_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -36811,9 +36747,9 @@ Recommends: virtual-locale-ru
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 27fc4c657bb27f8b01dd25285524bfb2
-SHA256sum: d4177283b55e008d5aa4e4ba3fb806e72f492abab15650a1baaab2f6e6d6fa7b
-Size: 2776
+MD5Sum: dfc894d4d39e2a1c9688b8a77310813d
+SHA256sum: cd8a53bbe1416515e64e5acabf9ad3926b05dc50854e99007da36387c5122f1c
+Size: 2768
 Filename: gstreamer1.0-plugins-bad-locale-ru_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - ru translations
@@ -36829,9 +36765,9 @@ Recommends: virtual-locale-sk
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fbf5d9a239fa526850e8fe241b667eeb
-SHA256sum: e0e315d16547a52c9f147656cbe21d2a7eb745bbe000459a4ec0f23fb95be43e
-Size: 2380
+MD5Sum: 895b4e03cd70b9f96b89b27b5f67f78d
+SHA256sum: b0fbf0653d6414619a7ad6a48608181ad5e45dfc389ae2b8e5893fb692ca5faa
+Size: 2384
 Filename: gstreamer1.0-plugins-bad-locale-sk_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - sk translations
@@ -36847,9 +36783,9 @@ Recommends: virtual-locale-sl
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1ff7ae8629d5a07acd254251324a95e9
-SHA256sum: cac19ca8db5302e356cda777fd779aefb56de70c3d6c9c7311ac86adaa7d8924
-Size: 1800
+MD5Sum: e656504e7e36a178fa4176e383e6b181
+SHA256sum: 9f47ebe64d01c7018c486af9a40505ed91ddeae3827c0ababec2aebe49d7c717
+Size: 1796
 Filename: gstreamer1.0-plugins-bad-locale-sl_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - sl translations
@@ -36865,9 +36801,9 @@ Recommends: virtual-locale-sq
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 47fd0f7fe3fa5d1349165579ef63066d
-SHA256sum: 84c368d0c8cc24a251ebf54c7da38f9be62ea3348d142bdd60b5e59546f9bb92
-Size: 1466
+MD5Sum: 8889ab7ee553ebe644455274baf84b37
+SHA256sum: 2b776d36d69d8212fedd43f26aad2663dd5abb622d158498b5d26dfe336ef1c1
+Size: 1468
 Filename: gstreamer1.0-plugins-bad-locale-sq_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - sq translations
@@ -36883,9 +36819,9 @@ Recommends: virtual-locale-sr
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 32ef32d0bba5061c5481aaaf30969c49
-SHA256sum: 284e7494e02521074d289c1b119f576f862db6e27db815cb1da04c014cfba97d
-Size: 2776
+MD5Sum: 6b5ea13ce8ba3662a36dc98681de8ee6
+SHA256sum: 24c7cd4b5a0f4991f8fbf4f90acfd9666585c64d759990fe336a1a7069897370
+Size: 2780
 Filename: gstreamer1.0-plugins-bad-locale-sr_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - sr translations
@@ -36901,9 +36837,9 @@ Recommends: virtual-locale-sv
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d44dfe6eed5218ae19218ad1735159e7
-SHA256sum: 99c9a4360722a39f851fcb29881a7b81ae9461f13ed122746a6d808030ef840c
-Size: 2518
+MD5Sum: b57630299035d72c737af8776d92a348
+SHA256sum: 1713569fca96e752f3bca8c67f5919cf59cd43d5ffb418220ca0f5ed69117100
+Size: 2516
 Filename: gstreamer1.0-plugins-bad-locale-sv_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - sv translations
@@ -36919,9 +36855,9 @@ Recommends: virtual-locale-tr
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 45d0fcd13e381da58ec3e6e884f6539f
-SHA256sum: 1862ea8fb317a982be90c9353f3a21e295822fbe8c9e8e146678a39931c97a4b
-Size: 2624
+MD5Sum: 5213254716e5b7d71c97310046642e51
+SHA256sum: e580c988daae34f81df486240a367b6aa787ab78fda9787f60fdca11d429ba7b
+Size: 2622
 Filename: gstreamer1.0-plugins-bad-locale-tr_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - tr translations
@@ -36937,9 +36873,9 @@ Recommends: virtual-locale-uk
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5aab39accc8cab9c846e3e2c0376e661
-SHA256sum: 57879ee44bcfb1ce84e04c1cae11cd1caa283f035a48acb431876af30f085a3a
-Size: 2870
+MD5Sum: bdb030efe045684c5b90d77553847dec
+SHA256sum: 42174e493ad5bc8d5a8c7611717680b097e8bb74adf41e0be00c79ec85fc370a
+Size: 2868
 Filename: gstreamer1.0-plugins-bad-locale-uk_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - uk translations
@@ -36955,9 +36891,9 @@ Recommends: virtual-locale-vi
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 30cf751a650226932493eeab3a4aa0e9
-SHA256sum: 6eb9c266cc6ed76ccce6192fbbad067042ac5efff3eb78405abaf373f6b1206b
-Size: 2706
+MD5Sum: 5dcdf8c2a198f82ae1775c747a7bce99
+SHA256sum: 90e0bce09eb12e9cc2030f2ce2832dde4681d76e8a7b32c9ba5e2f53c926e051
+Size: 2708
 Filename: gstreamer1.0-plugins-bad-locale-vi_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - vi translations
@@ -36973,9 +36909,9 @@ Recommends: virtual-locale-zh-cn
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d4d291b20d882eff58583ef21e6d0ffe
-SHA256sum: b632ce9f6788504e4942c58980b9720dbdd433fcf406d2c3c81367089c53975f
-Size: 2538
+MD5Sum: 411b18f7006d7412fcd6ff6d44b9c900
+SHA256sum: 98cc773b80ef35ad1fb4dc32be3578c77f2e9e1be946a2205a4092e3c7b508cf
+Size: 2536
 Filename: gstreamer1.0-plugins-bad-locale-zh-cn_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x - zh_CN translations
@@ -36990,8 +36926,8 @@ Depends: gstreamer1.0-plugins-bad-accurip, gstreamer1.0-plugins-bad-adpcmdec, gs
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 31beba61e22b0ef0f0392f18e69be596
-SHA256sum: bf262c87b7fdd2eb6fc5191f11f1a87baffd39509263ab4e33bb8ea5060fd95c
+MD5Sum: cb7bfe17d23e492b3dbb465ca4d6293c
+SHA256sum: 129d94e8380490c0ae7a90b6450ab1049988d6c8693356fe3c7394b9c67ad56e
 Size: 1334
 Filename: gstreamer1.0-plugins-bad-meta_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37007,9 +36943,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ec38a9bc9b5f67bbdc1fb395b5ad8006
-SHA256sum: 174c3928a86a586af33ad16fe49a50d2b3af7e138edc059248a5842040798c7e
-Size: 14126
+MD5Sum: 52d77c6cf581883e4694dcdc551844ce
+SHA256sum: c61804918f415221ea34e3e38225ea90748e8c97912569a37205d7fc361f2c8b
+Size: 14108
 Filename: gstreamer1.0-plugins-bad-midi_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for midi
@@ -37024,9 +36960,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9f2056b3082b39d7e6caa8b332fb916d
-SHA256sum: 486708a3c3dafc82a529b1fe855ca02fc49c0837a48e3254ed4ae8f534dece17
-Size: 9524
+MD5Sum: f145af1639f48910c9274def9305c845
+SHA256sum: 41f87809b75aa57364840e53066fb67d5aa76f8e076f21323225056aa046ad63
+Size: 9516
 Filename: gstreamer1.0-plugins-bad-mms_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for mms
@@ -37041,9 +36977,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66d825773e5d2b3c8f2126c92822e206
-SHA256sum: 3a62ae67000f40ae0df38fdaea755f6831f302611552dcd8280865ec1e07b5c4
-Size: 33500
+MD5Sum: 316d01bc211f070ebf4145cbea61afb1
+SHA256sum: 7539bd9d8747e2e8df3f3947bb2b7c02b6d083c525a8330dd1876ec8df207a7b
+Size: 33496
 Filename: gstreamer1.0-plugins-bad-mpegpsdemux_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for mpegpsdemux
@@ -37058,8 +36994,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 88d760c9c2aa6afd1309c8ebe50f1a49
-SHA256sum: bc4f6d64e11600dfd90d41c09e73095aaabd879639d09c21103a728b2ec785a3
+MD5Sum: 069310e23c2d8c7743d6dc9da14afbdf
+SHA256sum: 98a8d2e852c7a6cb334dd7cbf643f4cac1e8548bc977035d0f9e75904a91c280
 Size: 20294
 Filename: gstreamer1.0-plugins-bad-mpegpsmux_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37075,9 +37011,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 73e4608b735c5fee94cec3a4e8347bff
-SHA256sum: c74823c96fe87046fb67d4b5c3ca64dc4c59a4eb35f009ed49303e0bb746102f
-Size: 69514
+MD5Sum: 3fe2c5ecabffb246f36c029d5c51664b
+SHA256sum: 627be6050222677f416be1dd5c6f94c9e0af4773b20f70e2e3f30a4e61184efb
+Size: 69550
 Filename: gstreamer1.0-plugins-bad-mpegtsdemux_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for mpegtsdemux
@@ -37092,9 +37028,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bf6f376b8d89dff50f53a7831434f465
-SHA256sum: 67466bdf50e3c114aa5d227960767c06858c4117cf805d72f393072360863da8
-Size: 36140
+MD5Sum: 9c7e32b061b155efe2375e64ecd1fe74
+SHA256sum: 8c8fc5376de88419bfabc24bb51e9755962fd874426c07067f9cf723321587a9
+Size: 36152
 Filename: gstreamer1.0-plugins-bad-mpegtsmux_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for mpegtsmux
@@ -37109,9 +37045,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d923ea87d16a324d1306fbcc555d8bd0
-SHA256sum: 70138a0577a5497df07efbe6004d1e9f1b1c78dd1d209f06817229d8476e06cb
-Size: 103960
+MD5Sum: e137b88f71f50d0b6c62c29792f91aab
+SHA256sum: 18c1c6340434b78b71bf00b3501f3be1c50818c63f642132df2838659c51dd5e
+Size: 103936
 Filename: gstreamer1.0-plugins-bad-mxf_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for mxf
@@ -37126,9 +37062,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1cd580dce6898419281796b135515546
-SHA256sum: cd6ccbf72feb2aa6dba2f08b013af38dcb1baa202c434e882d367b3195876ff5
-Size: 9940
+MD5Sum: e998706e7780911313a89f6c526ebaeb
+SHA256sum: 35a3c7123855efd8dfe3179d72d7019823eb84de59a0cc44be7e676a8d5e9dc8
+Size: 9920
 Filename: gstreamer1.0-plugins-bad-netsim_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for netsim
@@ -37143,9 +37079,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6e9e216d53ba65d8d4430722f9051956
-SHA256sum: 5123f9877567141dbc00bae2f2ccecfd051844d9ed66a8e1dd7cb6005909f8a5
-Size: 54026
+MD5Sum: fdd076e030b9ba96a087edef11df15be
+SHA256sum: 3ba412afa4b93c3212ae6793cb0048890578aceed58b7b38bb96bcceca2198c6
+Size: 54042
 Filename: gstreamer1.0-plugins-bad-nvcodec_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for nvcodec
@@ -37160,9 +37096,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c92483b31b4bfdb24999f21bb36fe73c
-SHA256sum: 40cf8060a6144a23cd39496fcd13d5c568a23cb73373ffdbce6c2c8310fdf44a
-Size: 6534
+MD5Sum: 5976194777f8ed0a63cc24cf9d36fbae
+SHA256sum: 2dce24802216a3dd43c9cf6a660822dcb786da94fcf62514351832f83e3e33a4
+Size: 6530
 Filename: gstreamer1.0-plugins-bad-opusparse_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for opusparse
@@ -37177,9 +37113,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f2c68f288d89f04aea153bbeb94ae5f5
-SHA256sum: e25b2af2938b7bb111da2d6afa67ad82b30fbbfefe5377a192af1c43cba3951f
-Size: 9276
+MD5Sum: 7862fcc0226505c4b6386f10394c667b
+SHA256sum: d6c935f4eea5b304458c3e89400866ea28a3466bc3d2fb6aff91397da1f97416
+Size: 9272
 Filename: gstreamer1.0-plugins-bad-pcapparse_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for pcapparse
@@ -37194,9 +37130,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e5963377a791ac24fb77c210b611c334
-SHA256sum: 22bfb7ad91304680d98941b7e943c089346ecaeaa307e01af531b4d6b08d7ffa
-Size: 9820
+MD5Sum: e801c60e63600662922af7e2f07373d4
+SHA256sum: 5bd533bb7b359aea60122ed8baeb41515a726cece44a131ea93db5a3547a1e03
+Size: 9824
 Filename: gstreamer1.0-plugins-bad-pnm_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for pnm
@@ -37211,9 +37147,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2)
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1315500a9b621eb5515b4482997bd0c3
-SHA256sum: 1823de3e7622c43e72a472eecbbc2f04c87087579cca3b686abc2d35dc6d6ae2
-Size: 6268
+MD5Sum: 46811c4e20293629f158138c9450f75a
+SHA256sum: 52574f4d5ec52adcdb087acb2ed9618d58d27bce374e61e7033e6f44f8bc4c10
+Size: 6262
 Filename: gstreamer1.0-plugins-bad-proxy_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for proxy
@@ -37228,8 +37164,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ac5cf6dd5a0cedc38aa2cbbcabde53ff
-SHA256sum: 376c7c88ba423769ac1993fb40c6b3b64b721dcfb42610f2b13c74320c32e27e
+MD5Sum: a22ea2e41083a569c1f3089b5fc84093
+SHA256sum: 441bbadd1cc4a9dbce89cdda7c24cd3a3aaae9f2147e8c9fe3b5633e2aa73695
 Size: 7102
 Filename: gstreamer1.0-plugins-bad-removesilence_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37245,9 +37181,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d772f122d0ce111bacd9ec177e6c758d
-SHA256sum: 582e52e1448eb25726e80e137aba227b09f6ef88b7343f64d18176e3ecbfcddb
-Size: 16912
+MD5Sum: 79937e2187ca64dcc36c1a09a0c95774
+SHA256sum: df22c5e10afaea561e838a25c7b0bfd994e51256f01b28c0e68da467ff55dc8f
+Size: 16908
 Filename: gstreamer1.0-plugins-bad-rfbsrc_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for rfbsrc
@@ -37262,9 +37198,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1d199cdefdbe0ff432ca36c39fd470f0
-SHA256sum: a19ce2101b4a40cd79956ae2ded43949ba4a9b734ce5add6254456a036a5e7c7
-Size: 29542
+MD5Sum: 74823e1efc301e6ea88e647aae33929a
+SHA256sum: 46ffd3314185be8309c498933fc33c151874545c1f5e3b1d0ca369ea742cf96a
+Size: 29578
 Filename: gstreamer1.0-plugins-bad-rist_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for rist
@@ -37279,8 +37215,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 23c11b263c3b8bbd5d7e428d74248390
-SHA256sum: f7385546a54a58e38f07d082befb586dcd817eda01daf23013473f551e6b401f
+MD5Sum: 7194f59f1e97d87c39f4035ca97ce2a2
+SHA256sum: b12f092eb5c63ce2a1772756bf940b2e7bb4566568d6858b1ce6c6cda3bd7bf9
 Size: 9248
 Filename: gstreamer1.0-plugins-bad-rsvg_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37296,9 +37232,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: db51ccb5b30cf18bc211cdb6ef615226
-SHA256sum: 7727e486c3abf0396df094279e7130d6b5892a22abb4dd4fec088f1c16cd093c
-Size: 49916
+MD5Sum: 2d8216f01412a512cef11fbc288df927
+SHA256sum: 02a0d8620e195a24b02276b6529cf23163f34eeb3d3d5721407a159ec845bfaf
+Size: 49912
 Filename: gstreamer1.0-plugins-bad-rtmp2_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for rtmp2
@@ -37313,9 +37249,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 61083252c092ee51902d57900059ac5c
-SHA256sum: 309e693ca58bb9d2685ae3b0a8ab3ede0789bb9248cb75249f43b2bd3827f07f
-Size: 12412
+MD5Sum: e076b57de4d99436762b3bcbd5bc60ac
+SHA256sum: 0542a6a8cdd0f762745f5e2ac3df0af2a199662e6763029be94ab667e258be22
+Size: 12420
 Filename: gstreamer1.0-plugins-bad-rtmp_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for rtmp
@@ -37330,9 +37266,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b1474a861cf467e29d033d92637bf977
-SHA256sum: 8989e2eafb75167eca7c42173a52823e777374295668ac4a4dae6d8d65b425eb
-Size: 11334
+MD5Sum: 4cc1674f0e5526f6b49050bd8a99c5b0
+SHA256sum: 9c383d5d5a64d602a7bdbe9e880f7000aab7ad9dd043e53b4efed6c56cab1ee9
+Size: 11340
 Filename: gstreamer1.0-plugins-bad-rtpmanagerbad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for rtpmanagerbad
@@ -37347,9 +37283,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6224098eb9af2a72449144516e17a5f7
-SHA256sum: 37482fe01d10f9cf2377cd222e367c92c23c1a477d4486f10b3defed4d669bb7
-Size: 10896
+MD5Sum: abd359e8917270e22bf34a98e80ad511
+SHA256sum: c339369f58280055c3741f235a74645ccfdd63f1be4bc99ea9576b18eeb7b497
+Size: 10900
 Filename: gstreamer1.0-plugins-bad-rtponvif_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for rtponvif
@@ -37364,9 +37300,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 118b7809a8cbf46ab293ff1dedae9542
-SHA256sum: be9327e36b6bf64dd977eb08efdbb0144b816abeb4e43f50564a5f20c3f7ed3e
-Size: 7328
+MD5Sum: c715c172d145e93a5f4ddaf13df03a63
+SHA256sum: 4657a2797d5d54b67d48522e78724d429ed2d4471ab89d2c84cd9468dbc90f00
+Size: 7320
 Filename: gstreamer1.0-plugins-bad-sbc_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for sbc
@@ -37381,9 +37317,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 65bc57d1b8c774fc456a7ea6bb9cb03d
-SHA256sum: 0fc3e3365361b3a21fee59a72bf865e25eeb585532e743e2999ab09036f280ff
-Size: 13130
+MD5Sum: 9e3af2160f44bc0908f4fa5e7d209aa9
+SHA256sum: 6e29310e2658b531ff89d2b04ef46ba4d21d0c3d053c38eaade45d4028b3dd79
+Size: 13120
 Filename: gstreamer1.0-plugins-bad-sdpelem_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for sdpelem
@@ -37398,9 +37334,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 92e1c107b9f5dfe4c061ff33d35b8a8d
-SHA256sum: 57e3f6ef52742cd981d0431f1b130267a80c2b0509cf831e70c27c475306295c
-Size: 9350
+MD5Sum: 5f8fd0ab2eb00ab4432f2ea5fb51e0cd
+SHA256sum: b3f81a174b3d29d2bc40e9b194e95b82722de739d9bbc099fe2cd6a456961e97
+Size: 9342
 Filename: gstreamer1.0-plugins-bad-segmentclip_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for segmentclip
@@ -37415,9 +37351,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fe214d2f8fbc02c46937af0d0d46c4cf
-SHA256sum: 3949c5c0c21a3b93b96e99a73467e726a14062a5cb64938cd39755d8b85b8eb4
-Size: 17048
+MD5Sum: 32271c960e887d0ea7120ee61a0a4b91
+SHA256sum: dc70a0d06e9b15cfaa6e0f5f4cccd854bb5a18916a1f4f37bb91b7501e5f5f9b
+Size: 17060
 Filename: gstreamer1.0-plugins-bad-shm_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for shm
@@ -37432,9 +37368,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6500137c15fe07cabab246f06cdc356c
-SHA256sum: 2137a853d8d991ba019a01549ada942ae503ffe715a2ad3d40d595839b53473e
-Size: 21582
+MD5Sum: adc880ca6873dd447d5fad4274d7f353
+SHA256sum: 73a2e23274b21cf5fce859d18eb4ca3cbdbd0d9f735d5e1aef0a1eaaad10e35e
+Size: 21530
 Filename: gstreamer1.0-plugins-bad-siren_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for siren
@@ -37449,8 +37385,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7364fbceaf0682b0eff1aa12d8fb3cae
-SHA256sum: 227cf2015a1e2f139563b8e51b2fbd6e73f6dd0ce39f5b15687e0ad5ab154941
+MD5Sum: ad174a68dc3329d3b60cded1cbf5c67d
+SHA256sum: 35bd30f73e4f502cee4b252fc3e18d2ce329db0acd5fb3da11ec6f7703e0d468
 Size: 4734
 Filename: gstreamer1.0-plugins-bad-smooth_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37466,9 +37402,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 345b2062b7fc82cf4ba6d9ba90fef3dc
-SHA256sum: cb9f8220e7810b333022deda5f0179e40391c25718a0285078fedb4929cc39ae
-Size: 18838
+MD5Sum: 6c6df784bc75c167c6d8aeb0931f2e0b
+SHA256sum: 4779ae49f4becb4d492199dea686e90b50006074146ea0e9f13c4aa5607f86e2
+Size: 18834
 Filename: gstreamer1.0-plugins-bad-smoothstreaming_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for smoothstreaming
@@ -37483,9 +37419,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ce11d1e6552ca0fe589b916d46e32104
-SHA256sum: d0042ea722e1a9b862586e3c5e95b99ffc89aa29b3bd686c97416de0bfee06cb
-Size: 13140
+MD5Sum: 01daf1b2b7cfebdbed0f32dad349061f
+SHA256sum: da7e5f62d4b13604f5cf7db93a78d698dafcca1d664562a1d88696ae2350077b
+Size: 13124
 Filename: gstreamer1.0-plugins-bad-sndfile_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for sndfile
@@ -37500,9 +37436,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9493ac3bf0c77d68e3ff764ee94ffe2f
-SHA256sum: a1834ea293eaf09ab0bde5cd5bc4d6aeb230834d51bd4cc21099c075563dc522
-Size: 8414
+MD5Sum: a8202193a1b0cea20d80a8f7ff718b51
+SHA256sum: ed295b5353a590f1a956ca63bff47cd49ca4cd5fe7f3fee9ecc06c26a32de8b0
+Size: 8408
 Filename: gstreamer1.0-plugins-bad-speed_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for speed
@@ -37517,8 +37453,8 @@ Depends: gstreamer1.0-plugins-bad-dev (= 1.17.0.1+git25772+8afc283-r0)
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5f8ee748eecc1a70c9499f130efe14a5
-SHA256sum: ce197e6dde3c5ba9c68d71a0e7ceb2cdd8b9e2fb3b905da36b38b9765e4f4641
+MD5Sum: eb0e94cd6a7c79eef5b574db3c78493a
+SHA256sum: ba9ecc4d2b9de7fa8ce03b9ca400775dc2cda262faf92cdaeda32d400512fe08
 Size: 764
 Filename: gstreamer1.0-plugins-bad-staticdev_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37534,9 +37470,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2)
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: af1fc9ed30ba721e31a93ac529b17755
-SHA256sum: 1090ff9866f3affd53c94d72f34be270b696147984e43b3e7c02415ff4b1810a
-Size: 6648
+MD5Sum: c1303627de84d584a527b20b64fe6d70
+SHA256sum: 5d3d7b4918dfd77c50adf058c44ea713f16faebe569fab708376fcd383732fa9
+Size: 6640
 Filename: gstreamer1.0-plugins-bad-subenc_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for subenc
@@ -37551,9 +37487,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2)
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d64b5b8161b2bae7cf3a05af1ffecb56
-SHA256sum: 80d9d195f2d66a403ef0e6db7789bd5b1037c171454c9b1032c6f19056ab67a6
-Size: 9508
+MD5Sum: 945c281954c2399e0a2a7f97131ec29d
+SHA256sum: 4324cebd0484f9cfb13cd74c581fc35dc1e894b385f6f3af928d7d1eba15d01c
+Size: 9516
 Filename: gstreamer1.0-plugins-bad-switchbin_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for switchbin
@@ -37568,9 +37504,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b074f528b6fe3adf753106d4cac7fa4a
-SHA256sum: 2cf6c09d18bdb71f1c99e4d40d1645b7ba88b0645a54ad9bdcf925f317b32c6a
-Size: 20790
+MD5Sum: eb8e5823e5af554804a0ed970ad2ac11
+SHA256sum: 125fff29db8b1088d18ce1a0eb0af89f93f007b439fc820432bb8d569fd18f55
+Size: 20778
 Filename: gstreamer1.0-plugins-bad-timecode_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for timecode
@@ -37585,9 +37521,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a1836e6d9baad77fcbef833a34d34998
-SHA256sum: 209ab1c7594f6ac00088b0b97ce73b36a0c5a113d1509d177c3dfcaef0774d22
-Size: 14446
+MD5Sum: f0b38151455121cfc7f2f43a0f2c2e15
+SHA256sum: d6fe29e329ad1734b9a578eba33c089b2d41316e02b6725146cbf0032d08c096
+Size: 14480
 Filename: gstreamer1.0-plugins-bad-transcode_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for transcode
@@ -37602,9 +37538,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 25ca840f688858233965b4f1cf9cfc90
-SHA256sum: 095926001e908257fc0716fe0a076fb212b637ca57171a0676d2cd619d4cce65
-Size: 40318
+MD5Sum: 4ea76da6088c20c41044d3f4c1a38683
+SHA256sum: 5deb821bf4ca49ccacd0aff4891223fc2765586e521a690d9eead33a2788110b
+Size: 40376
 Filename: gstreamer1.0-plugins-bad-ttmlsubs_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for ttmlsubs
@@ -37619,9 +37555,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0c2caa07502adbb20dcd81e65901ba1f
-SHA256sum: 857598bc85d17030bb15523f719de25f2de6de3444baf4b90ec7610418dbc985
-Size: 30590
+MD5Sum: 6f1092de0b5f7cfff2d799bc23aa67b7
+SHA256sum: 7c2a06553dc1ccf187eaecfb720bf867e3b55902ec5345ce88f310d0567968ba
+Size: 30586
 Filename: gstreamer1.0-plugins-bad-uvch264_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for uvch264
@@ -37636,9 +37572,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: be68f37e5a6ac72732b8bb8c5073a721
-SHA256sum: 1340ab7c0cc054c8b3d0a2fbd79c44bcb6bf50e9cc6bbdcce76a3fe1ba13dab9
-Size: 24416
+MD5Sum: e26e67984c5fd9417867779ce115437e
+SHA256sum: cee01031b45f8fd02d44493e14b5cfcc1df0337f8bdda1679ba683215b2893a9
+Size: 24388
 Filename: gstreamer1.0-plugins-bad-v4l2codecs_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for v4l2codecs
@@ -37653,9 +37589,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8493cf76f5ec1a875e002552c18d275a
-SHA256sum: 0b14e1dffe2e5ef06f971958cff8989a2c7e88518a920f66afb747bd8b08879e
-Size: 6732
+MD5Sum: c21d071d2910e119e26ac9eb5db2604f
+SHA256sum: c9d9def042d563b69b91568cc873edb6f4e3865ccc131d8ed438a4019e114d7c
+Size: 6720
 Filename: gstreamer1.0-plugins-bad-videofiltersbad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for videofiltersbad
@@ -37670,9 +37606,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 565b6c7e9e6bc2a5843fb510fdac70fa
-SHA256sum: db7eefedc29e622611d7df6965fdf2019ab3731ea90a0d8a33c03a4e8817b2ce
-Size: 10804
+MD5Sum: 264818901273da057d6241bcefde86ae
+SHA256sum: 2634f867ed05c32199e569a440b315775e6591de1ad67531b1b2b3196a6f2ce9
+Size: 10800
 Filename: gstreamer1.0-plugins-bad-videoframe-audiolevel_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for videoframe-audiolevel
@@ -37687,9 +37623,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3f3cc16cd9b12df84a967a3a2c466f00
-SHA256sum: 45aa6c2d7f4ab393c9e4a180acab3459546eae74fa3b7c0b8865a50361df1a19
-Size: 78568
+MD5Sum: 78a21fcc088ca51c387452985a018a50
+SHA256sum: e6e24442632be67491b1b25665adfe3b0cb9e8924a6af10ea45e2dc228546d52
+Size: 78520
 Filename: gstreamer1.0-plugins-bad-videoparsersbad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for videoparsersbad
@@ -37704,9 +37640,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libglib-2.0-0 (>= 2.64.2),
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 05d6342af5d2cad565f2a885a9aa85d9
-SHA256sum: b43025d866ceb52a04ef49994761a084268c5e557865b4d8a078f3487165af5d
-Size: 9310
+MD5Sum: 3d10c7a67da2e90718a99ca96bb732cf
+SHA256sum: c3cd8714aa351ef740b6c32b4a1996fb2454e96250b1e00ccb7f96ad433ab2ea
+Size: 9312
 Filename: gstreamer1.0-plugins-bad-videosignal_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for videosignal
@@ -37721,9 +37657,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1b70c3a0b318159e2eaec1044fd96757
-SHA256sum: df7377c5e4fc13081d40edf0f7cd10d19122fa3657b1f1bfb8cc6031d304f946
-Size: 9418
+MD5Sum: ab578517a6dba3afc99c219161c03622
+SHA256sum: 254bca4d1654c71e4aba9505a5caeeea7a799948d892dfe34e0e9c3187a423ba
+Size: 9408
 Filename: gstreamer1.0-plugins-bad-vmnc_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for vmnc
@@ -37738,9 +37674,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 143fe274eaac7e3678148496a59b7879
-SHA256sum: 7cd18ecf40d5abd3ad8d192de547aa6cf4d4d102ae418884137d6c5fdfd26a82
-Size: 8418
+MD5Sum: 750e0c07492398bc26beba98d4ec89a8
+SHA256sum: 3c4769b2c34239b8868911ce2c0bdcd1713f8d0cde3d40c74eca8a4f6a7c32df
+Size: 8410
 Filename: gstreamer1.0-plugins-bad-webp_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for webp
@@ -37755,8 +37691,8 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0e9bb04c4917313659482ca4a2d7e676
-SHA256sum: 1879905ff3dc5ffa11e0eb69e3d973b1045af6af97bbbefb46cc2e2e991eb0cf
+MD5Sum: 4946cd76dd4f2cd09c15d3cdd56c5c3d
+SHA256sum: df2e25ff41712613ad1df5f91f9f4be7908bd9a71148f2aad0bd2182ac1aa9ab
 Size: 11646
 Filename: gstreamer1.0-plugins-bad-y4mdec_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -37772,9 +37708,9 @@ Depends: gstreamer1.0 (>= 1.17.0.1+git18877+24d789a), libc6 (>= 2.31+git0+109474
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 384ff26e98d604e169ef862db7ba3835
-SHA256sum: 83b635d2660a8ee23903841d7629b7062a66007dea65de04f0133756d59f8d49
-Size: 6018
+MD5Sum: 1deb1953d41c95bebcb3212fdec36595
+SHA256sum: 871dd75ed9c06dd6cc046b0c4b6569ca2770bccbe302dda6b5e58295e586aeca
+Size: 6014
 Filename: gstreamer1.0-plugins-bad-yadif_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: GStreamer plugin for yadif
@@ -37789,9 +37725,9 @@ Recommends: gstreamer1.0-plugins-bad-meta
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fc10ddb3565e03887c81859c75ac710c
-SHA256sum: 4898df129fa87d068a6ec457bd77aa47b268ec18f6a10ec7ea6a79cc20499d88
-Size: 2084
+MD5Sum: 33ca29cf2e824d79b3683098daf048fa
+SHA256sum: 7c0f5d3b62bd504128676ad9cde323d99376761a3b16842ea4cf6340a182ea90
+Size: 2088
 Filename: gstreamer1.0-plugins-bad_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: Plugins for the GStreamer multimedia framework 1.x
@@ -42772,9 +42708,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), rc-keymaps
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 635d57316416adbb45d3544d26232562
-SHA256sum: c28f10d2048c9941cd9aef520e2c954326cb2e9f19d378d30290aba32b63cab2
-Size: 30846
+MD5Sum: 184eddcd4e7e08d183e22e33119f9095
+SHA256sum: 81c378174f53781e4a6bd32f7949df5d19b311023739d96e091b7906eb8fe87d
+Size: 30858
 Filename: ir-keytable_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications
@@ -53025,9 +52961,9 @@ Provides: libgstadaptivedemux-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cb8d4c64d7d6dfdc2253b1c73c94ddb0
-SHA256sum: 0b42c4c509fe4fb474e2a453af9609ba9b7f5ca0464d0dc5ff12794b4e1df4ed
-Size: 37952
+MD5Sum: d7d547cb4069118411d5fcc193409d40
+SHA256sum: c09dfde218addc7daddbdb37f1bff69d85ba06d25cc5a86b85cc098b680da1f5
+Size: 37984
 Filename: libgstadaptivedemux-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstadaptivedemux-1.0 library
@@ -53097,9 +53033,9 @@ Provides: libgstbadaudio-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 112cffd64f8a44abc4608e30a30c5c0d
-SHA256sum: 629ae05af781fcc0bcf76dc0d382f06e7dea68c31527e5a255b5eb6ba30f0fbd
-Size: 22288
+MD5Sum: 58f89cd90c3def60a46804506e98d8ff
+SHA256sum: 5a885b180c45aafdfda83f4c3bc2ac32a2bde4ccf82eb1ddb519e09d940ef663
+Size: 22284
 Filename: libgstbadaudio-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstbadaudio-1.0 library
@@ -53115,9 +53051,9 @@ Provides: libgstbasecamerabinsrc-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ee7facb18e97cef76c52dbd9e5935217
-SHA256sum: 5645f001bd1032c6c827860a83f1a04547816426070f00722456947ba428f159
-Size: 9406
+MD5Sum: 273ba5e937202f7df346eedaf3054c61
+SHA256sum: 4755d90057abc925ca18ae7755bb0a6e4d15ece98bbe814bd81ce98964b1bdc6
+Size: 9418
 Filename: libgstbasecamerabinsrc-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstbasecamerabinsrc-1.0 library
@@ -53133,9 +53069,9 @@ Provides: libgstcodecparsers-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3253fa9c2b616459b027f1dce1bcd955
-SHA256sum: fa3394e9bc23c55cc3195cb443eacd3058299a1fc50b4bc4a1486402f00d61a6
-Size: 135004
+MD5Sum: 4aca9fd012a747b934575ed3d73ddfe2
+SHA256sum: df09544fb107c10fefb876df3d308ae55894ff099e3f5555c9ab7a6a28208aaa
+Size: 135008
 Filename: libgstcodecparsers-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstcodecparsers-1.0 library
@@ -53151,9 +53087,9 @@ Provides: libgstcodecs-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c7542041afea22ff6d737d0a096abb96
-SHA256sum: 299ed036e863c467a392459c2f250d559dbbf6f6492c402f223d098bae90b2cf
-Size: 27422
+MD5Sum: 9273114965c376077589c92753483cd8
+SHA256sum: db07e12040f7f2646b8c2e00b09e1b2a6af164ecb2e7dbc3de739bbf55786ba3
+Size: 27404
 Filename: libgstcodecs-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstcodecs-1.0 library
@@ -53187,9 +53123,9 @@ Provides: libgstinsertbin-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 22274cce7279681d174cc68fa94836c9
-SHA256sum: 46673f5f441d1df5ea284c7f9cf6a01d7cbdf1deb5930a0851a5855fe33cf03b
-Size: 8142
+MD5Sum: 64135f293b8504c00fd4c0c68ff31053
+SHA256sum: eeee07564eeca45dc18ccb121ddfec9184bbe45cf61b7b77715d927249950323
+Size: 8136
 Filename: libgstinsertbin-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstinsertbin-1.0 library
@@ -53205,8 +53141,8 @@ Provides: libgstisoff-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ee2b5330643dded0454123864559ef12
-SHA256sum: 21d00b2ee09dbded33d1df1539f3c5ff1173fb3ed21b7708f9cbf00e911d52d5
+MD5Sum: 4cd4a40749b572fe5ebcc327ab41f71f
+SHA256sum: 5bbde810189fc49ad6387a883081176b04609c33b898f24bb8e6efe2ae43b1b3
 Size: 9304
 Filename: libgstisoff-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -53223,9 +53159,9 @@ Provides: libgstmpegts-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 67cc570e10ecea9c758620bcab8eb197
-SHA256sum: 4c2e74f53f26d348f156dc187e3251ab2881e107be950150eebed1c498cc155d
-Size: 47356
+MD5Sum: fe8f79bfb8f2d0bb597f612f31b03ea3
+SHA256sum: 006ac9bb0eb89dce833b9ca8fc7d193e4fd88c81bd89f1ec358dd32eb58992af
+Size: 47304
 Filename: libgstmpegts-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstmpegts-1.0 library
@@ -53259,9 +53195,9 @@ Provides: libgstphotography-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0ff5a522e4b630a53d4f43a3071b1282
-SHA256sum: e6c79cd4aae80e6334679f4604ded5c156f0df3075930a8ecaab5e034e03b4cd
-Size: 7350
+MD5Sum: 408e00ce195fce2bd84a9824a612f502
+SHA256sum: 93e5df17d8b6be3c2fa2f6269555d0e819c62fa779ee2a0751f2be32cd528564
+Size: 7334
 Filename: libgstphotography-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstphotography-1.0 library
@@ -53277,9 +53213,9 @@ Provides: libgstplayer-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ea7036a11c21e77c52f1354d2c09fff2
-SHA256sum: 325d76f9f06156ef5ca94a4706f8d1ef991068578a15c36341922c2243e88ba1
-Size: 33702
+MD5Sum: ca4d82ea2bfd32c7986b72c513ceab67
+SHA256sum: ed6081413bf566b28d02501e6d8e808af4bcd31a29cce5935e59c0f4e9b3160a
+Size: 33646
 Filename: libgstplayer-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstplayer-1.0 library
@@ -53349,9 +53285,9 @@ Provides: libgstsctp-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8c8650799bcf5602c26c20031b3216d7
-SHA256sum: 361508dd1c3475364e821c507f274894a5a98e168a68f0edc23b1d5617e59701
-Size: 2784
+MD5Sum: 3bae353d883a42af381aca18d3e6e57e
+SHA256sum: a5a08c1ad341dde60be0b22465f55474e4faae00859d2614533fa7cff6b1d2f8
+Size: 2792
 Filename: libgstsctp-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gstsctp-1.0 library
@@ -53403,9 +53339,9 @@ Provides: libgsttranscoder-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a3e7b69ec82d4473cb50e5c922ba6291
-SHA256sum: 36ccffec815f073b3654cb0e1bb21e1229f5f92ae82add016faf67029d2d6f67
-Size: 14312
+MD5Sum: 3c908a762a895d2c042506ef94eff003
+SHA256sum: 32b4b678cc346d5afdbf02475f406dbb550899936461fe813e1b1aba67c45d44
+Size: 14304
 Filename: libgsttranscoder-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gsttranscoder-1.0 library
@@ -53421,9 +53357,9 @@ Provides: libgsturidownloader-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 65bb722eec49c3e6c15c8b52ca39df81
-SHA256sum: 62ef3529d7b2dd5845b0c6d24486e6b54bb66bd714f64c82a69097a21ddab388
-Size: 9894
+MD5Sum: d2ac5e908531460f25bbb85d9905cb11
+SHA256sum: 73853b0e7ab2decc023879214b06ef622b4dc28c80ee454f0576186d8ef7669b
+Size: 9896
 Filename: libgsturidownloader-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
 Description: gstreamer gsturidownloader-1.0 library
@@ -53457,8 +53393,8 @@ Provides: libgstwebrtc-1.0
 Section: multimedia
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 35b859aa373ae028e5f2f13b807e24fc
-SHA256sum: 39a68f54afc27c68f32048c796314aca843acdfe23739d94a71c53942fab96ff
+MD5Sum: af116016d768886ba6d722385c80eafb
+SHA256sum: 45b23752729ce095f7937ce8b81f18a52a4db91c6d3209b603a17f2cd7cd0ab9
 Size: 9354
 Filename: libgstwebrtc-1.0-0_1.17.0.1+git25772+8afc283-r0_mips32el.ipk
 Source: gstreamer1.0-plugins-bad_git.bb
@@ -53476,9 +53412,9 @@ Conflicts: systemd (<= 220)
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9be790c92d0b9bb959a026509ee45a09
-SHA256sum: b7856671f225cf69aae56df843a4263866e83236a92aa5a9b95e005d8f77bc42
-Size: 9668
+MD5Sum: c92fb8315a5555317a0b89daa5149b32
+SHA256sum: bcb518244e867989106ff5a9db657d2c460ea170b49a4fdc40f6cdad1b1dc950
+Size: 9680
 Filename: libgudev-1.0-0_233-r0_mips32el.ipk
 Source: libgudev_233.bb
 Description: GObject wrapper for libudev
@@ -53494,9 +53430,9 @@ Recommends: glib-2.0-dbg, glibc-dbg, libudev-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d8cd982aa9dfaf6aff30ca7e36744bb5
-SHA256sum: 1afb58a0e7e55fc6d9dafdd166e7af9a9a214b6491c7ddf003ec4cbaf7fd6ae7
-Size: 28918
+MD5Sum: 6360e39e70c9ce076107d773eb9e93d0
+SHA256sum: af2c14646388921e6071095562a67e482d976a24d27dba89c574383411e96a9d
+Size: 28898
 Filename: libgudev-1.0-dbg_233-r0_mips32el.ipk
 Source: libgudev_233.bb
 Description: GObject wrapper for libudev - Debugging files
@@ -53513,9 +53449,9 @@ Recommends: glib-2.0-dev, glibc-dev, gobject-introspection-dev, libudev-dev, ude
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2d7cba8f7e675095e4f0b84505f07cef
-SHA256sum: 2ca64e915dafa59da45dca30117bfb76be21e05161e6c0ba86d35df0a51dc712
-Size: 3992
+MD5Sum: ca33d95162ba47ad06f9da5427059346
+SHA256sum: 2fae3355776fd42c6e4ab31deb9baab0c06a65bf748b0659a46ea08e87f2034d
+Size: 3988
 Filename: libgudev-1.0-dev_233-r0_mips32el.ipk
 Source: libgudev_233.bb
 Description: GObject wrapper for libudev - Development files
@@ -63246,9 +63182,9 @@ Provides: libudev
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9bbc4c9402d42ab7c1d39588fd0d0549
-SHA256sum: 670542e563cf3beb35f4700455e3747fb07f5ad87e8709bf3152466c76070b14
-Size: 54776
+MD5Sum: b691e3cecaa275f43eff6c8a73c66c27
+SHA256sum: c2ef4ba518e3c0d22928398899ed95f3a782bbb4622d67f908aa4d812df46e61
+Size: 54772
 Filename: libudev1_3.2.9-r0_mips32el.ipk
 Source: eudev_3.2.9.bb
 Description: eudev is a fork of systemd's udev
@@ -63690,9 +63626,9 @@ Recommends: glibc-dev, jpeg-dev, libjpeg-turbo-dev, libudev-dev, media-ctl-dev, 
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 53c52e83038455d323dd68283bff5c1b
-SHA256sum: 94b3d7188c62f842efb25726c58fd7f6d167abf959dbc799ed0b03f14f1280c7
-Size: 63250
+MD5Sum: b7956d131f31edcf5f3ac4a39b256650
+SHA256sum: 0c6f41b34740c4521bbb73bcc22e58ffc67638f1c3a04b94643ff4621d83cfff
+Size: 63258
 Filename: libv4l-dev_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications
@@ -63706,9 +63642,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libjpeg62 (>= 2.0.4), libudev1 (>= 3.2
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b7484de998d634a298f95bae0d78dd9d
-SHA256sum: 8353fa427449d0ea4648f2a4822b7ea68a574840a4d1ac79dac22463ccd7efc7
-Size: 186318
+MD5Sum: 5c0b902aeef826439104aa2eca082a21
+SHA256sum: 4aff49dfb54b4369b7d30479d7d1ee3bd05531b3f35ab057f8ccae51da07e1e1
+Size: 186392
 Filename: libv4l_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications
@@ -73636,9 +73572,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libudev1 (>= 3.2.9), libv4l (>= 1.18.1
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 00df5e91ec9dbb7a1697f7ebaa5bad36
-SHA256sum: 884637df53fa76997e8862145b907fd411bbbdd046214e6e8fe6be02541c23fb
-Size: 16028
+MD5Sum: a4e8207e791b0aaf254a130b07cae0d5
+SHA256sum: bcb281a5f4f1492bd8040a90dabb3d6ec7500b9b0ad396f285ed742690c1fcef
+Size: 16024
 Filename: media-ctl_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications
@@ -75717,14 +75653,14 @@ License: openssl
 Priority: optional
 
 Package: openvision-bootlogo-dbg
-Version: 20200603-r0
+Version: 20200605-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 09a18cc8ab64020a2d6e7122cf74e47f
-SHA256sum: 0e819846b0d9e45ad719e7c39639ec08146e8adfd990a83c83893eb60b8fe6ae
+MD5Sum: 814a63297747bfc7f5c3f2dd01a040f7
+SHA256sum: f12162d994d1e0852d3802bf9d9442627749a6bb2c724e4938105a4ce7ba5b66
 Size: 674
-Filename: openvision-bootlogo-dbg_20200603-r0_mips32el.ipk
+Filename: openvision-bootlogo-dbg_20200605-r0_mips32el.ipk
 Source: openvision-bootlogo.bb
 Description: openvision-bootlogo version 1.0-r0 - Debugging files
 OE: openvision-bootlogo
@@ -75732,16 +75668,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openvision-bootlogo-dev
-Version: 20200603-r0
-Depends: openvision-bootlogo (= 20200603-r0)
+Version: 20200605-r0
+Depends: openvision-bootlogo (= 20200605-r0)
 Recommends: initscripts-dev, showiframe-dev, update-rc.d-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f1ea64f725f8f26bebaef834eac23b65
-SHA256sum: 0c1139a8e0f2e8cbcbc329be494eb98268635664915be89c422ea500e3a16426
-Size: 742
-Filename: openvision-bootlogo-dev_20200603-r0_mips32el.ipk
+MD5Sum: be7662991bd40c71dac72b388fa26843
+SHA256sum: 90b79f69aec66506162baf7cb0b81d784dc9910b48e9fbb5e09482c492e39400
+Size: 744
+Filename: openvision-bootlogo-dev_20200605-r0_mips32el.ipk
 Source: openvision-bootlogo.bb
 Description: openvision-bootlogo version 1.0-r0 - Development files
 OE: openvision-bootlogo
@@ -75749,16 +75685,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openvision-bootlogo
-Version: 20200603-r0
+Version: 20200605-r0
 Depends: showiframe
 Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 82c0936d2a62bf4ad3a64e51d4e44eef
-SHA256sum: d48c7894835c5eb39b1936630f343497ee52c24c27e422ce29610210b9e6a926
-Size: 614198
-Filename: openvision-bootlogo_20200603-r0_mips32el.ipk
+MD5Sum: 93c6be1f2cdcd7a46d5d2ed05db55eb0
+SHA256sum: 27097011d7b7f67d59f87735d8ef438d7a2a0e8f6d73e390374a6934e7048bd8
+Size: 614184
+Filename: openvision-bootlogo_20200605-r0_mips32el.ipk
 Source: openvision-bootlogo.bb
 Description: openvision-bootlogo version 1.0-r0
 OE: openvision-bootlogo
@@ -96178,9 +96114,9 @@ Version: 1.18.1-r0
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 36afa735f04084bcf0f74e15fd7f68dd
-SHA256sum: 400d8e7477980a5297e7a783384505f35083f7b3937ff5c0053c7b8150a91504
-Size: 22560
+MD5Sum: a7771f302a1342ce08710002f968be2d
+SHA256sum: f5135feccf3cda1cb31f2fa4321d488e7603be614a1176b2532904e5fdafdaf7
+Size: 22568
 Filename: rc-keymaps_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications
@@ -100096,8 +100032,8 @@ Version: 1.1-r0
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a8dec873eb2e946b6daaf11feda49d2e
-SHA256sum: 6f82c03e8b7d1da4f6044626cdc6a408a5017b337794a83eed7b4c66e8ea5df7
+MD5Sum: c1b690a12ee13dd39ca3a24badd4feac
+SHA256sum: 93a9fca5da147cab4710613e9e5e1c25e9ba032b737dbb277cb301d6ad288ebb
 Size: 728
 Filename: udev-extraconf-dbg_1.1-r0_mips32el.ipk
 Source: udev-extraconf_1.1.bb
@@ -100114,8 +100050,8 @@ Recommends: udev-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d59a8b2302405cff3756a7f9c90b2ec9
-SHA256sum: d79cfe3ad52765477c3afaa1a7ace298a072a85ff2277cb680a1935f132ee347
+MD5Sum: 22c1029b9ca7423206fa15702909cbc9
+SHA256sum: 21729c7f02183b0c7ed8ebccf5aa86b5b33537a0750f3f5a1014dca592c50fdb
 Size: 768
 Filename: udev-extraconf-dev_1.1-r0_mips32el.ipk
 Source: udev-extraconf_1.1.bb
@@ -100134,9 +100070,9 @@ Conflicts: udev-extra-rules
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0aebe3fe9acbcf7d58db707cdb9624b1
-SHA256sum: f8e8edeb62c20cd402299620828a2d0f5bd7a39f0ac5c1d71c002d020dd8d041
-Size: 3536
+MD5Sum: b0fe009dc98fecc7102c04c1f316d8d5
+SHA256sum: ae3ef4ef9e676e44fabc10ab0e445922b7be52d24f1316a58ede031d5100aad6
+Size: 3808
 Filename: udev-extraconf_1.1-r0_mips32el.ipk
 Source: udev-extraconf_1.1.bb
 Description: Extra machine specific configuration files
@@ -100222,9 +100158,9 @@ Recommends: glibc-dbg, libudev-dbg, libusb1-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d3a003db1b5cfa3140832229f6ef4c5f
-SHA256sum: 3324b4c9d1f96a3c7a072dce12208a9a0396936831e9f5ed078e8a5824f227f4
-Size: 89006
+MD5Sum: 0ca108d1e0c58c081de9b8427d9363dd
+SHA256sum: 5b0644bcbdb6769816a4d1494b8d174c19f3eebf4cad0d3cefce51e73d3b23be
+Size: 88938
 Filename: usbutils-dbg_012-r0_mips32el.ipk
 Source: usbutils_012.bb
 Description: Host side USB console utilities - Debugging files
@@ -100240,9 +100176,9 @@ Recommends: glibc-dev, libudev-dev, libusb1-dev, python3-core-dev, udev-dev, upd
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 594291e77627bab3a9a8321b305d5ce3
-SHA256sum: a880e5e1cbbe3572322803b2a5fbb6f363bbbb83c51c8dd9e0513126d322253b
-Size: 832
+MD5Sum: 6af72bf357da0640abd8210083b83fbd
+SHA256sum: 140d9f801f619cbb8112b4ad3ae7cb01c602c8ed9d9d4c369c1676145cc6d939
+Size: 836
 Filename: usbutils-dev_012-r0_mips32el.ipk
 Source: usbutils_012.bb
 Description: Host side USB console utilities - Development files
@@ -100256,8 +100192,8 @@ Version: 012-r0
 Section: doc
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 729b42f0442e341ea51a73c3ac0477af
-SHA256sum: bd00ad98ac2c7c56e880b23f44fe1cffb60dcae24141724474ad65a18409b761
+MD5Sum: ea6cfce7f0f8774d8bac0804dfd4895e
+SHA256sum: 470ac766232fa13a2e447e8e361a7f95dd37c1a94b5ee32be13c0de3ffa09308
 Size: 4124
 Filename: usbutils-doc_012-r0_mips32el.ipk
 Source: usbutils_012.bb
@@ -100273,8 +100209,8 @@ Depends: python3-core
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 32fc697ea1ed34a068671369a7f13631
-SHA256sum: c6712890276f69a79e3aa7fb464d21ac5bbfcd22f7616f25e6e9e54dabac3359
+MD5Sum: c30f9a0bbcf955e5ee11fe1208af7f49
+SHA256sum: b057c495cd7de4ae2bcf79be6380416c5f4ca35fd4241e383a0f328aeff74928
 Size: 5224
 Filename: usbutils-python_012-r0_mips32el.ipk
 Source: usbutils_012.bb
@@ -100291,9 +100227,9 @@ Recommends: udev-hwdb
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6019ee424d5da8686cfcaca41560f8f8
-SHA256sum: 085d334fa396fafb36ab471e7316a1d4031f5bb7e1935c2bed2d9bd4129ee2f0
-Size: 55224
+MD5Sum: 5ff9d42466bec05bc7ac156cf8ff766d
+SHA256sum: a3d07dd4be0965900f3ce517cc829fc5a8ce904704d7db3efd88d23d6249befb
+Size: 55282
 Filename: usbutils_012-r0_mips32el.ipk
 Source: usbutils_012.bb
 Description: Host side USB console utilities
@@ -102686,9 +102622,9 @@ Recommends: glibc-dbg, libgcc-dbg, libjpeg-turbo-dbg, libstdc++-dbg, libudev-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bbf551738879aa85674c40ab29184484
-SHA256sum: d0cddaa48cd4f940c687033b7d032f070ab21d67b385564385498276b995cd5f
-Size: 3266686
+MD5Sum: 74b6179bd70d7f2ff249da2cb57de89d
+SHA256sum: 15f10216f0954c0ce5a0aa327653d33fed554880a5c7e2369bad0532363480d4
+Size: 3265858
 Filename: v4l-utils-dbg_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - Debugging files
@@ -102703,9 +102639,9 @@ Recommends: glibc-dev, jpeg-dev, libgcc-dev, libstdc++-dev, libv4l-dev, udev-dev
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2bd395863a11454b882727997fc26070
-SHA256sum: b384bd2778f67676890f7d0d38f722528c878ed8ef652a98e1cf4f3fb28cd7bb
-Size: 886
+MD5Sum: af2e6257b6973caa46cd476e36723809
+SHA256sum: 6337e5012a2e04fe49750c7aaf183d4c596e6610f0af730a008ab09687df0b3b
+Size: 882
 Filename: v4l-utils-dev_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - Development files
@@ -102718,9 +102654,9 @@ Version: 1.18.1-r0
 Section: doc
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aa60357f4da7314d8e28f1053d9b711a
-SHA256sum: 5fd6d98b787187c9a02c74c7133a1ead246c436fbef1181a86c45fa5a9357cbc
-Size: 23258
+MD5Sum: 8d2ff66c9120b5b3d4d4774ed12b4249
+SHA256sum: 13570f3ff5c4b714fddb11929dd1e3bcd512342c4c995752a627043bd0014b83
+Size: 23270
 Filename: v4l-utils-doc_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - Documentation files
@@ -102735,9 +102671,9 @@ Recommends: virtual-locale-ca
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 821e15415ed99171aa27e305feb197d2
-SHA256sum: d8201dcf61243f5f2d313cb813ca98f1ad8d11ead7f577db17dfe9252b519d54
-Size: 2760
+MD5Sum: 86661a76e2a0793d378ccc6fac5e8ffb
+SHA256sum: 25f0ab7c2663acbe760fa27a3d07e5f81e7533d2a52c39035161730e441c77e8
+Size: 2788
 Filename: v4l-utils-locale-ca_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - ca translations
@@ -102752,9 +102688,9 @@ Recommends: virtual-locale-de
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ec7fbec5cf3bab998d37a1e5405168cf
-SHA256sum: 611ea7a74e945bdd31d3e3b6de6593eea40416148a641eaa223d2c44b6467177
-Size: 13322
+MD5Sum: 7c61b8aa1a8de373de49619c809e16e7
+SHA256sum: 886017cec81585e143d49cf5201d94fd04b1164b60e3cc8e86e24ad83b5d7cdd
+Size: 13414
 Filename: v4l-utils-locale-de_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - de translations
@@ -102769,9 +102705,9 @@ Recommends: virtual-locale-fr
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 55175218f5f8ccb72d144a80a390a92e
-SHA256sum: bee6c3ee3e1ef225eb90f3fcd12d0165e1ea38d45de6541a874305c130f06d43
-Size: 2028
+MD5Sum: b6826eab1449be72266faeb2beb888ed
+SHA256sum: a0dc93954498db6e146756fab495d82c9cf01064028c3d02af5aeb22c5f4016c
+Size: 2034
 Filename: v4l-utils-locale-fr_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - fr translations
@@ -102786,9 +102722,9 @@ Recommends: virtual-locale-pt-br
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: af0c2773452fbcb7b34b11b53e9f2247
-SHA256sum: 5f422a60adc8c5673c9fe09bed248ef74cce7fa6e53d68dd1620489a251cfffa
-Size: 13222
+MD5Sum: fe8d0696d1c075bd675757ebdd49750d
+SHA256sum: 09b975826a4531a41ae9cbfce07fdc928e38a393f6e80b7252ea7b454d7c9e52
+Size: 13226
 Filename: v4l-utils-locale-pt-br_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - pt_BR translations
@@ -102803,9 +102739,9 @@ Recommends: virtual-locale-uk
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a46e201cf938ea0a359ff3fe975f5841
-SHA256sum: fad587128295bf462b15228375d94274f6c610d29291ac86e0fd67eb4f2fc819
-Size: 5468
+MD5Sum: 595b81bf2ed2b2c39e5e101461ec5f92
+SHA256sum: 25be6fbeac52d1b76a2d769fcd3229739f84dac14dc9348eb45b9fa7a3d318be
+Size: 5472
 Filename: v4l-utils-locale-uk_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - uk translations
@@ -102819,9 +102755,9 @@ Depends: v4l-utils-dev (= 1.18.1-r0)
 Section: devel
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e6f6a63ba069683a494f114ab40cc2c0
-SHA256sum: 32127a1a0f08add37e85ae27c13147e2d8e88051edf382386c07af980e1fe205
-Size: 753352
+MD5Sum: be044b059059153b2234ffb29275ed68
+SHA256sum: a654ca16c0da0043d22759cf671c58bf1f952cc485bbfe3a62157d7d4ea246f3
+Size: 754072
 Filename: v4l-utils-staticdev_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications - Development files (Static Libraries)
@@ -102835,9 +102771,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libgcc1 (>= 10.1.0), libstdc++6 (>= 10
 Section: base
 Architecture: mips32el
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 230ea663d410037cd5ade3b14db8dc18
-SHA256sum: 95c12406867a97dc6e9b07ff19b103b34fb34739768984fa87c176c598d2146b
-Size: 496946
+MD5Sum: 2b51183e65de44a1b54f7b6e9ab2dcef
+SHA256sum: 625be990d78b905e4ea45c58f5784c5a2d004be3dcdb5c28164d7e1a40d30c4f
+Size: 497138
 Filename: v4l-utils_1.18.1-r0_mips32el.ipk
 Source: v4l-utils_1.18.1.bb
 Description: v4l2 and IR applications
