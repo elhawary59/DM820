@@ -322,8 +322,8 @@ Version: git48+f711a31-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3325cf5d9165aebcab8692a9e1837e7f
-SHA256sum: 83f2f6bc63c78c84652257ddb6df65c46d533ae1ac908b6cbd007326b1bfe20d
+MD5Sum: 8ede50bcacd955662fd6e7a48290f857
+SHA256sum: 083e194ecd9436c20570ea76f574ef8d4018c252f4741e20d9c03f8b9bff80aa
 Size: 680
 Filename: enigma2-plugin-skins-octetfhd-dbg_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
@@ -335,13 +335,13 @@ Priority: required
 Package: enigma2-plugin-skins-octetfhd-dev
 Version: git48+f711a31-r0
 Depends: enigma2-plugin-skins-octetfhd (= git48+f711a31-r0)
-Recommends: enigma2-plugin-extensions-weatherplugin2-dev, enigma2-plugin-fonts-opensans-dev, enigma2-plugin-fonts-segoe-dev
+Recommends: enigma2-plugin-extensions-weatherplugin-dev, enigma2-plugin-fonts-opensans-dev, enigma2-plugin-fonts-segoe-dev, enigma2-plugin-skincomponents-weathercomponent-dev, enigma2-plugin-systemplugins-weathercomponenthandler-dev
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 121cdbb36399c72af0427aa092b22ba6
-SHA256sum: e398e70d976b0120b8955557a01b3b5bbdef424c57ae1f080c51ff484a1158ff
-Size: 760
+MD5Sum: 0fc048a88ee0c1f77388a703314eb4d8
+SHA256sum: 039425e1c2d279f182b1c609db4ff3ab0df4f336c1426fa03117c98c8fbb2808
+Size: 786
 Filename: enigma2-plugin-skins-octetfhd-dev_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Development files
@@ -351,13 +351,13 @@ Priority: required
 
 Package: enigma2-plugin-skins-octetfhd
 Version: git48+f711a31-r0
-Depends: enigma2-plugin-extensions-weatherplugin2, enigma2-plugin-fonts-opensans, enigma2-plugin-fonts-segoe
+Depends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-fonts-opensans, enigma2-plugin-fonts-segoe, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 253d2f20316fc1bf9ce7eda626a0c9db
-SHA256sum: 521e4c53ff2e78200ab7ec58d439eccbd832e57c54971f5a925d71c4177d2d8b
-Size: 1269754
+MD5Sum: 0282988ada6dc93821ca7838d71c438f
+SHA256sum: b6586d1d0eae9327611433d029573f8e3d5bfadcde6501b3ae232f157fb9473d
+Size: 1269822
 Filename: enigma2-plugin-skins-octetfhd_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD
@@ -366,47 +366,47 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git2100+301ed70-r0
+Version: 0.1+git2109+bada7ab-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 17980bde6f0f2c8613506e060096e510
-SHA256sum: db362226672165b5383ee67b7c15b2335134fc31c03b907a39da48cb0281cbe6
+MD5Sum: 12bb66a289a92abf171e284f04cb6aab
+SHA256sum: 6745125aceca97c58b16d9f1518454bb4bc46741c4e07be5a80f1ae4abbad33f
 Size: 674
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2100+301ed70-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2109+bada7ab-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+301ed7077a-r0 - Debugging files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+bada7ab48c-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git2100+301ed70-r0
-Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2100+301ed70-r0)
+Version: 0.1+git2109+bada7ab-r0
+Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2109+bada7ab-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 44aa8652d3d6b4de583638f283cae693
-SHA256sum: 7100f28b9274f7cc9b076ece84fa08104f60bc9d4c405538f15dee171fc1677b
-Size: 708
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2100+301ed70-r0_all.ipk
+MD5Sum: 5751ebd0654169ce45f1e4e3f2bac033
+SHA256sum: e2372653c6f9ac4e2a6038ded2583577096dd19f37e5353219f3570fe3cc1875
+Size: 710
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2109+bada7ab-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+301ed7077a-r0 - Development files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+bada7ab48c-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git2100+301ed70-r0
+Version: 0.1+git2109+bada7ab-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: d7bb7882b36872fceb10690832ceaa17
-SHA256sum: aff44a1c94a91cfec081775804223b79ee9ad033bf9baa1f9f39e0613873f11a
-Size: 382506
-Filename: enigma2-plugin-skins-pli-hd_0.1+git2100+301ed70-r0_all.ipk
+MD5Sum: 6a40621659ec517aeaf9b39a2ae775a1
+SHA256sum: 3bac8f58e49185ebd8452d2ecac5143e009aa6b1fa96591ca06ddbda39067268
+Size: 382664
+Filename: enigma2-plugin-skins-pli-hd_0.1+git2109+bada7ab-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+301ed7077a-r0
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+bada7ab48c-r0
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
@@ -427,14 +427,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dbg
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 35532a34b57b7fb9d9427d3c3c81839b
-SHA256sum: 045857613a5f4eed6f7ab20cec007826615028526db0fa303e67dcd80cd0221b
+MD5Sum: 704c0566e18dd8e571098eb6b901cda3
+SHA256sum: 9cd9a8bde7ee22168901940f1fd672dcc052ce5b0c960bce71e372ab33913ce1
 Size: 650
-Filename: frequency-xml-list-atsc-dbg_git630+4cf0db6-r0_all.ipk
+Filename: frequency-xml-list-atsc-dbg_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Debugging files
 OE: frequency-xml-list-atsc
@@ -442,15 +442,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dev
-Version: git630+4cf0db6-r0
-Depends: frequency-xml-list-atsc (= git630+4cf0db6-r0)
+Version: git632+82032b1-r0
+Depends: frequency-xml-list-atsc (= git632+82032b1-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: b67cc5658ed8fe89d3e0da013fd1a3c6
-SHA256sum: 8ab9e57657d6c5e8d61c4031cec93355ee68a0b0d71b8fbd920e7170f314476f
-Size: 684
-Filename: frequency-xml-list-atsc-dev_git630+4cf0db6-r0_all.ipk
+MD5Sum: 67beffde6c77d445aea4858dcf60b318
+SHA256sum: 4f0b62d1ea8bacd6bae869035d0a48c6c63c2988a3c4fad9cb4f02f972feba4e
+Size: 686
+Filename: frequency-xml-list-atsc-dev_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Development files
 OE: frequency-xml-list-atsc
@@ -458,14 +458,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: d2b02669078e59e34a8084ab193155aa
-SHA256sum: 62965522f2f0a5e9ba09c004774bcfbceb59a80969e87b61bf8015ccbd82a446
-Size: 1472
-Filename: frequency-xml-list-atsc_git630+4cf0db6-r0_all.ipk
+MD5Sum: 2e16aa31e2cc9af70960ca254862dfaf
+SHA256sum: b421a3ac9991cc94a3c18fb0aeefe82efa83aa7246174e91f8633ad182041ce1
+Size: 1464
+Filename: frequency-xml-list-atsc_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2
 OE: frequency-xml-list-atsc
@@ -473,14 +473,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dbg
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 46b42574f5df18e9b2b8e61c8d676a89
-SHA256sum: 344ceefeb38878074a2e8859421ccfd5d9ed93d3bdbc55291115ffd7c211de6e
-Size: 650
-Filename: frequency-xml-list-cables-dbg_git630+4cf0db6-r0_all.ipk
+MD5Sum: fddf8c8903cec451227fa5adff552db3
+SHA256sum: c3cf08476d92764c9beddd961256de697e926693fd2581b1cf36e7408dda8373
+Size: 652
+Filename: frequency-xml-list-cables-dbg_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Debugging files
 OE: frequency-xml-list-cables
@@ -488,15 +488,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dev
-Version: git630+4cf0db6-r0
-Depends: frequency-xml-list-cables (= git630+4cf0db6-r0)
+Version: git632+82032b1-r0
+Depends: frequency-xml-list-cables (= git632+82032b1-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: cd56fde4a949ad1e12f5cd479c7df451
-SHA256sum: a8f6e4c7fef7fb78b6a30156f6594e7934fb93e82e8dec11474a775899eabbc0
+MD5Sum: 004151cb4821b1bce2c2c410b7682eec
+SHA256sum: 0f8e5ea2e76dd50b8eef8bac85f6007a4e67a31f01556a01f5ea8dbeeca4915e
 Size: 686
-Filename: frequency-xml-list-cables-dev_git630+4cf0db6-r0_all.ipk
+Filename: frequency-xml-list-cables-dev_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Development files
 OE: frequency-xml-list-cables
@@ -504,14 +504,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: d21cf58c5a119a1d4968ad690d54da56
-SHA256sum: ecf79a8dcfc277f4b8e14551ae747de1e446261a6240a06d180fe3bf3493da08
-Size: 15330
-Filename: frequency-xml-list-cables_git630+4cf0db6-r0_all.ipk
+MD5Sum: 5ff8f8272677923383b345b8ec973d1f
+SHA256sum: d96bc4ad7c7237e0ddf29a4a2635ec95d2f2ea791b8851257740af0e204ae4ae
+Size: 15324
+Filename: frequency-xml-list-cables_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2
 OE: frequency-xml-list-cables
@@ -519,14 +519,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dbg
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: ff48dfe6168c012e7f5ca13c7c53448e
-SHA256sum: dace198888198fd2ffa52d0cf16b1c1572b24edccc9b82b3c27dc9786d477c97
-Size: 650
-Filename: frequency-xml-list-satellites-dbg_git630+4cf0db6-r0_all.ipk
+MD5Sum: 46dcd4fada1ced803a8519e3aeaf0d51
+SHA256sum: 40c328848d304fd57e9c298bce23447315aaa316de2996570cc3dd934aa07184
+Size: 654
+Filename: frequency-xml-list-satellites-dbg_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Debugging files
 OE: frequency-xml-list-satellites
@@ -534,15 +534,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dev
-Version: git630+4cf0db6-r0
-Depends: frequency-xml-list-satellites (= git630+4cf0db6-r0)
+Version: git632+82032b1-r0
+Depends: frequency-xml-list-satellites (= git632+82032b1-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 2a98d17c8a77d8e6078bcfa29732b31e
-SHA256sum: 5d526ab1fe25da3ba93166d5e71b17a39668316e137356be52b0e1814bbf73c4
+MD5Sum: 15d1463352c12d38e9b3df5e5a6e5b07
+SHA256sum: 76a60672513fd5ea928075fc4b2859b9a6a1557e2141f6057fdf35f81cbafab3
 Size: 688
-Filename: frequency-xml-list-satellites-dev_git630+4cf0db6-r0_all.ipk
+Filename: frequency-xml-list-satellites-dev_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Development files
 OE: frequency-xml-list-satellites
@@ -550,14 +550,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 75fbd8625c29eef4d14cf5d4042f4b52
-SHA256sum: bd14d2b8b094558ac581f7958e1ffcc3fad1527cda07fdd653d21099a9671a24
-Size: 25506
-Filename: frequency-xml-list-satellites_git630+4cf0db6-r0_all.ipk
+MD5Sum: 509197060d906c71929c785ec184c5c3
+SHA256sum: c97766b8dca53286a0258ee2f68b48793bf1274a3d3ae128ccf64400d3b62e2d
+Size: 25518
+Filename: frequency-xml-list-satellites_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2
 OE: frequency-xml-list-satellites
@@ -565,14 +565,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dbg
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 9cba956708c1ecdd814c5da6bce7dc6b
-SHA256sum: 377e805c668578a665693257e0fcca758a8023cf35526e9caecfa7ba46418604
+MD5Sum: 9ec3a0356b54ec64e72a7a8c82a09156
+SHA256sum: bfcb0c7e58556d805b5666f816c76d5680cf8e36f8c365ae4a2ddcaeab207557
 Size: 652
-Filename: frequency-xml-list-terrestrial-dbg_git630+4cf0db6-r0_all.ipk
+Filename: frequency-xml-list-terrestrial-dbg_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Debugging files
 OE: frequency-xml-list-terrestrial
@@ -580,15 +580,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dev
-Version: git630+4cf0db6-r0
-Depends: frequency-xml-list-terrestrial (= git630+4cf0db6-r0)
+Version: git632+82032b1-r0
+Depends: frequency-xml-list-terrestrial (= git632+82032b1-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: ebba5cf771a7dc451303cc3f6a55c177
-SHA256sum: 2782ab11979f9631d7def311d56a423cd48881d779f3088935a59122f9f28d9f
-Size: 686
-Filename: frequency-xml-list-terrestrial-dev_git630+4cf0db6-r0_all.ipk
+MD5Sum: 286e67ff52f212e23fedafc2ee8c1e00
+SHA256sum: 8f2e50a6a389ebd8eb97a12d8c21ae3aba3de92dfb944475618a3d953f4d492c
+Size: 688
+Filename: frequency-xml-list-terrestrial-dev_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Development files
 OE: frequency-xml-list-terrestrial
@@ -596,14 +596,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial
-Version: git630+4cf0db6-r0
+Version: git632+82032b1-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: ac89df98084fc2aa6a962bca31b2f8a7
-SHA256sum: d672280a459d74deae140bfed590747c8b263748d239e8a987085c8a96415c98
-Size: 14478
-Filename: frequency-xml-list-terrestrial_git630+4cf0db6-r0_all.ipk
+MD5Sum: 45003b7c3bd9ac18132007cb78c51076
+SHA256sum: ecfa8f2e0790e3e540c2d9faf686cfed541ae3c03735fd4581a204215f4ab678
+Size: 14482
+Filename: frequency-xml-list-terrestrial_git632+82032b1-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2
 OE: frequency-xml-list-terrestrial
