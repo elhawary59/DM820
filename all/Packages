@@ -1,13 +1,13 @@
 Package: alsa-topology-conf
-Version: 1.2.2-r0
+Version: 1.2.3-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 89a7fd38ccc592b2886dd3b833efbabf
-SHA256sum: 050d0232eade38ddd6258c108ab9d8f8b4605fe5cf7817d660c1f9db405be89b
-Size: 5410
-Filename: alsa-topology-conf_1.2.2-r0_all.ipk
-Source: alsa-topology-conf_1.2.2.bb
+MD5Sum: 764863fa3a64eff085d05326e52a992c
+SHA256sum: a19c2fd98a8b56a4f5420b78a488fc41738073980b50ae71bd18e6e4d6aa7c83
+Size: 10912
+Filename: alsa-topology-conf_1.2.3-r0_all.ipk
+Source: alsa-topology-conf_1.2.3.bb
 Description: ALSA topology configuration files
 OE: alsa-topology-conf
 HomePage: https://alsa-project.org
@@ -15,15 +15,15 @@ License: BSD-3-Clause
 Priority: optional
 
 Package: alsa-ucm-conf
-Version: 1.2.2-r0
+Version: 1.2.3-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f13b0b92b91ff9e4336ac27544d2c37c
-SHA256sum: f8ff930526a5fb791ffd1abf06b1a892b154ee4bdb7b404ef58eed1b03fa8046
-Size: 15314
-Filename: alsa-ucm-conf_1.2.2-r0_all.ipk
-Source: alsa-ucm-conf_1.2.2.bb
+MD5Sum: 39504356b5448c490e7458f0ed99f48b
+SHA256sum: 9565f8c85e64251d2b32a5f6a7b994686ddb105ee9deb6466d5054df8e92f299
+Size: 18336
+Filename: alsa-ucm-conf_1.2.3-r0_all.ipk
+Source: alsa-ucm-conf_1.2.3.bb
 Description: ALSA Use Case Manager configuration
 OE: alsa-ucm-conf
 HomePage: https://alsa-project.org
@@ -35,9 +35,9 @@ Version: 2019.01.06-r0
 Section: doc
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6a010d0b6169e087229e43a02da1287f
-SHA256sum: 71b49ef3ca3e05c085b4eb6ad839350ab00155dd9a0e3f5eb63a6d4bd6451b30
-Size: 16566
+MD5Sum: b021aad3f8fc71018183ed245ed9902a
+SHA256sum: 8a9de099c48a9a6213d88fe21596663711e58df4d65c2b4e98335bacbcc759c1
+Size: 16552
 Filename: autoconf-archive-doc_2019.01.06-r0_all.ipk
 Source: autoconf-archive_2019.01.06.bb
 Description: a collection of freely re-usable Autoconf macros - Documentation files
@@ -51,9 +51,9 @@ Version: 2019.01.06-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 08889ea0945cdcba5bbe012069f5b2c9
-SHA256sum: 43bc6abd7a179f3f4d3149b5f07bc4ed2da1c73784df0864c591e04b5dacdf36
-Size: 307650
+MD5Sum: 86e70d20bf5b41115918e52c222dd70c
+SHA256sum: f8f9ab149cadd95c714f3d32eade2cbe4023bddc132c71978b9213f38816705c
+Size: 307790
 Filename: autoconf-archive_2019.01.06-r0_all.ipk
 Source: autoconf-archive_2019.01.06.bb
 Description: a collection of freely re-usable Autoconf macros
@@ -67,9 +67,9 @@ Version: 20200601-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 432c9082d2d37294acc1d87aec8c612a
-SHA256sum: 7a63ca7552c37ee94f1ce140775cc674cc24e6f3c0fd1c15a7070eab214c3398
-Size: 790
+MD5Sum: 6b68ed117e839bcc9598608c26d87008
+SHA256sum: e47c815d1496feb26c319f22293dfdf564eff07b61a23705558f680a70c4fa23
+Size: 792
 Filename: ca-certificates-dbg_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates - Debugging files
@@ -85,9 +85,9 @@ Recommends: openssl-bin-dev
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9774969b32fcb3a5a35d768631acfd42
-SHA256sum: c13765d023ebeb9054b7bc4f54c81d793dc8a70f5324fdf26bb20a136641c40d
-Size: 836
+MD5Sum: d60a8fab48874f70401f5f1f94510f05
+SHA256sum: 94d064cff2960fd86df4f0b496358a0a132f3046459bc3f7c0ac06d02969ed5d
+Size: 838
 Filename: ca-certificates-dev_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates - Development files
@@ -101,9 +101,9 @@ Version: 20200601-r0
 Section: doc
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b6ab7e8eb2ea356ead95b5ee3dd13469
-SHA256sum: 2cf29d368aadf56bd88b05aab287cebd62e43788c6683103bd6c44948e3be620
-Size: 2090
+MD5Sum: b1e0c77154bfe0e35fee2c616994ed24
+SHA256sum: ad4e5521e48093fd853851d364def5cc7a9af8b2e0acf62c6298e7e691b05a39
+Size: 2086
 Filename: ca-certificates-doc_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates - Documentation files
@@ -118,9 +118,9 @@ Depends: openssl-bin
 Section: misc
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c6a08a682156633b6bb9942d5ef62dd0
-SHA256sum: d6f809c664df94b4d037f010b8c10875a850f5b389427b9fea2c5480fca4d5ec
-Size: 118408
+MD5Sum: a5ef0ea7de7038f4747fa1a847afc654
+SHA256sum: cfe6ee960e054e709351faf9ecb9dfa2216883882822cb5137cd0d142c5e7b07
+Size: 118406
 Filename: ca-certificates_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates
@@ -130,14 +130,14 @@ License: GPL-2.0+ & MPL-2.0
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: git3570+580a65a-r0
+Version: git3575+4590e76-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f9f89f1577c965df327a89063dda6219
-SHA256sum: a0104edd282739245eeb800a157afb0cdb12f6cf17567b87997ae58f6eea7226
-Size: 680
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_git3570+580a65a-r0_all.ipk
+MD5Sum: 8b51007a433b9b828f307307660ae04c
+SHA256sum: f4afc8e97da4bf83f47e2dc817b64fd1275edab2c4bf92dd539439645eedb364
+Size: 678
+Filename: enigma2-plugin-extensions-e2iplayer-dbg_git3575+4590e76-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -145,16 +145,16 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: git3570+580a65a-r0
-Depends: enigma2-plugin-extensions-e2iplayer (= git3570+580a65a-r0)
+Version: git3575+4590e76-r0
+Depends: enigma2-plugin-extensions-e2iplayer (= git3575+4590e76-r0)
 Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python-compression-dev, python-core-dev, python-dev, python-e2icjson-dev, python-html-dev, python-json-dev, python-pycurl-dev, python-shell-dev, python-subprocess-dev, python-textutils-dev, rtmpdump-dev, uchardet-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 49e42d3b04d4f9c417f029bc091b9c59
-SHA256sum: 2ca5696d8bb77dcaaa09174177fa2dd5d4ff8548791158d7827cc33c9af8e3b9
+MD5Sum: fa52f4c863f4aa70ded38eb4f952415f
+SHA256sum: 50efb39e429041ecf75a1ad8bbe9685b79296b9e0933806e8565e622385d488f
 Size: 860
-Filename: enigma2-plugin-extensions-e2iplayer-dev_git3570+580a65a-r0_all.ipk
+Filename: enigma2-plugin-extensions-e2iplayer-dev_git3575+4590e76-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -162,14 +162,14 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-src
-Version: git3570+580a65a-r0
+Version: git3575+4590e76-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0bcdf0b60ea82b6540bf73e26b5dd10b
-SHA256sum: ed1bd2eb0a86d6f737567c0bc895449faf99bc804293eba0f72e2d7f45352a68
-Size: 836450
-Filename: enigma2-plugin-extensions-e2iplayer-src_git3570+580a65a-r0_all.ipk
+MD5Sum: 896568816fd2d2c1dbc22293413ee012
+SHA256sum: 21bd7315cf546a99d8aa1a3dee9c1b421c00c5ffb7497a847dcbf342d57a28f8
+Size: 836842
+Filename: enigma2-plugin-extensions-e2iplayer-src_git3575+4590e76-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Source files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -177,15 +177,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer
-Version: git3570+580a65a-r0
+Version: git3575+4590e76-r0
 Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, iptvsubparser, lsdir, python-compression, python-core, python-e2icjson, python-html, python-json, python-pycurl, python-shell, python-subprocess, python-textutils, rtmpdump, uchardet, wget
 Section: multimedia
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 43cef6388ca520703d4af17c19ab82f0
-SHA256sum: f0e536f3d7c4b1cc05672b5104394c13dedff9fc15d2119f836a6306c4d1fb04
-Size: 5801336
-Filename: enigma2-plugin-extensions-e2iplayer_git3570+580a65a-r0_all.ipk
+MD5Sum: 42e0fec643e8fe8afd0f70a6a167ab56
+SHA256sum: 3c5751719b223b51714c448c1271cc91bffd8d3433d51e3f2580f4657e7ae156
+Size: 5802496
+Filename: enigma2-plugin-extensions-e2iplayer_git3575+4590e76-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
 OE: enigma2-plugin-extensions-e2iplayer
@@ -199,9 +199,9 @@ Conflicts: enigma2-plugin-extensions-xmltvimport-rytec
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e47d68e36891a20a9866ec8b5bab55b1
-SHA256sum: 668b760d18a86545dfd0d134753bc90b4831fb8e315ac498debc6f783bc4e46e
-Size: 4220
+MD5Sum: c6f31e0f76a4f2816c2a76cb52d3d381
+SHA256sum: dd11be06346e11283e83c40318c34f6dc3325f85a2dc7c11536edc3f16c0a329
+Size: 4226
 Filename: enigma2-plugin-extensions-epgimport-rytec_20200504-r0_all.ipk
 Source: enigma2-plugin-extensions-epgimport-rytec.bb
 Description: enigma2-plugin-extensions-epgimport-rytec version 20200504-r0
@@ -214,9 +214,9 @@ Version: git6+fc7065c-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eaef6c10f6af05fed913428312cb64a5
-SHA256sum: 054e7ebea36229c44cd0bd15c50cd4787d07ebd66368ebc0723933545d2e9406
-Size: 676
+MD5Sum: 5a67477753493fd747e3acb44f9b60e5
+SHA256sum: 6009b6791f583e84f455559076bc30d48423c147276f3967d4050be88dcfcf3e
+Size: 672
 Filename: enigma2-plugin-fonts-opensans-dbg_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans - Debugging files
@@ -230,8 +230,8 @@ Depends: enigma2-plugin-fonts-opensans (= git6+fc7065c-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 73a603fc78e6ef65139572e1b278b647
-SHA256sum: 702e464ad049e137019bf737a6eacc973af97a827576a94ab80b9b44f2c2987f
+MD5Sum: 25115bb09af18855c4782425817b71ef
+SHA256sum: fc68b6e088e2b432daafe1cc1f61273d223198db00476ac94240c7f542c555c4
 Size: 708
 Filename: enigma2-plugin-fonts-opensans-dev_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
@@ -245,9 +245,9 @@ Version: git6+fc7065c-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1cd59688661c6ebddfc5714b52870a67
-SHA256sum: 4ab036043adc40c0e3b36d84ac57bfbcb413e30d5cd9710fe00db84cb0f4c2df
-Size: 112234
+MD5Sum: 0d8aa71be0e532d37cc3946b54afe3b8
+SHA256sum: cd10e1c807c910e88db07c103dc71d6a1cd9eaa5a0a7224fd53fe13321df3106
+Size: 112992
 Filename: enigma2-plugin-fonts-opensans_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans
@@ -260,8 +260,8 @@ Version: git6+fc7065c-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 89f143916fef324f2dfef0be415c229f
-SHA256sum: ec6e7e35ca7a6fff4a4ecdd356a8f630d73d3228e1a3bc421b834e01d62a8fa6
+MD5Sum: c3daf711076ffe2ece188928e6edfae8
+SHA256sum: 7c60d787b6ba52cdc864699cdfe85f3433800f28b8eca0b9b92d1027901d5e35
 Size: 672
 Filename: enigma2-plugin-fonts-segoe-dbg_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
@@ -276,8 +276,8 @@ Depends: enigma2-plugin-fonts-segoe (= git6+fc7065c-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9bb83f9479cda4b561a64251a653d937
-SHA256sum: b3710c2787f0a1218dc4e2e5d5c30a87a48856f300083dc654a24d7a5633eca9
+MD5Sum: 40c30400fd0d8f41b0cc0a416fdcb13c
+SHA256sum: ea1e65212989e3e6f35300080121454fc86b518d4bde74a9b0acf5c380aa1b29
 Size: 706
 Filename: enigma2-plugin-fonts-segoe-dev_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
@@ -291,9 +291,9 @@ Version: git6+fc7065c-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bf02d17bf790016aa73a73c7b5c5c911
-SHA256sum: b65d38021a69793ee3c04e7f0648141e8945d918adad2d3f6ebccf0d2b0afde0
-Size: 581588
+MD5Sum: 057b007c7747937d8fd4287c92a22b3b
+SHA256sum: 9b1137904b3a67f4e359adc14e474a601f06b2d2052746d82e14d377fb75c24a
+Size: 581964
 Filename: enigma2-plugin-fonts-segoe_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
 Description: Enigma2 font segoe
@@ -307,9 +307,9 @@ Depends: font-valis-enigma
 Section: base
 Architecture: all
 Maintainer: Mike Looijmans
-MD5Sum: 56a6626f469f0aba680a3d56aeb5be03
-SHA256sum: c70ac1d4389891e8c664c6f810311d4097bc198a07b011fd211cbb64dcc3f96b
-Size: 117098
+MD5Sum: 024d6cdd44d9dc5bec20c1863127dd76
+SHA256sum: 514ad51074b948ad86fb194ec75dc0c8f70322cf562d82a3574da5879279ff30
+Size: 117114
 Filename: enigma2-plugin-skins-magic_1.2+git331+8b5fb84-r0_all.ipk
 Source: enigma2-plugin-skins-magic.bb
 Description: enigma2-plugin-skins-magic version 1.2+gitAUTOINC+8b5fb84750-r0
@@ -322,8 +322,8 @@ Version: git48+f711a31-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66f73207bfd201daa7a5f791794a7327
-SHA256sum: badd711ed0f3e4add940e992d9bf857a2be4983d08ccd9f8044e428d4531b64b
+MD5Sum: 75cd1496750c80f388bdaaaf14da900c
+SHA256sum: 0c2f0304250eaff65c5ba0491738f260ec4a4f2009fcb3b7fc8f7103d5890c2f
 Size: 680
 Filename: enigma2-plugin-skins-octetfhd-dbg_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
@@ -339,9 +339,9 @@ Recommends: enigma2-plugin-extensions-weatherplugin-dev, enigma2-plugin-fonts-op
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3d1084fc65d68295447bd70378c9b36a
-SHA256sum: 2c590900e73e57f2a5f11ed97382d7496e2199401aba9725e24ece6767612e80
-Size: 786
+MD5Sum: 611d7b68496b67e264305d22019241b0
+SHA256sum: d6b6f1784c9758e5d6053a9b29bb77b8e4868251b71731e1f8121ee75fc12773
+Size: 788
 Filename: enigma2-plugin-skins-octetfhd-dev_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Development files
@@ -355,9 +355,9 @@ Depends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-fonts-opensans,
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 987827cfc4d9133bb56b22e44fb2cd1f
-SHA256sum: 97c141439367e927f43e14bf34638bcc358a6bbff9d04fbf78ba3d1d510d493b
-Size: 1269810
+MD5Sum: c0f90decf627b3e94adf37dc52f737cd
+SHA256sum: 525c32b828c4ec4ddcd4c6cb55f9b7cc548ba5609938f59997d6df3cc02bae63
+Size: 1269856
 Filename: enigma2-plugin-skins-octetfhd_git48+f711a31-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD
@@ -366,49 +366,110 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git2113+bec5aa8-r0
+Version: 0.1+git2126+8bd22ce-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 00f4524ae248f961fde7440defd0134c
-SHA256sum: 4aaa815ddb48ad5ec3ab47e9eea6c84fc43779ae690f9e9ba3ff8b887c104248
-Size: 674
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2113+bec5aa8-r0_all.ipk
+MD5Sum: 3356e890c9b799fef8c42338b3d0f5db
+SHA256sum: 9007802400662a4efe54065f7b5b595b1c7c2ebcfbf03f14bea891cc01cd130c
+Size: 676
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2126+8bd22ce-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+bec5aa82d6-r0 - Debugging files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8bd22ce3dd-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git2113+bec5aa8-r0
-Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2113+bec5aa8-r0)
+Version: 0.1+git2126+8bd22ce-r0
+Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2126+8bd22ce-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 301e3de36cdd7d15db0c06d89acd7b2d
-SHA256sum: 3c99e46a277591a84d6df11c927dcc48183ed6bdaed3b5c7ae8a406fd31407f8
-Size: 710
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2113+bec5aa8-r0_all.ipk
+MD5Sum: c9ee9fe6d1c36e8a8ae0794d9fea0d48
+SHA256sum: 1de69709598f504d99de187e1ec858e60e170de6153f6262f488fd904f8ebad1
+Size: 708
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2126+8bd22ce-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+bec5aa82d6-r0 - Development files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8bd22ce3dd-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git2113+bec5aa8-r0
+Version: 0.1+git2126+8bd22ce-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: bd894435b99ab41fbc6341b8c83587b2
-SHA256sum: 91e34db2edea8333697419037da0cf9f719d5377473e7d9caee5c3bbfd3bd690
-Size: 382728
-Filename: enigma2-plugin-skins-pli-hd_0.1+git2113+bec5aa8-r0_all.ipk
+MD5Sum: 3ba5fc53d738ab1a99e918e3511b36d0
+SHA256sum: 2ec35d9eb15fb0b499f051e7192700d4c20c5d61fee53d4cef99885530bb1f4f
+Size: 383156
+Filename: enigma2-plugin-skins-pli-hd_0.1+git2126+8bd22ce-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+bec5aa82d6-r0
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8bd22ce3dd-r0
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
+Priority: optional
+
+Package: enigma2-plugin-skins-simple-gray-hd-dbg
+Version: 1.0+git161+5df5cd3-r0
+Section: devel
+Architecture: all
+Maintainer: Taapat
+MD5Sum: b940d82f0a0d8a6cf581f73327a8b303
+SHA256sum: 8e9b6832be89e715e2c211d671985c1ed5e643918682725fd7d0762400b0dcb7
+Size: 682
+Filename: enigma2-plugin-skins-simple-gray-hd-dbg_1.0+git161+5df5cd3-r0_all.ipk
+Source: enigma2-plugin-skins-simple-gray-hd.bb
+Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0 - Debugging files
+OE: enigma2-plugin-skins-simple-gray-hd
+License: GPLv3
+Priority: optional
+
+Package: enigma2-plugin-skins-simple-gray-hd-dev
+Version: 1.0+git161+5df5cd3-r0
+Depends: enigma2-plugin-skins-simple-gray-hd (= 1.0+git161+5df5cd3-r0)
+Section: devel
+Architecture: all
+Maintainer: Taapat
+MD5Sum: 74a89c9178c5a71f84d748b212a3c3c6
+SHA256sum: 9fd366d2a0616daaada72b5dadbca8bd6831b8cdd4232ad0024b9a6abe78c123
+Size: 718
+Filename: enigma2-plugin-skins-simple-gray-hd-dev_1.0+git161+5df5cd3-r0_all.ipk
+Source: enigma2-plugin-skins-simple-gray-hd.bb
+Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0 - Development files
+OE: enigma2-plugin-skins-simple-gray-hd
+License: GPLv3
+Priority: optional
+
+Package: enigma2-plugin-skins-simple-gray-hd-src
+Version: 1.0+git161+5df5cd3-r0
+Section: devel
+Architecture: all
+Maintainer: Taapat
+MD5Sum: 10aa95021ae6af378a623c2815b2cafb
+SHA256sum: dd2d33db2b88ce12da2a38880e97d498461ffd0f10bd252b1bf67a24208abe59
+Size: 2498
+Filename: enigma2-plugin-skins-simple-gray-hd-src_1.0+git161+5df5cd3-r0_all.ipk
+Source: enigma2-plugin-skins-simple-gray-hd.bb
+Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0 - Source files
+OE: enigma2-plugin-skins-simple-gray-hd
+License: GPLv3
+Priority: optional
+
+Package: enigma2-plugin-skins-simple-gray-hd
+Version: 1.0+git161+5df5cd3-r0
+Section: base
+Architecture: all
+Maintainer: Taapat
+MD5Sum: 5289d13dbf2a41079433e807a8294bc3
+SHA256sum: 02a16cae0cb9a9b4093af05f2f5b70d7c0fdb172ecd2edcf014c29484e463830
+Size: 191576
+Filename: enigma2-plugin-skins-simple-gray-hd_1.0+git161+5df5cd3-r0_all.ipk
+Source: enigma2-plugin-skins-simple-gray-hd.bb
+Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0
+OE: enigma2-plugin-skins-simple-gray-hd
+License: GPLv3
 Priority: optional
 
 Package: font-valis-enigma
@@ -416,9 +477,9 @@ Version: 2009.11.12-r0
 Section: base
 Architecture: all
 Maintainer: Mike Looijmans
-MD5Sum: 348f1113225b62edb410f54958321590
-SHA256sum: d97867b3c0cfdc9b27487bd1ad08d86a3bfd9958eb5dc3bf3520cf2ba4c092ff
-Size: 31548
+MD5Sum: 77725d6159110dceb85e96ebed07a963
+SHA256sum: f93208b0736851624aaddc2183273768d3c0e903444e45b07d46bf49babe57a1
+Size: 31598
 Filename: font-valis-enigma_2009.11.12-r0_all.ipk
 Source: enigma2-plugin-skins-magic.bb
 Description: enigma2-plugin-skins-magic version 1.2+gitAUTOINC+8b5fb84750-r0
@@ -427,14 +488,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dbg
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 36dae31c372b337125d2f96f6e4124a2
-SHA256sum: ab98e2fb279298acf7d9355ac090613226a8cd684c430a073c2fe66b802be6ea
-Size: 650
-Filename: frequency-xml-list-atsc-dbg_git635+6fcee75-r0_all.ipk
+MD5Sum: 8b308e93775a9705252ab9e277b843f2
+SHA256sum: 5b73d25f7081a7e093a27d2a07c7b8c161eab6cacc13f1d1ee1174fcb888930e
+Size: 652
+Filename: frequency-xml-list-atsc-dbg_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Debugging files
 OE: frequency-xml-list-atsc
@@ -442,15 +503,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dev
-Version: git635+6fcee75-r0
-Depends: frequency-xml-list-atsc (= git635+6fcee75-r0)
+Version: git639+d8c85a7-r0
+Depends: frequency-xml-list-atsc (= git639+d8c85a7-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: f2ec51cca0586207fca04f731810a2e6
-SHA256sum: c465310e3be56f0fdf048bf153a5e3a53b87f776a900e3d14680d964c04a26e3
-Size: 684
-Filename: frequency-xml-list-atsc-dev_git635+6fcee75-r0_all.ipk
+MD5Sum: a1b77b5c3985c60f09f8e8cca24133d6
+SHA256sum: 7d8b1ec301d2a458ff461028ac126239ed06c0db6f4dada3daf2fe69bcdeb493
+Size: 686
+Filename: frequency-xml-list-atsc-dev_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Development files
 OE: frequency-xml-list-atsc
@@ -458,14 +519,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: bfb9bb7fb0902c623b481122de75e245
-SHA256sum: abc1d4b5fa52a74513f267d3a234de8ab40f02b8460fda89ee6c750698e291aa
-Size: 1468
-Filename: frequency-xml-list-atsc_git635+6fcee75-r0_all.ipk
+MD5Sum: 0b715763b8ea1a804a1990fa28b4525e
+SHA256sum: cd4e211b2e4deec2ae372ed92e9524bb100c93604cc2420d40a1c6df51609cc9
+Size: 1474
+Filename: frequency-xml-list-atsc_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2
 OE: frequency-xml-list-atsc
@@ -473,14 +534,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dbg
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 6f6a3165f37dfe49e7001f01a8ee9269
-SHA256sum: 54a96429dba9fe864c510e40b493be4867f4cd4238d9015507c7dd0b5aa6936c
-Size: 650
-Filename: frequency-xml-list-cables-dbg_git635+6fcee75-r0_all.ipk
+MD5Sum: ab4befcf597f1fe0cff00bd4415f02fb
+SHA256sum: b6e6de3d042b836317c8f46ba0d7b824eee038d2e57ad40707f23dac90640087
+Size: 652
+Filename: frequency-xml-list-cables-dbg_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Debugging files
 OE: frequency-xml-list-cables
@@ -488,15 +549,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dev
-Version: git635+6fcee75-r0
-Depends: frequency-xml-list-cables (= git635+6fcee75-r0)
+Version: git639+d8c85a7-r0
+Depends: frequency-xml-list-cables (= git639+d8c85a7-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: bbf15185a840233f1a98133209774c0b
-SHA256sum: 7d9ecf47911245a86431f5cff782b0d907ec5843f2fa90a5b6e56f40cb7217fc
+MD5Sum: 047d39e9e35e47c1150e5af3109bbe79
+SHA256sum: 4c94041fca4cacb542246de9d4de19eeb18447a4990e955f856439b32ea56a2b
 Size: 686
-Filename: frequency-xml-list-cables-dev_git635+6fcee75-r0_all.ipk
+Filename: frequency-xml-list-cables-dev_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Development files
 OE: frequency-xml-list-cables
@@ -504,14 +565,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: ded4a83219aa875c10bf3a2ee9e64453
-SHA256sum: 7dc48965fd38d39b6b1bfbc5394819ef29844a9de9a4c348309d347ad4c77c29
-Size: 15330
-Filename: frequency-xml-list-cables_git635+6fcee75-r0_all.ipk
+MD5Sum: 98e044d72394e167ec0c58552ada82b2
+SHA256sum: 76392848cfa7600edb781127050e0c52c3bf2d69d374fe1781b4d72b87578c84
+Size: 15336
+Filename: frequency-xml-list-cables_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2
 OE: frequency-xml-list-cables
@@ -519,14 +580,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dbg
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 41c58df5ee4af85443ffef756f9a32cc
-SHA256sum: 25abadb9f56a483bb6157ffcb9e08a640e4ef573800b620cfd6a95f7cecd56a4
-Size: 652
-Filename: frequency-xml-list-satellites-dbg_git635+6fcee75-r0_all.ipk
+MD5Sum: c13722c3dbf5c898bc5162f72d1dd669
+SHA256sum: d97e6d5344607ab786a53dba894d7b437595532d9f51a4d9f22eb0519ae84f7b
+Size: 654
+Filename: frequency-xml-list-satellites-dbg_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Debugging files
 OE: frequency-xml-list-satellites
@@ -534,15 +595,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dev
-Version: git635+6fcee75-r0
-Depends: frequency-xml-list-satellites (= git635+6fcee75-r0)
+Version: git639+d8c85a7-r0
+Depends: frequency-xml-list-satellites (= git639+d8c85a7-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: b1a0190b7038c2c9fe0f82dfde1dc46b
-SHA256sum: bcfdf947fb61ddfd8c1ef05f87c64257ba9f5a29fd24a6d4f471ed1469907c35
-Size: 686
-Filename: frequency-xml-list-satellites-dev_git635+6fcee75-r0_all.ipk
+MD5Sum: 23761e353b50fb4dde092bc40de61331
+SHA256sum: 81e5294e3f58f6d1f49dcf93f61e2473acd34ee0d55869396863e1c776f7b68e
+Size: 688
+Filename: frequency-xml-list-satellites-dev_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Development files
 OE: frequency-xml-list-satellites
@@ -550,14 +611,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 97d31df4a672989a9475592e315db259
-SHA256sum: a17e27cbf374c15efd03babbc1090cd1fbc5df859cd1d3bb0cc6bbdeff79f49d
-Size: 25500
-Filename: frequency-xml-list-satellites_git635+6fcee75-r0_all.ipk
+MD5Sum: 33147ef2fa6e99829f2a808d388d5ba0
+SHA256sum: 424756367ae507ec8d19ac12eaf98020d985a924829eccdf43b960b6dfc80aa1
+Size: 25208
+Filename: frequency-xml-list-satellites_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2
 OE: frequency-xml-list-satellites
@@ -565,14 +626,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dbg
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 16a14121125bb90cd2c966d0fde4ed82
-SHA256sum: 4c171964490ddb26cf36c2bdf60c65f563cdf3ef5d6457236a425473e1efa25e
+MD5Sum: 54dd243434aeb265ee35651303acf226
+SHA256sum: 064dd964b046c3cf3f6eccf14ffcc2e1478c838334ead6f2fe2bcc9a077e325d
 Size: 654
-Filename: frequency-xml-list-terrestrial-dbg_git635+6fcee75-r0_all.ipk
+Filename: frequency-xml-list-terrestrial-dbg_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Debugging files
 OE: frequency-xml-list-terrestrial
@@ -580,15 +641,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dev
-Version: git635+6fcee75-r0
-Depends: frequency-xml-list-terrestrial (= git635+6fcee75-r0)
+Version: git639+d8c85a7-r0
+Depends: frequency-xml-list-terrestrial (= git639+d8c85a7-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: f65fcdf1b823dd76282dd876293eb9e2
-SHA256sum: e74526e1158889297cb3f92f8e1e50e53d595716f3fa9120137237d82cb9f56c
+MD5Sum: f83ba17d9aeade75e4b241ed06567b1a
+SHA256sum: 58e372043e15c5747a997c74be93bc12f5f40b37b3d793edb9f1e1e07f8ce2c6
 Size: 688
-Filename: frequency-xml-list-terrestrial-dev_git635+6fcee75-r0_all.ipk
+Filename: frequency-xml-list-terrestrial-dev_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Development files
 OE: frequency-xml-list-terrestrial
@@ -596,14 +657,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial
-Version: git635+6fcee75-r0
+Version: git639+d8c85a7-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: cadc68805af6fc3628f9732ca5d3d903
-SHA256sum: b396031e808108120a548914d8231ad177686fcd72c7e1e278f18090c7e745fd
-Size: 14474
-Filename: frequency-xml-list-terrestrial_git635+6fcee75-r0_all.ipk
+MD5Sum: e90ee5221e03b8b146164705159dd517
+SHA256sum: 4b6a0641c86280c0a6adf22c501add56753c775bb5c969a83b3a58e3ef56993e
+Size: 14488
+Filename: frequency-xml-list-terrestrial_git639+d8c85a7-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2
 OE: frequency-xml-list-terrestrial
@@ -615,8 +676,8 @@ Version: 4.5.0-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 15430218a53eefc037f50384b8cf493d
-SHA256sum: fe38f124526fdd61a316209f37d8a238c489a8061202a03f0446174be72b4afc
+MD5Sum: 86886dc712f0175a17c7d73e648d08b4
+SHA256sum: c13344f9c2cd9895559cd03eecaad09d505eaecf201c983d6d5266b1e020bfbe
 Size: 726
 Filename: iso-codes-dbg_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -632,8 +693,8 @@ Depends: iso-codes (= 4.5.0-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5f9040bfc43565996d541607c0dda124
-SHA256sum: 4ff4690dd084cc16f056dac77c0b70cadceea996c9d1fd720ed1e5f26563056e
+MD5Sum: 6afb51c11768a36a051070ab3c941212
+SHA256sum: b23cd3a7ed6a3288a278efbfea0b25542b1bbfe7cda51af3474148df6bf5cf09
 Size: 1010
 Filename: iso-codes-dev_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -650,8 +711,8 @@ Recommends: virtual-locale-ab
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5f6b89d592759248069d16782674821f
-SHA256sum: 4802688483848c77652e0d99cc35227fb576325e416c344cbaeb63ccab31d9aa
+MD5Sum: 8f1c0eb0e6355c9a83c8a8908560d405
+SHA256sum: 085844d392dd5b74361b1fa8cae0ee59cdbab6628f368d4504b3dc679af0829a
 Size: 1264
 Filename: iso-codes-locale-ab_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -668,8 +729,8 @@ Recommends: virtual-locale-ace
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2f0aba3549241e4b75ab2d2052c3d2f8
-SHA256sum: 572f60bfa64b5fdb0e1dd0243281bd1c904a1ef3ad9192da2e6b248c92ed302c
+MD5Sum: 80298176439a0c392f44de0602d2e6c2
+SHA256sum: c8402146e7dc9662d48bb77fd45bc7e80bd0e5f17da6d7aa54f2d6c1dd0bfaa4
 Size: 1258
 Filename: iso-codes-locale-ace_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -686,9 +747,9 @@ Recommends: virtual-locale-ach
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2bcddcaebe808447786e0ff381c1c327
-SHA256sum: 4e826b184d44cb94fffaa96edfde2e27299b7bcc26802a760a0c01e6d3c2c283
-Size: 4114
+MD5Sum: b2d3477bc4bf2a54f2966ea2d11e0b8b
+SHA256sum: 7affd27ea051ea1f4961c68489ed0fce66ca5cf9d2ac407e2a7b17e9222f6d03
+Size: 4122
 Filename: iso-codes-locale-ach_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ach translations
@@ -704,9 +765,9 @@ Recommends: virtual-locale-af
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 73c97d96413542a34387f70bd4efe5f7
-SHA256sum: a95a2d66260e40bf3f521f119b5f49feb48be32ebcc8cad360d48d7fc4d9a581
-Size: 10504
+MD5Sum: 7b9cd1c13b10e8d690b75420693c1593
+SHA256sum: 1e32514073a029d2613d337ad096fec2d1a46d6a2e1a26c1afedf3014866a0dc
+Size: 10508
 Filename: iso-codes-locale-af_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - af translations
@@ -722,9 +783,9 @@ Recommends: virtual-locale-ak
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0ee1b8b2221e6b288442d42d4255a061
-SHA256sum: 050f840af338038d04c3f1733ff51fcf3c8d2356e4d5beef4b919c1bbc0a73bf
-Size: 1256
+MD5Sum: a348a534306d72d1382dc453086a07de
+SHA256sum: f9bdde19749a55d8f1abc28d587cdd1abcdf3aa838998ae8b533ba7ad9b921ea
+Size: 1262
 Filename: iso-codes-locale-ak_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ak translations
@@ -740,9 +801,9 @@ Recommends: virtual-locale-am
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1f00ace436b4fc2ba0f75d7565796e20
-SHA256sum: f2af773dd5f68292ebc92a118de41e0608053ba1af46a51639b360a66cdd3502
-Size: 5888
+MD5Sum: cf78cffd09735e84b892afc553c2da3a
+SHA256sum: a86e731dc58f85c4c635a06dff646b64692ae0a3fb4a9761432cab07b677c99a
+Size: 5884
 Filename: iso-codes-locale-am_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - am translations
@@ -758,8 +819,8 @@ Recommends: virtual-locale-an
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f2034fc6a4dca7ea5b13cc422c384c39
-SHA256sum: eff03caddc59ba1cee1d0b556d79a9eb9af217562a0bfb9ab706723ed028d087
+MD5Sum: e73fcbc035bfef37bf5d4abb05aaa241
+SHA256sum: a9800a0f29e699d8c5308af7d0e6191553f92c11b8e2ca82ccf16b3c9d897ec2
 Size: 1260
 Filename: iso-codes-locale-an_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -776,9 +837,9 @@ Recommends: virtual-locale-ar
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1f01f04378a5734f75d50c5b3f1364c8
-SHA256sum: 19a1561fd262d356a2b27085eb3373c669c4f004ddac8fc20212336dbf922ddf
-Size: 16896
+MD5Sum: 1ab5577af8228ac524e53fa8ff4038c4
+SHA256sum: 68b48e11a552f702a73a156c7c4b271c59421162db0d41bdbb1d8db1f3520479
+Size: 16908
 Filename: iso-codes-locale-ar_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ar translations
@@ -794,9 +855,9 @@ Recommends: virtual-locale-as
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ee354ec6624f97cc7ee61efd63ee9da2
-SHA256sum: c445fc93500babb66568642b237e7292385ce8cf25ebb67a436634139c287742
-Size: 17964
+MD5Sum: 8ac887621753ac8761a7bf07339ac346
+SHA256sum: bd8f8a4f90f4fc6b545b60b0a2529f319e892c2a7c2b8408cf8ee701d2127466
+Size: 17958
 Filename: iso-codes-locale-as_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - as translations
@@ -812,9 +873,9 @@ Recommends: virtual-locale-ast
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 635711a4eb22a811b982030a5378da48
-SHA256sum: 3bce8638bfcea7447393c6f1fdbb6186627fc5513ab4e78b3e268207bee660be
-Size: 79712
+MD5Sum: 41e699b71abb84132c23479672ffd934
+SHA256sum: 7f8185770c72e53112212da303c198eaef580480b9cf1501f644ee1fe72e7f95
+Size: 80146
 Filename: iso-codes-locale-ast_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ast translations
@@ -830,9 +891,9 @@ Recommends: virtual-locale-ay
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b314a903703b53f6f484c62c641ea5f5
-SHA256sum: 9d0e04d28238eb3a4e426b5e24c7e17bfd3090ac7291fed993936681b83ad8f0
-Size: 1260
+MD5Sum: 577b6b839c9335971fee75e4718983c5
+SHA256sum: 121490f006a04370bd29cca3b210b6d78943ef64a4e2f9081d33848a146010b9
+Size: 1262
 Filename: iso-codes-locale-ay_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ay translations
@@ -848,8 +909,8 @@ Recommends: virtual-locale-az
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 20d0a968857bbff3f3d9b1eadd3f1b6e
-SHA256sum: 3635d95eb7a486e5b5fef2bfb815101c745a3756fbe95664fc4e003b0a53f7e6
+MD5Sum: f7af93ab0ddd13ff0b1201f2abae1c9e
+SHA256sum: 7829ca764db75b6258e67dc4e0ec5d9702121e9041cedc27a0d63745e2355f57
 Size: 6198
 Filename: iso-codes-locale-az_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -866,8 +927,8 @@ Recommends: virtual-locale-ba
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2cedfc7a567020d432b1b8aed366787a
-SHA256sum: 36a9ce6b42423665c159b110d59681561e001fd06afe180626feb5d92a896794
+MD5Sum: fe8a709cd8f0393e13e996001a40499b
+SHA256sum: 641a6cd2e2f56ac6bcdaa8070756ba064c9d17b743e9a0367e463f47289034e1
 Size: 1260
 Filename: iso-codes-locale-ba_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -884,9 +945,9 @@ Recommends: virtual-locale-bar
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd52bf19f662515f17c965647c26dec3
-SHA256sum: f483bfaf5f81e0fd0a7bc7130a97e6cb1ed5a03293513752e07e4e2156238075
-Size: 3414
+MD5Sum: df15ba59284fa46022fc52bb3db0dc0e
+SHA256sum: 297bed4448341e13959eec9d9e7d8ef597919bedfb10d61e1907948f6545892a
+Size: 3410
 Filename: iso-codes-locale-bar_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bar translations
@@ -902,9 +963,9 @@ Recommends: virtual-locale-be
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: dc377ff9eb8e94cf6c3ed752e2cb5d6e
-SHA256sum: fe2d2cf2f37bd2b10ead31a7d6b46a1791ddb909c688c6070257d853ceb7a57e
-Size: 98486
+MD5Sum: c112f38f3a7ff0cd7cfaf9ab6e36f352
+SHA256sum: f93c65c829da7235c81cff3d70da6bd4c4e1a8b1a4b975490ed9c129515b24f4
+Size: 97840
 Filename: iso-codes-locale-be_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - be translations
@@ -920,9 +981,9 @@ Recommends: virtual-locale-bg
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3f8319fd87c4bdccdf9658e9fe9dcf91
-SHA256sum: 0b2db574a298c9905ac3dfd2101b3dcb1d1e11e048c707d6958b243555fb5463
-Size: 24228
+MD5Sum: b7e6ac5efecd5cb522c72d2464ab4db6
+SHA256sum: e62fea178bf39359c6ec62e21602526670fe259ac72e3da168e23e494c3d3d08
+Size: 24264
 Filename: iso-codes-locale-bg_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bg translations
@@ -938,8 +999,8 @@ Recommends: virtual-locale-bi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: eb9286480975243067942e55788db607
-SHA256sum: 3b5118e9aa38ed424ad6639a122cc2f7a93fb64d053cb25944f159dc90b7773d
+MD5Sum: 727ba307b9ab7619373bd652c05a28f7
+SHA256sum: 80972f252dfeddbd8ccca28d49decb162b4bb7b256455399a583b1dbe1a86aef
 Size: 1260
 Filename: iso-codes-locale-bi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -956,8 +1017,8 @@ Recommends: virtual-locale-bn-bd
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6b247fb2c4f773e72d91a4108690e43c
-SHA256sum: 20c6c54ebfb7969281a8ffb10044bbfaaa9c5dc4f893fd3c375f842d17240d76
+MD5Sum: 80155e21a2514715acd5b814666a9f23
+SHA256sum: bd82ecf0d91a0f341080ec7ad72d7e77b9a97ff262048357230d0a6d614fafa9
 Size: 3248
 Filename: iso-codes-locale-bn-bd_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -974,9 +1035,9 @@ Recommends: virtual-locale-bn-in
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d358ec8ca20166e1ae5b8a56893f79f7
-SHA256sum: 590e9db2becec5412dcaf6fa977644f7addaac78c3be306a1b5fcac7742ab542
-Size: 9936
+MD5Sum: 8fa22e07c9ffefb9ddfb101686e613f0
+SHA256sum: 82854d29f3691cc8b1ae3cb28efbaa53c0fd2bc1e68ae7379c65dde7d748a8d4
+Size: 9932
 Filename: iso-codes-locale-bn-in_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn_IN translations
@@ -992,9 +1053,9 @@ Recommends: virtual-locale-bn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6e32abb263cddda2748adbf649873c8a
-SHA256sum: b5d222ad68bd7231024cf05df7665db390b78767884ce96913cd31bd5fad6512
-Size: 39088
+MD5Sum: 5ba59d4987d7b175735085819d5fad28
+SHA256sum: 90c92f585586e240bb62d411728d0bac837197406972e53faa57e0addff949c8
+Size: 39124
 Filename: iso-codes-locale-bn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn translations
@@ -1010,9 +1071,9 @@ Recommends: virtual-locale-br
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: dca214f2c68506fe7ff48a127e4c176e
-SHA256sum: cab0d2a0c2e451d20b2bd357512d3c58a62c4e7e1fd160eb41d13e9cf1444fa1
-Size: 18834
+MD5Sum: c46f78d2708809f67cdcd61c88910c7c
+SHA256sum: 8a582259ae0f6384fcd488af1c5bb0b025db19db0177082e0e002daa38ed7c56
+Size: 18836
 Filename: iso-codes-locale-br_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - br translations
@@ -1028,9 +1089,9 @@ Recommends: virtual-locale-bs
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b16025c3c0eb7f1ccd7118ddeb7a93c8
-SHA256sum: 61771d7ed29d0bbf9c363a13ebc8ececc403b8fbfc23689d2fc3f7878519cd3e
-Size: 10060
+MD5Sum: a01bf9293e5333a281a94bfd9ae61659
+SHA256sum: f014c28654578bdde401382737a5fd6c4d53ffeaf49dd206659d6a6035008462
+Size: 10058
 Filename: iso-codes-locale-bs_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bs translations
@@ -1046,9 +1107,9 @@ Recommends: virtual-locale-byn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0637671fd7f8499bc76565f2d0807eef
-SHA256sum: f5cb18b99be0206ae494c0a7865a7327cf4ab0b71c20c386b883ee6312af81ab
-Size: 5586
+MD5Sum: 735f112a98975b5cce6b322dacfe4bb7
+SHA256sum: 35a121236e11bff7a8dcc78d73f688136abe66786c4fbc4aa393f7169d7d5381
+Size: 5602
 Filename: iso-codes-locale-byn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - byn translations
@@ -1064,9 +1125,9 @@ Recommends: virtual-locale-ca
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 26ffbb0e2845be5f9b26931217a6a43b
-SHA256sum: 6e88e2e9f3c20ffce6638c239e3553b88c638e1ac2b46f9072bb1fefeb0fac82
-Size: 26740
+MD5Sum: a073c4e85370fd945408264387333c33
+SHA256sum: bdf91d597521edaf6aa4d1a869c36a563da85808589ae4506a836b371790af04
+Size: 26760
 Filename: iso-codes-locale-ca_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ca translations
@@ -1082,9 +1143,9 @@ Recommends: virtual-locale-ce
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0b14cb602c07a9dd268c67da3220271e
-SHA256sum: dc6b416360609900574170ccd62855ca5d8ceb70af3f4954758253aaa301d22e
-Size: 4876
+MD5Sum: d5767f882968ae73fba361e8ddf87006
+SHA256sum: d5a8d2e9a757d4a4fd6fd31a2d0cd4f7e88fd70426cc00899038824a09df8c38
+Size: 4880
 Filename: iso-codes-locale-ce_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ce translations
@@ -1100,8 +1161,8 @@ Recommends: virtual-locale-ch
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3461d04b3dd029c4dcce659c0af897a6
-SHA256sum: 0941273c43e7f6529beaf0a9604ec04970481c2a551297def1d58c872bf70bbe
+MD5Sum: b798f56f7ce48b0be7c3aaf09d109d2e
+SHA256sum: 0b2c76ced74b8f5ce8d475ac2e4f27624d6078655ec3aecdb3b5821cb412815f
 Size: 1664
 Filename: iso-codes-locale-ch_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1118,8 +1179,8 @@ Recommends: virtual-locale-chr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ec1a01ae87db60310c69f61df6be3612
-SHA256sum: 43c4ce15cd28fc13ada92674fb1b9422cd7d069c799fe237bc238fb3d0947790
+MD5Sum: ed8787b170e33533a964cfbaf02485b0
+SHA256sum: 9b723f050f49e4994a92ee93693187a3d72f7d5ebd7ab33b9c5fd66264b4a0fa
 Size: 2970
 Filename: iso-codes-locale-chr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1136,8 +1197,8 @@ Recommends: virtual-locale-ckb
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3b642d33c82df639f461638a65e35f91
-SHA256sum: 97113e88309234faa88a2ba71ef6d74b14e97401171417b99d0ad02164df1bbe
+MD5Sum: 2bc11414848c815af55146af3d5f4f9f
+SHA256sum: 7e0535fcb7bdd8d71d7a93c0e382c88b48d9918ba3a8a81c98b3da56443234e6
 Size: 4590
 Filename: iso-codes-locale-ckb_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1154,9 +1215,9 @@ Recommends: virtual-locale-crh
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c46bf43e92cd06019b990df16a6e36eb
-SHA256sum: 827b90a1835e0a90c2909236bb7587dc85e2665723fbe8a10e227fd3d70fbe7f
-Size: 70222
+MD5Sum: 8e86315d4f6261d45bb97481de1669f1
+SHA256sum: 8cbe437b0ac31478716371bda0376f9beb918c3ed145e842e604cce200373bb3
+Size: 70346
 Filename: iso-codes-locale-crh_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - crh translations
@@ -1172,9 +1233,9 @@ Recommends: virtual-locale-cs
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f599d5e2a36cb7ac21246cca7759d779
-SHA256sum: 848c637aa80f2aa1d2d83f3eab7b9343c00b2356f660e9f1fd03e0b30df49e83
-Size: 26784
+MD5Sum: 695a235744cd817ba5336ee79b867e4f
+SHA256sum: 1532783a8319ee171116ff7f7c4bd3fd856c8f9f39eb178fa7a7c3d5d4bdaaea
+Size: 26804
 Filename: iso-codes-locale-cs_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cs translations
@@ -1190,9 +1251,9 @@ Recommends: virtual-locale-csb
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0653ba59b2d35e17be0a77289f20c606
-SHA256sum: 4065ca16454ff2ee4b071ad6c2f937bcf11acec833ecfc9bdee3b5387a7266f9
-Size: 2786
+MD5Sum: 405437237c55fab812149723c7998bbf
+SHA256sum: bdfb0fa482af4d79fa73e7e8d2662cf32b885bc7b873c9350f9cf6ee4671e844
+Size: 2798
 Filename: iso-codes-locale-csb_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - csb translations
@@ -1208,9 +1269,9 @@ Recommends: virtual-locale-cv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 36d5401cc9a4b6081c5746a0173be299
-SHA256sum: dd79474d87a07f86a2933614903b51a73597c62e52975ad7c2289c1df806bb48
-Size: 4876
+MD5Sum: 3f839d5957b5214f8fd76aab3ebc71d3
+SHA256sum: 2c480ec5341946ef7b36218ea506bdb6e28e11e79f9d513eaa2872eb0353039d
+Size: 4874
 Filename: iso-codes-locale-cv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cv translations
@@ -1226,9 +1287,9 @@ Recommends: virtual-locale-cy
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 36a31878561e96f782af812e8633e3ee
-SHA256sum: 01a0ee599886dccdffd8038a0681e7d8faa9a01354eb217c49654aab634e9431
-Size: 10428
+MD5Sum: 81049c992454354eae0bd84fda0cedf5
+SHA256sum: c2dc1a60b6ae1fd204aff6d4b79c7c08e2d29e97c43b1e22b13e7f8d1d807b2f
+Size: 10442
 Filename: iso-codes-locale-cy_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cy translations
@@ -1244,9 +1305,9 @@ Recommends: virtual-locale-da
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8a780e159fb721415d026f417854e819
-SHA256sum: 781f6aae7f93626c3f7c380d1fc282cafd8ac54947fc27b8b1173c95319c9d93
-Size: 65764
+MD5Sum: d3056006bcc227ba52ad13f91f0afe87
+SHA256sum: dcbd1827e0478484dbdb2310a654d92609ed3506c607d81ce0748f13baf91d2c
+Size: 65762
 Filename: iso-codes-locale-da_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - da translations
@@ -1262,9 +1323,9 @@ Recommends: virtual-locale-de
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 782ef59b1afc79192f587fa6ffdd5541
-SHA256sum: e66e5fc82b6894467fbb6801d4bd95ed68c7460ad6d4c29a4f0da33ff341e355
-Size: 167128
+MD5Sum: 3eace409dc0dabb0782e1737969297f9
+SHA256sum: e7cc547334d595368afdd05d20eaf074357d92874f96edb5f03e9fc3ef3a9533
+Size: 167456
 Filename: iso-codes-locale-de_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - de translations
@@ -1280,9 +1341,9 @@ Recommends: virtual-locale-dv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0ed54f6e26ae7531f2eb3e35c151cace
-SHA256sum: 26f49fc4deb32e3c3811ce822eea014c9a40ae48158f06188fdf9bb4d57a02d7
-Size: 4832
+MD5Sum: e4145e1386c6ac97353415bf4445dedd
+SHA256sum: 050734703c0783d152c121f80655cdd0707e8f04022425a3e75a7949770daa45
+Size: 4838
 Filename: iso-codes-locale-dv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - dv translations
@@ -1298,9 +1359,9 @@ Recommends: virtual-locale-dz
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bd63743599cc322840b06760674cf35e
-SHA256sum: efd3082d8b1be1afe36dded4730a83cffe54cc945a813138b19e8ec046bf4e3b
-Size: 10058
+MD5Sum: 2fba5582bf01f24eba500d5f22f058d8
+SHA256sum: b831845119baa24ae2bb8d1c1932e192d2e36ec01a53f0b9e7d9e506e5124ead
+Size: 10050
 Filename: iso-codes-locale-dz_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - dz translations
@@ -1316,8 +1377,8 @@ Recommends: virtual-locale-ee
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 62a4f645f28401652e2088e078691ca3
-SHA256sum: f52cbc08c911c224a3d9b5092c67792256919080e67d2c64fa17e53f3cacb3db
+MD5Sum: 078730ae7e15a2b740dd0791d8042a89
+SHA256sum: 85a1c35b98bb4eaaa1fd4fd32439e1a2e5e51d669167c3c446cbccc3dd4dc0f5
 Size: 1256
 Filename: iso-codes-locale-ee_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1334,9 +1395,9 @@ Recommends: virtual-locale-el
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d550e2b3cb0a41b9004cc9878a1ea1ef
-SHA256sum: 6609999e664fe0319bb05cd6619696dee8a2b1bc1b21c681aa293806050e8c82
-Size: 32776
+MD5Sum: 8aaebefed781771d1168bf4052ef54df
+SHA256sum: 9864d8007942a6b607d60a8acd99b50e269d466262823b2e40853f12cc4b923c
+Size: 32752
 Filename: iso-codes-locale-el_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - el translations
@@ -1352,9 +1413,9 @@ Recommends: virtual-locale-en
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 13def92f43367bdc10d960d94b01f081
-SHA256sum: d3a2e235f4f8a337a93f57927cd96f08392a45ceb829fa599d903dce6b9c3f23
-Size: 25144
+MD5Sum: cf7e947b3623004771b4f61481b6322e
+SHA256sum: ecafc4edb1c2ef50e573001101d8c8f017a1a0421fe328edc2e520033af5e617
+Size: 25106
 Filename: iso-codes-locale-en_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - en translations
@@ -1370,9 +1431,9 @@ Recommends: virtual-locale-eo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7cc6b59ca66b3333bff4f02178195bdc
-SHA256sum: 2a6791b6015e78aa1135eeae74a906a89903d4fd90cae6436e48ea9c7c948c6c
-Size: 21028
+MD5Sum: 54ad34690182d790b028f854d37cfaef
+SHA256sum: c267996f13ebef357395a7aa1b353a08854bf7b38767566ab2cf7dbbaaa323fc
+Size: 21008
 Filename: iso-codes-locale-eo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - eo translations
@@ -1388,9 +1449,9 @@ Recommends: virtual-locale-es
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b353ce11bdcd3a9e6358317c6bb34f9
-SHA256sum: 5a8e4fd8df221ac1a763ccb7a94b33aa68145b612c74a1a085decded21ddfc26
-Size: 30524
+MD5Sum: fa3fb8440d561a549f875dd99c414829
+SHA256sum: 5183a21fdffd40f2761b91cd9a8c50cff37855e878d20261cda1fa1169f4a000
+Size: 30492
 Filename: iso-codes-locale-es_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - es translations
@@ -1406,9 +1467,9 @@ Recommends: virtual-locale-et
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 42b3fcee614664e2e89d8eba1f5107cf
-SHA256sum: acf504fbdb8400509c57dd044cf95ba103a76925518d99ffdd6f681f291ad7ab
-Size: 29848
+MD5Sum: 1f6faa6b3175f5759460c5ea6d655ac4
+SHA256sum: 957419c041aa8d55fdc09ea6ea21ee07ba3644fe954f29c45fdcabff22fc3df8
+Size: 29824
 Filename: iso-codes-locale-et_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - et translations
@@ -1424,9 +1485,9 @@ Recommends: virtual-locale-eu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fdf1e73f01da99741c89c7c9cef11f14
-SHA256sum: 67d46b3d01599641c9de9539d9f81077b3436c147719023bbbb32fa3785c7038
-Size: 29032
+MD5Sum: 4000905fe0a7bdf6ac2ce531778a989b
+SHA256sum: a90445d2253338fe8261cc122b916f13ac0d5fa8e18d8166011bc817dc4736d5
+Size: 29060
 Filename: iso-codes-locale-eu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - eu translations
@@ -1442,9 +1503,9 @@ Recommends: virtual-locale-fa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b98b1cd9c4ee680b91fe82cb66f16bd1
-SHA256sum: 98e9c273c4aaba704bac95107e09c4b8ecb570e4449a43987ba1475a9cfca13e
-Size: 16040
+MD5Sum: 08b12873e73ca1e168ee10c0f34c1298
+SHA256sum: 6d66811b47ba3f78ba23ad36172cb325a8ea1a33dea7192b116f829834d72f49
+Size: 16030
 Filename: iso-codes-locale-fa_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fa translations
@@ -1460,9 +1521,9 @@ Recommends: virtual-locale-ff
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c965e1ce24cf9d13a835c32bb7b2f656
-SHA256sum: 394c8c6a65eb0b2bf1ea9b984bdd0510f03229f1cab134d714552c16ab85cad2
-Size: 2476
+MD5Sum: fd0059fe39a034c6e5309ba85b851fa1
+SHA256sum: 4b6a0ef4272dab7b7d93187198cb392a226e0fbce8fff638fb9ff14e45040b5c
+Size: 2478
 Filename: iso-codes-locale-ff_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ff translations
@@ -1478,9 +1539,9 @@ Recommends: virtual-locale-fi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a03e74fe2bc04e032b826d8a09004d5f
-SHA256sum: b8a84c8cdc84d06811023c93a868c2edf823ac8bb64822827d76e1141c9edb57
-Size: 24652
+MD5Sum: 5ba8e4e9339236fb9f164a86504067b8
+SHA256sum: 4ef845c7e205c8efadb14c3362aedfa03c328e733411245e24769167d3a22b5c
+Size: 24618
 Filename: iso-codes-locale-fi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fi translations
@@ -1496,8 +1557,8 @@ Recommends: virtual-locale-fo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 051cb91567d1d09007880e4a1ea4a288
-SHA256sum: eb1ffe930bb2ebaa5d66def32046be1da69b6c535f2c15807c3ab5463ab630e0
+MD5Sum: 7822503663dabfaed6be21e805bd2a72
+SHA256sum: 116e1d225d3f69dfbe6d0620f72137095d43bf79eb836cdc18a7c1bbe2f8e3ff
 Size: 2932
 Filename: iso-codes-locale-fo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1514,9 +1575,9 @@ Recommends: virtual-locale-fr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 31d4e2d3b72c6f117a5804c4346cc2c2
-SHA256sum: 90f0d26976836bc08e994f2ce8e09f3d3574b216b4dc2dec638b154063597ef2
-Size: 180940
+MD5Sum: d6552a6883f1c2863776cc650e775475
+SHA256sum: 6bb879317cec3445f92e4c5a5efa41c2c2db3c38ad31ce710f0c7bea0e846174
+Size: 181048
 Filename: iso-codes-locale-fr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fr translations
@@ -1532,8 +1593,8 @@ Recommends: virtual-locale-frp
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 612e5e6ed2865f181dfe8d53a458af68
-SHA256sum: 86be5114ba2567a6a76d817bf870164d91196297e5336c5edc43baa2eb7e4972
+MD5Sum: 39f61d4c28b2abdc9af0b3d5532066ac
+SHA256sum: 85bcb10236510bea6381e8886a68c9dfe222dc8e9178786cbbde8dd5a70cc130
 Size: 4354
 Filename: iso-codes-locale-frp_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1550,8 +1611,8 @@ Recommends: virtual-locale-fur
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1626ac434084314dacf9eb9bf73be716
-SHA256sum: 5f807c9bcf349c0f930ada595a7851b6550957133d2289c045a6dc7647d0ee1c
+MD5Sum: 0ec4ac98ddfdf5dea211cbe90c4698cc
+SHA256sum: 636b0996dc82cd570f5ebe2f05dceaf2d9fb27e7974c569fd2ba9359f5e04c9c
 Size: 2074
 Filename: iso-codes-locale-fur_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1568,9 +1629,9 @@ Recommends: virtual-locale-fy
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1980a530915c25f3d7edc51564e178bd
-SHA256sum: 784593cbf824d30accf0abb25d8b361bc6f6372f2c7aa543e6ba47301926d9bc
-Size: 4372
+MD5Sum: 672b1eaa6495ef845927701b8c87a49d
+SHA256sum: be3cd609808f1facea81af653f43416143e055062177e9b9fab3615a053b0bf2
+Size: 4370
 Filename: iso-codes-locale-fy_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fy translations
@@ -1586,9 +1647,9 @@ Recommends: virtual-locale-ga
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c111faa16df59d0bbb3923ba781bf37c
-SHA256sum: 19097a09ec532986cdfe7600ebdfb4811163051f23dec5e45da4d4f75f997e5e
-Size: 16812
+MD5Sum: 949219d8dd9841ed6a6163b4fa4a7418
+SHA256sum: 858953760831d7302ea468b7728bcc08b713e5c0cc6050a5230bf2c05f37bd16
+Size: 16808
 Filename: iso-codes-locale-ga_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ga translations
@@ -1604,9 +1665,9 @@ Recommends: virtual-locale-gez
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9e422b547c7a0f450ba2fc935696f210
-SHA256sum: fb6b88f2d44a0c6888c2792612e1ceba57c41ad6d6e82c1e41dcd216b3537cbb
-Size: 5594
+MD5Sum: 73f6435ae521da7d4186e8609d520939
+SHA256sum: d50ba91391bf8d3bc41c8400f0b8ac6bb2b8cfacb5a0008ef467fabe969a3dc3
+Size: 5596
 Filename: iso-codes-locale-gez_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gez translations
@@ -1622,9 +1683,9 @@ Recommends: virtual-locale-gl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2356a5cac9f87c444e000f0ca6fb6f6d
-SHA256sum: c9eb53359cb517d09dece77216e4f15ffb4aa6a898dbbd47409853bf14d1e30c
-Size: 88580
+MD5Sum: 439d4fbfb2851619866e805fda5a91fe
+SHA256sum: 67ee25f325c8c250d1dc669e81fefb470bd829e2de04193223e5d4fbb45d6115
+Size: 88992
 Filename: iso-codes-locale-gl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gl translations
@@ -1640,9 +1701,9 @@ Recommends: virtual-locale-gn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e1096d3300ab0c44dfa6a9e77fdd22f2
-SHA256sum: c59148d6e324d14227c0d25365de41910e1478569268db95915d1184e29a0603
-Size: 3412
+MD5Sum: 6aff95471ecee9e2074e4f9e8ab4151e
+SHA256sum: b6167318d38677a1272bf334c294772d667f52debe1b582bd97d70d6b00461ad
+Size: 3408
 Filename: iso-codes-locale-gn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gn translations
@@ -1658,9 +1719,9 @@ Recommends: virtual-locale-gu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2aed54768ca20450387df856617a8f9b
-SHA256sum: 329b95af54e5f31be0c70a3cc3e9161170cf9ea1a6a0cfc38729a347ad109313
-Size: 27652
+MD5Sum: f59b9ea43083637abe7cad376700b8b1
+SHA256sum: aac14434a292a496214d23a64420bf76c47d6e00a19809829526829870f7c5d0
+Size: 27682
 Filename: iso-codes-locale-gu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gu translations
@@ -1676,9 +1737,9 @@ Recommends: virtual-locale-gv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0950cdca47d448ee8d2cfda7f46358e9
-SHA256sum: d36d57eb0b35dca18fcc089088c2e4aca97b9d3c47ea6c164ac950689b867c7e
-Size: 4204
+MD5Sum: 3ed1c05a72fe3e363f1f57cda5f586a4
+SHA256sum: 58df42209ebc1a41f5464bfea842f3e556642ad420dbdbde231ec291da0d72c6
+Size: 4214
 Filename: iso-codes-locale-gv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gv translations
@@ -1694,9 +1755,9 @@ Recommends: virtual-locale-ha
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4692569ca8090ab5e512bcb3470e78e0
-SHA256sum: fd6e1845d4a140e5dec31c9d2eda89b74436b9d5014176429e924191365d0f63
-Size: 2812
+MD5Sum: 9234e72d5711d72d5f62fb43179acab7
+SHA256sum: 5b3adf4dfed62c36ad6367dd0f3ca43544f8ddf4fe483a4c57ff67269fea0868
+Size: 2808
 Filename: iso-codes-locale-ha_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ha translations
@@ -1712,9 +1773,9 @@ Recommends: virtual-locale-haw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 24e948f6f773314a9fd98e1c39d2636c
-SHA256sum: 0409c28eb367db58a809cd9534fa36b121f992be0d8be84b4325ff43e681efc0
-Size: 1730
+MD5Sum: e3a3fa0524348f171ae1704b8a328789
+SHA256sum: 05df161b8aaeab36fb4535e06276dc93c1cbca4f5ca67f1e403c9519ab341460
+Size: 1726
 Filename: iso-codes-locale-haw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - haw translations
@@ -1730,9 +1791,9 @@ Recommends: virtual-locale-he
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e2af82092be85b117ad1bb064f4576cc
-SHA256sum: e55fc59f456ddb1fbfff1844f466fa710b71e9695875a2ab8922aaa728a39fb8
-Size: 11000
+MD5Sum: edde6b9156902834bcd83b028826726e
+SHA256sum: a9b55874fa79bf527522d18c785a269f83cd7a9947c5983d80d879a3922ddcf2
+Size: 11004
 Filename: iso-codes-locale-he_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - he translations
@@ -1748,9 +1809,9 @@ Recommends: virtual-locale-hi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0b3aa3026957e0167ac8a714d2da7582
-SHA256sum: df86bc90134d5ea3b5c158203c43e9d533f4d4171458c1b04ba1802022a1dd81
-Size: 12308
+MD5Sum: 4fcb9e550d92a43ce089991f1a05aa15
+SHA256sum: 10d2848d6c7d1d0793cfd5de32157b6e3daf2225df93e1ad50efb6538627ead7
+Size: 12316
 Filename: iso-codes-locale-hi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hi translations
@@ -1766,9 +1827,9 @@ Recommends: virtual-locale-hr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ad103c5d3e7b1702eb57aa9add094a6c
-SHA256sum: 836ae01ca4f7d970182a971e00a29e174a511a6aa7d03e853d978c14d636862b
-Size: 40680
+MD5Sum: 8f029093fe08d87a932e93cb46bcb160
+SHA256sum: ebf4d4dcd69bf470b20995e79883f3911d34aa5f9a32adc567b8de8ee95f9b3f
+Size: 40668
 Filename: iso-codes-locale-hr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hr translations
@@ -1784,9 +1845,9 @@ Recommends: virtual-locale-ht
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: be28d90f8fe651e0b4d2b857824fa307
-SHA256sum: 548d8bed5701f7da09fb691448a802039a36cd8e3c41a3b06e3d0595006b63fb
-Size: 3884
+MD5Sum: 083a095346a7190a92b1a0fb21856f9c
+SHA256sum: 542fb7f6aa6f0894250b97e84d2d3a52d56f8964c8605f832133839e715e5cc7
+Size: 3904
 Filename: iso-codes-locale-ht_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ht translations
@@ -1802,9 +1863,9 @@ Recommends: virtual-locale-hu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: df209a0ae85cff65d41a8b7b7b747689
-SHA256sum: b53a7c6ddaf609a826ccc0b7653f8b8dfcecbba72c8959dbd7bc98b6c319a242
-Size: 56308
+MD5Sum: f4ee39f721ef137b0f0afc54ff849b28
+SHA256sum: 132b95063e18bdf3cbca868003a2f78277fdef8c898d4576742b046888dfa7b7
+Size: 56152
 Filename: iso-codes-locale-hu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hu translations
@@ -1820,9 +1881,9 @@ Recommends: virtual-locale-hy
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7c370980255c2b3124b4cea7b0bfd809
-SHA256sum: 62219a2fce7383547a443be5f99023ecdd6be1156cca15ebee0cb52f66e61756
-Size: 9508
+MD5Sum: 311f118dbb84f65e62a77f7f8405cc75
+SHA256sum: a8869176a7065eab724d686d819aef1fe3c50b5d66acc9c1cf5d2dec24d52574
+Size: 9500
 Filename: iso-codes-locale-hy_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hy translations
@@ -1838,9 +1899,9 @@ Recommends: virtual-locale-ia
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b595207bb131f33ed274729a991354e3
-SHA256sum: 0bb24b7f44832aa07f495c7941b0e2b52d6d93408e54b5db1ba5f0afe3b79162
-Size: 10612
+MD5Sum: 681eac3514eb9bbd2f2c77e0d3cbc886
+SHA256sum: 26f316b133b6e6b0cd6f5460e6d8ddd4af1725d78ffd208c9875d588ca6c6387
+Size: 10604
 Filename: iso-codes-locale-ia_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ia translations
@@ -1856,9 +1917,9 @@ Recommends: virtual-locale-id
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4b2a226857fd625debf2a0e2b30d7e60
-SHA256sum: 65e8e7cedf5b34d0229f9dc765b7ec9f5c5084c9581199bda0bd1d5d6ddd2704
-Size: 131064
+MD5Sum: 0129efb693c4511e519533edde703821
+SHA256sum: 6c2577f6ebae72cca76cfc29ac0d86a4134462c678b37261f2eb0d6bd0c19ffd
+Size: 130916
 Filename: iso-codes-locale-id_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - id translations
@@ -1874,9 +1935,9 @@ Recommends: virtual-locale-io
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f7fbc774a0e4877f43204ad2be3d4637
-SHA256sum: e7106fdd6bdaa8a9f60cf76f0f9777ab5a4d700a2d864f0a51e2daf9f6c6dd8e
-Size: 4080
+MD5Sum: 42da464a65e7587d84a9fcde46e42afa
+SHA256sum: c730d423ae9088aa55b08cdca44345541da783dc1ecaaeb6b4083b7c7d20e3ce
+Size: 4084
 Filename: iso-codes-locale-io_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - io translations
@@ -1892,9 +1953,9 @@ Recommends: virtual-locale-is
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9101100d7d5957fbbb68f8919aeb9433
-SHA256sum: b4fdbc683194118c5fc24897426b40eb852c946398939a30f7c02c377bc7c52e
-Size: 60064
+MD5Sum: 60b0a250ae6c8f73866eac0cf6c13d0b
+SHA256sum: e2e7b887038df6cd236c9ec00e16d3f68312f223bf0342ac555293609a941034
+Size: 60112
 Filename: iso-codes-locale-is_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - is translations
@@ -1910,9 +1971,9 @@ Recommends: virtual-locale-it
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6959891fd34c9291067070cd422325aa
-SHA256sum: dd6b1b61b9454fb8e7607f55478fbbf669aedcb055b2491f56bf72e2828da161
-Size: 164984
+MD5Sum: f7120f0f1f5244a316bf0c76f000dfa2
+SHA256sum: a01a2ca2a3406718cba30ec563dbed7401bdaaa6982d73cee26b139f60f2f0e8
+Size: 164336
 Filename: iso-codes-locale-it_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - it translations
@@ -1928,8 +1989,8 @@ Recommends: virtual-locale-iu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b2c0bf61266804959a10d2276ef14eac
-SHA256sum: d35f20c8656e0975d501ade442abf3f7cbf0a00efeb7069ac552ca9b611c5b92
+MD5Sum: 8321a9d039ffda719745f4f0e679fe0a
+SHA256sum: 691fd0b63e7ec2eecc49525462f819e374361ca422fb7da85c7c777fa99dc279
 Size: 1820
 Filename: iso-codes-locale-iu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1946,9 +2007,9 @@ Recommends: virtual-locale-ja
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ca8475f9ebcf75af1ef88d9016789342
-SHA256sum: ad44b822cc84cae347ccc79f0e1d83cbe7f50281b53dcb7838d2a6e5840b357e
-Size: 58736
+MD5Sum: 4d53b3cd20d33a3c600cfcac98a736ff
+SHA256sum: 398bc8d8198029197a8279adadbc9a7c23966cd06298d6a8e3695cabb3f74e5c
+Size: 58572
 Filename: iso-codes-locale-ja_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ja translations
@@ -1964,8 +2025,8 @@ Recommends: virtual-locale-jam
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 79714dffa57069fb6957559cb08aad97
-SHA256sum: faf2fee15b7607528ebf719ba93179c073d8c85065a636f26fab2989b4a210cc
+MD5Sum: b788c44b13e5f1c4977d9467a0978060
+SHA256sum: 1e238831f11a97d9f95fa566f1c0c1a2c937b72e24f6762fbd5058387ffe0b7e
 Size: 3906
 Filename: iso-codes-locale-jam_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1982,9 +2043,9 @@ Recommends: virtual-locale-ka
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2d34ce6a0201b53be20220b63b3e6e63
-SHA256sum: 45f154d224899332c603b9dd5b48c0570c6d192e63895cb066ebfb6ddd5363e4
-Size: 9084
+MD5Sum: f4ab041b678890fedd777a351e15afda
+SHA256sum: 2391c1bedec62894cc0cf64a71b5c3c3632bac526ce08f9ceac1228371ddda91
+Size: 9088
 Filename: iso-codes-locale-ka_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ka translations
@@ -2000,9 +2061,9 @@ Recommends: virtual-locale-kab
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a982a01866b3c41914a9212e8caee3e5
-SHA256sum: 650c1652d9c477b7cfcb7cccec038e5f3ff02ffe93e8742ca0951f4b91a418f4
-Size: 5802
+MD5Sum: d018f24704619a50e3abb39732ae2fd2
+SHA256sum: 99d197cc629c089eae157665b2bd9122e28e5f79498de84bc04df351b2d6f016
+Size: 5810
 Filename: iso-codes-locale-kab_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kab translations
@@ -2018,8 +2079,8 @@ Recommends: virtual-locale-ki
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 79eb2b54f72fb2aeab95b0ff846ad31d
-SHA256sum: 0cb1857ef9948119ce99acb51d7530cda4a22ebce94b360392afe2b78c2ceb19
+MD5Sum: c70ed569801cf7b96d46d26c9fde7c80
+SHA256sum: b523f4f12e769ff6c0445a40f9d46975f3c8ab0b7832008dfe3616aef2a6e20d
 Size: 2668
 Filename: iso-codes-locale-ki_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2036,9 +2097,9 @@ Recommends: virtual-locale-kk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: debe0358d71cc7d6e50246d22076b234
-SHA256sum: 263241f8d14afc6b8ff597193bde15e71ac61ad77cc33c43f539dd92ee8ae55a
-Size: 9488
+MD5Sum: d0c1cbe7fc3f4828775b979ac6a7b3e1
+SHA256sum: 15c1a8b03d1a5dd9076916a14fd9c37adfdc3fe388e2b83cd812d29c79112def
+Size: 9492
 Filename: iso-codes-locale-kk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kk translations
@@ -2054,8 +2115,8 @@ Recommends: virtual-locale-kl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 58059229ab8b334232dd4e56cfd3e8cf
-SHA256sum: a3c52b0f3943a681679e99308b48be21d7da6385a3e337c2fb8983f8a7d38fa3
+MD5Sum: 96e5de7342d51e1a89e60ad912f7aa03
+SHA256sum: 244afd35b8e4595ab4c514ec5f9e3aecc7cfcd0be99050bbb4e6d9d199327cb4
 Size: 1264
 Filename: iso-codes-locale-kl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2072,9 +2133,9 @@ Recommends: virtual-locale-km
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ee4b0b4302fefc7bbdddf513027617ea
-SHA256sum: 354008c694e38a80e56cbc10e0ece4a55e32ee852d5a36aac83df5d62e887b91
-Size: 9976
+MD5Sum: bc31e6c4311f4d5920628d9b777b650f
+SHA256sum: 4fe0c0ef969af2364ebad25f6a6523e0bca13ece7eeba63267b51edacd3af0a3
+Size: 9956
 Filename: iso-codes-locale-km_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - km translations
@@ -2090,9 +2151,9 @@ Recommends: virtual-locale-kn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d249a224d24ccf153a054ff04cb7a8d1
-SHA256sum: b0028b6fe6e836102b50b0902fca7e72230b7946a2c339a4fbcf72d7c1c6deb1
-Size: 106984
+MD5Sum: aaebce56b2a01b406f90334210a014c1
+SHA256sum: e71c4221d20410a263e54bd563a55b924a1135ac5f56504909cdc1be99fcce4a
+Size: 107104
 Filename: iso-codes-locale-kn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kn translations
@@ -2108,9 +2169,9 @@ Recommends: virtual-locale-ko
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3560f43ab02824dd890def52c72a6e65
-SHA256sum: 44ecf78d094cc64af045a38dc6a1c9ddb93e81183b5ff3525cf39b8d015ae3f0
-Size: 23960
+MD5Sum: fad2ca95e30b1730169c6752a7711262
+SHA256sum: 621b3d5b0408689ff475dedcba3a6b7b622a5ebb49aa8409a32e9a4c7ac46ab1
+Size: 23952
 Filename: iso-codes-locale-ko_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ko translations
@@ -2126,8 +2187,8 @@ Recommends: virtual-locale-kok
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5f84de06335404197c349bf615912ae7
-SHA256sum: 2e73c68f70e66a06cf03fa66340b13f229115520ccf616e77ed13122348fb3da
+MD5Sum: f72a14e2aea5adfc7f9aa53839911b35
+SHA256sum: ba8d666f17acd8731061f6e3e959a689cbe8e23cf58ec1c98e8a7de6aa078894
 Size: 3886
 Filename: iso-codes-locale-kok_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2144,9 +2205,9 @@ Recommends: virtual-locale-ku
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2918c82f55e6977f3171373c95c4d84a
-SHA256sum: 9649fa0040ec64b209c187ebdebd0f6b19aa9e9ab5035141f615b9a097ee79c5
-Size: 8496
+MD5Sum: 2873639b107b855b3346baae8b5e572e
+SHA256sum: 05fd0e102f636ba4b82f6bdad58361ad2502ef41669d032fb5ed7ff24523b543
+Size: 8524
 Filename: iso-codes-locale-ku_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ku translations
@@ -2162,9 +2223,9 @@ Recommends: virtual-locale-kv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 425805a241378d5a8b791a7f6c67a684
-SHA256sum: 3a1a4ea7460f56736c8d29ea6e9a6dbbc662107fa6f35925305b4abc0e0ff08a
-Size: 3268
+MD5Sum: 6666cca69311c78b5f209e1c409e8a78
+SHA256sum: fa869571d49e1bf0d7cc834f8a3d7f88c4552423f5146e2dbf5e0d68fd934671
+Size: 3284
 Filename: iso-codes-locale-kv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kv translations
@@ -2180,9 +2241,9 @@ Recommends: virtual-locale-kw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 49e00f4bd0b9fc64a0ac966fc654b7ff
-SHA256sum: d9136c36ff5835f4c562d5a58b5b067050ff98a3c2753f764d884b0e33b3a57d
-Size: 4356
+MD5Sum: e819bad6b8cdf996e93327ba9c665958
+SHA256sum: c865c63d8c75c5131dfbb7de2d823e716a0c46ebcf519b32e4e694e33fa88d44
+Size: 4300
 Filename: iso-codes-locale-kw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kw translations
@@ -2198,8 +2259,8 @@ Recommends: virtual-locale-ky
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d6ef7de034edb46062df7a1812f3fc4d
-SHA256sum: 420fb16100c532a81711ffdce3c628fabd422c6eb057d9d07974f19607119f84
+MD5Sum: e5ffb71ae94c5a39b7f73c503178b748
+SHA256sum: b834a81a6d319232bfd74b51902562bd6e8e4ebb3cd6c22f507c1aa57f24f5d5
 Size: 9100
 Filename: iso-codes-locale-ky_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2216,9 +2277,9 @@ Recommends: virtual-locale-lo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 78b50d80cf9816bb2b505a518f5b1731
-SHA256sum: e1378ebb19482ce4cf060c99760f42beb9937336dd8bfc2015acb2c71cd186c3
-Size: 2858
+MD5Sum: 81f72a2ff34673af7e17ef8e0bdf4e95
+SHA256sum: a2ea5291d1560648242174cbe4561ca2d8701532ffc9a0ed9b012613551cbbb6
+Size: 2868
 Filename: iso-codes-locale-lo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lo translations
@@ -2234,9 +2295,9 @@ Recommends: virtual-locale-lt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8380771c7c817526120271530dfb562f
-SHA256sum: 9d4203029db8a2bfcdeddb2b8cb6fc668d85f2838fe3a9f4296c43aa678d4011
-Size: 55258
+MD5Sum: ea18482914ac55a3002c83b1990f2417
+SHA256sum: 8b5f7d708146e0bf919d0c5d44601cd8f98d4fe98bf16efdefb9b055d7f002dd
+Size: 55228
 Filename: iso-codes-locale-lt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lt translations
@@ -2252,9 +2313,9 @@ Recommends: virtual-locale-lv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f8140fbe01578f07d3cacc23944b503f
-SHA256sum: 87739b1617bfb98d46eb94e53d24b875d3d87b6674e29574cdcf9b9ac8899c0e
-Size: 23200
+MD5Sum: 45cc3ce795882caef295ba6c598de5dd
+SHA256sum: 6aa4c2e2444c6edf3b4192e64ea6c32dc2ebf48c16275742676759660bee67ed
+Size: 23212
 Filename: iso-codes-locale-lv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lv translations
@@ -2270,9 +2331,9 @@ Recommends: virtual-locale-mai
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a2619d05297cdcffc9723186ad1af819
-SHA256sum: fe159ffc2d8ad1d344e13d4f6b672fe15a07d7ef71158f23c8bca9426cb78576
-Size: 2654
+MD5Sum: f027ecdc8aa85fd0cd75cde5d9d00671
+SHA256sum: faf1777f8be9b4c45dcf66e817bb04e9cc307f7764596805bd81d74eb825d78a
+Size: 2658
 Filename: iso-codes-locale-mai_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mai translations
@@ -2288,9 +2349,9 @@ Recommends: virtual-locale-mhr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a693e1b8a42a67095ecd5e60a5f5662b
-SHA256sum: c2613baaceab85b7fa14f8cb157ce41a363b132b99bfbbe6363d6cd885fcfcb9
-Size: 3278
+MD5Sum: 853b4a86b60f112f4565adc3e4efd161
+SHA256sum: fec7520c323f8e3b46e62c1147bc19da9c6dfd2cc14d083ec3870bed45a71e61
+Size: 3242
 Filename: iso-codes-locale-mhr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mhr translations
@@ -2306,8 +2367,8 @@ Recommends: virtual-locale-mi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 78c8ec7a172c6eb49fe9d14f67f9b525
-SHA256sum: 2a4de44691adec9627957f09a07ccfb3fd15d1a862ed6695ab17a90a636b6c9f
+MD5Sum: 80504c1268ca5313417940208af7aa63
+SHA256sum: cbb176e0182f74dcc9dda3672071b8be386d8269fd418e44222d39ff5fc4267f
 Size: 5208
 Filename: iso-codes-locale-mi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2324,9 +2385,9 @@ Recommends: virtual-locale-mk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2b70d25178dd1303c1be738d9a09e5b1
-SHA256sum: 22262d306fc54b4238973ce49073d72dcacd576f540a415be91ffec65e83656c
-Size: 10048
+MD5Sum: 97daa064302e9995ae34224bdd3a896e
+SHA256sum: ec346ba756369e5dd01713bac18d26eee83a6a83c30bc1629451a1135a90683f
+Size: 10052
 Filename: iso-codes-locale-mk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mk translations
@@ -2342,9 +2403,9 @@ Recommends: virtual-locale-ml
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6a176417a5d13fae9d1c5662ebda2851
-SHA256sum: 7d43a2ecffc6c91494c84311b67e711fd464cbc867822a0924dfa7765dae44c3
-Size: 18546
+MD5Sum: c15a319834479b289d88245678548897
+SHA256sum: 34f27a4fa6b3b16dea9e63e431732f75f888b09bb2bc26827595f38db9d26c47
+Size: 18456
 Filename: iso-codes-locale-ml_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ml translations
@@ -2360,9 +2421,9 @@ Recommends: virtual-locale-mn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bef9d788e5b770974478c4c902c02eee
-SHA256sum: de7ebda24bd012bcf8658cb9e8f221d9f7afd1ec053db249c8203e417c3d6c59
-Size: 8910
+MD5Sum: 91da02c76ed029fcef6df24d2cc8df11
+SHA256sum: ad28f148333fe31dacb4198b61dab50d0dda9491a3f798474884ae8e13736f83
+Size: 8888
 Filename: iso-codes-locale-mn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mn translations
@@ -2378,9 +2439,9 @@ Recommends: virtual-locale-mo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 43ce285b4672c528430d83ef09353af2
-SHA256sum: 621b78b346d0380920dab8aa1ebe4145d7772a63e3a8f311c398713a26add7e4
-Size: 1838
+MD5Sum: 65f6e2c319bff2ffbe40521f4f391c03
+SHA256sum: 37824b375f401bc4dcad50920cabc3962fbc9513be1a1823b595daf9564e3a58
+Size: 1840
 Filename: iso-codes-locale-mo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mo translations
@@ -2396,9 +2457,9 @@ Recommends: virtual-locale-mr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 610c12fec27b710aaf5179e44f5408e2
-SHA256sum: cf55da2fd55d63daf9ec45e6e56e92a0c0a882059f625eb6f36448b03d8b04f2
-Size: 120590
+MD5Sum: 792305fe3cdcb0d96dba84d9fcedfea2
+SHA256sum: 5db7a66b135024edd73580ff541fc993c95de814e6372f4de5113f011411ce2c
+Size: 120604
 Filename: iso-codes-locale-mr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mr translations
@@ -2414,9 +2475,9 @@ Recommends: virtual-locale-ms
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6599bd4c835955199ee6e6fed0c29d07
-SHA256sum: 7118991f768f41fbcbd50aba9c913734956030ffc7cdf730e21443ddd31007ef
-Size: 5628
+MD5Sum: 69a10098c63735eb4378c42bc0f8403d
+SHA256sum: e6bda34302e708f71cc7fc59e885beb8c5e9ad049f36eb8c0375a84b26ac89d2
+Size: 5624
 Filename: iso-codes-locale-ms_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ms translations
@@ -2432,9 +2493,9 @@ Recommends: virtual-locale-mt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66367eb9d324169eb3ea1afa0b99e0bb
-SHA256sum: ae2e060ab8a2f825e118f0551e1929658f9175cd402ea2b1508a94f41a928065
-Size: 8608
+MD5Sum: 1ebbb333596ab0ec5e7ead7bb93e7783
+SHA256sum: 566df868ccb184de5d4a82eddeb52821fdd42b6860288125cc0a5042b22924d8
+Size: 8588
 Filename: iso-codes-locale-mt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mt translations
@@ -2450,9 +2511,9 @@ Recommends: virtual-locale-my
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6a4199e7bc6a4015bd425e0d379a41eb
-SHA256sum: a7de18806aae5cd8f259f524646f654637cf594b1474dd668b7ae97d804f417b
-Size: 4768
+MD5Sum: 8b6b48067044f875e4e0edef738ae035
+SHA256sum: 7ff5f04b9b465532b38deba118fce5b93a851064e94a34bcf9c953e157b84a20
+Size: 4776
 Filename: iso-codes-locale-my_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - my translations
@@ -2468,8 +2529,8 @@ Recommends: virtual-locale-na
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8467dff50c4680d533149a42b877fb8f
-SHA256sum: 75355e0b6ddfef025e0292faf40e21e7911d90367223f769792ba3d2a303157d
+MD5Sum: abf6067e6710556af741fe3dd69e97ef
+SHA256sum: 636352ebfe3e6bc584777e3567adf34efffbc7f0ebaf4db6b22ef0fc69209668
 Size: 3448
 Filename: iso-codes-locale-na_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2486,8 +2547,8 @@ Recommends: virtual-locale-nah
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8c02b97bf703e48860c281fcceb773bb
-SHA256sum: f8bfd6d722bda1f0183bff7bfbc2babdf418a48fb3773c21a4abb96870d963c5
+MD5Sum: 4985113d0a85b672c39cb4b7b9bac7ec
+SHA256sum: 6378b81e748a9f495d68bd28c439308a7d9118c3b5b677e631087de1a05090bd
 Size: 3890
 Filename: iso-codes-locale-nah_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2504,9 +2565,9 @@ Recommends: virtual-locale-nb-no
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fbbc6b564a75d34338e897dc9613b4d3
-SHA256sum: 73d8b71e90dcf9b2396fd31106a270857370a77e7eec9277d9fbda7827da909a
-Size: 1642
+MD5Sum: 1f6bebbfc526d939e3ff45b0a0a73133
+SHA256sum: 9dec1057fefcb2f6c6ee43ac3a83403ad886557672f721a1afda2c427d68ce21
+Size: 1638
 Filename: iso-codes-locale-nb-no_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nb_NO translations
@@ -2522,9 +2583,9 @@ Recommends: virtual-locale-nb
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a47b98287666fbb063462a495f3bd762
-SHA256sum: 8656a56b9e1883ffde8d977e73c33984863014ad9e90c201bd0dfb553f4abc18
-Size: 14748
+MD5Sum: 43bf430eb437589d094124f1aa573631
+SHA256sum: 10b34c485459e4dd55f9b3b88f86faec7dcbf6def7f54e6869b2ac404a6e58f0
+Size: 14736
 Filename: iso-codes-locale-nb_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nb translations
@@ -2540,9 +2601,9 @@ Recommends: virtual-locale-ne
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c5d6c069a92708ce0842af5c83c7675d
-SHA256sum: c99d14b814f86af91ae13675d2901501fb920f2959a28c30dde9cc2441f96f6e
-Size: 9610
+MD5Sum: 6653e7e8aac118dfe8929ba8aeb8b93d
+SHA256sum: d2476793854b09879655bad42ddc8e23ca57d5ae44da307083252b881ba27376
+Size: 9604
 Filename: iso-codes-locale-ne_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ne translations
@@ -2558,9 +2619,9 @@ Recommends: virtual-locale-nl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 667fedac2bbc7f7759be87afadfae80f
-SHA256sum: cee957eeb8ba7a46128f0c444dae1d3d67db63ac65e04aaabb264327a9634167
-Size: 92274
+MD5Sum: 98ef72f1f7a6614e617fd7e242a74ed5
+SHA256sum: 3febe7ee38dd7410b1a9e25ad8e47b7bc3b8a728b9112905b9976eef999d7d9e
+Size: 92328
 Filename: iso-codes-locale-nl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nl translations
@@ -2576,9 +2637,9 @@ Recommends: virtual-locale-nn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fedaed5c1b3e98d00b4c2d619837d2f2
-SHA256sum: 1df5f65b1d2b3083964ba14cb5a4843b50932018e6b7ff273f3146b9b3bccea5
-Size: 15114
+MD5Sum: b735ed2a2d0b9e67954c12e5e30d833a
+SHA256sum: b5e39930d216df94d0d23b5b7976dbe7e7106c879fa03b31fcb5518cd934e032
+Size: 15116
 Filename: iso-codes-locale-nn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nn translations
@@ -2594,9 +2655,9 @@ Recommends: virtual-locale-nso
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cc7f4754775888331934317820927d5d
-SHA256sum: 970ff00dc45f990a07c186aa50d054ed4d9c62d900bbb27391d7b3a43884ce4d
-Size: 4466
+MD5Sum: 0df32508df4a8771b79dde8f3d0b1e18
+SHA256sum: c60e544c5abc93441b6766d88287250fe964b6e37c5d87ed04f9ba65570b8ff4
+Size: 4490
 Filename: iso-codes-locale-nso_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nso translations
@@ -2612,8 +2673,8 @@ Recommends: virtual-locale-nv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 804d26f578ba7b70e3783c6f418dc49c
-SHA256sum: 43dad85276bd426774b43832ddff34329395e6dc75903c093f7d11cf68b7ad74
+MD5Sum: 1374915c2594b6e1d551a4f886cdd122
+SHA256sum: ec2c1d2c01691aa44085e0025ae946c4c85fd796f74ddb0ed8077654ab0128d7
 Size: 3292
 Filename: iso-codes-locale-nv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2630,9 +2691,9 @@ Recommends: virtual-locale-oc
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d4344f2596a191415cfbb5c9123f0ec5
-SHA256sum: c3b79b5ae325baa6b926814c9d0b7fa76e3bd0c6590fe305039331c7c8a78c42
-Size: 12022
+MD5Sum: 48b2d4bcfa5e8d67795bb31143d78ee6
+SHA256sum: a869e6f208fcca26cbcc15b690297c30866db93708962a821bac95b1b8d8caf3
+Size: 12020
 Filename: iso-codes-locale-oc_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - oc translations
@@ -2648,9 +2709,9 @@ Recommends: virtual-locale-or
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 43af70f7a3f4f2c52e7069c8d8f7ec2e
-SHA256sum: a137fef31691968020137b87fdfbf547ad3d64bce896d129af17a30b29abc0bc
-Size: 68972
+MD5Sum: 93917ad56614c850ff471ff4bd911c07
+SHA256sum: b0013efc8d2ba36f46aa2b69a46e0857f610df0fe8fb911c59971f1a98ed6736
+Size: 69152
 Filename: iso-codes-locale-or_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - or translations
@@ -2666,9 +2727,9 @@ Recommends: virtual-locale-pa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 50ebf8b37120aa27580168bb3f59bebe
-SHA256sum: 511b42cd6be02e08e88f0654f0284edc29372c32018348aa65a0335935518ce8
-Size: 116588
+MD5Sum: da1184f404299817a9829a9502c80274
+SHA256sum: 166ad4e82131a229268b7584f577225a0133188e36e5be6dc190fbaa5237cf03
+Size: 116428
 Filename: iso-codes-locale-pa_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pa translations
@@ -2684,8 +2745,8 @@ Recommends: virtual-locale-pap
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 04ac37047f227680013d8cda0e2cdc5b
-SHA256sum: 8a17a7b1bd78af43c30646b30de00c7b70a5486f39cecf2731d862010643a90e
+MD5Sum: 689533d5e082a5e396bd42f30836d7f1
+SHA256sum: 0bbce4816761eab66553dde0155f360fc89eb533a670ee17d8505c32da8c8c52
 Size: 1262
 Filename: iso-codes-locale-pap_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2702,9 +2763,9 @@ Recommends: virtual-locale-pi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 96b48f440a5c48d1df1d1c844f7d2ba0
-SHA256sum: bd56759f01b5fa3db09c1a5bf178239f7d78ed25824a155e5aba6a72863c0972
-Size: 4052
+MD5Sum: ccfb39eb641e4400d02c64e9afebf7ff
+SHA256sum: ddc340faf854a2ff8ff2bc301d5e89a1d948ea94be2949997d700dff4d88ad56
+Size: 4056
 Filename: iso-codes-locale-pi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pi translations
@@ -2720,9 +2781,9 @@ Recommends: virtual-locale-pl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 93b3f31a04c78c39749296bbcaad8553
-SHA256sum: 21d193b035780fd4005444568e6e178c983e4e5f85ec0ad766906c465357f713
-Size: 113376
+MD5Sum: e0a2a85e078e4fd54e9651e64ceb2d35
+SHA256sum: 9b3dc2bd038c06e834d5a9d8322df44f375d8dec38e5239098c03d88af0b58e5
+Size: 114032
 Filename: iso-codes-locale-pl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pl translations
@@ -2738,9 +2799,9 @@ Recommends: virtual-locale-ps
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 34ef3d03357229d7be75d87ca852cf09
-SHA256sum: 2ff4f9dbc5d7072430b18755971b29c2ff2e4ca965c133dccf4d78fcdadd08bd
-Size: 4404
+MD5Sum: 2133ae6ace59887f23e17b917fb8bfb4
+SHA256sum: 231ba7c8ec00be4345c05bec5edec76abc52108e0f15e5a87bce17c8a7ddec6d
+Size: 4400
 Filename: iso-codes-locale-ps_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ps translations
@@ -2756,9 +2817,9 @@ Recommends: virtual-locale-pt-br
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 22686737c237b920b45a6fee62f3a1a8
-SHA256sum: 4e3f00d161ca52d19475fd64cc26c40dd87fa8120febd1c8f48ce595f9496076
-Size: 24922
+MD5Sum: b2d69c721b7cf68dc0036457b267bf0d
+SHA256sum: d697c88034104a59c2ff0b309e09ad97e63f14ad978b9ae4cfe39be6b3c2e234
+Size: 24938
 Filename: iso-codes-locale-pt-br_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pt_BR translations
@@ -2774,9 +2835,9 @@ Recommends: virtual-locale-pt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9a5d7970b6c7621089c6d01e1a53a3d5
-SHA256sum: 8fe30d3f5ef2d4438752c8f05959516d2af57c7494d52f06a8f87d91bf5d67d0
-Size: 18724
+MD5Sum: cf37486998c05a556d37f6aabc1fc9f0
+SHA256sum: 882e2151ea051ce4698fe432dc7805d918fae693707d5b30c036a56336224f07
+Size: 18736
 Filename: iso-codes-locale-pt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pt translations
@@ -2792,9 +2853,9 @@ Recommends: virtual-locale-ro
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5e009a87f46b9b61686dad97f4bee49a
-SHA256sum: 38fdfd029509cc93fc5afab82ead48dae88252c15d1dadc624554fbfe8a90e99
-Size: 29202
+MD5Sum: d5641dbd698ff230e31855f21da0ed78
+SHA256sum: a47abdc34ec181d5b7390d0c226dc47801ce5c8a284691ac791bb5c3303af8aa
+Size: 29132
 Filename: iso-codes-locale-ro_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ro translations
@@ -2810,9 +2871,9 @@ Recommends: virtual-locale-ru
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7213f90a06abf3d92d0a0c280cca14c5
-SHA256sum: b1a6ed370e36efaf565d90392af1e504d56b10f0eac298890bd302929eb2978e
-Size: 27570
+MD5Sum: bf148dccdb95346d2f86069af2ec305b
+SHA256sum: 2aedfb6ce9b5c3b08a75d8ceffdaa3e4bc137140424cb03505e222cc9a8f03fa
+Size: 27568
 Filename: iso-codes-locale-ru_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ru translations
@@ -2828,9 +2889,9 @@ Recommends: virtual-locale-rw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 12da66a4195c1aa4b252fa3e2ec2207e
-SHA256sum: 7561a7ea368c2a0f1661779ea6e15ac9e38b3e264b33f86e8fbb2f6f2273f027
-Size: 16096
+MD5Sum: 5b2283dffcbddd217c109c244fe274d1
+SHA256sum: a3e4c04174ef75843c98df332ccbcf70fd5364e73adefa7b68883bd24c3afd28
+Size: 16116
 Filename: iso-codes-locale-rw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - rw translations
@@ -2846,9 +2907,9 @@ Recommends: virtual-locale-sc
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f7244316a06ee7c9de1d63280bb89580
-SHA256sum: d328427b78d36286b7f3e62c7f2491c977b8559abcbf6fc9c4efda5b76938d6b
-Size: 61274
+MD5Sum: 702b4d520ae23e794da2413247da305e
+SHA256sum: 0f08679aac167e579aa2abecd7d01bdcbf7d7be2490f8a65dc62b444cc38cc52
+Size: 61580
 Filename: iso-codes-locale-sc_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sc translations
@@ -2864,8 +2925,8 @@ Recommends: virtual-locale-sd
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ce8ca7d9f6ab26897b6f5ecd1edf6c59
-SHA256sum: dd39c86f7b3b48ed255c1bf9cbaa51bd3bf65dae5085f4fd834cd7b7dd1ed49d
+MD5Sum: f2fb7862f8ae669811ac1089e3b20cd5
+SHA256sum: 8842786df8034e5341185483d1723588d52ffb7022840d4afc8485f39230cf36
 Size: 2572
 Filename: iso-codes-locale-sd_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -2882,9 +2943,9 @@ Recommends: virtual-locale-si
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aecac2fa34660cbbd09ea2339f1ed15a
-SHA256sum: c44ad98c01c95e7f9fa76c8076226123cd7113ccc0ae96dcf10eade6c549233b
-Size: 9586
+MD5Sum: 2aa5b4ac2df229ec210f354977505601
+SHA256sum: 9d70f528881714e2b61e3a23fae6f44b6e199f109639939177d52f14bd2aaa4d
+Size: 9588
 Filename: iso-codes-locale-si_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - si translations
@@ -2900,9 +2961,9 @@ Recommends: virtual-locale-sk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e794add4654c98335209e21983a64bb6
-SHA256sum: 22a484b6282c3bf56178d27d8026024393e031568216b0adf856f74db50a97c3
-Size: 25552
+MD5Sum: 384545b3eff2d211904e7eeb59f870be
+SHA256sum: 418abae67bc74dcec8254a106e920fba90729638a7fecb14c8321d151fad9226
+Size: 25556
 Filename: iso-codes-locale-sk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sk translations
@@ -2918,9 +2979,9 @@ Recommends: virtual-locale-sl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 64b690f5a0a4e8e98815587b421e0e47
-SHA256sum: 6f0eb7cc78fc4c56ba2099b9acd29dd951c26ea857579f2e1038bf3599befbe1
-Size: 45510
+MD5Sum: c457f1042332546c8966fdaaa02dc997
+SHA256sum: 09965cf54fce20beb5133853a655f75569a1338a938b941302fe148018d7c940
+Size: 45592
 Filename: iso-codes-locale-sl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sl translations
@@ -2936,9 +2997,9 @@ Recommends: virtual-locale-so
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bf4e81b97df31d09fc5b221e6ae73c7f
-SHA256sum: e8af36fd2976833571fc3ac1ef95c0de8cb556c43ca4295786283a94475af9cf
-Size: 3406
+MD5Sum: 2690b62381b58993cab2a3b2dc132178
+SHA256sum: ed1b6d8c9dc854261a2c6d69480eb6ad979011c56262af5931d23b7a3bc7a631
+Size: 3396
 Filename: iso-codes-locale-so_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - so translations
@@ -2954,9 +3015,9 @@ Recommends: virtual-locale-son
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bf590e40655bdd74d1c19a37d51dd59c
-SHA256sum: 346722e057230e6277a7af438feb6e4695765d090d9319f16d66b884bbd7b427
-Size: 4504
+MD5Sum: 51faddde48c0b6cc6f658e7901243653
+SHA256sum: e00b2ed3b1020afd3d2c3f3a11c50f0d84a451371673509d4719fedb106982f2
+Size: 4518
 Filename: iso-codes-locale-son_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - son translations
@@ -2972,9 +3033,9 @@ Recommends: virtual-locale-sq
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6435589e3100dea0e18c75de3d6333d7
-SHA256sum: 1fedb907c55ddf1b63f3408e4faca939c47d98764ac513fbb3c2af7a490f375b
-Size: 9032
+MD5Sum: 2b8102d9db74bec69d7ce3794d61cbef
+SHA256sum: a95ed33240575fc1db19c9a930ee51b3da6e2e4a2ac3d84dc555eedc85356b49
+Size: 9022
 Filename: iso-codes-locale-sq_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sq translations
@@ -2990,9 +3051,9 @@ Recommends: virtual-locale-sr+latin
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: acff62749b0bf08f6484aec11713166b
-SHA256sum: 58fdefce8b2ba33772bea528759446c28305f82a76224db727a3947b0fe329cb
-Size: 68192
+MD5Sum: 765875e8c28046deacd3541d65473ebc
+SHA256sum: 8759ae1ac76384c5c61be06d4d70532b78111728179f132d333b52e6d4c9c663
+Size: 67906
 Filename: iso-codes-locale-sr+latin_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sr@latin translations
@@ -3008,9 +3069,9 @@ Recommends: virtual-locale-sr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 320744a9f28c1c4ee9ca2fc65f09a90a
-SHA256sum: ce544dbd7b00b6bf33fcab2ce6e1ae70a6072da5292990907164c233431b0be6
-Size: 79114
+MD5Sum: 31357410dd515fa7fef29b0908d899e0
+SHA256sum: e4a80945ae96f597e9d24356fac45c295a326ebfbb56e1310024267982752eb2
+Size: 78794
 Filename: iso-codes-locale-sr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sr translations
@@ -3026,9 +3087,9 @@ Recommends: virtual-locale-sv
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b10dd4194f959afc10e14de07cab4b1c
-SHA256sum: ff4fa4d23f5b4f6a66a69b1ab8de58ea35ae89ea88185a21b4156d5c132a89f7
-Size: 157540
+MD5Sum: 98b5dae92a8f2dd81a3f8de3639b0f7e
+SHA256sum: fb3a958a78c8a1c8c1bf2270e0c8fed72018008ce665bf840ff4e0a89044e8f7
+Size: 157732
 Filename: iso-codes-locale-sv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sv translations
@@ -3044,9 +3105,9 @@ Recommends: virtual-locale-sw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 398db8ff86c069df5c946587ddfd5d5c
-SHA256sum: 53da8dea907acad9507c9d95a530774eb14ba1a59a3fbe7855550936159a0803
-Size: 3552
+MD5Sum: c9c7a3072d2e5e28fd05319a8225b738
+SHA256sum: 95c10c9d9c6f03e579ebfbc5003c96416113367243989d1644b2e0b37473fe5e
+Size: 3550
 Filename: iso-codes-locale-sw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sw translations
@@ -3062,9 +3123,9 @@ Recommends: virtual-locale-ta
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5bdc83b4975890f4d7b3f159d4db4db3
-SHA256sum: 70c7d6ce6a4389a4ba7a5f2ca2a5957a3896befafc2b406ed6cd233eb320d166
-Size: 117702
+MD5Sum: 05574028b43bf79002dd6d2067a3899b
+SHA256sum: 7f9b6c9cdf7b11a4ffc3b06d785ca06565fba326c21843cb95833b84bc23c2b6
+Size: 117628
 Filename: iso-codes-locale-ta_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ta translations
@@ -3080,9 +3141,9 @@ Recommends: virtual-locale-te
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8849832c4e19b91f596e0a8f799ce31d
-SHA256sum: 09ff8d4ed0c6decc50430101ed0a4a6f5d782ec0bcf6bf285e95d3522e61406b
-Size: 18422
+MD5Sum: d79204162b8fcd0339eb33edb62280ab
+SHA256sum: 1e58b6ddf3d249c2627b005cc3d3c7580a4145a64ebcadda39806d9515b84118
+Size: 18376
 Filename: iso-codes-locale-te_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - te translations
@@ -3098,9 +3159,9 @@ Recommends: virtual-locale-tg
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 578fc46b240e284d5d0b7989cfd436c3
-SHA256sum: 3023596db2cc047b74999d134860f16bb0c18a41961c12f545a3d4df4b77eaab
-Size: 10348
+MD5Sum: 0c4544edbf90a8e4aa259456feaa465f
+SHA256sum: a5b6c30f72718e2ce1686b5bdac3d6b69f964bb4252e68033552f31daf622a4d
+Size: 10328
 Filename: iso-codes-locale-tg_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tg translations
@@ -3116,9 +3177,9 @@ Recommends: virtual-locale-th
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8ed7e02e399dd79ff8cce18f4e831367
-SHA256sum: 3928542a131521020b519be1183e3e66f569a32a46a9bd618a551e8dc46371fd
-Size: 57454
+MD5Sum: 9e78e7e87e8daa03ebacce50d3f261b1
+SHA256sum: b658fdf9a968a0d2a728002363699d3f7c4ea7e0d82e28b905c7547a363933c7
+Size: 57616
 Filename: iso-codes-locale-th_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - th translations
@@ -3134,9 +3195,9 @@ Recommends: virtual-locale-ti
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f0d49fc1e900d9e646e1d325358dcd33
-SHA256sum: 21171b003e9aad5bbfdb49bbf7e81f584d75ddc612ebafa32a2b6a2146c48c7d
-Size: 6060
+MD5Sum: fb1a2a6ffcc350861e392d6e1a5a80c0
+SHA256sum: a867172518bdda2c0815d88aa75871b367a106bab35ba474cbaed4480c87f5b4
+Size: 6064
 Filename: iso-codes-locale-ti_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ti translations
@@ -3152,9 +3213,9 @@ Recommends: virtual-locale-tig
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5b39d62a42c1df132a583487bc90b470
-SHA256sum: 435336a2a5a88aa14b294daa09c8a61fc1703e72feca962fd6b102a1bf1a7dda
-Size: 5596
+MD5Sum: 05ecfb5efc36c1685b184de1dfdddf49
+SHA256sum: bd26e617d70c532ec52adf2b84139511ad9eff0a649c9314ef7377aac2c20b75
+Size: 5590
 Filename: iso-codes-locale-tig_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tig translations
@@ -3170,9 +3231,9 @@ Recommends: virtual-locale-tk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c27008dd46f117a4d2a468f123a84d8d
-SHA256sum: 2ed868f45f60e872bcdd3acd67c4c7b777c6da81c757dcd3015ee3494702870e
-Size: 6456
+MD5Sum: 991792fd28e6ddfcf95c669143187156
+SHA256sum: 91f4aba0c13a1f987184a707ef8b0827dd77192fd8d6c6f328d071034841dc53
+Size: 6436
 Filename: iso-codes-locale-tk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tk translations
@@ -3188,9 +3249,9 @@ Recommends: virtual-locale-tl
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 361064cd81844bc8a9ba7d96004597b0
-SHA256sum: 6389cc25259475a8d386075cd3501224199f839154d981d22fd13c864c9b9ece
-Size: 6772
+MD5Sum: 3796713e14707ecbd2b631a615b911b6
+SHA256sum: f6dbe01c021bd6f56651003e4ea5b1f4e91e1a3eeeddd289796f9b09a98adce7
+Size: 6784
 Filename: iso-codes-locale-tl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tl translations
@@ -3206,9 +3267,9 @@ Recommends: virtual-locale-tr
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6b5ba70d26f75cbe15efabff5130bd79
-SHA256sum: 6c789ddd6bcb75d33ce3f205dc215e52b3d1dcf57b45521ae9a96ee0d04ec0b7
-Size: 120562
+MD5Sum: d34506fe7785444c77bf84742621f65e
+SHA256sum: 7902da4ba0684a41d44af873c612a0a46b595651106012b085582ce409a5bd10
+Size: 120228
 Filename: iso-codes-locale-tr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tr translations
@@ -3224,9 +3285,9 @@ Recommends: virtual-locale-tt+iqtelif
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7ade2a0f4df7acb7a9d20aa80f634d25
-SHA256sum: dba969befd8a4a5d23e134c16a5129490efd639ff1122693d173a570fe1c61de
-Size: 9078
+MD5Sum: a75c1638854cb9cdbb5c5fa1274075b8
+SHA256sum: 08ab673a0e48f85f75b49f827045be4848bab33bf7752114c3980e3b10e39e37
+Size: 9094
 Filename: iso-codes-locale-tt+iqtelif_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tt@iqtelif translations
@@ -3242,9 +3303,9 @@ Recommends: virtual-locale-tt
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bad40d954814aa9d3f7cc2da545b597c
-SHA256sum: 4ccd2c53a78de0534b92971ae3e3cf1e0ed870889f38c10c21fe4e77d982dd0a
-Size: 10422
+MD5Sum: e13d8c813d9b0240b9e99ff312316c86
+SHA256sum: 8d3857f98f0d85c49fa8290aa04ffa6e2c941ce0c1f7d170079a3d7bb9a7bbdc
+Size: 10396
 Filename: iso-codes-locale-tt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tt translations
@@ -3260,8 +3321,8 @@ Recommends: virtual-locale-ug
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 563add52f570cef9f86901209808602a
-SHA256sum: 2871070434484b11682c57b79077a4fbd4d1d68f70fb597837ce3cb9b0a8d4ad
+MD5Sum: 243e171f7c824be503007807b57b98c4
+SHA256sum: 0c59f11b4f361ccb2063deabdc80e344654406d077ecda0634867c19731bc1bf
 Size: 9680
 Filename: iso-codes-locale-ug_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -3278,9 +3339,9 @@ Recommends: virtual-locale-uk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e0c401b5a3e143cf574e5f355167d05d
-SHA256sum: 8530494641e65f1ba864bcc4e4b36bbe54249e70e6d32a9345ed510cba8c3518
-Size: 223380
+MD5Sum: dc10d0f5b0c43ca4d8123ce263d233f2
+SHA256sum: a5e36c79cbfb821e6c3da034dd7a5b949c981f5506c94b44d02e6a3f441cc9a0
+Size: 223312
 Filename: iso-codes-locale-uk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - uk translations
@@ -3296,9 +3357,9 @@ Recommends: virtual-locale-ur
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e658fd39e85a42bcff37ba34d61b574a
-SHA256sum: 63372be7d0049f4d28e794a39919f25832ee57ed4fb4150ee6a297c8a6601cff
-Size: 5178
+MD5Sum: 6537c1bacdbd1078e94585e0526385d1
+SHA256sum: 4472b1428911c96056646f31978cd55c6c1646f382f469669ce6d5a914774638
+Size: 5206
 Filename: iso-codes-locale-ur_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ur translations
@@ -3314,9 +3375,9 @@ Recommends: virtual-locale-uz
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2d15e515ac18d8209186860db6a3c6a2
-SHA256sum: f56a22c49674c1884dccf1b2c9e8a77d51e70feba7f82139588eaf0ace96c734
-Size: 4104
+MD5Sum: fa2fedf7d8c7ad2abb5bfc81fba583ad
+SHA256sum: 155d107fe9b862f4aab4a6a5cf7a2d74fb5c252b1b2e34f740c4e35f6a8eface
+Size: 4086
 Filename: iso-codes-locale-uz_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - uz translations
@@ -3332,9 +3393,9 @@ Recommends: virtual-locale-ve
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 91224b73d024acfe110cae79b8de7a62
-SHA256sum: d2da2e2a73e4961a24db68d7bc26590a9575415e61811dfc11c90c94bee54c06
-Size: 4224
+MD5Sum: 0d8aad36dbbea8c887e5f4e845144456
+SHA256sum: ec93aa255912d54b4fc3e640495652cd3e9b7d4f2042cacb39a0bc47beaf36fb
+Size: 4228
 Filename: iso-codes-locale-ve_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ve translations
@@ -3350,9 +3411,9 @@ Recommends: virtual-locale-vi
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8c02d032a2e22fe84ae9722d7435dc79
-SHA256sum: d39020c66c7190715de9fe6911e16bf07082383505de589035b0fe12cb454ce8
-Size: 65604
+MD5Sum: c483f4355beb148d5b33659d79096474
+SHA256sum: 72927f9e9dbe42f9f50ac3721366bc4bfc973a6b1d874de8a25e642c432a6578
+Size: 65492
 Filename: iso-codes-locale-vi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - vi translations
@@ -3368,8 +3429,8 @@ Recommends: virtual-locale-wa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4912982ac9cc91e76720f05747909a28
-SHA256sum: e080dc8bbcd1876ea2875052aa632f82fdbff462b6611f5b98765d89f145c024
+MD5Sum: 8f8b9e3171b6389702f3caf7bff71119
+SHA256sum: fb3be3149ff15aa061002462cd6539dd7d25512333af2cf765ad57dab45bdb52
 Size: 18184
 Filename: iso-codes-locale-wa_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -3386,9 +3447,9 @@ Recommends: virtual-locale-wal
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6fbface718b23ef8015bf85be17ab2af
-SHA256sum: 876dc82b75afb45facd1a45a59c0b70f39f1ccdacea0eb90cc96d27e374a87d5
-Size: 3282
+MD5Sum: 54d0549f2119378e5d495a5e34d70a6f
+SHA256sum: cada7b175283fdcf91f135020605c4af52c9f83822d3b6c529874c2cd65fbe78
+Size: 3278
 Filename: iso-codes-locale-wal_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wal translations
@@ -3404,9 +3465,9 @@ Recommends: virtual-locale-wo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 38ee07f197314270990f8127e7f1249f
-SHA256sum: 22558cca805fb4114c523a11a0659fccf3cf645d91f16f718fe77ab956596310
-Size: 8012
+MD5Sum: c04ec0d26b5481cdb9d71c3b85b22b21
+SHA256sum: aa4e9805db5147d5c3703bf78849f082c3a544d3ae40fbc15a7de02978b62970
+Size: 8004
 Filename: iso-codes-locale-wo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wo translations
@@ -3422,9 +3483,9 @@ Recommends: virtual-locale-xh
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 95db886b365b18d9d2c4300ded2550b9
-SHA256sum: efad684e4e251c095897f7127a752e57f7e5a419409bed355e1f3ad0181cc45c
-Size: 3040
+MD5Sum: 74e2525cc530f90ce4d4f69540ac3049
+SHA256sum: 611f560d5f838e8fbcd12bbda898c481f5cafd13c5c74bd633f7180596223a97
+Size: 3038
 Filename: iso-codes-locale-xh_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - xh translations
@@ -3440,9 +3501,9 @@ Recommends: virtual-locale-yo
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b0be463d9c5d413540332a8321ba83c
-SHA256sum: aa0e41262fb6e6f4af54cca0a7f9110767c599684015d10618f5b10e843674bc
-Size: 5072
+MD5Sum: f7dc83b9760c5055d59ea1787eadc806
+SHA256sum: f872b40b2502ebfbd886bd1807ac7b463798d1914780256146e43967a46de1c1
+Size: 5080
 Filename: iso-codes-locale-yo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - yo translations
@@ -3458,9 +3519,9 @@ Recommends: virtual-locale-zh-cn
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 498d8016d1863b619ba71e2236bd1f57
-SHA256sum: 9b8b25a4bf5e50b67d273c17fc6cd5959b7b132317ddaae134e0aa949ab7e6f5
-Size: 68408
+MD5Sum: d952be5a0bbf6bfd3cdeb7efbeddd812
+SHA256sum: 8562b66e2279ada260df7797836ff291a50c6da2c5061fbb89f5879c99849496
+Size: 68448
 Filename: iso-codes-locale-zh-cn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_CN translations
@@ -3476,9 +3537,9 @@ Recommends: virtual-locale-zh-hant
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66ed6ea0894e3dfab19bfaeaa8ccba0e
-SHA256sum: d355dffdf4578d5949fe7dbad4b315e47ff703930b011e951c7a3f6d3f76fa89
-Size: 3386
+MD5Sum: 2a9e69d28a3fa65ef11627ad62f81bf4
+SHA256sum: 6234d5e9ac5c0da39c983bbcbe420d350a77ea5b174f1b8d47c0b9b6a5c5922d
+Size: 3384
 Filename: iso-codes-locale-zh-hant_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_Hant translations
@@ -3494,9 +3555,9 @@ Recommends: virtual-locale-zh-hk
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c4ba76479a90610bd01148478837baa0
-SHA256sum: 594e51568ff4ded70c0416f1700dd9742c423d520efe8bc7aaefdfa1b8194f22
-Size: 19072
+MD5Sum: 5f832e4197d1acb158409d184f392cb1
+SHA256sum: 1860163fe0f52c7ffcfb4e66a160e14f641b626f641c82369f17d12c885409d3
+Size: 19080
 Filename: iso-codes-locale-zh-hk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_HK translations
@@ -3512,9 +3573,9 @@ Recommends: virtual-locale-zh-tw
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b72400fd5ebd37968ce8c3ae2243e050
-SHA256sum: deeaf16e8975b673bc3fb68f2909d9fe97d4c33506d07863dc2d29e6a3249f19
-Size: 36644
+MD5Sum: 541c36dfe2fa33b18346c0f4a50b0bcd
+SHA256sum: 99c61c05ff1fb4b4097d0c380e16992eb31320494e9baf9a45ef1d3ef7e4bead
+Size: 36708
 Filename: iso-codes-locale-zh-tw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_TW translations
@@ -3530,8 +3591,8 @@ Recommends: virtual-locale-zu
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bfbfdb8493ae79ceec9cc579d42dbc8c
-SHA256sum: 870f5150e5d85fe5d704e4783e27a23098460f07be173746ec710bcf16975e0c
+MD5Sum: a23c1f397c26a546cce531fc7aa41b72
+SHA256sum: 3e6a2b37b97cadfc949d0f2d630621cf57ae8ea8ccb827217d1d8ee86aa8067b
 Size: 4110
 Filename: iso-codes-locale-zu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -3546,9 +3607,9 @@ Version: 4.5.0-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0c38f37446d333e6889203cc36d2acf0
-SHA256sum: 85a6efe61fa9af851545407133bf166ccbabdff497a0dacd2202dac7c3638040
-Size: 251570
+MD5Sum: 3d009e549301ad387d60f30e83d4fa13
+SHA256sum: 8d8a8e7c80e3547f4fe1f5aca29f43ceea4d1e9d6e95955cea11cf4b3065ed73
+Size: 251562
 Filename: iso-codes_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations
@@ -3562,9 +3623,9 @@ Version: 1.0-r10
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3472e1955b763a9c59fa1299cb3fe66d
-SHA256sum: 25658b418f4935b5a83a2646322c0882a1b3eaba7760c9a2284539207b8e9cd9
-Size: 682
+MD5Sum: 7663b56c3235d9979b44603548336bd6
+SHA256sum: 2d079ac84a223ef4612879b29b50c92057ee8a564a42ebb12e4f9a264590dd1c
+Size: 678
 Filename: run-postinsts-dbg_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Debugging files
@@ -3579,9 +3640,9 @@ Recommends: initscripts-dev, update-rc.d-dev
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 66f334fdc1e18276c706b24876d8d2e8
-SHA256sum: da8ed2ef64c9deb798dcc5e7aebbfe0b779d24d1013028476cb8493ef1c59aa5
-Size: 740
+MD5Sum: 5f5557932535c9fdfe7ca0485aec7671
+SHA256sum: 2832f51035035239df27805519714875f974c49320af9c53b2bd553f1fadbf36
+Size: 738
 Filename: run-postinsts-dev_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Development files
@@ -3595,9 +3656,9 @@ Recommends: update-rc.d
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8d00cca72c48684e6702cfea64cc6baf
-SHA256sum: ac365d2c5fdc5830024d3b4d3222cc1a4a9b894edf1092a53b35574fb6d12902
-Size: 1892
+MD5Sum: 0fd0ae5386297cf99442b7032a7b48e2
+SHA256sum: 0f6730ed0838ba5863065540b878fafb96248f438be5407ebef415ce0e2ba81b
+Size: 1894
 Filename: run-postinsts_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device
@@ -3610,9 +3671,9 @@ Version: 2018102501-r0
 Section: base
 Architecture: all
 Maintainer: OpenPLi team
-MD5Sum: beb132526962f905e5b8fdb4eb5ed18d
-SHA256sum: 04ec09c07c59e187a52c9e140dcb0ff4f6e9944a6c2451fcae55aa13c634b93c
-Size: 5016
+MD5Sum: 60f79b062a89b5c74415bdb25f2c841a
+SHA256sum: b7cf7e188b6bf0c3a41b3724ef6bc101a598c3584b4e04ede624451f76b02970
+Size: 5012
 Filename: settings-autorestore_2018102501-r0_all.ipk
 Source: settings-autorestore.bb
 Description: settings-autorestore version 2018102501-r0
@@ -3626,8 +3687,8 @@ Recommends: update-rc.d
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: f84ffeed5dbfbe83b12644214a406297
-SHA256sum: 94618500bac477f3b4fba9e66977ef5bfd6398089469297331a0fa36274dbebb
+MD5Sum: 7de194d0b21be9c92c012aaa87c4b1c4
+SHA256sum: 64d38b0353e8fa1248af5e650867c7d2b0206abc199373aa9cfef1653115558a
 Size: 980
 Filename: softcam-support_2-r0_all.ipk
 Source: softcam-support.bb
@@ -3641,9 +3702,9 @@ Version: 1.0-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 40e14dceb8c56511a8c5fd7f3d7ecda8
-SHA256sum: f6378dabdd7e47ccc3d208b942f4a59d20efbdaf368ac995d568713bfc5e0578
-Size: 656
+MD5Sum: b4a7843064ec61d2332ea4dc9667b903
+SHA256sum: 4aa051878e28839371694270b32fc7774c603583d7049dfcd5162fa479ad2ef1
+Size: 658
 Filename: tuxbox-common-dbg_1.0-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 1.0-r0 - Debugging files
@@ -3657,8 +3718,8 @@ Depends: tuxbox-common (= 1.0-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 786ee691dc72b718ca9d7a8489d5fe9d
-SHA256sum: aebd660faca5150f50981fbcb44cf09ccfd93775ed0469653a6cfc56fe3b1d1f
+MD5Sum: 85734af9d918f71c4ad3ddeca8d5dae2
+SHA256sum: 7087fb90419bc2df39752ba3ff19d4e6d94b31ea8f4ac223d1b27941cdc96638
 Size: 688
 Filename: tuxbox-common-dev_1.0-r0_all.ipk
 Source: tuxbox-common.bb
@@ -3672,9 +3733,9 @@ Version: 1.0-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3141b364e514abd1a7d52a15f1da3635
-SHA256sum: a933428de299c4fda5b2bd7ff1e98efc04554bc6a016046edb5c7c627f386efc
-Size: 786
+MD5Sum: ce36908ffd272b75f11d36306f1303f1
+SHA256sum: f260d498ed7ab3f70dd8daac788624b660d0487aa0802bb1ccbf45a4eefffaf5
+Size: 782
 Filename: tuxbox-common_1.0-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 1.0-r0
@@ -3688,9 +3749,9 @@ Provides: tzdata-africa
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b18289075e1600a13298dd28b9f5fb04
-SHA256sum: d809fd609d5f863a0bc9f9d43e40d8b99c5255ad4dd8e274b44d54fe5abb0b04
-Size: 5688
+MD5Sum: 33666dd9fc925a554fa65daf51e044ae
+SHA256sum: 7773de05cc7cd56b5e9ec7f7a3ef2314a3aa573d7a3d3148e4b515933a14bebb
+Size: 5676
 Filename: tzdata-africa_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3705,9 +3766,9 @@ Provides: tzdata-americas
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d5ce5ee1d3710c283d588b4b7acf0f0e
-SHA256sum: 529ebdfd0e5d3fd1f21013a34512bcac35d563101a34d18160861e793271d821
-Size: 29480
+MD5Sum: 3bea58ca6078c3aa07471cbd9be87054
+SHA256sum: 30c719d4a16d60ca92fb56f2370ed3b822910cfeb1e9b63bc72965cb5f90cb41
+Size: 29490
 Filename: tzdata-americas_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3722,8 +3783,8 @@ Provides: tzdata-antarctica
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7f7e61053202d61612d7f7040c9a9d2e
-SHA256sum: d668c71ff1da26d2b07b9c5ff9d6698ffaed5e1485ec38cafd98d7631723913e
+MD5Sum: 348c9237bee2ec395948427f71856ee6
+SHA256sum: bb03cd4088d5cc2949b6c44aa18420bc6c61300eeb86dd1108c1c7dcc319979f
 Size: 3880
 Filename: tzdata-antarctica_2020a-r0_all.ipk
 Source: tzdata.bb
@@ -3739,9 +3800,9 @@ Provides: tzdata-arctic
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9105cbfca507c6adabd7c136afd52b0b
-SHA256sum: ec26c2347b8a16db2a05bd39af940c6c82142d6fe5b6d1ee876c4412d590a3b2
-Size: 1684
+MD5Sum: 4cbcfd48f5beca1e98b8a22fe74dec2a
+SHA256sum: 5378a58e98c6070b6a491dea85c6e42aec129985ef694495c0af5125dccaafb4
+Size: 1688
 Filename: tzdata-arctic_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3756,9 +3817,9 @@ Provides: tzdata-asia
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8645c11b099b1d0bb6ed0373c14e8416
-SHA256sum: 273be0b25701cac9a484e848db14b8fe9071431b689032d3d3668cdd363a759c
-Size: 17682
+MD5Sum: 2ac1bc2afca5552499dc9d28f25d606c
+SHA256sum: fd729034b170b9aa872d1926cb7b68ed6132237a2c5e643a7026fa29a57a57b6
+Size: 17708
 Filename: tzdata-asia_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3773,9 +3834,9 @@ Provides: tzdata-atlantic
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d5bd790c148e3c6cd83c954eb07431e8
-SHA256sum: 15fd97e271c65549a20dedc25d7ae2bdd03a1bc4bdcf0532e55e1c9b52fe627f
-Size: 5262
+MD5Sum: 0cc802167d1cc8984e903ba00ce02491
+SHA256sum: be38e639b1f68edb2db1bf29304e04e5fe03658e57e4ce10848d96e192f079a3
+Size: 5270
 Filename: tzdata-atlantic_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3790,8 +3851,8 @@ Provides: tzdata-australia
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4b3dfa488bea82e3a530044bc1e468a3
-SHA256sum: f3e5a915e4c02403fa7b1870ee26a9a4b27347300a924d64b41ba1069690524a
+MD5Sum: fd6b5ed39332cc5b51bbf30fda0bf72c
+SHA256sum: 92b6bc77bdd7cb7846378791eff81dcf3cb58a10575dc8f83382b90f61dcbdc7
 Size: 4114
 Filename: tzdata-australia_2020a-r0_all.ipk
 Source: tzdata.bb
@@ -3806,9 +3867,9 @@ Version: 2020a-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd38203dec89a13835194ef7f95966a7
-SHA256sum: bde40fe03fb47c4ac5ac0a92cae460829835c9da8b0812b1184d0ea50902f345
-Size: 27862
+MD5Sum: 60d7f3140ea6b398f6581419e13be529
+SHA256sum: 291eb72cc642569b14d19f03cd1a73e847f9f179f053bc0eac0ac25cdeca4018
+Size: 27828
 Filename: tzdata-core_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3823,9 +3884,9 @@ Provides: tzdata-europe
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 949cfca7b51202f50f7290a5eb0623a7
-SHA256sum: b8a5af53be09618b0fc5180479c9e52d5bc407101480e304569bd2c567331db8
-Size: 12488
+MD5Sum: 6b62ee3c5b45f0dde16f833c38fa7cd6
+SHA256sum: 8d53a33ef9d326823707b555e086b5aa0914e9a592f63afffb9b1ca060319b93
+Size: 12482
 Filename: tzdata-europe_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3840,9 +3901,9 @@ Provides: tzdata-misc
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 001eed684b06330b687bf73ce5d403df
-SHA256sum: fa24dc0e0b9c4529a43a502e42383dd23b485b5de2f1433dba4e31357dae0918
-Size: 10394
+MD5Sum: 1b836e52e6e6aef5298bcf4e6f0f690b
+SHA256sum: ea9a6dbcdcf41058c2ab572192c385121edaf7f4a2f43b5216b37fef1bc87969
+Size: 10406
 Filename: tzdata-misc_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3857,9 +3918,9 @@ Provides: tzdata-pacific
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a73cbe74e681ed6e3d5f4bf9bca7ce8f
-SHA256sum: d7ce6fa537c04f45391fac4d6d6e7f3be12ef2e51fc6e411da5833456736f53a
-Size: 6314
+MD5Sum: 161b3b14e91a46476c1d78934f68e6d5
+SHA256sum: 0937ebd7795cedf7c7b730b7d73812daff6bf0d872ee76ba3c05c11098c8fd8f
+Size: 6316
 Filename: tzdata-pacific_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3874,9 +3935,9 @@ Provides: tzdata-posix
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c1cdd97c5dc7335939ce67ada4827015
-SHA256sum: 5fe3973f46346f68c15014296556f7d0c89a8a0bf78bc4fcb7354e77aa8ee640
-Size: 72744
+MD5Sum: 95788fde06f849ca428dcdc4d86b9ba5
+SHA256sum: 66c46ae134c84d903ed4d1cd1fc9d752430d8a39af45ab1100e127c980474e83
+Size: 72776
 Filename: tzdata-posix_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3891,9 +3952,9 @@ Provides: tzdata-right
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f4321062d8891d7ecb0edf12066a76e9
-SHA256sum: e36ebab0d0a44eaa5cedb8753cbbe8ec20a77680ca7023cba13ea1ef783299c5
-Size: 69840
+MD5Sum: 2c35d240ccede8d0a5ee8d3453772c92
+SHA256sum: 8f84a96f64e899de7c63d6bdc5ef0302dd44bb9ce1aea9e4481cc6e45e6d54b4
+Size: 69868
 Filename: tzdata-right_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3909,8 +3970,8 @@ Conflicts: timezone-africa, timezone-america, timezone-antarctica, timezone-arct
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5400f9d6126900d632b09355da001b99
-SHA256sum: a3b2c9065af17b60f0beae79edfc30433d887a502b3029bd328f16d1c077be4b
+MD5Sum: 94749aefcd7f977eaa1110e415353869
+SHA256sum: 1b9369ef61144b9982dd72b4de981fd846a3c362f28c4ebfebc2f445eec74106
 Size: 1142
 Filename: tzdata_2020a-r0_all.ipk
 Source: tzdata.bb
@@ -3925,8 +3986,8 @@ Version: 0.8-r0
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7ea22d15c2b327feaae5f39d1ce84783
-SHA256sum: 298671273f08a7c1b40308de8ac8404234a60c355cab5fdc98a50006161e005f
+MD5Sum: b25dba3d1736fc973007ba981c7ef79d
+SHA256sum: 4866a24be34c3b1ef634b2f69208bd6f38c1c1267230e96152aa55b2dd753402
 Size: 754
 Filename: update-rc.d-dbg_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
@@ -3942,8 +4003,8 @@ Depends: update-rc.d (= 0.8-r0)
 Section: devel
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 24782a912edc1eab6f83b830b9541172
-SHA256sum: e0b2b0f6a35d30510a83cfd6e9c7fe0f3ba81ad94a2df96bff56868427b2d0a0
+MD5Sum: 7cbfd73d33c80d5d0f81e2a75d91ac99
+SHA256sum: e20ddbb3078ebbd02d4c6f876fd07f556c1e2acdb4cf04f244fd7f9f997783a6
 Size: 780
 Filename: update-rc.d-dev_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
@@ -3958,9 +4019,9 @@ Version: 0.8-r0
 Section: base
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4e1f933a1814d9ee15f54c9cc14058d3
-SHA256sum: 9b8622c43356a7005dc6ab94b93db19c331e77b68975dc97e71496fa8f4227c0
-Size: 3022
+MD5Sum: c911240761839652643022053fba1010
+SHA256sum: 255dd4c8d784db302fc9b21ba34f7909df717b111f4557a2129ec782d11c6aa1
+Size: 3018
 Filename: update-rc.d_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d
@@ -3974,9 +4035,9 @@ Version: 2-r0
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 253564385747a4f71fcee948c3ba8659
-SHA256sum: 775726d874837af7ff47992b6d59695023bd3e46ad6153062523347bf938bd6c
-Size: 942
+MD5Sum: 2d2a5499f47bc6da1c9ca1e138f683eb
+SHA256sum: 59829181aea4ec929bb097a842f02fa99e656b33b107c571f01f699a55ffa806
+Size: 938
 Filename: volatile-media_2-r0_all.ipk
 Source: volatile-media.bb
 Description: volatile-media version 2-r0
@@ -3984,49 +4045,16 @@ OE: volatile-media
 License: GPLv2+
 Priority: optional
 
-Package: wireless-regdb-dbg
-Version: 2018.10.24-r0
-Section: devel
-Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c99caf12a006cc2b5ca5a89317c54a98
-SHA256sum: 269ab8a807f75356acfb5a3dd0ea16cde3e7efa70f4220648b7c181306add0f0
-Size: 720
-Filename: wireless-regdb-dbg_2018.10.24-r0_all.ipk
-Source: wireless-regdb_2018.10.24.bb
-Description: Wireless Central Regulatory Domain Database - Debugging files
-OE: wireless-regdb
-HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
-License: ISC
-Priority: optional
-
-Package: wireless-regdb-dev
-Version: 2018.10.24-r0
-Depends: wireless-regdb (= 2018.10.24-r0)
-Section: devel
-Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1030e88639b7eee71dca58e8d01e0a09
-SHA256sum: c2dd82da31881695df23ac6d53305b3652ad4a357e7949171311eda882301b95
-Size: 750
-Filename: wireless-regdb-dev_2018.10.24-r0_all.ipk
-Source: wireless-regdb_2018.10.24.bb
-Description: Wireless Central Regulatory Domain Database - Development files
-OE: wireless-regdb
-HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
-License: ISC
-Priority: optional
-
 Package: wireless-regdb-static
-Version: 2018.10.24-r0
+Version: 2020.04.29-r0
 Section: net
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e4c83679fe2bb3d5f2dd6f1e570a19fa
-SHA256sum: 1a065538f397d309d07521206c7273d6a1780f2124a69d529284e287e75b8a4f
-Size: 3384
-Filename: wireless-regdb-static_2018.10.24-r0_all.ipk
-Source: wireless-regdb_2018.10.24.bb
+MD5Sum: aa493ff9452d74a43ba11b4febfed81f
+SHA256sum: 41188bc792ee4f30f5ab1dcaf1806d3f1982038b4592d50faac22906b4fcab58
+Size: 3254
+Filename: wireless-regdb-static_2020.04.29-r0_all.ipk
+Source: wireless-regdb_2020.04.29.bb
 Description: Wireless Central Regulatory Domain Database
 OE: wireless-regdb
 HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
@@ -4034,20 +4062,66 @@ License: ISC
 Priority: optional
 
 Package: wireless-regdb
-Version: 2018.10.24-r0
+Version: 2020.04.29-r0
 Conflicts: wireless-regdb-static
 Suggests: crda
 Section: net
 Architecture: all
 Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 10a92116a862a3d9acab4a7f38e37d1b
-SHA256sum: 5dd294cc204c268d3a9c22c0592fc39deca489a8887e8cf25a9c26c421a2f2eb
-Size: 3266
-Filename: wireless-regdb_2018.10.24-r0_all.ipk
-Source: wireless-regdb_2018.10.24.bb
+MD5Sum: fc99c2ef8a69b22775c1ac72243f9b97
+SHA256sum: 160d12eeb1c752b84b588cce657e0d9c78eb65ce92c839bf927c8b6dd20d3467
+Size: 3150
+Filename: wireless-regdb_2020.04.29-r0_all.ipk
+Source: wireless-regdb_2020.04.29.bb
 Description: Wireless Central Regulatory Domain Database
 OE: wireless-regdb
 HomePage: http://wireless.kernel.org/en/developers/Regulatory/CRDA
 License: ISC
+Priority: optional
+
+Package: youtube-key-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: all
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: 052d719a9f1f644f0c96bbb8cd149437
+SHA256sum: 6afcc1c0c2fa8d142708406731eb59ab494ae14ba4aaf7eed32601fb075ae24d
+Size: 670
+Filename: youtube-key-dbg_1.0-r0_all.ipk
+Source: youtube-key.bb
+Description: youtube-key version 1.0-r0 - Debugging files
+OE: youtube-key
+License: CLOSED
+Priority: optional
+
+Package: youtube-key-dev
+Version: 1.0-r0
+Depends: youtube-key (= 1.0-r0)
+Section: devel
+Architecture: all
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: e931551fad19a763d3564e3e68f1af05
+SHA256sum: da4a366613a172058e3a443e3efeffa27f36df8a4ad66004fe4808e24f6d5218
+Size: 702
+Filename: youtube-key-dev_1.0-r0_all.ipk
+Source: youtube-key.bb
+Description: youtube-key version 1.0-r0 - Development files
+OE: youtube-key
+License: CLOSED
+Priority: optional
+
+Package: youtube-key
+Version: 1.0-r0
+Section: base
+Architecture: all
+Maintainer: Open Vision developers <forum.openvision.tech>
+MD5Sum: b4071bb4734ef37ecf172243221b4e54
+SHA256sum: 7de75049ce60c954a183c1c509c0626e590f9bb5e54a4e74dfb655536da69f2e
+Size: 966
+Filename: youtube-key_1.0-r0_all.ipk
+Source: youtube-key.bb
+Description: youtube-key version 1.0-r0
+OE: youtube-key
+License: CLOSED
 Priority: optional
 
