@@ -2,10 +2,10 @@ Package: alsa-topology-conf
 Version: 1.2.3-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 764863fa3a64eff085d05326e52a992c
-SHA256sum: a19c2fd98a8b56a4f5420b78a488fc41738073980b50ae71bd18e6e4d6aa7c83
-Size: 10912
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 27b0bbace42fa496726ea97c2236dc40
+SHA256sum: d0dd53f1bde85fd947e8ecbe0eead6233258516b08ae7c9be20316de301ec179
+Size: 10936
 Filename: alsa-topology-conf_1.2.3-r0_all.ipk
 Source: alsa-topology-conf_1.2.3.bb
 Description: ALSA topology configuration files
@@ -18,10 +18,10 @@ Package: alsa-ucm-conf
 Version: 1.2.3-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 39504356b5448c490e7458f0ed99f48b
-SHA256sum: 9565f8c85e64251d2b32a5f6a7b994686ddb105ee9deb6466d5054df8e92f299
-Size: 18336
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fa957e18185e654d6a1e53918a0c1594
+SHA256sum: 147d1fa907bb89ef72ea640848a0147fcdac7a284bca9fe65db4d2fe3d965572
+Size: 18328
 Filename: alsa-ucm-conf_1.2.3-r0_all.ipk
 Source: alsa-ucm-conf_1.2.3.bb
 Description: ALSA Use Case Manager configuration
@@ -34,10 +34,10 @@ Package: autoconf-archive-doc
 Version: 2019.01.06-r0
 Section: doc
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b021aad3f8fc71018183ed245ed9902a
-SHA256sum: 8a9de099c48a9a6213d88fe21596663711e58df4d65c2b4e98335bacbcc759c1
-Size: 16552
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2b4fa422da41207e207febe672d53d28
+SHA256sum: 2352cd8ba3883b40aa5f64a4f68b70390def4b9c59618809443308958e6f0950
+Size: 16566
 Filename: autoconf-archive-doc_2019.01.06-r0_all.ipk
 Source: autoconf-archive_2019.01.06.bb
 Description: a collection of freely re-usable Autoconf macros - Documentation files
@@ -50,10 +50,10 @@ Package: autoconf-archive
 Version: 2019.01.06-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 86e70d20bf5b41115918e52c222dd70c
-SHA256sum: f8f9ab149cadd95c714f3d32eade2cbe4023bddc132c71978b9213f38816705c
-Size: 307790
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b23a9bfa5931bdc6b35ac65782f540ea
+SHA256sum: 1ad9701095800da5677644d845fa9ac25910cfc8c1a6a9c3d73a771a24432f33
+Size: 307782
 Filename: autoconf-archive_2019.01.06-r0_all.ipk
 Source: autoconf-archive_2019.01.06.bb
 Description: a collection of freely re-usable Autoconf macros
@@ -66,10 +66,10 @@ Package: ca-certificates-dbg
 Version: 20200601-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6b68ed117e839bcc9598608c26d87008
-SHA256sum: e47c815d1496feb26c319f22293dfdf564eff07b61a23705558f680a70c4fa23
-Size: 792
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3e93bfc5d2a226ebea7a7fcdc6dd82d9
+SHA256sum: aa0590ffbf44cc38d41cd1de0be855628a51ffa06b923c8c0777116bcc7d4d23
+Size: 796
 Filename: ca-certificates-dbg_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates - Debugging files
@@ -84,10 +84,10 @@ Depends: ca-certificates (= 20200601-r0)
 Recommends: openssl-bin-dev
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d60a8fab48874f70401f5f1f94510f05
-SHA256sum: 94d064cff2960fd86df4f0b496358a0a132f3046459bc3f7c0ac06d02969ed5d
-Size: 838
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4cb1bba23ed567ca4a30e6a2effc388f
+SHA256sum: 5448e7543c3d9e2402acfae6e945bb7d47053d96bc391ed76523cf6cfe6f0b3f
+Size: 842
 Filename: ca-certificates-dev_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates - Development files
@@ -100,10 +100,10 @@ Package: ca-certificates-doc
 Version: 20200601-r0
 Section: doc
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b1e0c77154bfe0e35fee2c616994ed24
-SHA256sum: ad4e5521e48093fd853851d364def5cc7a9af8b2e0acf62c6298e7e691b05a39
-Size: 2086
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7a7f1aa9e5410609c3684fc8c30d75ad
+SHA256sum: a0a621909684ed311f74a3368d473e8182b6de462d3beca0b7adba3d4aa74111
+Size: 2090
 Filename: ca-certificates-doc_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates - Documentation files
@@ -117,10 +117,10 @@ Version: 20200601-r0
 Depends: openssl-bin
 Section: misc
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a5ef0ea7de7038f4747fa1a847afc654
-SHA256sum: cfe6ee960e054e709351faf9ecb9dfa2216883882822cb5137cd0d142c5e7b07
-Size: 118406
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bd78e95db8432e2a88425f27d7716d56
+SHA256sum: 85fbecf1936265e277e2b815a96a5f1e31bdd78fdec606d91848f66e97ffe4b7
+Size: 118424
 Filename: ca-certificates_20200601-r0_all.ipk
 Source: ca-certificates_20200601.bb
 Description: Common CA certificates
@@ -129,79 +129,16 @@ HomePage: http://packages.debian.org/sid/ca-certificates
 License: GPL-2.0+ & MPL-2.0
 Priority: optional
 
-Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: git3575+4590e76-r0
-Section: devel
-Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b51007a433b9b828f307307660ae04c
-SHA256sum: f4afc8e97da4bf83f47e2dc817b64fd1275edab2c4bf92dd539439645eedb364
-Size: 678
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_git3575+4590e76-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2 - Debugging files
-OE: enigma2-plugin-extensions-e2iplayer
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: git3575+4590e76-r0
-Depends: enigma2-plugin-extensions-e2iplayer (= git3575+4590e76-r0)
-Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, iptvsubparser-dev, lsdir-dev, python-compression-dev, python-core-dev, python-dev, python-e2icjson-dev, python-html-dev, python-json-dev, python-pycurl-dev, python-shell-dev, python-subprocess-dev, python-textutils-dev, rtmpdump-dev, uchardet-dev, wget-dev
-Section: devel
-Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fa52f4c863f4aa70ded38eb4f952415f
-SHA256sum: 50efb39e429041ecf75a1ad8bbe9685b79296b9e0933806e8565e622385d488f
-Size: 860
-Filename: enigma2-plugin-extensions-e2iplayer-dev_git3575+4590e76-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2 - Development files
-OE: enigma2-plugin-extensions-e2iplayer
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-extensions-e2iplayer-src
-Version: git3575+4590e76-r0
-Section: devel
-Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 896568816fd2d2c1dbc22293413ee012
-SHA256sum: 21bd7315cf546a99d8aa1a3dee9c1b421c00c5ffb7497a847dcbf342d57a28f8
-Size: 836842
-Filename: enigma2-plugin-extensions-e2iplayer-src_git3575+4590e76-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2 - Source files
-OE: enigma2-plugin-extensions-e2iplayer
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-extensions-e2iplayer
-Version: git3575+4590e76-r0
-Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, iptvsubparser, lsdir, python-compression, python-core, python-e2icjson, python-html, python-json, python-pycurl, python-shell, python-subprocess, python-textutils, rtmpdump, uchardet, wget
-Section: multimedia
-Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 42e0fec643e8fe8afd0f70a6a167ab56
-SHA256sum: 3c5751719b223b51714c448c1271cc91bffd8d3433d51e3f2580f4657e7ae156
-Size: 5802496
-Filename: enigma2-plugin-extensions-e2iplayer_git3575+4590e76-r0_all.ipk
-Source: enigma2-plugin-extensions-e2iplayer.bb
-Description: E2i Player for E2
-OE: enigma2-plugin-extensions-e2iplayer
-License: GPLv3
-Priority: optional
-
 Package: enigma2-plugin-extensions-epgimport-rytec
 Version: 20200504-r0
 Replaces: enigma2-plugin-extensions-xmltvimport-rytec
 Conflicts: enigma2-plugin-extensions-xmltvimport-rytec
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c6f31e0f76a4f2816c2a76cb52d3d381
-SHA256sum: dd11be06346e11283e83c40318c34f6dc3325f85a2dc7c11536edc3f16c0a329
-Size: 4226
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 34216a791bb8b88e0a7702a5252c7470
+SHA256sum: 96bebe7666715c341badcd479e889b31e55a95c8b4c71875d73524ad18123a76
+Size: 4238
 Filename: enigma2-plugin-extensions-epgimport-rytec_20200504-r0_all.ipk
 Source: enigma2-plugin-extensions-epgimport-rytec.bb
 Description: enigma2-plugin-extensions-epgimport-rytec version 20200504-r0
@@ -209,14 +146,244 @@ OE: enigma2-plugin-extensions-epgimport-rytec
 License: GPLv2+
 Priority: optional
 
+Package: enigma2-plugin-fonts-analog-dbg
+Version: git6+fc7065c-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7cb837aaba2edee059161998c73ede31
+SHA256sum: 8ff327fdd2e588201de1309fe45c87487cf988bf0ebae7a3aaa58e6f39117a68
+Size: 682
+Filename: enigma2-plugin-fonts-analog-dbg_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-analog.bb
+Description: Enigma2 font analog - Debugging files
+OE: enigma2-plugin-fonts-analog
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-analog-dev
+Version: git6+fc7065c-r0
+Depends: enigma2-plugin-fonts-analog (= git6+fc7065c-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8bc0b94f08c97f9c550211561d4a9625
+SHA256sum: 3c9838c2dffd86778ca1444e4afa6d831ce2ddb87e6c7761320ae21ec9d68c90
+Size: 714
+Filename: enigma2-plugin-fonts-analog-dev_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-analog.bb
+Description: Enigma2 font analog - Development files
+OE: enigma2-plugin-fonts-analog
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-analog
+Version: git6+fc7065c-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 06337b3766669ec9cd159450e13b56ca
+SHA256sum: cd689bbd02b6dd3c0118e270601ddffe1b7cf9af10976ac751bd3647d4372184
+Size: 19480
+Filename: enigma2-plugin-fonts-analog_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-analog.bb
+Description: Enigma2 font analog
+OE: enigma2-plugin-fonts-analog
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-digi-dbg
+Version: git6+fc7065c-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f3d57764e873844ba320c8ed6bc0de6e
+SHA256sum: fb4a46a64785e6ecfc7cb990f592ae9dc0404cb703eb6de27d5cd738d0bebd3f
+Size: 680
+Filename: enigma2-plugin-fonts-digi-dbg_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-digi.bb
+Description: Enigma2 font digi - Debugging files
+OE: enigma2-plugin-fonts-digi
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-digi-dev
+Version: git6+fc7065c-r0
+Depends: enigma2-plugin-fonts-digi (= git6+fc7065c-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8761b9cab5cd55d83287662f20daf062
+SHA256sum: f338d1445d079a24d5a93a2157d89518417f31ba2fbe584560eb1808d6ddf2f9
+Size: 712
+Filename: enigma2-plugin-fonts-digi-dev_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-digi.bb
+Description: Enigma2 font digi - Development files
+OE: enigma2-plugin-fonts-digi
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-digi
+Version: git6+fc7065c-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8688aa6217635ae9d547df688162d050
+SHA256sum: a707bd7e6c1a45db3daefb7c3b36001fd5b3aa040391eb69f1f4c7c33b2c5466
+Size: 2842
+Filename: enigma2-plugin-fonts-digi_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-digi.bb
+Description: Enigma2 font digi
+OE: enigma2-plugin-fonts-digi
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-droidsans-dbg
+Version: git6+fc7065c-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: daa6461d1cce8fbba2dcc4d4419699d7
+SHA256sum: 5c0f8f9f917c5aea3edaea7b1ff8420ba9b6f25d737c64b0775c326e90b9484b
+Size: 684
+Filename: enigma2-plugin-fonts-droidsans-dbg_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-droidsans.bb
+Description: Enigma2 font droidsans - Debugging files
+OE: enigma2-plugin-fonts-droidsans
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-droidsans-dev
+Version: git6+fc7065c-r0
+Depends: enigma2-plugin-fonts-droidsans (= git6+fc7065c-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 897d2388c763cab0da6358f801fa8137
+SHA256sum: 25e82362ff6f2d4863a62bede573115621f0389b4afe3095c0ece77fc6716312
+Size: 716
+Filename: enigma2-plugin-fonts-droidsans-dev_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-droidsans.bb
+Description: Enigma2 font droidsans - Development files
+OE: enigma2-plugin-fonts-droidsans
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-droidsans
+Version: git6+fc7065c-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 087a7649f56d4e80ab1dd2bef675494e
+SHA256sum: a6d95b1a2616cfbe1aad13826ffcf7ae467b5df36b6efd17c3d10ed6750c1240
+Size: 83902
+Filename: enigma2-plugin-fonts-droidsans_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-droidsans.bb
+Description: Enigma2 font droidsans
+OE: enigma2-plugin-fonts-droidsans
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-handelgotd-dbg
+Version: git6+fc7065c-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0edbc066482bbb1d6b3f73472d4938d8
+SHA256sum: 66d506b4d82902a22bf1f4931a88cf262357566379836285baa4e54434b6d01c
+Size: 686
+Filename: enigma2-plugin-fonts-handelgotd-dbg_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-handelgotd.bb
+Description: Enigma2 font handelgotd - Debugging files
+OE: enigma2-plugin-fonts-handelgotd
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-handelgotd-dev
+Version: git6+fc7065c-r0
+Depends: enigma2-plugin-fonts-handelgotd (= git6+fc7065c-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 426cddbf8336e9fdbed65b725977597d
+SHA256sum: dd8c4c9269638840a3598e9161ba036312bbb7a6b240e4b661189695775fa52a
+Size: 716
+Filename: enigma2-plugin-fonts-handelgotd-dev_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-handelgotd.bb
+Description: Enigma2 font handelgotd - Development files
+OE: enigma2-plugin-fonts-handelgotd
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-handelgotd
+Version: git6+fc7065c-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: baed2933e02300cfb465ae718404a831
+SHA256sum: c533e2cdc1f542b091394bfb38199e6ae63f8ab69ccf81fbc730c200bf993094
+Size: 34692
+Filename: enigma2-plugin-fonts-handelgotd_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-handelgotd.bb
+Description: Enigma2 font handelgotd
+OE: enigma2-plugin-fonts-handelgotd
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-meteocons-dbg
+Version: git6+fc7065c-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7f381046e08cd00cccfca03215a3a727
+SHA256sum: 5822ffc47f2c981dc3e57713564e56b030533de030398442b54f24a26eaf8932
+Size: 684
+Filename: enigma2-plugin-fonts-meteocons-dbg_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-meteocons.bb
+Description: Enigma2 font meteocons - Debugging files
+OE: enigma2-plugin-fonts-meteocons
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-meteocons-dev
+Version: git6+fc7065c-r0
+Depends: enigma2-plugin-fonts-meteocons (= git6+fc7065c-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7cfc719edcf3af31277fd928f98b1397
+SHA256sum: a16ce245abb1d6bf1b05cabd70ea6dc2f867f48444a5287d363947372a963504
+Size: 716
+Filename: enigma2-plugin-fonts-meteocons-dev_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-meteocons.bb
+Description: Enigma2 font meteocons - Development files
+OE: enigma2-plugin-fonts-meteocons
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-meteocons
+Version: git6+fc7065c-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f27cc43b6e6f88102ec48b832befa325
+SHA256sum: f780b479f386a6b9428a922f3da5be935f31a90c808e292146d74e5a5499e5ec
+Size: 11090
+Filename: enigma2-plugin-fonts-meteocons_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-meteocons.bb
+Description: Enigma2 font meteocons
+OE: enigma2-plugin-fonts-meteocons
+License: GPLv2+
+Priority: required
+
 Package: enigma2-plugin-fonts-opensans-dbg
 Version: git6+fc7065c-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5a67477753493fd747e3acb44f9b60e5
-SHA256sum: 6009b6791f583e84f455559076bc30d48423c147276f3967d4050be88dcfcf3e
-Size: 672
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1f1d520321f45e01a0b5594df83b317c
+SHA256sum: 5418a3b8e7990f40d34da515b8f8136e35b8a429f384d38780775deb88d03665
+Size: 686
 Filename: enigma2-plugin-fonts-opensans-dbg_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans - Debugging files
@@ -229,10 +396,10 @@ Version: git6+fc7065c-r0
 Depends: enigma2-plugin-fonts-opensans (= git6+fc7065c-r0)
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 25115bb09af18855c4782425817b71ef
-SHA256sum: fc68b6e088e2b432daafe1cc1f61273d223198db00476ac94240c7f542c555c4
-Size: 708
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e1c133c481effa432e49a078b130ea93
+SHA256sum: 62babda102a466d7291f0e6e05c881b473eceaad96ee81e26b8955c1d0d6b374
+Size: 716
 Filename: enigma2-plugin-fonts-opensans-dev_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans - Development files
@@ -244,10 +411,10 @@ Package: enigma2-plugin-fonts-opensans
 Version: git6+fc7065c-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0d8aa71be0e532d37cc3946b54afe3b8
-SHA256sum: cd10e1c807c910e88db07c103dc71d6a1cd9eaa5a0a7224fd53fe13321df3106
-Size: 112992
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3657c094770416ac9ae5950bf6ed0617
+SHA256sum: 2301d9e15e3e73b77dc563c98061303132c61e32062153b5a1bb33d21b27d4ae
+Size: 113588
 Filename: enigma2-plugin-fonts-opensans_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-opensans.bb
 Description: Enigma2 font opensans
@@ -255,14 +422,60 @@ OE: enigma2-plugin-fonts-opensans
 License: GPLv2+
 Priority: required
 
+Package: enigma2-plugin-fonts-raleway-dbg
+Version: git6+fc7065c-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: fd3530067174f0dc84ea4914820ee62b
+SHA256sum: 82fce70874324bd7db408f366252b5c660fe40670c96c843f43ba29d9bb43990
+Size: 686
+Filename: enigma2-plugin-fonts-raleway-dbg_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-raleway.bb
+Description: Enigma2 font raleway - Debugging files
+OE: enigma2-plugin-fonts-raleway
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-raleway-dev
+Version: git6+fc7065c-r0
+Depends: enigma2-plugin-fonts-raleway (= git6+fc7065c-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 68b0e006df0b9e2505fe9784f3873982
+SHA256sum: ee7f0b37086eb6053f9868fc14a470d171353fe1ca95642da871b339f25f0631
+Size: 714
+Filename: enigma2-plugin-fonts-raleway-dev_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-raleway.bb
+Description: Enigma2 font raleway - Development files
+OE: enigma2-plugin-fonts-raleway
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-fonts-raleway
+Version: git6+fc7065c-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8526551337068284e9194e1627ee79b4
+SHA256sum: 9f8b1acb89aa40af6f2c83d3d1f708f16d45457af2fa64a1e59815e3f3d86a30
+Size: 67638
+Filename: enigma2-plugin-fonts-raleway_git6+fc7065c-r0_all.ipk
+Source: enigma2-plugin-fonts-raleway.bb
+Description: Enigma2 font raleway
+OE: enigma2-plugin-fonts-raleway
+License: GPLv2+
+Priority: required
+
 Package: enigma2-plugin-fonts-segoe-dbg
 Version: git6+fc7065c-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c3daf711076ffe2ece188928e6edfae8
-SHA256sum: 7c60d787b6ba52cdc864699cdfe85f3433800f28b8eca0b9b92d1027901d5e35
-Size: 672
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 752c6c4b1001c04989a7acbfcb0aa77a
+SHA256sum: a847e33f24ef09a31ff01fb3f8654d55f66480d94e7bc5b97e3ba9997e8e5be1
+Size: 682
 Filename: enigma2-plugin-fonts-segoe-dbg_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
 Description: Enigma2 font segoe - Debugging files
@@ -275,10 +488,10 @@ Version: git6+fc7065c-r0
 Depends: enigma2-plugin-fonts-segoe (= git6+fc7065c-r0)
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 40c30400fd0d8f41b0cc0a416fdcb13c
-SHA256sum: ea1e65212989e3e6f35300080121454fc86b518d4bde74a9b0acf5c380aa1b29
-Size: 706
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 770890d93dd497fd2b9d6fc984b134f6
+SHA256sum: 1c6640457942f483ad847dbe43932f34042699197e94eb44c3406003686709d3
+Size: 712
 Filename: enigma2-plugin-fonts-segoe-dev_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
 Description: Enigma2 font segoe - Development files
@@ -290,10 +503,10 @@ Package: enigma2-plugin-fonts-segoe
 Version: git6+fc7065c-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 057b007c7747937d8fd4287c92a22b3b
-SHA256sum: 9b1137904b3a67f4e359adc14e474a601f06b2d2052746d82e14d377fb75c24a
-Size: 581964
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a4aac82c03534eeb8b979be5cb37f16f
+SHA256sum: 4eaf8177297573446df462db3fa0f308b0824b4ba058dd1256c22065f6cfd813
+Size: 582246
 Filename: enigma2-plugin-fonts-segoe_git6+fc7065c-r0_all.ipk
 Source: enigma2-plugin-fonts-segoe.bb
 Description: Enigma2 font segoe
@@ -307,9 +520,9 @@ Depends: font-valis-enigma
 Section: base
 Architecture: all
 Maintainer: Mike Looijmans
-MD5Sum: 024d6cdd44d9dc5bec20c1863127dd76
-SHA256sum: 514ad51074b948ad86fb194ec75dc0c8f70322cf562d82a3574da5879279ff30
-Size: 117114
+MD5Sum: 422a062e2b352be79ea15209dc59aa6b
+SHA256sum: f15e537046479247edee35cec649e82907355171976d11abc166c137164ee423
+Size: 117086
 Filename: enigma2-plugin-skins-magic_1.2+git331+8b5fb84-r0_all.ipk
 Source: enigma2-plugin-skins-magic.bb
 Description: enigma2-plugin-skins-magic version 1.2+gitAUTOINC+8b5fb84750-r0
@@ -317,15 +530,78 @@ OE: enigma2-plugin-skins-magic
 License: GPLv2+
 Priority: optional
 
-Package: enigma2-plugin-skins-octetfhd-dbg
-Version: git48+f711a31-r0
+Package: enigma2-plugin-skins-metrix-vision-dbg
+Version: 2.2+git2028+05a5607-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 75cd1496750c80f388bdaaaf14da900c
-SHA256sum: 0c2f0304250eaff65c5ba0491738f260ec4a4f2009fcb3b7fc8f7103d5890c2f
-Size: 680
-Filename: enigma2-plugin-skins-octetfhd-dbg_git48+f711a31-r0_all.ipk
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4af0c6e0578d185b0f3442f71afdd5b7
+SHA256sum: aa071778c49e7b1bd23d74d5ddf5887f080046f153d5768989bcc638d4a59b0a
+Size: 700
+Filename: enigma2-plugin-skins-metrix-vision-dbg_2.2+git2028+05a5607-r0_all.ipk
+Source: enigma2-plugin-skins-metrix-vision.bb
+Description: Enigma2 Skin MetrixHD - Debugging files
+OE: enigma2-plugin-skins-metrix-vision
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-skins-metrix-vision-dev
+Version: 2.2+git2028+05a5607-r0
+Depends: enigma2-plugin-skins-metrix-vision (= 2.2+git2028+05a5607-r0)
+Recommends: enigma2-plugin-fonts-analog-dev, enigma2-plugin-fonts-digi-dev, enigma2-plugin-fonts-droidsans-dev, enigma2-plugin-fonts-handelgotd-dev, enigma2-plugin-fonts-meteocons-dev, enigma2-plugin-fonts-opensans-dev, enigma2-plugin-fonts-raleway-dev, enigma2-plugin-fonts-segoe-dev
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 545b25a2331914846eefc67cdfa30825
+SHA256sum: 375fb0a66f32594a0f7f67de1fe233ee866cf605bd8b5e7f024fe594cb655ffb
+Size: 796
+Filename: enigma2-plugin-skins-metrix-vision-dev_2.2+git2028+05a5607-r0_all.ipk
+Source: enigma2-plugin-skins-metrix-vision.bb
+Description: Enigma2 Skin MetrixHD - Development files
+OE: enigma2-plugin-skins-metrix-vision
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-skins-metrix-vision-src
+Version: 2.2+git2028+05a5607-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 584e0a5e5d37d542a5c7e65c6f3f3a9c
+SHA256sum: a28271c27634fd1bd14ccaa8c7f8b6327a1598728df81513823aca5423e795f4
+Size: 67452
+Filename: enigma2-plugin-skins-metrix-vision-src_2.2+git2028+05a5607-r0_all.ipk
+Source: enigma2-plugin-skins-metrix-vision.bb
+Description: Enigma2 Skin MetrixHD - Source files
+OE: enigma2-plugin-skins-metrix-vision
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-skins-metrix-vision
+Version: 2.2+git2028+05a5607-r0
+Depends: enigma2-plugin-fonts-analog, enigma2-plugin-fonts-digi, enigma2-plugin-fonts-droidsans, enigma2-plugin-fonts-handelgotd, enigma2-plugin-fonts-meteocons, enigma2-plugin-fonts-opensans, enigma2-plugin-fonts-raleway, enigma2-plugin-fonts-segoe
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 088e17b1344774bceb61d5965867fa22
+SHA256sum: e8142f702b7aa973a73cfac6c315d37eb576238a84dc1dcefe9948982d003dde
+Size: 28639718
+Filename: enigma2-plugin-skins-metrix-vision_2.2+git2028+05a5607-r0_all.ipk
+Source: enigma2-plugin-skins-metrix-vision.bb
+Description: Enigma2 Skin MetrixHD
+OE: enigma2-plugin-skins-metrix-vision
+License: GPLv2+
+Priority: required
+
+Package: enigma2-plugin-skins-octetfhd-dbg
+Version: git63+496e849-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 580771925868b097f5d96769d26e1f87
+SHA256sum: 5edc2716980d1e4d871999698efc7738c990944d8686cd13e1d874bc4a7fc736
+Size: 692
+Filename: enigma2-plugin-skins-octetfhd-dbg_git63+496e849-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Debugging files
 OE: enigma2-plugin-skins-octetfhd
@@ -333,16 +609,16 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-octetfhd-dev
-Version: git48+f711a31-r0
-Depends: enigma2-plugin-skins-octetfhd (= git48+f711a31-r0)
+Version: git63+496e849-r0
+Depends: enigma2-plugin-skins-octetfhd (= git63+496e849-r0)
 Recommends: enigma2-plugin-extensions-weatherplugin-dev, enigma2-plugin-fonts-opensans-dev, enigma2-plugin-fonts-segoe-dev, enigma2-plugin-skincomponents-weathercomponent-dev, enigma2-plugin-systemplugins-weathercomponenthandler-dev
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 611d7b68496b67e264305d22019241b0
-SHA256sum: d6b6f1784c9758e5d6053a9b29bb77b8e4868251b71731e1f8121ee75fc12773
-Size: 788
-Filename: enigma2-plugin-skins-octetfhd-dev_git48+f711a31-r0_all.ipk
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6db536696beda69799a81f3e7f9c115e
+SHA256sum: b8956047983b3cd2877ee8de781223552ab9b33fb05ecbd4402e19218f0bb43a
+Size: 794
+Filename: enigma2-plugin-skins-octetfhd-dev_git63+496e849-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Development files
 OE: enigma2-plugin-skins-octetfhd
@@ -350,15 +626,15 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-octetfhd
-Version: git48+f711a31-r0
+Version: git63+496e849-r0
 Depends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-fonts-opensans, enigma2-plugin-fonts-segoe, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c0f90decf627b3e94adf37dc52f737cd
-SHA256sum: 525c32b828c4ec4ddcd4c6cb55f9b7cc548ba5609938f59997d6df3cc02bae63
-Size: 1269856
-Filename: enigma2-plugin-skins-octetfhd_git48+f711a31-r0_all.ipk
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0b27c7a7e97e06b96109aa1f5a4ef01a
+SHA256sum: 82c92e30c0d6d940ebf62a0209b8a85ef300ce0c303daf0aff648923728a7496
+Size: 1270274
+Filename: enigma2-plugin-skins-octetfhd_git63+496e849-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD
 OE: enigma2-plugin-skins-octetfhd
@@ -370,8 +646,8 @@ Version: 0.1+git2126+8bd22ce-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 3356e890c9b799fef8c42338b3d0f5db
-SHA256sum: 9007802400662a4efe54065f7b5b595b1c7c2ebcfbf03f14bea891cc01cd130c
+MD5Sum: 715269fd647315f417189c66205b46f7
+SHA256sum: 3b8782af902675398b3171b118a05e49ca983b7e7f2b44caa1482d7a6cabc9cf
 Size: 676
 Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2126+8bd22ce-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
@@ -386,9 +662,9 @@ Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2126+8bd22ce-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: c9ee9fe6d1c36e8a8ae0794d9fea0d48
-SHA256sum: 1de69709598f504d99de187e1ec858e60e170de6153f6262f488fd904f8ebad1
-Size: 708
+MD5Sum: c2981a4751dc137deaa93be9690ddd3e
+SHA256sum: 846ed019c5437c153f0468a08ce9e93287753ef330bd60ac429584a06726f100
+Size: 710
 Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2126+8bd22ce-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8bd22ce3dd-r0 - Development files
@@ -401,9 +677,9 @@ Version: 0.1+git2126+8bd22ce-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 3ba5fc53d738ab1a99e918e3511b36d0
-SHA256sum: 2ec35d9eb15fb0b499f051e7192700d4c20c5d61fee53d4cef99885530bb1f4f
-Size: 383156
+MD5Sum: 60f8ef878745dd289816167c55e34449
+SHA256sum: 804c7ac8abaf512177b8480905eaacf6babc22f5e35d0388db9bc63e14d24502
+Size: 383040
 Filename: enigma2-plugin-skins-pli-hd_0.1+git2126+8bd22ce-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8bd22ce3dd-r0
@@ -411,75 +687,14 @@ OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
-Package: enigma2-plugin-skins-simple-gray-hd-dbg
-Version: 1.0+git161+5df5cd3-r0
-Section: devel
-Architecture: all
-Maintainer: Taapat
-MD5Sum: b940d82f0a0d8a6cf581f73327a8b303
-SHA256sum: 8e9b6832be89e715e2c211d671985c1ed5e643918682725fd7d0762400b0dcb7
-Size: 682
-Filename: enigma2-plugin-skins-simple-gray-hd-dbg_1.0+git161+5df5cd3-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0 - Debugging files
-OE: enigma2-plugin-skins-simple-gray-hd
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-skins-simple-gray-hd-dev
-Version: 1.0+git161+5df5cd3-r0
-Depends: enigma2-plugin-skins-simple-gray-hd (= 1.0+git161+5df5cd3-r0)
-Section: devel
-Architecture: all
-Maintainer: Taapat
-MD5Sum: 74a89c9178c5a71f84d748b212a3c3c6
-SHA256sum: 9fd366d2a0616daaada72b5dadbca8bd6831b8cdd4232ad0024b9a6abe78c123
-Size: 718
-Filename: enigma2-plugin-skins-simple-gray-hd-dev_1.0+git161+5df5cd3-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0 - Development files
-OE: enigma2-plugin-skins-simple-gray-hd
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-skins-simple-gray-hd-src
-Version: 1.0+git161+5df5cd3-r0
-Section: devel
-Architecture: all
-Maintainer: Taapat
-MD5Sum: 10aa95021ae6af378a623c2815b2cafb
-SHA256sum: dd2d33db2b88ce12da2a38880e97d498461ffd0f10bd252b1bf67a24208abe59
-Size: 2498
-Filename: enigma2-plugin-skins-simple-gray-hd-src_1.0+git161+5df5cd3-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0 - Source files
-OE: enigma2-plugin-skins-simple-gray-hd
-License: GPLv3
-Priority: optional
-
-Package: enigma2-plugin-skins-simple-gray-hd
-Version: 1.0+git161+5df5cd3-r0
-Section: base
-Architecture: all
-Maintainer: Taapat
-MD5Sum: 5289d13dbf2a41079433e807a8294bc3
-SHA256sum: 02a16cae0cb9a9b4093af05f2f5b70d7c0fdb172ecd2edcf014c29484e463830
-Size: 191576
-Filename: enigma2-plugin-skins-simple-gray-hd_1.0+git161+5df5cd3-r0_all.ipk
-Source: enigma2-plugin-skins-simple-gray-hd.bb
-Description: enigma2-plugin-skins-simple-gray-hd version 1.0+gitAUTOINC+5df5cd3ed3-r0
-OE: enigma2-plugin-skins-simple-gray-hd
-License: GPLv3
-Priority: optional
-
 Package: font-valis-enigma
 Version: 2009.11.12-r0
 Section: base
 Architecture: all
 Maintainer: Mike Looijmans
-MD5Sum: 77725d6159110dceb85e96ebed07a963
-SHA256sum: f93208b0736851624aaddc2183273768d3c0e903444e45b07d46bf49babe57a1
-Size: 31598
+MD5Sum: 11d440062c2d9230113a688f8723660f
+SHA256sum: 5c1d9a5980c5e6c11e2d8d277cfb65b0aa665e8a97a0a62f937dfb37f8737e9e
+Size: 31544
 Filename: font-valis-enigma_2009.11.12-r0_all.ipk
 Source: enigma2-plugin-skins-magic.bb
 Description: enigma2-plugin-skins-magic version 1.2+gitAUTOINC+8b5fb84750-r0
@@ -488,14 +703,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dbg
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 8b308e93775a9705252ab9e277b843f2
-SHA256sum: 5b73d25f7081a7e093a27d2a07c7b8c161eab6cacc13f1d1ee1174fcb888930e
-Size: 652
-Filename: frequency-xml-list-atsc-dbg_git639+d8c85a7-r0_all.ipk
+MD5Sum: 26f2fcc2b1ad2ce1b1bcd98215d8bdc7
+SHA256sum: ec87b4fc9afa23f714cf3f18abbfe2a79fb5799b77154ff4f2a9dad3e39f8e6f
+Size: 650
+Filename: frequency-xml-list-atsc-dbg_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Debugging files
 OE: frequency-xml-list-atsc
@@ -503,15 +718,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc-dev
-Version: git639+d8c85a7-r0
-Depends: frequency-xml-list-atsc (= git639+d8c85a7-r0)
+Version: git641+18794c9-r0
+Depends: frequency-xml-list-atsc (= git641+18794c9-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: a1b77b5c3985c60f09f8e8cca24133d6
-SHA256sum: 7d8b1ec301d2a458ff461028ac126239ed06c0db6f4dada3daf2fe69bcdeb493
+MD5Sum: 8cd78c1313ac0111f026ab3f92f5dad3
+SHA256sum: 44e53a5c179e9d456cd78f5cc4d77e61f77657ad0425d087e8f44251b37f0468
 Size: 686
-Filename: frequency-xml-list-atsc-dev_git639+d8c85a7-r0_all.ipk
+Filename: frequency-xml-list-atsc-dev_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2 - Development files
 OE: frequency-xml-list-atsc
@@ -519,14 +734,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-atsc
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 0b715763b8ea1a804a1990fa28b4525e
-SHA256sum: cd4e211b2e4deec2ae372ed92e9524bb100c93604cc2420d40a1c6df51609cc9
-Size: 1474
-Filename: frequency-xml-list-atsc_git639+d8c85a7-r0_all.ipk
+MD5Sum: 9cc70303ed4c90518dfbde46d237810e
+SHA256sum: 147af2c0a36ccb838957560b9bea628a69dbc6de2642489606b8656559755392
+Size: 1470
+Filename: frequency-xml-list-atsc_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-atsc.bb
 Description: atsc.xml for enigma2
 OE: frequency-xml-list-atsc
@@ -534,14 +749,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dbg
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: ab4befcf597f1fe0cff00bd4415f02fb
-SHA256sum: b6e6de3d042b836317c8f46ba0d7b824eee038d2e57ad40707f23dac90640087
+MD5Sum: f65e4dc5f12bf8a1e50c223f7c1bdd5f
+SHA256sum: d22d618e467eefda213e7305d1339e3f308a23ec1f99f185c33821cc2871e8dd
 Size: 652
-Filename: frequency-xml-list-cables-dbg_git639+d8c85a7-r0_all.ipk
+Filename: frequency-xml-list-cables-dbg_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Debugging files
 OE: frequency-xml-list-cables
@@ -549,15 +764,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables-dev
-Version: git639+d8c85a7-r0
-Depends: frequency-xml-list-cables (= git639+d8c85a7-r0)
+Version: git641+18794c9-r0
+Depends: frequency-xml-list-cables (= git641+18794c9-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 047d39e9e35e47c1150e5af3109bbe79
-SHA256sum: 4c94041fca4cacb542246de9d4de19eeb18447a4990e955f856439b32ea56a2b
+MD5Sum: 973bf527b52e30727cd131c2bacacabc
+SHA256sum: 90409744416659f6e4cc5c11f3c94c2fdff1923587a9a210ea56df87393b562a
 Size: 686
-Filename: frequency-xml-list-cables-dev_git639+d8c85a7-r0_all.ipk
+Filename: frequency-xml-list-cables-dev_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2 - Development files
 OE: frequency-xml-list-cables
@@ -565,14 +780,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-cables
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 98e044d72394e167ec0c58552ada82b2
-SHA256sum: 76392848cfa7600edb781127050e0c52c3bf2d69d374fe1781b4d72b87578c84
-Size: 15336
-Filename: frequency-xml-list-cables_git639+d8c85a7-r0_all.ipk
+MD5Sum: efeff9b5581fec3bd0942436533780fa
+SHA256sum: cb16ab21d15f8aab2765798baf532d5cf270606f7d73aaafc775ead7194ef01b
+Size: 15334
+Filename: frequency-xml-list-cables_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-cables.bb
 Description: cables.xml for enigma2
 OE: frequency-xml-list-cables
@@ -580,14 +795,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dbg
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: c13722c3dbf5c898bc5162f72d1dd669
-SHA256sum: d97e6d5344607ab786a53dba894d7b437595532d9f51a4d9f22eb0519ae84f7b
+MD5Sum: eb36004c8437f22d9b01dcc0ba24cf9e
+SHA256sum: 082120fc992edffb6246b45f14d5d7578667d16cf294308db3e08a1a8d000dce
 Size: 654
-Filename: frequency-xml-list-satellites-dbg_git639+d8c85a7-r0_all.ipk
+Filename: frequency-xml-list-satellites-dbg_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Debugging files
 OE: frequency-xml-list-satellites
@@ -595,15 +810,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites-dev
-Version: git639+d8c85a7-r0
-Depends: frequency-xml-list-satellites (= git639+d8c85a7-r0)
+Version: git641+18794c9-r0
+Depends: frequency-xml-list-satellites (= git641+18794c9-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 23761e353b50fb4dde092bc40de61331
-SHA256sum: 81e5294e3f58f6d1f49dcf93f61e2473acd34ee0d55869396863e1c776f7b68e
+MD5Sum: 06f281ccc4e2faf550e154c9951eca71
+SHA256sum: 3085ac8659d493000d004b11bab4efabbdf6a0effdc844c2c48b0f4b53888d15
 Size: 688
-Filename: frequency-xml-list-satellites-dev_git639+d8c85a7-r0_all.ipk
+Filename: frequency-xml-list-satellites-dev_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2 - Development files
 OE: frequency-xml-list-satellites
@@ -611,14 +826,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-satellites
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 33147ef2fa6e99829f2a808d388d5ba0
-SHA256sum: 424756367ae507ec8d19ac12eaf98020d985a924829eccdf43b960b6dfc80aa1
-Size: 25208
-Filename: frequency-xml-list-satellites_git639+d8c85a7-r0_all.ipk
+MD5Sum: 4971ec1e9b28004a3ab40428dcbd143f
+SHA256sum: 014ca0f76c2d59f3bcb280b74c7fc8a0768befaff622f01ff9b3630fb72a315a
+Size: 25124
+Filename: frequency-xml-list-satellites_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-satellites.bb
 Description: satellites.xml for enigma2
 OE: frequency-xml-list-satellites
@@ -626,14 +841,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dbg
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: 54dd243434aeb265ee35651303acf226
-SHA256sum: 064dd964b046c3cf3f6eccf14ffcc2e1478c838334ead6f2fe2bcc9a077e325d
+MD5Sum: 700d223c51a7a353cf1e74f5e257c04c
+SHA256sum: 4a558b162229a00138de97247b3ccc38626cb65beb8c19e6616d4cf20aacd962
 Size: 654
-Filename: frequency-xml-list-terrestrial-dbg_git639+d8c85a7-r0_all.ipk
+Filename: frequency-xml-list-terrestrial-dbg_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Debugging files
 OE: frequency-xml-list-terrestrial
@@ -641,15 +856,15 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial-dev
-Version: git639+d8c85a7-r0
-Depends: frequency-xml-list-terrestrial (= git639+d8c85a7-r0)
+Version: git641+18794c9-r0
+Depends: frequency-xml-list-terrestrial (= git641+18794c9-r0)
 Section: devel
 Architecture: all
 Maintainer: OE-A
-MD5Sum: f83ba17d9aeade75e4b241ed06567b1a
-SHA256sum: 58e372043e15c5747a997c74be93bc12f5f40b37b3d793edb9f1e1e07f8ce2c6
-Size: 688
-Filename: frequency-xml-list-terrestrial-dev_git639+d8c85a7-r0_all.ipk
+MD5Sum: 6abb613d02da6540dcb216239467ad79
+SHA256sum: 5443b4d8325734da403cb9bad55152bed0b6ab7d458f9de9b5635e242f2be905
+Size: 690
+Filename: frequency-xml-list-terrestrial-dev_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2 - Development files
 OE: frequency-xml-list-terrestrial
@@ -657,14 +872,14 @@ License: GPLv2+
 Priority: optional
 
 Package: frequency-xml-list-terrestrial
-Version: git639+d8c85a7-r0
+Version: git641+18794c9-r0
 Section: base
 Architecture: all
 Maintainer: OE-A
-MD5Sum: e90ee5221e03b8b146164705159dd517
-SHA256sum: 4b6a0641c86280c0a6adf22c501add56753c775bb5c969a83b3a58e3ef56993e
-Size: 14488
-Filename: frequency-xml-list-terrestrial_git639+d8c85a7-r0_all.ipk
+MD5Sum: d223e6c2a9a917d8600e282e2bebb9c7
+SHA256sum: b4f9bb8a9e40b14f42d57970c0dc3d161f22f27d880f63391c787acd13694447
+Size: 14482
+Filename: frequency-xml-list-terrestrial_git641+18794c9-r0_all.ipk
 Source: frequency-xml-list-terrestrial.bb
 Description: terrestrial.xml for enigma2
 OE: frequency-xml-list-terrestrial
@@ -675,10 +890,10 @@ Package: iso-codes-dbg
 Version: 4.5.0-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 86886dc712f0175a17c7d73e648d08b4
-SHA256sum: c13344f9c2cd9895559cd03eecaad09d505eaecf201c983d6d5266b1e020bfbe
-Size: 726
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4daf399dc185a0b2b8ca15a3f17dbb60
+SHA256sum: d93d024b3f27750f9c93a06a9957802ca33822ed5276424b43b90c0d4366c2dc
+Size: 734
 Filename: iso-codes-dbg_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - Debugging files
@@ -692,10 +907,10 @@ Version: 4.5.0-r0
 Depends: iso-codes (= 4.5.0-r0)
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6afb51c11768a36a051070ab3c941212
-SHA256sum: b23cd3a7ed6a3288a278efbfea0b25542b1bbfe7cda51af3474148df6bf5cf09
-Size: 1010
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0fc689ef821f90fdd22d62794a0a6b04
+SHA256sum: 67c46c7fce7a603c0dde93f687afc6b09a428beb122c0b254210fba4592a89b9
+Size: 1016
 Filename: iso-codes-dev_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - Development files
@@ -710,10 +925,10 @@ Provides: ab-translation, iso-codes-locale
 Recommends: virtual-locale-ab
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8f1c0eb0e6355c9a83c8a8908560d405
-SHA256sum: 085844d392dd5b74361b1fa8cae0ee59cdbab6628f368d4504b3dc679af0829a
-Size: 1264
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5187f82397546bed73c783df38daf457
+SHA256sum: b30506486f97c76ce3498c0c2a41559b2b7d80ce9828ef185abbd311017d46c4
+Size: 1270
 Filename: iso-codes-locale-ab_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ab translations
@@ -728,10 +943,10 @@ Provides: ace-translation, iso-codes-locale
 Recommends: virtual-locale-ace
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 80298176439a0c392f44de0602d2e6c2
-SHA256sum: c8402146e7dc9662d48bb77fd45bc7e80bd0e5f17da6d7aa54f2d6c1dd0bfaa4
-Size: 1258
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a9cb79ef798c215d3559b253d4638055
+SHA256sum: 930eebb036247f1db1f24dde7197e2231e87fa6581ab15970ca137211dbfa2ec
+Size: 1264
 Filename: iso-codes-locale-ace_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ace translations
@@ -746,10 +961,10 @@ Provides: ach-translation, iso-codes-locale
 Recommends: virtual-locale-ach
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b2d3477bc4bf2a54f2966ea2d11e0b8b
-SHA256sum: 7affd27ea051ea1f4961c68489ed0fce66ca5cf9d2ac407e2a7b17e9222f6d03
-Size: 4122
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b6a9d56fc041dd229b6a186445235e28
+SHA256sum: 5e737def63fd805a3c834084cd589f8b155fa8bddb76845df8a7754efa5bc844
+Size: 4128
 Filename: iso-codes-locale-ach_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ach translations
@@ -764,10 +979,10 @@ Provides: af-translation, iso-codes-locale
 Recommends: virtual-locale-af
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7b9cd1c13b10e8d690b75420693c1593
-SHA256sum: 1e32514073a029d2613d337ad096fec2d1a46d6a2e1a26c1afedf3014866a0dc
-Size: 10508
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d03f2f9d9ecf7ffeb766f25e8c3541b7
+SHA256sum: ba9946a6d470ceb4787cba9d5cf4116bd46c4ee8fd4bef8738699a63c66223e9
+Size: 10542
 Filename: iso-codes-locale-af_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - af translations
@@ -782,10 +997,10 @@ Provides: ak-translation, iso-codes-locale
 Recommends: virtual-locale-ak
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a348a534306d72d1382dc453086a07de
-SHA256sum: f9bdde19749a55d8f1abc28d587cdd1abcdf3aa838998ae8b533ba7ad9b921ea
-Size: 1262
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6392a3ed04f036a430d1812f8c4d1d19
+SHA256sum: 76b94d0ae07bbf4475688b4586a1af645a081b5b87be4be1e006e84eb6f5baac
+Size: 1268
 Filename: iso-codes-locale-ak_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ak translations
@@ -800,10 +1015,10 @@ Provides: am-translation, iso-codes-locale
 Recommends: virtual-locale-am
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cf78cffd09735e84b892afc553c2da3a
-SHA256sum: a86e731dc58f85c4c635a06dff646b64692ae0a3fb4a9761432cab07b677c99a
-Size: 5884
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 83493f7e58deae4e96e6c338be7ae324
+SHA256sum: 2811e4c303095eb54ed55bb1045156d51349ad9680d5e982e2b9aada58e337f2
+Size: 5886
 Filename: iso-codes-locale-am_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - am translations
@@ -818,10 +1033,10 @@ Provides: an-translation, iso-codes-locale
 Recommends: virtual-locale-an
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e73fcbc035bfef37bf5d4abb05aaa241
-SHA256sum: a9800a0f29e699d8c5308af7d0e6191553f92c11b8e2ca82ccf16b3c9d897ec2
-Size: 1260
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7f41d115fbcdfa0b0a28f501ab5497a4
+SHA256sum: d88cda1002240ab1ed0b8e9137e7ac7db4e349d9b80122daec94e6dd3f0bfcc2
+Size: 1266
 Filename: iso-codes-locale-an_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - an translations
@@ -836,10 +1051,10 @@ Provides: ar-translation, iso-codes-locale
 Recommends: virtual-locale-ar
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1ab5577af8228ac524e53fa8ff4038c4
-SHA256sum: 68b48e11a552f702a73a156c7c4b271c59421162db0d41bdbb1d8db1f3520479
-Size: 16908
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d1ee817cfa7c8ea4d363d51d2fd92dfe
+SHA256sum: 985796511a1dfedd0cb9c2b88ca3d19bfa469e6e6b7c3cb2491acedb8a07bedb
+Size: 16922
 Filename: iso-codes-locale-ar_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ar translations
@@ -854,10 +1069,10 @@ Provides: as-translation, iso-codes-locale
 Recommends: virtual-locale-as
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8ac887621753ac8761a7bf07339ac346
-SHA256sum: bd8f8a4f90f4fc6b545b60b0a2529f319e892c2a7c2b8408cf8ee701d2127466
-Size: 17958
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7808eff815e8b5a0eec638ce1ed2ac9a
+SHA256sum: a1e262e248be90a323166c21e7166fbe0669e6ade2c4e6d1f5d35c0dddc73df1
+Size: 17960
 Filename: iso-codes-locale-as_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - as translations
@@ -872,10 +1087,10 @@ Provides: ast-translation, iso-codes-locale
 Recommends: virtual-locale-ast
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 41e699b71abb84132c23479672ffd934
-SHA256sum: 7f8185770c72e53112212da303c198eaef580480b9cf1501f644ee1fe72e7f95
-Size: 80146
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 641da8d062fb0e845ef69a645f98aa8a
+SHA256sum: ac3b3174701d8ffee3835b85b48712e080cdf80d2fa55d4ba4629e28e58aeaba
+Size: 80140
 Filename: iso-codes-locale-ast_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ast translations
@@ -890,10 +1105,10 @@ Provides: ay-translation, iso-codes-locale
 Recommends: virtual-locale-ay
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 577b6b839c9335971fee75e4718983c5
-SHA256sum: 121490f006a04370bd29cca3b210b6d78943ef64a4e2f9081d33848a146010b9
-Size: 1262
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a14b09f2f8f49e8af756c7b1c4be4326
+SHA256sum: 4e4e48ef515ab7a6083886f4a46aa6b425c22b3e3be283e66889390c9b18e370
+Size: 1266
 Filename: iso-codes-locale-ay_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ay translations
@@ -908,10 +1123,10 @@ Provides: az-translation, iso-codes-locale
 Recommends: virtual-locale-az
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f7af93ab0ddd13ff0b1201f2abae1c9e
-SHA256sum: 7829ca764db75b6258e67dc4e0ec5d9702121e9041cedc27a0d63745e2355f57
-Size: 6198
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: feb8f4eb9cb13152bab2306347d35cd6
+SHA256sum: 5149cf2ee2778d391aa291eaff254fdb0a57a87b250f0fefabba7945c5e9b324
+Size: 6212
 Filename: iso-codes-locale-az_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - az translations
@@ -926,10 +1141,10 @@ Provides: ba-translation, iso-codes-locale
 Recommends: virtual-locale-ba
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fe8a709cd8f0393e13e996001a40499b
-SHA256sum: 641a6cd2e2f56ac6bcdaa8070756ba064c9d17b743e9a0367e463f47289034e1
-Size: 1260
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 89955b109c3b6c6a4199b2ce43e4e9e2
+SHA256sum: 701c7f4120bcdb0760ee1c07561e33f8d77666be356b83e39e1dc1f76e35796f
+Size: 1266
 Filename: iso-codes-locale-ba_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ba translations
@@ -944,10 +1159,10 @@ Provides: bar-translation, iso-codes-locale
 Recommends: virtual-locale-bar
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: df15ba59284fa46022fc52bb3db0dc0e
-SHA256sum: 297bed4448341e13959eec9d9e7d8ef597919bedfb10d61e1907948f6545892a
-Size: 3410
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9a3e36cba99a0f43a1b097f45e67c00e
+SHA256sum: 8178d8239afc0e6ffe6970d642d129bbb1209c535cd98f19eb5b52305d57da4e
+Size: 3420
 Filename: iso-codes-locale-bar_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bar translations
@@ -962,10 +1177,10 @@ Provides: be-translation, iso-codes-locale
 Recommends: virtual-locale-be
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c112f38f3a7ff0cd7cfaf9ab6e36f352
-SHA256sum: f93c65c829da7235c81cff3d70da6bd4c4e1a8b1a4b975490ed9c129515b24f4
-Size: 97840
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 827cc7ff57ea534572e2e69b0bdde9ef
+SHA256sum: 4909b4aa67c54b61a72d73610f23144632f1e2639bf630a9a8607d66aaf2679c
+Size: 97866
 Filename: iso-codes-locale-be_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - be translations
@@ -980,10 +1195,10 @@ Provides: bg-translation, iso-codes-locale
 Recommends: virtual-locale-bg
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b7e6ac5efecd5cb522c72d2464ab4db6
-SHA256sum: e62fea178bf39359c6ec62e21602526670fe259ac72e3da168e23e494c3d3d08
-Size: 24264
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6534c8a4c73c343df301df22f555098b
+SHA256sum: cb40b638eaaa05fe21b02443a97b131fac5bd321bfec1b0a4462b9725f278605
+Size: 24226
 Filename: iso-codes-locale-bg_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bg translations
@@ -998,10 +1213,10 @@ Provides: bi-translation, iso-codes-locale
 Recommends: virtual-locale-bi
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 727ba307b9ab7619373bd652c05a28f7
-SHA256sum: 80972f252dfeddbd8ccca28d49decb162b4bb7b256455399a583b1dbe1a86aef
-Size: 1260
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 98a1446d9a320de6b3562b225cf0eeef
+SHA256sum: 4ecc567b4786e724b5aa94d7d07b27ded9604e7d39c3ba4cc88ba683c273bbee
+Size: 1266
 Filename: iso-codes-locale-bi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bi translations
@@ -1016,10 +1231,10 @@ Provides: bn-bd-translation, iso-codes-locale
 Recommends: virtual-locale-bn-bd
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 80155e21a2514715acd5b814666a9f23
-SHA256sum: bd82ecf0d91a0f341080ec7ad72d7e77b9a97ff262048357230d0a6d614fafa9
-Size: 3248
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9665029623fc7756f43461a9102bd8b9
+SHA256sum: 40a80d1e253ef709d53837efffffb772d66888718e13033c2d9e94d3f07e9277
+Size: 3254
 Filename: iso-codes-locale-bn-bd_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn_BD translations
@@ -1034,10 +1249,10 @@ Provides: bn-in-translation, iso-codes-locale
 Recommends: virtual-locale-bn-in
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8fa22e07c9ffefb9ddfb101686e613f0
-SHA256sum: 82854d29f3691cc8b1ae3cb28efbaa53c0fd2bc1e68ae7379c65dde7d748a8d4
-Size: 9932
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a9f63b9adf29f48c90765d09dd784d77
+SHA256sum: 6bf42e8263b8930ebd07035bebba660f24153c4f86c3b6dbd4734cd638ee374c
+Size: 9938
 Filename: iso-codes-locale-bn-in_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn_IN translations
@@ -1052,10 +1267,10 @@ Provides: bn-translation, iso-codes-locale
 Recommends: virtual-locale-bn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5ba59d4987d7b175735085819d5fad28
-SHA256sum: 90c92f585586e240bb62d411728d0bac837197406972e53faa57e0addff949c8
-Size: 39124
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5cad7d47239f154b1378b4a71780e4ae
+SHA256sum: c437eeebe30d31b1dc394ce3922c40012b292c2f826d366355ef8fe013abe360
+Size: 39142
 Filename: iso-codes-locale-bn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bn translations
@@ -1070,10 +1285,10 @@ Provides: br-translation, iso-codes-locale
 Recommends: virtual-locale-br
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c46f78d2708809f67cdcd61c88910c7c
-SHA256sum: 8a582259ae0f6384fcd488af1c5bb0b025db19db0177082e0e002daa38ed7c56
-Size: 18836
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b014e113f85473a1320ac508132b4998
+SHA256sum: 5a577386e63309fe962274e697849e542e66ab3eac0f098943c901d5011980f9
+Size: 18854
 Filename: iso-codes-locale-br_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - br translations
@@ -1088,10 +1303,10 @@ Provides: bs-translation, iso-codes-locale
 Recommends: virtual-locale-bs
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a01bf9293e5333a281a94bfd9ae61659
-SHA256sum: f014c28654578bdde401382737a5fd6c4d53ffeaf49dd206659d6a6035008462
-Size: 10058
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: dbbe5b9716765da443c0ebe1a88f9919
+SHA256sum: 68ebf267d8b3bc05d2a74e2072c9c4cbf3937bb9fbc1975afeb580bf10981615
+Size: 10064
 Filename: iso-codes-locale-bs_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - bs translations
@@ -1106,10 +1321,10 @@ Provides: byn-translation, iso-codes-locale
 Recommends: virtual-locale-byn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 735f112a98975b5cce6b322dacfe4bb7
-SHA256sum: 35a121236e11bff7a8dcc78d73f688136abe66786c4fbc4aa393f7169d7d5381
-Size: 5602
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6476e4af61bcd70649210baaed8ebd30
+SHA256sum: c3c721b0988514674377354b2712aa541e16fede9231c96e7341e33904146031
+Size: 5596
 Filename: iso-codes-locale-byn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - byn translations
@@ -1124,10 +1339,10 @@ Provides: ca-translation, iso-codes-locale
 Recommends: virtual-locale-ca
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a073c4e85370fd945408264387333c33
-SHA256sum: bdf91d597521edaf6aa4d1a869c36a563da85808589ae4506a836b371790af04
-Size: 26760
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 35af2e1cbc84d84c4b9086d0bbf66862
+SHA256sum: 3b5a35ead6c87404f9c0e079f0bd765cff3d63d8ad3c135ba0e9d46c367545c9
+Size: 26786
 Filename: iso-codes-locale-ca_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ca translations
@@ -1142,10 +1357,10 @@ Provides: ce-translation, iso-codes-locale
 Recommends: virtual-locale-ce
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d5767f882968ae73fba361e8ddf87006
-SHA256sum: d5a8d2e9a757d4a4fd6fd31a2d0cd4f7e88fd70426cc00899038824a09df8c38
-Size: 4880
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1b04083500744fbc1928dc5c9fc664d5
+SHA256sum: 77c7620789603e10d5f977c906dc8b1f24c00b94ec43a46058550651a4fea945
+Size: 4886
 Filename: iso-codes-locale-ce_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ce translations
@@ -1160,10 +1375,10 @@ Provides: ch-translation, iso-codes-locale
 Recommends: virtual-locale-ch
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b798f56f7ce48b0be7c3aaf09d109d2e
-SHA256sum: 0b2c76ced74b8f5ce8d475ac2e4f27624d6078655ec3aecdb3b5821cb412815f
-Size: 1664
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b561a2b7f4caaf148e5715f203c86ea3
+SHA256sum: 55926bafbdec265f29c686e7c2014ccbbdba8927ba862f9ee6a10ed11f61a279
+Size: 1670
 Filename: iso-codes-locale-ch_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ch translations
@@ -1178,10 +1393,10 @@ Provides: chr-translation, iso-codes-locale
 Recommends: virtual-locale-chr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ed8787b170e33533a964cfbaf02485b0
-SHA256sum: 9b723f050f49e4994a92ee93693187a3d72f7d5ebd7ab33b9c5fd66264b4a0fa
-Size: 2970
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 76b370d81412441d0045e35a62aceeb1
+SHA256sum: 404f2425405b74aab7299d39f9b188226cefbd2e6a9f266c6f6491d373356859
+Size: 2976
 Filename: iso-codes-locale-chr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - chr translations
@@ -1196,10 +1411,10 @@ Provides: ckb-translation, iso-codes-locale
 Recommends: virtual-locale-ckb
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2bc11414848c815af55146af3d5f4f9f
-SHA256sum: 7e0535fcb7bdd8d71d7a93c0e382c88b48d9918ba3a8a81c98b3da56443234e6
-Size: 4590
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 65b7e4c540e6be2750ea73417229cd0d
+SHA256sum: abc113909372e539cb365240214dc662d179eeb898f06e964177a6092d477e96
+Size: 4596
 Filename: iso-codes-locale-ckb_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ckb translations
@@ -1214,10 +1429,10 @@ Provides: crh-translation, iso-codes-locale
 Recommends: virtual-locale-crh
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8e86315d4f6261d45bb97481de1669f1
-SHA256sum: 8cbe437b0ac31478716371bda0376f9beb918c3ed145e842e604cce200373bb3
-Size: 70346
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b4024f8f4d5e8a3a94b9647daf7dcf25
+SHA256sum: c7cb3ce053ef355954c021bdf0bc37db129c0cbe7cd3e7a35a8bb1f404b6b0e9
+Size: 70288
 Filename: iso-codes-locale-crh_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - crh translations
@@ -1232,10 +1447,10 @@ Provides: cs-translation, iso-codes-locale
 Recommends: virtual-locale-cs
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 695a235744cd817ba5336ee79b867e4f
-SHA256sum: 1532783a8319ee171116ff7f7c4bd3fd856c8f9f39eb178fa7a7c3d5d4bdaaea
-Size: 26804
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5d6c7934ca7c702c53fea0b5ce5bf5e2
+SHA256sum: d67edcb55d3a674a3a182aab6a328946060c5b2afba6c33ce1cbd189267c0f0d
+Size: 26796
 Filename: iso-codes-locale-cs_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cs translations
@@ -1250,10 +1465,10 @@ Provides: csb-translation, iso-codes-locale
 Recommends: virtual-locale-csb
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 405437237c55fab812149723c7998bbf
-SHA256sum: bdfb0fa482af4d79fa73e7e8d2662cf32b885bc7b873c9350f9cf6ee4671e844
-Size: 2798
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c3087aa00a449b81159edd9bf84b4ecb
+SHA256sum: 4ac64794412870b6ed00ad9114941a9e74e428cb0fbbebcd1694fa4a510e3844
+Size: 2804
 Filename: iso-codes-locale-csb_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - csb translations
@@ -1268,10 +1483,10 @@ Provides: cv-translation, iso-codes-locale
 Recommends: virtual-locale-cv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3f839d5957b5214f8fd76aab3ebc71d3
-SHA256sum: 2c480ec5341946ef7b36218ea506bdb6e28e11e79f9d513eaa2872eb0353039d
-Size: 4874
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 58fd636361588bc1ef7821edaf5c7b72
+SHA256sum: fff3998e4f48d2667a0a1100c5a8e3670822f8faff87b432459c5f75f0922c0b
+Size: 4886
 Filename: iso-codes-locale-cv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cv translations
@@ -1286,10 +1501,10 @@ Provides: cy-translation, iso-codes-locale
 Recommends: virtual-locale-cy
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 81049c992454354eae0bd84fda0cedf5
-SHA256sum: c2dc1a60b6ae1fd204aff6d4b79c7c08e2d29e97c43b1e22b13e7f8d1d807b2f
-Size: 10442
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9b54a4f31fd72619c1905ee460dddb4e
+SHA256sum: 9e003fd360781ba047357e0742a86d39fdb1de16543820073f644fd5d39a8407
+Size: 10518
 Filename: iso-codes-locale-cy_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - cy translations
@@ -1304,10 +1519,10 @@ Provides: da-translation, iso-codes-locale
 Recommends: virtual-locale-da
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d3056006bcc227ba52ad13f91f0afe87
-SHA256sum: dcbd1827e0478484dbdb2310a654d92609ed3506c607d81ce0748f13baf91d2c
-Size: 65762
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e7eaf267759e1e14fc04f5e220d9128d
+SHA256sum: 933745c1431bc9b5d1076e329391d3e5372644aa4f1ed4b0366470cea1af72c1
+Size: 65698
 Filename: iso-codes-locale-da_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - da translations
@@ -1322,10 +1537,10 @@ Provides: de-translation, iso-codes-locale
 Recommends: virtual-locale-de
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3eace409dc0dabb0782e1737969297f9
-SHA256sum: e7cc547334d595368afdd05d20eaf074357d92874f96edb5f03e9fc3ef3a9533
-Size: 167456
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 42760bee8660c5bbcd975d9ce9e8dbfe
+SHA256sum: e5a8f8830d8c44c71d054550f101d33609005d57a86c9f22ff8140f6693f296d
+Size: 167450
 Filename: iso-codes-locale-de_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - de translations
@@ -1340,10 +1555,10 @@ Provides: dv-translation, iso-codes-locale
 Recommends: virtual-locale-dv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e4145e1386c6ac97353415bf4445dedd
-SHA256sum: 050734703c0783d152c121f80655cdd0707e8f04022425a3e75a7949770daa45
-Size: 4838
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1eea94bb67e9b64275d188cd0f39673b
+SHA256sum: 64ecb81c73d7cdefbf3502cb01b04269084bf040d1e112cf073077f973b2fabf
+Size: 4842
 Filename: iso-codes-locale-dv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - dv translations
@@ -1358,10 +1573,10 @@ Provides: dz-translation, iso-codes-locale
 Recommends: virtual-locale-dz
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2fba5582bf01f24eba500d5f22f058d8
-SHA256sum: b831845119baa24ae2bb8d1c1932e192d2e36ec01a53f0b9e7d9e506e5124ead
-Size: 10050
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3c1c65312423d0ad200711cb082cbcb6
+SHA256sum: 0843283e565566f12f0976890fe682b78aeff62b1c4f1280978080e5baaa736c
+Size: 10048
 Filename: iso-codes-locale-dz_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - dz translations
@@ -1376,10 +1591,10 @@ Provides: ee-translation, iso-codes-locale
 Recommends: virtual-locale-ee
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 078730ae7e15a2b740dd0791d8042a89
-SHA256sum: 85a1c35b98bb4eaaa1fd4fd32439e1a2e5e51d669167c3c446cbccc3dd4dc0f5
-Size: 1256
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c849bdf522f008d7acda04191c1a9417
+SHA256sum: b9b234ee417bc1bb6ba82a1666a3d6a7797f016baafa83757762cb4789025a37
+Size: 1262
 Filename: iso-codes-locale-ee_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ee translations
@@ -1394,10 +1609,10 @@ Provides: el-translation, iso-codes-locale
 Recommends: virtual-locale-el
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8aaebefed781771d1168bf4052ef54df
-SHA256sum: 9864d8007942a6b607d60a8acd99b50e269d466262823b2e40853f12cc4b923c
-Size: 32752
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1b62fdfe54f46c9b337559c2142d6ae4
+SHA256sum: fb2de0c7e40bdcd70ab9d3b93d2caf1e9756f1dac3ab4589c944bef30d411dc4
+Size: 32798
 Filename: iso-codes-locale-el_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - el translations
@@ -1412,9 +1627,9 @@ Provides: en-translation, iso-codes-locale
 Recommends: virtual-locale-en
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cf7e947b3623004771b4f61481b6322e
-SHA256sum: ecafc4edb1c2ef50e573001101d8c8f017a1a0421fe328edc2e520033af5e617
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 05539ef79991c99b9a9aab239c2c274f
+SHA256sum: a7bfd37fc7e410c76c9eb20148192756a8259aa9232ead214e6934eba5271097
 Size: 25106
 Filename: iso-codes-locale-en_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1430,10 +1645,10 @@ Provides: eo-translation, iso-codes-locale
 Recommends: virtual-locale-eo
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 54ad34690182d790b028f854d37cfaef
-SHA256sum: c267996f13ebef357395a7aa1b353a08854bf7b38767566ab2cf7dbbaaa323fc
-Size: 21008
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f8f3a9b7606a11e93718a7b3a186bc16
+SHA256sum: 95af354c80a50328bd26945c8bc512158fccab5390ce27dacf9ba2111225c4db
+Size: 21036
 Filename: iso-codes-locale-eo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - eo translations
@@ -1448,10 +1663,10 @@ Provides: es-translation, iso-codes-locale
 Recommends: virtual-locale-es
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fa3fb8440d561a549f875dd99c414829
-SHA256sum: 5183a21fdffd40f2761b91cd9a8c50cff37855e878d20261cda1fa1169f4a000
-Size: 30492
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 70cc0affdf20c0f62bc764ed7bc94c69
+SHA256sum: 8f50a31d32582cbe5edf59ab02006e0e834bdb22526e26a4c018da5af08f8148
+Size: 30518
 Filename: iso-codes-locale-es_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - es translations
@@ -1466,10 +1681,10 @@ Provides: et-translation, iso-codes-locale
 Recommends: virtual-locale-et
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1f6faa6b3175f5759460c5ea6d655ac4
-SHA256sum: 957419c041aa8d55fdc09ea6ea21ee07ba3644fe954f29c45fdcabff22fc3df8
-Size: 29824
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2634d23166eedd21e5d9c3af92b369f1
+SHA256sum: 3956090652a6f74b059bb75df43fb8197b8e2a87dc41ddc3741ac2122303b239
+Size: 29886
 Filename: iso-codes-locale-et_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - et translations
@@ -1484,10 +1699,10 @@ Provides: eu-translation, iso-codes-locale
 Recommends: virtual-locale-eu
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4000905fe0a7bdf6ac2ce531778a989b
-SHA256sum: a90445d2253338fe8261cc122b916f13ac0d5fa8e18d8166011bc817dc4736d5
-Size: 29060
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cdce9aabf14c123543daa2877d970193
+SHA256sum: be03527658e49c105858eca996eb5205fbf01da37a71df77ea662a2e0ed94b1a
+Size: 29000
 Filename: iso-codes-locale-eu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - eu translations
@@ -1502,10 +1717,10 @@ Provides: fa-translation, iso-codes-locale
 Recommends: virtual-locale-fa
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 08b12873e73ca1e168ee10c0f34c1298
-SHA256sum: 6d66811b47ba3f78ba23ad36172cb325a8ea1a33dea7192b116f829834d72f49
-Size: 16030
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e013287d435ef6845be8e4bcc3caaf22
+SHA256sum: 39a7ff07761ca801d4e2340c3d4b6c9f30c124e4b27938b62bd91c200bfdb5fc
+Size: 16074
 Filename: iso-codes-locale-fa_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fa translations
@@ -1520,10 +1735,10 @@ Provides: ff-translation, iso-codes-locale
 Recommends: virtual-locale-ff
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd0059fe39a034c6e5309ba85b851fa1
-SHA256sum: 4b6a0ef4272dab7b7d93187198cb392a226e0fbce8fff638fb9ff14e45040b5c
-Size: 2478
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e49abb6c7db705e784fc92d84ee30a38
+SHA256sum: ca72234cb713fc3be6e5b4fd3517d3c6a494d3a017d148ce26db0b61b9e32f45
+Size: 2482
 Filename: iso-codes-locale-ff_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ff translations
@@ -1538,10 +1753,10 @@ Provides: fi-translation, iso-codes-locale
 Recommends: virtual-locale-fi
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5ba8e4e9339236fb9f164a86504067b8
-SHA256sum: 4ef845c7e205c8efadb14c3362aedfa03c328e733411245e24769167d3a22b5c
-Size: 24618
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2df90f3e8cfd65b6da9cee0e403e500c
+SHA256sum: ad0c9ac85ec568d51427103f45d4d1ec15f06bd9b137a492673973b36debc58b
+Size: 24658
 Filename: iso-codes-locale-fi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fi translations
@@ -1556,10 +1771,10 @@ Provides: fo-translation, iso-codes-locale
 Recommends: virtual-locale-fo
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7822503663dabfaed6be21e805bd2a72
-SHA256sum: 116e1d225d3f69dfbe6d0620f72137095d43bf79eb836cdc18a7c1bbe2f8e3ff
-Size: 2932
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 270518c35e955c1fce9356bb5e4f36cb
+SHA256sum: 5f11aed0e0491e8a4e4200d29d53e5b94c5c7d7355aa96247d5ffeddcee779a7
+Size: 2938
 Filename: iso-codes-locale-fo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fo translations
@@ -1574,10 +1789,10 @@ Provides: fr-translation, iso-codes-locale
 Recommends: virtual-locale-fr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d6552a6883f1c2863776cc650e775475
-SHA256sum: 6bb879317cec3445f92e4c5a5efa41c2c2db3c38ad31ce710f0c7bea0e846174
-Size: 181048
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 25435fc0679769b66e8c636f6e407b32
+SHA256sum: f8a019f0258abd0c99c2ef113b3b4065915cab58d0360a5b4763da073d058098
+Size: 180958
 Filename: iso-codes-locale-fr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fr translations
@@ -1592,10 +1807,10 @@ Provides: frp-translation, iso-codes-locale
 Recommends: virtual-locale-frp
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 39f61d4c28b2abdc9af0b3d5532066ac
-SHA256sum: 85bcb10236510bea6381e8886a68c9dfe222dc8e9178786cbbde8dd5a70cc130
-Size: 4354
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ee00e14da97200bb04212735f610342c
+SHA256sum: 5e1ce6302de79a5499e5bc2e881c3e2e9654aa01baf62a6e8f696db92aa5939a
+Size: 4360
 Filename: iso-codes-locale-frp_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - frp translations
@@ -1610,10 +1825,10 @@ Provides: fur-translation, iso-codes-locale
 Recommends: virtual-locale-fur
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0ec4ac98ddfdf5dea211cbe90c4698cc
-SHA256sum: 636b0996dc82cd570f5ebe2f05dceaf2d9fb27e7974c569fd2ba9359f5e04c9c
-Size: 2074
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2859bc5578c6f1f6b3b2e2e69bea2c32
+SHA256sum: 7644c20b156c03576b5e8e2edbe93f428ad38fdc7a6597a874313f80cd35f924
+Size: 2084
 Filename: iso-codes-locale-fur_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fur translations
@@ -1628,10 +1843,10 @@ Provides: fy-translation, iso-codes-locale
 Recommends: virtual-locale-fy
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 672b1eaa6495ef845927701b8c87a49d
-SHA256sum: be3cd609808f1facea81af653f43416143e055062177e9b9fab3615a053b0bf2
-Size: 4370
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 98a222c7d3377534819fb0840416d77e
+SHA256sum: e5068fc5f00778bee5fa3fbed0666b79c47124a4089ff381a436646f1568bf30
+Size: 4336
 Filename: iso-codes-locale-fy_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - fy translations
@@ -1646,10 +1861,10 @@ Provides: ga-translation, iso-codes-locale
 Recommends: virtual-locale-ga
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 949219d8dd9841ed6a6163b4fa4a7418
-SHA256sum: 858953760831d7302ea468b7728bcc08b713e5c0cc6050a5230bf2c05f37bd16
-Size: 16808
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 24f6aeb5839ec3c1a5015bdaba63cc7c
+SHA256sum: 1281920c07c281f2fe92996c9a5bde0125d3c4710a64afd50db214e509319237
+Size: 16814
 Filename: iso-codes-locale-ga_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ga translations
@@ -1664,10 +1879,10 @@ Provides: gez-translation, iso-codes-locale
 Recommends: virtual-locale-gez
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 73f6435ae521da7d4186e8609d520939
-SHA256sum: d50ba91391bf8d3bc41c8400f0b8ac6bb2b8cfacb5a0008ef467fabe969a3dc3
-Size: 5596
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2ee76828bb9b81fb91ef0684d290fedf
+SHA256sum: e43e3ca10274faa2699a4728879cf3b3f766a808cb6bedbecbab26ab20f7373c
+Size: 5602
 Filename: iso-codes-locale-gez_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gez translations
@@ -1682,10 +1897,10 @@ Provides: gl-translation, iso-codes-locale
 Recommends: virtual-locale-gl
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 439d4fbfb2851619866e805fda5a91fe
-SHA256sum: 67ee25f325c8c250d1dc669e81fefb470bd829e2de04193223e5d4fbb45d6115
-Size: 88992
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 925e42d31f53dbbc1ecfdd11e84d4480
+SHA256sum: dc2f208b0238c6222254f0480cfa0cef83c2f8604f97a24ff958f13486568f53
+Size: 88614
 Filename: iso-codes-locale-gl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gl translations
@@ -1700,10 +1915,10 @@ Provides: gn-translation, iso-codes-locale
 Recommends: virtual-locale-gn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6aff95471ecee9e2074e4f9e8ab4151e
-SHA256sum: b6167318d38677a1272bf334c294772d667f52debe1b582bd97d70d6b00461ad
-Size: 3408
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5207dbe28c3c33560b718219f84ed325
+SHA256sum: 7d3baa6e5b839cde79e051160f9b23c309d4e25b61a6fc1224be4adf4003d477
+Size: 3414
 Filename: iso-codes-locale-gn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gn translations
@@ -1718,10 +1933,10 @@ Provides: gu-translation, iso-codes-locale
 Recommends: virtual-locale-gu
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f59b9ea43083637abe7cad376700b8b1
-SHA256sum: aac14434a292a496214d23a64420bf76c47d6e00a19809829526829870f7c5d0
-Size: 27682
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 41c845e0ffd79dc2d85585300e89c65d
+SHA256sum: c00c77a3647fcfeb2c1cce4d9afabfb71451daf8be0d3d343a6bd88f06e4a544
+Size: 27708
 Filename: iso-codes-locale-gu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - gu translations
@@ -1736,9 +1951,9 @@ Provides: gv-translation, iso-codes-locale
 Recommends: virtual-locale-gv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3ed1c05a72fe3e363f1f57cda5f586a4
-SHA256sum: 58df42209ebc1a41f5464bfea842f3e556642ad420dbdbde231ec291da0d72c6
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 676d392a976c2396c29f9ae6d49a7d22
+SHA256sum: 5c861d94b998fbb4d606ab2936aec0d55f94733cf9374da0aaeb2d9f06b39086
 Size: 4214
 Filename: iso-codes-locale-gv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -1754,10 +1969,10 @@ Provides: ha-translation, iso-codes-locale
 Recommends: virtual-locale-ha
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9234e72d5711d72d5f62fb43179acab7
-SHA256sum: 5b3adf4dfed62c36ad6367dd0f3ca43544f8ddf4fe483a4c57ff67269fea0868
-Size: 2808
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b921658024c083636cbb7fbe977718b9
+SHA256sum: e9d09e88ef2919474cd11229693d81f7674c40e4f447cc21600f2a0fa48aa163
+Size: 2810
 Filename: iso-codes-locale-ha_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ha translations
@@ -1772,10 +1987,10 @@ Provides: haw-translation, iso-codes-locale
 Recommends: virtual-locale-haw
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e3a3fa0524348f171ae1704b8a328789
-SHA256sum: 05df161b8aaeab36fb4535e06276dc93c1cbca4f5ca67f1e403c9519ab341460
-Size: 1726
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7f5c5a715aff72b49d75680179db11b1
+SHA256sum: 3dd24a7e08ce349bbace860e4d8688dd46c23f04d0d58b3b4b5aa351dfea4b99
+Size: 1732
 Filename: iso-codes-locale-haw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - haw translations
@@ -1790,10 +2005,10 @@ Provides: he-translation, iso-codes-locale
 Recommends: virtual-locale-he
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: edde6b9156902834bcd83b028826726e
-SHA256sum: a9b55874fa79bf527522d18c785a269f83cd7a9947c5983d80d879a3922ddcf2
-Size: 11004
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2afa95541a7903b0a8a8502b018b3592
+SHA256sum: 57597ad8a27953b09f72a548177b30bda706175b7d0480fc665b67e95a23184c
+Size: 11006
 Filename: iso-codes-locale-he_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - he translations
@@ -1808,10 +2023,10 @@ Provides: hi-translation, iso-codes-locale
 Recommends: virtual-locale-hi
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4fcb9e550d92a43ce089991f1a05aa15
-SHA256sum: 10d2848d6c7d1d0793cfd5de32157b6e3daf2225df93e1ad50efb6538627ead7
-Size: 12316
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 98121b02d935e3944e72d3562a3e19f8
+SHA256sum: 59e8cb7039c5c743c69fa03b6cd3bd8a91fb66522ed44fb39be1c50169b2dbc3
+Size: 12286
 Filename: iso-codes-locale-hi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hi translations
@@ -1826,10 +2041,10 @@ Provides: hr-translation, iso-codes-locale
 Recommends: virtual-locale-hr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8f029093fe08d87a932e93cb46bcb160
-SHA256sum: ebf4d4dcd69bf470b20995e79883f3911d34aa5f9a32adc567b8de8ee95f9b3f
-Size: 40668
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b65ee8a102b75e617607f9674723e3c9
+SHA256sum: 6a89538ad6af426e8fd5e01e789bfde747b8debf30d208acd5eadc9dddc788cf
+Size: 40710
 Filename: iso-codes-locale-hr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hr translations
@@ -1844,10 +2059,10 @@ Provides: ht-translation, iso-codes-locale
 Recommends: virtual-locale-ht
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 083a095346a7190a92b1a0fb21856f9c
-SHA256sum: 542fb7f6aa6f0894250b97e84d2d3a52d56f8964c8605f832133839e715e5cc7
-Size: 3904
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0df65d46b8806e67117b5c2ea1f40a44
+SHA256sum: 0a481a7b9ef3017ebbb010837ab0712b0aafe73806c80c011b677d4fcbe7786b
+Size: 3886
 Filename: iso-codes-locale-ht_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ht translations
@@ -1862,10 +2077,10 @@ Provides: hu-translation, iso-codes-locale
 Recommends: virtual-locale-hu
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f4ee39f721ef137b0f0afc54ff849b28
-SHA256sum: 132b95063e18bdf3cbca868003a2f78277fdef8c898d4576742b046888dfa7b7
-Size: 56152
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5cffbdf1970a01ecc3eb1474e2189738
+SHA256sum: 6b09835e4b60ab124bb93c3d2898e18882d5407b797b4c6eaa0b25691188bbf6
+Size: 56158
 Filename: iso-codes-locale-hu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hu translations
@@ -1880,10 +2095,10 @@ Provides: hy-translation, iso-codes-locale
 Recommends: virtual-locale-hy
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 311f118dbb84f65e62a77f7f8405cc75
-SHA256sum: a8869176a7065eab724d686d819aef1fe3c50b5d66acc9c1cf5d2dec24d52574
-Size: 9500
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cfa57cb5285235d01ffa8bf67f93eaa2
+SHA256sum: 78296b2d4d1dcb2801bf9d533c76c7f874460e4b68c2a2d2900d2bf5251ccea9
+Size: 9502
 Filename: iso-codes-locale-hy_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - hy translations
@@ -1898,10 +2113,10 @@ Provides: ia-translation, iso-codes-locale
 Recommends: virtual-locale-ia
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 681eac3514eb9bbd2f2c77e0d3cbc886
-SHA256sum: 26f316b133b6e6b0cd6f5460e6d8ddd4af1725d78ffd208c9875d588ca6c6387
-Size: 10604
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cf0587ca502486b6a6a1ee5654b31386
+SHA256sum: 448d441a41dee620d5062200fcaff178b39084c3f8fc56040a110c4012f0dc4a
+Size: 10606
 Filename: iso-codes-locale-ia_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ia translations
@@ -1916,10 +2131,10 @@ Provides: id-translation, iso-codes-locale
 Recommends: virtual-locale-id
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0129efb693c4511e519533edde703821
-SHA256sum: 6c2577f6ebae72cca76cfc29ac0d86a4134462c678b37261f2eb0d6bd0c19ffd
-Size: 130916
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 76acd41ff7e62d7058e56b908b6802e9
+SHA256sum: 9d48db5142815252f330dbf756fe42869eb98b5b939e6c7e17cbc423c6870d48
+Size: 130946
 Filename: iso-codes-locale-id_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - id translations
@@ -1934,10 +2149,10 @@ Provides: io-translation, iso-codes-locale
 Recommends: virtual-locale-io
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 42da464a65e7587d84a9fcde46e42afa
-SHA256sum: c730d423ae9088aa55b08cdca44345541da783dc1ecaaeb6b4083b7c7d20e3ce
-Size: 4084
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 29061ae5ff2b4ba5b765ffc894a905cd
+SHA256sum: 61762bcada83521f0b036762c77f3dee648b595da017a0a27476b6455fac597e
+Size: 4090
 Filename: iso-codes-locale-io_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - io translations
@@ -1952,10 +2167,10 @@ Provides: is-translation, iso-codes-locale
 Recommends: virtual-locale-is
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 60b0a250ae6c8f73866eac0cf6c13d0b
-SHA256sum: e2e7b887038df6cd236c9ec00e16d3f68312f223bf0342ac555293609a941034
-Size: 60112
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4d4e9ee58ead1269bd43b5aee8216eea
+SHA256sum: 5438ffb720daf439cf32e3f85175dd7f6706056e90fba6788ec2a4cb1a8c93a4
+Size: 60080
 Filename: iso-codes-locale-is_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - is translations
@@ -1970,10 +2185,10 @@ Provides: iso-codes-locale, it-translation
 Recommends: virtual-locale-it
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f7120f0f1f5244a316bf0c76f000dfa2
-SHA256sum: a01a2ca2a3406718cba30ec563dbed7401bdaaa6982d73cee26b139f60f2f0e8
-Size: 164336
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 621e42e7685ab887b8ab36c0dac073b6
+SHA256sum: 781b0b77a8707bc8ed47356ed5cffd0207eb5c94a17714e9d95c9b844dd227b7
+Size: 164332
 Filename: iso-codes-locale-it_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - it translations
@@ -1988,10 +2203,10 @@ Provides: iso-codes-locale, iu-translation
 Recommends: virtual-locale-iu
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8321a9d039ffda719745f4f0e679fe0a
-SHA256sum: 691fd0b63e7ec2eecc49525462f819e374361ca422fb7da85c7c777fa99dc279
-Size: 1820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d23be757f76a50558017cd95c4b046c2
+SHA256sum: bc7895066a66011a5b777f728833b0b5820b8653a513f087a11890afcd4d3bfc
+Size: 1826
 Filename: iso-codes-locale-iu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - iu translations
@@ -2006,10 +2221,10 @@ Provides: iso-codes-locale, ja-translation
 Recommends: virtual-locale-ja
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4d53b3cd20d33a3c600cfcac98a736ff
-SHA256sum: 398bc8d8198029197a8279adadbc9a7c23966cd06298d6a8e3695cabb3f74e5c
-Size: 58572
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 022296aa840aa8e1772952d1990ca7c4
+SHA256sum: 5fb3be75a713cc6a959b35167795da6245ed23e413a10728096a7ad2fd62509c
+Size: 58778
 Filename: iso-codes-locale-ja_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ja translations
@@ -2024,10 +2239,10 @@ Provides: iso-codes-locale, jam-translation
 Recommends: virtual-locale-jam
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b788c44b13e5f1c4977d9467a0978060
-SHA256sum: 1e238831f11a97d9f95fa566f1c0c1a2c937b72e24f6762fbd5058387ffe0b7e
-Size: 3906
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4a0750edad38c19aa5054a7c6ebfc744
+SHA256sum: 57d8b610dbdddc7213a4fe4527875d3a3e2f5b5a6897675ee77539ad8bf12429
+Size: 3912
 Filename: iso-codes-locale-jam_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - jam translations
@@ -2042,10 +2257,10 @@ Provides: iso-codes-locale, ka-translation
 Recommends: virtual-locale-ka
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f4ab041b678890fedd777a351e15afda
-SHA256sum: 2391c1bedec62894cc0cf64a71b5c3c3632bac526ce08f9ceac1228371ddda91
-Size: 9088
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1258df1650a90a091fa41b0ae259968b
+SHA256sum: 7499f2f297a93e689fd73678b8111d810375be237e5d738f3d77f83486a1f747
+Size: 9094
 Filename: iso-codes-locale-ka_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ka translations
@@ -2060,10 +2275,10 @@ Provides: iso-codes-locale, kab-translation
 Recommends: virtual-locale-kab
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d018f24704619a50e3abb39732ae2fd2
-SHA256sum: 99d197cc629c089eae157665b2bd9122e28e5f79498de84bc04df351b2d6f016
-Size: 5810
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4bd9b86306da3450eb3fbe9d9b210d46
+SHA256sum: 95efdd2c1572c2aee27d0287a1422bce388efd7dcf2169077ecc710e8bb54b5c
+Size: 5812
 Filename: iso-codes-locale-kab_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kab translations
@@ -2078,10 +2293,10 @@ Provides: iso-codes-locale, ki-translation
 Recommends: virtual-locale-ki
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c70ed569801cf7b96d46d26c9fde7c80
-SHA256sum: b523f4f12e769ff6c0445a40f9d46975f3c8ab0b7832008dfe3616aef2a6e20d
-Size: 2668
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d9101741eb70beb52b9256509f9f9503
+SHA256sum: eb007be3185c0f4c8268edbf03c286c33b7e49f6c26884457702570bbc52537c
+Size: 2670
 Filename: iso-codes-locale-ki_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ki translations
@@ -2096,10 +2311,10 @@ Provides: iso-codes-locale, kk-translation
 Recommends: virtual-locale-kk
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d0c1cbe7fc3f4828775b979ac6a7b3e1
-SHA256sum: 15c1a8b03d1a5dd9076916a14fd9c37adfdc3fe388e2b83cd812d29c79112def
-Size: 9492
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 587789c25323d8040d807935dcd1a674
+SHA256sum: 8636c627127ee749d3c862d2f759fa930a99fa0460c78ccb72175730cd075810
+Size: 9494
 Filename: iso-codes-locale-kk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kk translations
@@ -2114,10 +2329,10 @@ Provides: iso-codes-locale, kl-translation
 Recommends: virtual-locale-kl
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 96e5de7342d51e1a89e60ad912f7aa03
-SHA256sum: 244afd35b8e4595ab4c514ec5f9e3aecc7cfcd0be99050bbb4e6d9d199327cb4
-Size: 1264
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c7e036fc0c2a04863b743892cde246af
+SHA256sum: 3746eb8b37f0502114f7d745bf79869bbc7e9fe89b7387763678227f88f068f9
+Size: 1266
 Filename: iso-codes-locale-kl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kl translations
@@ -2132,10 +2347,10 @@ Provides: iso-codes-locale, km-translation
 Recommends: virtual-locale-km
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bc31e6c4311f4d5920628d9b777b650f
-SHA256sum: 4fe0c0ef969af2364ebad25f6a6523e0bca13ece7eeba63267b51edacd3af0a3
-Size: 9956
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0aefe737caaecb0b272999944f63c941
+SHA256sum: e82c4d886486601f8dd941ee5307abe51000528a52562ee2b4a240c315630d17
+Size: 9966
 Filename: iso-codes-locale-km_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - km translations
@@ -2150,10 +2365,10 @@ Provides: iso-codes-locale, kn-translation
 Recommends: virtual-locale-kn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aaebce56b2a01b406f90334210a014c1
-SHA256sum: e71c4221d20410a263e54bd563a55b924a1135ac5f56504909cdc1be99fcce4a
-Size: 107104
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 04c8b56e60482aa72c16f16681fe7a55
+SHA256sum: 191d9a71400004084e2f5a6b6680c1d39c40e731d7980da701c9506d3bbe446c
+Size: 106758
 Filename: iso-codes-locale-kn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kn translations
@@ -2168,10 +2383,10 @@ Provides: iso-codes-locale, ko-translation
 Recommends: virtual-locale-ko
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fad2ca95e30b1730169c6752a7711262
-SHA256sum: 621b3d5b0408689ff475dedcba3a6b7b622a5ebb49aa8409a32e9a4c7ac46ab1
-Size: 23952
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 275228baaebe5efe4d1eb526d9f53146
+SHA256sum: 0570543ab7adc832e6c16f5d79909568417541caefd02c58339fb7aaae27af17
+Size: 23962
 Filename: iso-codes-locale-ko_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ko translations
@@ -2186,10 +2401,10 @@ Provides: iso-codes-locale, kok-translation
 Recommends: virtual-locale-kok
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f72a14e2aea5adfc7f9aa53839911b35
-SHA256sum: ba8d666f17acd8731061f6e3e959a689cbe8e23cf58ec1c98e8a7de6aa078894
-Size: 3886
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 551462a7d56188cdbce15a8052c70828
+SHA256sum: aa4c289279f2e607e9816a9d012f9e88e99eb9e8e5a2e7ee788f8d32232cf72a
+Size: 3892
 Filename: iso-codes-locale-kok_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kok translations
@@ -2204,10 +2419,10 @@ Provides: iso-codes-locale, ku-translation
 Recommends: virtual-locale-ku
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2873639b107b855b3346baae8b5e572e
-SHA256sum: 05fd0e102f636ba4b82f6bdad58361ad2502ef41669d032fb5ed7ff24523b543
-Size: 8524
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ee513b25a5b01b550cf0a4efb1863d70
+SHA256sum: 828ef2a6c1c2b7531d1d1f7ea47ef4e8ef175df0335773cc7451b05de6a88464
+Size: 8522
 Filename: iso-codes-locale-ku_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ku translations
@@ -2222,10 +2437,10 @@ Provides: iso-codes-locale, kv-translation
 Recommends: virtual-locale-kv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6666cca69311c78b5f209e1c409e8a78
-SHA256sum: fa869571d49e1bf0d7cc834f8a3d7f88c4552423f5146e2dbf5e0d68fd934671
-Size: 3284
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ecb69d9304b93ac1cae1d540e9b3193c
+SHA256sum: 3464c99f75154d3a3b97cd4faeb8dfada07cee637bad784a6b5bba855e1e7fa7
+Size: 3278
 Filename: iso-codes-locale-kv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kv translations
@@ -2240,10 +2455,10 @@ Provides: iso-codes-locale, kw-translation
 Recommends: virtual-locale-kw
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e819bad6b8cdf996e93327ba9c665958
-SHA256sum: c865c63d8c75c5131dfbb7de2d823e716a0c46ebcf519b32e4e694e33fa88d44
-Size: 4300
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 62f533792b26319d62f183658aef6a01
+SHA256sum: af1d46c524c524a4740c86455e8431e45e4b700f5188ef73e9337f2c25937918
+Size: 4308
 Filename: iso-codes-locale-kw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - kw translations
@@ -2258,10 +2473,10 @@ Provides: iso-codes-locale, ky-translation
 Recommends: virtual-locale-ky
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e5ffb71ae94c5a39b7f73c503178b748
-SHA256sum: b834a81a6d319232bfd74b51902562bd6e8e4ebb3cd6c22f507c1aa57f24f5d5
-Size: 9100
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 73111f10b788db5e08631cbe95d76c75
+SHA256sum: 7395a8bfd4a0befd1942e11c45bff79df6b41bb870df53ac1fc337a79c030af0
+Size: 9106
 Filename: iso-codes-locale-ky_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ky translations
@@ -2276,10 +2491,10 @@ Provides: iso-codes-locale, lo-translation
 Recommends: virtual-locale-lo
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 81f72a2ff34673af7e17ef8e0bdf4e95
-SHA256sum: a2ea5291d1560648242174cbe4561ca2d8701532ffc9a0ed9b012613551cbbb6
-Size: 2868
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0d9109ba28c60d2627a46c231ba25e70
+SHA256sum: 57d9bb57adccdb84be9ea28ed1858c935e0526bb7b0f1a3c977492ead3dc3e35
+Size: 2852
 Filename: iso-codes-locale-lo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lo translations
@@ -2294,10 +2509,10 @@ Provides: iso-codes-locale, lt-translation
 Recommends: virtual-locale-lt
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ea18482914ac55a3002c83b1990f2417
-SHA256sum: 8b5f7d708146e0bf919d0c5d44601cd8f98d4fe98bf16efdefb9b055d7f002dd
-Size: 55228
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: da483bf710cc7618972ff59bbc3ff667
+SHA256sum: 21a18cd3ddc59083eddee750546de1d9e819f669a7c8334bbbb248b4f166d8a2
+Size: 55266
 Filename: iso-codes-locale-lt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lt translations
@@ -2312,10 +2527,10 @@ Provides: iso-codes-locale, lv-translation
 Recommends: virtual-locale-lv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 45cc3ce795882caef295ba6c598de5dd
-SHA256sum: 6aa4c2e2444c6edf3b4192e64ea6c32dc2ebf48c16275742676759660bee67ed
-Size: 23212
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: af14618d40ddca9dfcc2c0f835a0a22f
+SHA256sum: 5cfe2e85b715709daf7d312089e015c59b6c89195a2a8d284dc3e45908f2c936
+Size: 23218
 Filename: iso-codes-locale-lv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - lv translations
@@ -2330,10 +2545,10 @@ Provides: iso-codes-locale, mai-translation
 Recommends: virtual-locale-mai
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f027ecdc8aa85fd0cd75cde5d9d00671
-SHA256sum: faf1777f8be9b4c45dcf66e817bb04e9cc307f7764596805bd81d74eb825d78a
-Size: 2658
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ffb8f6d045ed3ccc8811dbb5d137f397
+SHA256sum: c9b81d682aedf0b107335ff3721ad944ea51cb2cae4b892e100ccc536e185eb9
+Size: 2660
 Filename: iso-codes-locale-mai_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mai translations
@@ -2348,10 +2563,10 @@ Provides: iso-codes-locale, mhr-translation
 Recommends: virtual-locale-mhr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 853b4a86b60f112f4565adc3e4efd161
-SHA256sum: fec7520c323f8e3b46e62c1147bc19da9c6dfd2cc14d083ec3870bed45a71e61
-Size: 3242
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cc3354137e453151f77b7e2ed8f1a6bf
+SHA256sum: 025849fea9a1b0e2945d7a2370cdd9f83817d720285c4e05227807244ebffcec
+Size: 3244
 Filename: iso-codes-locale-mhr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mhr translations
@@ -2366,10 +2581,10 @@ Provides: iso-codes-locale, mi-translation
 Recommends: virtual-locale-mi
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 80504c1268ca5313417940208af7aa63
-SHA256sum: cbb176e0182f74dcc9dda3672071b8be386d8269fd418e44222d39ff5fc4267f
-Size: 5208
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: acb7b7db2679ddefcc56a091ccde671b
+SHA256sum: eb4c2874f136dfc0a075deafc64d73c28f060a11dad4050663d6b01829c22537
+Size: 5214
 Filename: iso-codes-locale-mi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mi translations
@@ -2384,10 +2599,10 @@ Provides: iso-codes-locale, mk-translation
 Recommends: virtual-locale-mk
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 97daa064302e9995ae34224bdd3a896e
-SHA256sum: ec346ba756369e5dd01713bac18d26eee83a6a83c30bc1629451a1135a90683f
-Size: 10052
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1ff636e8e56a9e4683adf753e9d88411
+SHA256sum: 8a78b615d03c23f64346ecdb17efa4c34337ae5e98978b607b853b52ace72fc3
+Size: 10054
 Filename: iso-codes-locale-mk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mk translations
@@ -2402,10 +2617,10 @@ Provides: iso-codes-locale, ml-translation
 Recommends: virtual-locale-ml
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c15a319834479b289d88245678548897
-SHA256sum: 34f27a4fa6b3b16dea9e63e431732f75f888b09bb2bc26827595f38db9d26c47
-Size: 18456
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8a046f8bddebdb9fa8983dd0ea70d9db
+SHA256sum: ff59eb68f4a4569ef98c6870098db59336e2478c94bd5ee8907106bc5288710a
+Size: 18418
 Filename: iso-codes-locale-ml_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ml translations
@@ -2420,10 +2635,10 @@ Provides: iso-codes-locale, mn-translation
 Recommends: virtual-locale-mn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 91da02c76ed029fcef6df24d2cc8df11
-SHA256sum: ad28f148333fe31dacb4198b61dab50d0dda9491a3f798474884ae8e13736f83
-Size: 8888
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7d802853f65095f7e35e803c907f980c
+SHA256sum: 6f4448ad523b5e12f34149020c643f81c42cd5eb333a18c3761b68b690945a66
+Size: 8918
 Filename: iso-codes-locale-mn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mn translations
@@ -2438,10 +2653,10 @@ Provides: iso-codes-locale, mo-translation
 Recommends: virtual-locale-mo
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 65f6e2c319bff2ffbe40521f4f391c03
-SHA256sum: 37824b375f401bc4dcad50920cabc3962fbc9513be1a1823b595daf9564e3a58
-Size: 1840
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9af099df95a552b1611c72240c14e354
+SHA256sum: 8e28312e4c64ca9a93eb8e4c3daa07c230c79143511a2812b57709e42860b5c3
+Size: 1846
 Filename: iso-codes-locale-mo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mo translations
@@ -2456,10 +2671,10 @@ Provides: iso-codes-locale, mr-translation
 Recommends: virtual-locale-mr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 792305fe3cdcb0d96dba84d9fcedfea2
-SHA256sum: 5db7a66b135024edd73580ff541fc993c95de814e6372f4de5113f011411ce2c
-Size: 120604
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e0320da5cf8c93c56e30b66817fd59d5
+SHA256sum: 48804db33ae75417136f502bfb596a21703a589c3200a088f50292c5730e1064
+Size: 120610
 Filename: iso-codes-locale-mr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mr translations
@@ -2474,10 +2689,10 @@ Provides: iso-codes-locale, ms-translation
 Recommends: virtual-locale-ms
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 69a10098c63735eb4378c42bc0f8403d
-SHA256sum: e6bda34302e708f71cc7fc59e885beb8c5e9ad049f36eb8c0375a84b26ac89d2
-Size: 5624
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e7fd7de1d20be9923f320ad1cb463343
+SHA256sum: c3c9b63f1c54416c42ec3c275808d2d456301af621c930ef1f0c636f7530ac58
+Size: 5634
 Filename: iso-codes-locale-ms_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ms translations
@@ -2492,10 +2707,10 @@ Provides: iso-codes-locale, mt-translation
 Recommends: virtual-locale-mt
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1ebbb333596ab0ec5e7ead7bb93e7783
-SHA256sum: 566df868ccb184de5d4a82eddeb52821fdd42b6860288125cc0a5042b22924d8
-Size: 8588
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 523d0a005a9acb8b18f53ca2be02fa3e
+SHA256sum: 8d903d357c1f02d045ec8817be6f3cb75720c7722847b161efc1cdc5e133d5c2
+Size: 8538
 Filename: iso-codes-locale-mt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - mt translations
@@ -2510,10 +2725,10 @@ Provides: iso-codes-locale, my-translation
 Recommends: virtual-locale-my
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8b6b48067044f875e4e0edef738ae035
-SHA256sum: 7ff5f04b9b465532b38deba118fce5b93a851064e94a34bcf9c953e157b84a20
-Size: 4776
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 63b0a638c4a8de13d7d4aa42854bd97b
+SHA256sum: 92468311fc9302c46ad6cf18809018fe48fca174893db40c9917abb30772dfc8
+Size: 4778
 Filename: iso-codes-locale-my_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - my translations
@@ -2528,10 +2743,10 @@ Provides: iso-codes-locale, na-translation
 Recommends: virtual-locale-na
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: abf6067e6710556af741fe3dd69e97ef
-SHA256sum: 636352ebfe3e6bc584777e3567adf34efffbc7f0ebaf4db6b22ef0fc69209668
-Size: 3448
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4684e2fdf42414f51b80bdb7f2722832
+SHA256sum: 1ab61ed558ec48f91c2b1d5ccbef81de9b82fc648f7385775d4c302248eff33e
+Size: 3458
 Filename: iso-codes-locale-na_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - na translations
@@ -2546,10 +2761,10 @@ Provides: iso-codes-locale, nah-translation
 Recommends: virtual-locale-nah
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4985113d0a85b672c39cb4b7b9bac7ec
-SHA256sum: 6378b81e748a9f495d68bd28c439308a7d9118c3b5b677e631087de1a05090bd
-Size: 3890
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6494e9ac46aa1d8fb6f42957791ebb4f
+SHA256sum: a9416d510180eb208417baceb9f879945c6587d94b2670658b16ab5105b46df6
+Size: 3892
 Filename: iso-codes-locale-nah_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nah translations
@@ -2564,10 +2779,10 @@ Provides: iso-codes-locale, nb-no-translation
 Recommends: virtual-locale-nb-no
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1f6bebbfc526d939e3ff45b0a0a73133
-SHA256sum: 9dec1057fefcb2f6c6ee43ac3a83403ad886557672f721a1afda2c427d68ce21
-Size: 1638
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5619b283283d449b86e890ec08ee79f7
+SHA256sum: 20c72f7ffb5f58d17b218bdd33b2e5a9f5454cfb52826e71c5cd33eed84d374a
+Size: 1644
 Filename: iso-codes-locale-nb-no_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nb_NO translations
@@ -2582,10 +2797,10 @@ Provides: iso-codes-locale, nb-translation
 Recommends: virtual-locale-nb
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 43bf430eb437589d094124f1aa573631
-SHA256sum: 10b34c485459e4dd55f9b3b88f86faec7dcbf6def7f54e6869b2ac404a6e58f0
-Size: 14736
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2c57ca8ab2b87833b3127abce30e4126
+SHA256sum: ed95af6695df2b9de014f808606440d44a73a35b1020e953c3c100bc6631a691
+Size: 14766
 Filename: iso-codes-locale-nb_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nb translations
@@ -2600,10 +2815,10 @@ Provides: iso-codes-locale, ne-translation
 Recommends: virtual-locale-ne
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6653e7e8aac118dfe8929ba8aeb8b93d
-SHA256sum: d2476793854b09879655bad42ddc8e23ca57d5ae44da307083252b881ba27376
-Size: 9604
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1c3ce55aa34b8992a8036180f5252749
+SHA256sum: 71ad5d43bb558984619c781a7ace4dd7c5a04a6dc6f436807bdb33a62241a738
+Size: 9614
 Filename: iso-codes-locale-ne_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ne translations
@@ -2618,10 +2833,10 @@ Provides: iso-codes-locale, nl-translation
 Recommends: virtual-locale-nl
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 98ef72f1f7a6614e617fd7e242a74ed5
-SHA256sum: 3febe7ee38dd7410b1a9e25ad8e47b7bc3b8a728b9112905b9976eef999d7d9e
-Size: 92328
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 692b0babf6c5c95d816baae6562262f5
+SHA256sum: 0dc732b565fd774b31a25f2629a259bec74422cccf3a56593b0ab3f962d94329
+Size: 92294
 Filename: iso-codes-locale-nl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nl translations
@@ -2636,10 +2851,10 @@ Provides: iso-codes-locale, nn-translation
 Recommends: virtual-locale-nn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b735ed2a2d0b9e67954c12e5e30d833a
-SHA256sum: b5e39930d216df94d0d23b5b7976dbe7e7106c879fa03b31fcb5518cd934e032
-Size: 15116
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4d9cfae695c006a57db9ad5673baec2b
+SHA256sum: f515db18599c356deb804f2287fb31d8c226d12c13e52d1de6da2f753b46dfb2
+Size: 15118
 Filename: iso-codes-locale-nn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nn translations
@@ -2654,10 +2869,10 @@ Provides: iso-codes-locale, nso-translation
 Recommends: virtual-locale-nso
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0df32508df4a8771b79dde8f3d0b1e18
-SHA256sum: c60e544c5abc93441b6766d88287250fe964b6e37c5d87ed04f9ba65570b8ff4
-Size: 4490
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b96b593e6756c68508e321eb37fb5e1d
+SHA256sum: 0f8f1e99c93e2a6a8bee087459978c16a02008842e3bf205a4d5d7528730ead5
+Size: 4486
 Filename: iso-codes-locale-nso_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nso translations
@@ -2672,10 +2887,10 @@ Provides: iso-codes-locale, nv-translation
 Recommends: virtual-locale-nv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1374915c2594b6e1d551a4f886cdd122
-SHA256sum: ec2c1d2c01691aa44085e0025ae946c4c85fd796f74ddb0ed8077654ab0128d7
-Size: 3292
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bca028e74bd4f2a2eb8f63f39d529c78
+SHA256sum: d76c23caf1fc808fe41da35aef47fa0657bc1050eee0809ddad2522844b305fe
+Size: 3298
 Filename: iso-codes-locale-nv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - nv translations
@@ -2690,10 +2905,10 @@ Provides: iso-codes-locale, oc-translation
 Recommends: virtual-locale-oc
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 48b2d4bcfa5e8d67795bb31143d78ee6
-SHA256sum: a869e6f208fcca26cbcc15b690297c30866db93708962a821bac95b1b8d8caf3
-Size: 12020
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e4b0be2917077449f03da58b50f7b994
+SHA256sum: b9b314a31e6091795b4f78a3ab3d67f76ecc5524d156a6d1247f1f3069244976
+Size: 12018
 Filename: iso-codes-locale-oc_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - oc translations
@@ -2708,10 +2923,10 @@ Provides: iso-codes-locale, or-translation
 Recommends: virtual-locale-or
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 93917ad56614c850ff471ff4bd911c07
-SHA256sum: b0013efc8d2ba36f46aa2b69a46e0857f610df0fe8fb911c59971f1a98ed6736
-Size: 69152
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d1eb4c4ea996d10f626cf9f6449c592f
+SHA256sum: dd6ac4a7cb134f96f518e9ab9bb19e3200285864dd3d942e819c11ec55836edd
+Size: 68688
 Filename: iso-codes-locale-or_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - or translations
@@ -2726,10 +2941,10 @@ Provides: iso-codes-locale, pa-translation
 Recommends: virtual-locale-pa
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: da1184f404299817a9829a9502c80274
-SHA256sum: 166ad4e82131a229268b7584f577225a0133188e36e5be6dc190fbaa5237cf03
-Size: 116428
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e1317b2d4de952385df9bff7ace97749
+SHA256sum: 6c4bd931d199c0febd89622f63e2aa2eaf1a3f3d23e2bdfb1b311bab5b8d825e
+Size: 116430
 Filename: iso-codes-locale-pa_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pa translations
@@ -2744,10 +2959,10 @@ Provides: iso-codes-locale, pap-translation
 Recommends: virtual-locale-pap
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 689533d5e082a5e396bd42f30836d7f1
-SHA256sum: 0bbce4816761eab66553dde0155f360fc89eb533a670ee17d8505c32da8c8c52
-Size: 1262
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4f8e92c84db3144071a6391b8f5aff6a
+SHA256sum: f3b54e3b66d2b885517cb8a516cda39207b5a33227be345a9e57f8c72e732778
+Size: 1266
 Filename: iso-codes-locale-pap_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pap translations
@@ -2762,10 +2977,10 @@ Provides: iso-codes-locale, pi-translation
 Recommends: virtual-locale-pi
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ccfb39eb641e4400d02c64e9afebf7ff
-SHA256sum: ddc340faf854a2ff8ff2bc301d5e89a1d948ea94be2949997d700dff4d88ad56
-Size: 4056
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 41adf5e5983d8b94b1621a6940c31c44
+SHA256sum: 6031f84366fedf24468a70d4e4d27b844e4f557c57d1dedc0fb9de0e3e76ed72
+Size: 4058
 Filename: iso-codes-locale-pi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pi translations
@@ -2780,10 +2995,10 @@ Provides: iso-codes-locale, pl-translation
 Recommends: virtual-locale-pl
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e0a2a85e078e4fd54e9651e64ceb2d35
-SHA256sum: 9b3dc2bd038c06e834d5a9d8322df44f375d8dec38e5239098c03d88af0b58e5
-Size: 114032
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1fa1823b9fbfcade4618b535865d3b3b
+SHA256sum: fdbcdc09902e340618833b341f76f6290e902e187fb83cda4f014a9ba50b4cfa
+Size: 114218
 Filename: iso-codes-locale-pl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pl translations
@@ -2798,10 +3013,10 @@ Provides: iso-codes-locale, ps-translation
 Recommends: virtual-locale-ps
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2133ae6ace59887f23e17b917fb8bfb4
-SHA256sum: 231ba7c8ec00be4345c05bec5edec76abc52108e0f15e5a87bce17c8a7ddec6d
-Size: 4400
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 98a625099d94900a1da2fa778686e54d
+SHA256sum: f853268cb05981558bc0e9fdec99d5bb16542c4ab0da17d17ddb7f33410c511e
+Size: 4402
 Filename: iso-codes-locale-ps_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ps translations
@@ -2816,10 +3031,10 @@ Provides: iso-codes-locale, pt-br-translation
 Recommends: virtual-locale-pt-br
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b2d69c721b7cf68dc0036457b267bf0d
-SHA256sum: d697c88034104a59c2ff0b309e09ad97e63f14ad978b9ae4cfe39be6b3c2e234
-Size: 24938
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: c0d48758166437b85093b0a109fd53d5
+SHA256sum: 8ab49f6a4e48d7072c7e632a623613cebea2ba0fac62dbee2a2c1b59106f31c7
+Size: 24932
 Filename: iso-codes-locale-pt-br_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pt_BR translations
@@ -2834,10 +3049,10 @@ Provides: iso-codes-locale, pt-translation
 Recommends: virtual-locale-pt
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: cf37486998c05a556d37f6aabc1fc9f0
-SHA256sum: 882e2151ea051ce4698fe432dc7805d918fae693707d5b30c036a56336224f07
-Size: 18736
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 533d638aecbc9d4ce23f92ca6be17d28
+SHA256sum: ca404c502f2ddceba5adaa8122c0f2223edcef5f375ec88fd5d708eae6491ab9
+Size: 18746
 Filename: iso-codes-locale-pt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - pt translations
@@ -2852,10 +3067,10 @@ Provides: iso-codes-locale, ro-translation
 Recommends: virtual-locale-ro
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d5641dbd698ff230e31855f21da0ed78
-SHA256sum: a47abdc34ec181d5b7390d0c226dc47801ce5c8a284691ac791bb5c3303af8aa
-Size: 29132
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 40897e9d9b07f179ca29de3ce3596655
+SHA256sum: bbde170646736ab53a539988acc1b2c1c6d2f4f986fd608a506509e369f3c8e4
+Size: 29094
 Filename: iso-codes-locale-ro_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ro translations
@@ -2870,10 +3085,10 @@ Provides: iso-codes-locale, ru-translation
 Recommends: virtual-locale-ru
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: bf148dccdb95346d2f86069af2ec305b
-SHA256sum: 2aedfb6ce9b5c3b08a75d8ceffdaa3e4bc137140424cb03505e222cc9a8f03fa
-Size: 27568
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2bba8bd3b0d1ce8287c39560b7136a3b
+SHA256sum: ae337ce73084b4914ef5cb12e7af46b5c3947ea6102932a3d694aa6c16356efb
+Size: 27570
 Filename: iso-codes-locale-ru_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ru translations
@@ -2888,10 +3103,10 @@ Provides: iso-codes-locale, rw-translation
 Recommends: virtual-locale-rw
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5b2283dffcbddd217c109c244fe274d1
-SHA256sum: a3e4c04174ef75843c98df332ccbcf70fd5364e73adefa7b68883bd24c3afd28
-Size: 16116
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f41de4ea9bdf384d392d49c98aeb8026
+SHA256sum: 4821c53a119aab71128d01e2bee983df447e36704fea02bee6647cd88a1cb706
+Size: 16258
 Filename: iso-codes-locale-rw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - rw translations
@@ -2906,10 +3121,10 @@ Provides: iso-codes-locale, sc-translation
 Recommends: virtual-locale-sc
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 702b4d520ae23e794da2413247da305e
-SHA256sum: 0f08679aac167e579aa2abecd7d01bdcbf7d7be2490f8a65dc62b444cc38cc52
-Size: 61580
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 00f44f4a6adf815fa5789a0af791aeae
+SHA256sum: 0ba0cf225d06f4e5d53354a81a13184950522a45c5bd390a1cdb12a4ef87e4db
+Size: 61424
 Filename: iso-codes-locale-sc_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sc translations
@@ -2924,10 +3139,10 @@ Provides: iso-codes-locale, sd-translation
 Recommends: virtual-locale-sd
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f2fb7862f8ae669811ac1089e3b20cd5
-SHA256sum: 8842786df8034e5341185483d1723588d52ffb7022840d4afc8485f39230cf36
-Size: 2572
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 150fc20fae4f7a748c70c03a60433511
+SHA256sum: 9e1c1092a9573d1d9fdfc58fced6938c96b6a47da2c18f35ce54b48debaf40b5
+Size: 2574
 Filename: iso-codes-locale-sd_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sd translations
@@ -2942,10 +3157,10 @@ Provides: iso-codes-locale, si-translation
 Recommends: virtual-locale-si
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2aa5b4ac2df229ec210f354977505601
-SHA256sum: 9d70f528881714e2b61e3a23fae6f44b6e199f109639939177d52f14bd2aaa4d
-Size: 9588
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: eefdd992b54a1b6ad7701ed83127df2b
+SHA256sum: d9b4f67081ae5ea0966ef1fc62a88f3c65f96c0aff9041992a2dab5468e61a62
+Size: 9590
 Filename: iso-codes-locale-si_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - si translations
@@ -2960,10 +3175,10 @@ Provides: iso-codes-locale, sk-translation
 Recommends: virtual-locale-sk
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 384545b3eff2d211904e7eeb59f870be
-SHA256sum: 418abae67bc74dcec8254a106e920fba90729638a7fecb14c8321d151fad9226
-Size: 25556
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e3bdc9ce1f15824242028ff19e717bbb
+SHA256sum: b50fad267c8b1b5c65b2c7bc2f6030b38b3ba25092969b8999ff8702d3a4cfa4
+Size: 25562
 Filename: iso-codes-locale-sk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sk translations
@@ -2978,10 +3193,10 @@ Provides: iso-codes-locale, sl-translation
 Recommends: virtual-locale-sl
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c457f1042332546c8966fdaaa02dc997
-SHA256sum: 09965cf54fce20beb5133853a655f75569a1338a938b941302fe148018d7c940
-Size: 45592
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 94e57f287749944a8c467ad9c36b6940
+SHA256sum: 22f64d24acc05dca35e19ab883f9ea25a326817c925e74e7edabf218461c870e
+Size: 45534
 Filename: iso-codes-locale-sl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sl translations
@@ -2996,10 +3211,10 @@ Provides: iso-codes-locale, so-translation
 Recommends: virtual-locale-so
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2690b62381b58993cab2a3b2dc132178
-SHA256sum: ed1b6d8c9dc854261a2c6d69480eb6ad979011c56262af5931d23b7a3bc7a631
-Size: 3396
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4f712ce5a078ec816e01d85f76b71e97
+SHA256sum: 938329265a0d0ecce83e1875f963f0077d72d5d311219a0fc39f76b18915c857
+Size: 3400
 Filename: iso-codes-locale-so_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - so translations
@@ -3014,10 +3229,10 @@ Provides: iso-codes-locale, son-translation
 Recommends: virtual-locale-son
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 51faddde48c0b6cc6f658e7901243653
-SHA256sum: e00b2ed3b1020afd3d2c3f3a11c50f0d84a451371673509d4719fedb106982f2
-Size: 4518
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 213219f872cff97ce0ddb0fc6b955be8
+SHA256sum: 484f0a9ec7803c8a62deecbfb15741f4ed288697e1d2d16abf1a2014661abab1
+Size: 4488
 Filename: iso-codes-locale-son_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - son translations
@@ -3032,10 +3247,10 @@ Provides: iso-codes-locale, sq-translation
 Recommends: virtual-locale-sq
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2b8102d9db74bec69d7ce3794d61cbef
-SHA256sum: a95ed33240575fc1db19c9a930ee51b3da6e2e4a2ac3d84dc555eedc85356b49
-Size: 9022
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ccb86ca35ced146d0deb287b65646e93
+SHA256sum: b292a67d6a0c34d5265b2bf5517b4f6a7c2747673609b4709fdada425b07c42d
+Size: 9038
 Filename: iso-codes-locale-sq_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sq translations
@@ -3050,10 +3265,10 @@ Provides: iso-codes-locale, sr+latin-translation
 Recommends: virtual-locale-sr+latin
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 765875e8c28046deacd3541d65473ebc
-SHA256sum: 8759ae1ac76384c5c61be06d4d70532b78111728179f132d333b52e6d4c9c663
-Size: 67906
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d2d066061c10fb5ad2fee86ed8365db9
+SHA256sum: c2c130575422ee053f6afcb78d8bc9678ad15ff48ff8c78cf4f84cf953a2831a
+Size: 67804
 Filename: iso-codes-locale-sr+latin_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sr@latin translations
@@ -3068,10 +3283,10 @@ Provides: iso-codes-locale, sr-translation
 Recommends: virtual-locale-sr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 31357410dd515fa7fef29b0908d899e0
-SHA256sum: e4a80945ae96f597e9d24356fac45c295a326ebfbb56e1310024267982752eb2
-Size: 78794
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 28eba6da7bb97374402cfe319ffa76fa
+SHA256sum: 05622448eb69ed7c7857ef2d9eb12dbec3d9314ed66e6f2c46b3d81d9229e5c3
+Size: 78684
 Filename: iso-codes-locale-sr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sr translations
@@ -3086,10 +3301,10 @@ Provides: iso-codes-locale, sv-translation
 Recommends: virtual-locale-sv
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 98b5dae92a8f2dd81a3f8de3639b0f7e
-SHA256sum: fb3a958a78c8a1c8c1bf2270e0c8fed72018008ce665bf840ff4e0a89044e8f7
-Size: 157732
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0956774cd746ba9f46569bc5124c7c46
+SHA256sum: 9a6c63929f3e017a1eaf3ab02db85b3b562ece9cca8c4e95fa703f16c7e19981
+Size: 158908
 Filename: iso-codes-locale-sv_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sv translations
@@ -3104,10 +3319,10 @@ Provides: iso-codes-locale, sw-translation
 Recommends: virtual-locale-sw
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c9c7a3072d2e5e28fd05319a8225b738
-SHA256sum: 95c10c9d9c6f03e579ebfbc5003c96416113367243989d1644b2e0b37473fe5e
-Size: 3550
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 50eee912f724b2ac4035ab2b74e233fa
+SHA256sum: 035b85d5f3052a90d2aef711f4693ff5b03ab071b2200ff0d7cd381f85a1f5e7
+Size: 3554
 Filename: iso-codes-locale-sw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - sw translations
@@ -3122,10 +3337,10 @@ Provides: iso-codes-locale, ta-translation
 Recommends: virtual-locale-ta
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 05574028b43bf79002dd6d2067a3899b
-SHA256sum: 7f9b6c9cdf7b11a4ffc3b06d785ca06565fba326c21843cb95833b84bc23c2b6
-Size: 117628
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 84d9ba8253d1b22b6b7135a54953f01b
+SHA256sum: 22fcbd31b7489040506c8810113a5b4e32672f7d458095472872d15f561f010a
+Size: 117596
 Filename: iso-codes-locale-ta_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ta translations
@@ -3140,10 +3355,10 @@ Provides: iso-codes-locale, te-translation
 Recommends: virtual-locale-te
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d79204162b8fcd0339eb33edb62280ab
-SHA256sum: 1e58b6ddf3d249c2627b005cc3d3c7580a4145a64ebcadda39806d9515b84118
-Size: 18376
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 149ac319ceef550c84e8e4259ce21190
+SHA256sum: d429708c099b3e4e554af055e756e3817c32341820b635ef6eefab7579e22fda
+Size: 18300
 Filename: iso-codes-locale-te_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - te translations
@@ -3158,10 +3373,10 @@ Provides: iso-codes-locale, tg-translation
 Recommends: virtual-locale-tg
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0c4544edbf90a8e4aa259456feaa465f
-SHA256sum: a5b6c30f72718e2ce1686b5bdac3d6b69f964bb4252e68033552f31daf622a4d
-Size: 10328
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 13fab5faf4c977737cbef68fba478792
+SHA256sum: e56a26a8ba782fc8799ed18a3e87a147f56abc13e106f282114d2ef55d2321b4
+Size: 10342
 Filename: iso-codes-locale-tg_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tg translations
@@ -3176,10 +3391,10 @@ Provides: iso-codes-locale, th-translation
 Recommends: virtual-locale-th
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 9e78e7e87e8daa03ebacce50d3f261b1
-SHA256sum: b658fdf9a968a0d2a728002363699d3f7c4ea7e0d82e28b905c7547a363933c7
-Size: 57616
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b164d64dadf381dca9ee4f1e9aaa1816
+SHA256sum: c20c388064bac7c7c407134867e5442a3870cbf08d89b27a95f9894f727a236b
+Size: 57532
 Filename: iso-codes-locale-th_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - th translations
@@ -3194,10 +3409,10 @@ Provides: iso-codes-locale, ti-translation
 Recommends: virtual-locale-ti
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fb1a2a6ffcc350861e392d6e1a5a80c0
-SHA256sum: a867172518bdda2c0815d88aa75871b367a106bab35ba474cbaed4480c87f5b4
-Size: 6064
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 3dc00cab57fe9b2e1e18257580530540
+SHA256sum: 6b66ad9487419fce42c21190af297bd4aff0b3e216ade38351f6584c9324c863
+Size: 6038
 Filename: iso-codes-locale-ti_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ti translations
@@ -3212,10 +3427,10 @@ Provides: iso-codes-locale, tig-translation
 Recommends: virtual-locale-tig
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 05ecfb5efc36c1685b184de1dfdddf49
-SHA256sum: bd26e617d70c532ec52adf2b84139511ad9eff0a649c9314ef7377aac2c20b75
-Size: 5590
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 33708e10e42c1b8966ac840c0eb3433a
+SHA256sum: b2f977bcc0099b87158c491f1f057283be53176890d5a1673f990e207b6c8d6d
+Size: 5596
 Filename: iso-codes-locale-tig_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tig translations
@@ -3230,10 +3445,10 @@ Provides: iso-codes-locale, tk-translation
 Recommends: virtual-locale-tk
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 991792fd28e6ddfcf95c669143187156
-SHA256sum: 91f4aba0c13a1f987184a707ef8b0827dd77192fd8d6c6f328d071034841dc53
-Size: 6436
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1120a62f7c2d3055a0220698eb59f217
+SHA256sum: 5d6c796b5440d51fd8289c7634e9d0453c17446b843d69ceee6fb023f3c9d494
+Size: 6450
 Filename: iso-codes-locale-tk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tk translations
@@ -3248,10 +3463,10 @@ Provides: iso-codes-locale, tl-translation
 Recommends: virtual-locale-tl
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3796713e14707ecbd2b631a615b911b6
-SHA256sum: f6dbe01c021bd6f56651003e4ea5b1f4e91e1a3eeeddd289796f9b09a98adce7
-Size: 6784
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a02ac18d111cfae87d1d123ed86c0aca
+SHA256sum: 6eef896e07ca6175a849e96fadeb503ca91a6de1748397374db9df18d90bc8f3
+Size: 6782
 Filename: iso-codes-locale-tl_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tl translations
@@ -3266,10 +3481,10 @@ Provides: iso-codes-locale, tr-translation
 Recommends: virtual-locale-tr
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d34506fe7785444c77bf84742621f65e
-SHA256sum: 7902da4ba0684a41d44af873c612a0a46b595651106012b085582ce409a5bd10
-Size: 120228
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 18786c245d0c73fe6e5ebbbc9a132e1d
+SHA256sum: 06c0c80ba524d1df8a9cb60573157f4d8099757c559e67417e32f2062b37ed8a
+Size: 120608
 Filename: iso-codes-locale-tr_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tr translations
@@ -3284,10 +3499,10 @@ Provides: iso-codes-locale, tt+iqtelif-translation
 Recommends: virtual-locale-tt+iqtelif
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a75c1638854cb9cdbb5c5fa1274075b8
-SHA256sum: 08ab673a0e48f85f75b49f827045be4848bab33bf7752114c3980e3b10e39e37
-Size: 9094
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4e3ed56c61ddffb6b3c811207fa1b07a
+SHA256sum: c89601d0d8a4262e23305f0544bc4a91abd306098f54c4aeee794efa7d2a6254
+Size: 9104
 Filename: iso-codes-locale-tt+iqtelif_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - tt@iqtelif translations
@@ -3302,9 +3517,9 @@ Provides: iso-codes-locale, tt-translation
 Recommends: virtual-locale-tt
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e13d8c813d9b0240b9e99ff312316c86
-SHA256sum: 8d3857f98f0d85c49fa8290aa04ffa6e2c941ce0c1f7d170079a3d7bb9a7bbdc
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 863df821284b875979e48c6e26f6c3e0
+SHA256sum: a055e4b739f8a71b3447a87b0ddc1a858171dbb12375b3778dbc18db395a0257
 Size: 10396
 Filename: iso-codes-locale-tt_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -3320,10 +3535,10 @@ Provides: iso-codes-locale, ug-translation
 Recommends: virtual-locale-ug
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 243e171f7c824be503007807b57b98c4
-SHA256sum: 0c59f11b4f361ccb2063deabdc80e344654406d077ecda0634867c19731bc1bf
-Size: 9680
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 41495fff2e01da03bcc9219c62fbcbba
+SHA256sum: 7c3dc8c517e64b3bc98e283ce733dda2f48185cb4a80efd950929eeb22f59ad0
+Size: 9684
 Filename: iso-codes-locale-ug_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ug translations
@@ -3338,10 +3553,10 @@ Provides: iso-codes-locale, uk-translation
 Recommends: virtual-locale-uk
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: dc10d0f5b0c43ca4d8123ce263d233f2
-SHA256sum: a5e36c79cbfb821e6c3da034dd7a5b949c981f5506c94b44d02e6a3f441cc9a0
-Size: 223312
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d48e5cdf3299f52f1f2109b25db4091d
+SHA256sum: 79845fda9b236bcf82936c0874da9aab690f351263fe7f7458c9ca846163e73d
+Size: 223234
 Filename: iso-codes-locale-uk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - uk translations
@@ -3356,10 +3571,10 @@ Provides: iso-codes-locale, ur-translation
 Recommends: virtual-locale-ur
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6537c1bacdbd1078e94585e0526385d1
-SHA256sum: 4472b1428911c96056646f31978cd55c6c1646f382f469669ce6d5a914774638
-Size: 5206
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 19c3ef58c38312f49fd458086f152c63
+SHA256sum: 7e4cb3ac3427f70ed621c9318b8f5c276aeb9d2dcb195edb84b38a5614aaf49f
+Size: 5216
 Filename: iso-codes-locale-ur_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ur translations
@@ -3374,10 +3589,10 @@ Provides: iso-codes-locale, uz-translation
 Recommends: virtual-locale-uz
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fa2fedf7d8c7ad2abb5bfc81fba583ad
-SHA256sum: 155d107fe9b862f4aab4a6a5cf7a2d74fb5c252b1b2e34f740c4e35f6a8eface
-Size: 4086
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 49175e6ee45703de4c8b9db476ea2df9
+SHA256sum: 0013a2fc062cf95b7e8b2588c023c2552be89ff6b3fc6b99056f333aedcdc1ad
+Size: 4090
 Filename: iso-codes-locale-uz_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - uz translations
@@ -3392,10 +3607,10 @@ Provides: iso-codes-locale, ve-translation
 Recommends: virtual-locale-ve
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0d8aad36dbbea8c887e5f4e845144456
-SHA256sum: ec93aa255912d54b4fc3e640495652cd3e9b7d4f2042cacb39a0bc47beaf36fb
-Size: 4228
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bf15a572751dbbe07399ccc82cfbd073
+SHA256sum: e226cce1e2bd4d91209548004f69e5dc10b44c9baecbfafab8f9f208ab9c5499
+Size: 4230
 Filename: iso-codes-locale-ve_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - ve translations
@@ -3410,10 +3625,10 @@ Provides: iso-codes-locale, vi-translation
 Recommends: virtual-locale-vi
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c483f4355beb148d5b33659d79096474
-SHA256sum: 72927f9e9dbe42f9f50ac3721366bc4bfc973a6b1d874de8a25e642c432a6578
-Size: 65492
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8f84d711ed11f63b63515b5a4df74d0d
+SHA256sum: f3ed36829f40daeddd3a0a69ace6f71b1f0b5b11902dc56f703e675f1830d335
+Size: 65530
 Filename: iso-codes-locale-vi_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - vi translations
@@ -3428,10 +3643,10 @@ Provides: iso-codes-locale, wa-translation
 Recommends: virtual-locale-wa
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 8f8b9e3171b6389702f3caf7bff71119
-SHA256sum: fb3be3149ff15aa061002462cd6539dd7d25512333af2cf765ad57dab45bdb52
-Size: 18184
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ab9faf6639eb866cfbe4df02cbc7abfb
+SHA256sum: fb403bcf2aff515b4578680b20b448bbdbbbf2a14bfa382ed6833a59b57a51e4
+Size: 18174
 Filename: iso-codes-locale-wa_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wa translations
@@ -3446,10 +3661,10 @@ Provides: iso-codes-locale, wal-translation
 Recommends: virtual-locale-wal
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 54d0549f2119378e5d495a5e34d70a6f
-SHA256sum: cada7b175283fdcf91f135020605c4af52c9f83822d3b6c529874c2cd65fbe78
-Size: 3278
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8c1998367afc72e6f45c6401c432a98e
+SHA256sum: c52c2285a729c64739b2cf12d13965375e5c9d01bf59775d066b0c4e2d1409d4
+Size: 3280
 Filename: iso-codes-locale-wal_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wal translations
@@ -3464,10 +3679,10 @@ Provides: iso-codes-locale, wo-translation
 Recommends: virtual-locale-wo
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c04ec0d26b5481cdb9d71c3b85b22b21
-SHA256sum: aa4e9805db5147d5c3703bf78849f082c3a544d3ae40fbc15a7de02978b62970
-Size: 8004
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 86d7f96a785f9a94c6e395e007f41aad
+SHA256sum: 4e3547a8eaefa17c1f75eb85bddc48c6cbddbbd0963cc71ed409dccb56f7e37a
+Size: 8026
 Filename: iso-codes-locale-wo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - wo translations
@@ -3482,10 +3697,10 @@ Provides: iso-codes-locale, xh-translation
 Recommends: virtual-locale-xh
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 74e2525cc530f90ce4d4f69540ac3049
-SHA256sum: 611f560d5f838e8fbcd12bbda898c481f5cafd13c5c74bd633f7180596223a97
-Size: 3038
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 15396fd88b494c9dfc4486c123999295
+SHA256sum: 4b451b6544f442f394888693b4d6ea7194c3e5ab4ae4d0f143b65e0d02a71ffc
+Size: 3042
 Filename: iso-codes-locale-xh_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - xh translations
@@ -3500,10 +3715,10 @@ Provides: iso-codes-locale, yo-translation
 Recommends: virtual-locale-yo
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: f7dc83b9760c5055d59ea1787eadc806
-SHA256sum: f872b40b2502ebfbd886bd1807ac7b463798d1914780256146e43967a46de1c1
-Size: 5080
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a034f8978f495f779153bc4da3e1a597
+SHA256sum: 27feb2745088125933d61cf229c88988ef977c40b8ff60967eee9c2f72fe6aac
+Size: 5086
 Filename: iso-codes-locale-yo_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - yo translations
@@ -3518,10 +3733,10 @@ Provides: iso-codes-locale, zh-cn-translation
 Recommends: virtual-locale-zh-cn
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: d952be5a0bbf6bfd3cdeb7efbeddd812
-SHA256sum: 8562b66e2279ada260df7797836ff291a50c6da2c5061fbb89f5879c99849496
-Size: 68448
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 37d99bb31653dd1c8a875348b8ed575c
+SHA256sum: 42ec824f70286980644f11addb1ac012230c492b16d78ec22e5a6e57dc7c97f9
+Size: 68406
 Filename: iso-codes-locale-zh-cn_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_CN translations
@@ -3536,10 +3751,10 @@ Provides: iso-codes-locale, zh-hant-translation
 Recommends: virtual-locale-zh-hant
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2a9e69d28a3fa65ef11627ad62f81bf4
-SHA256sum: 6234d5e9ac5c0da39c983bbcbe420d350a77ea5b174f1b8d47c0b9b6a5c5922d
-Size: 3384
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a570ad053005256a8ea4ed333223703c
+SHA256sum: c6fe205179bc682cd2f0cd36294e1e98e83f8e7929edeea1687ee175a72ab1ef
+Size: 3394
 Filename: iso-codes-locale-zh-hant_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_Hant translations
@@ -3554,10 +3769,10 @@ Provides: iso-codes-locale, zh-hk-translation
 Recommends: virtual-locale-zh-hk
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5f832e4197d1acb158409d184f392cb1
-SHA256sum: 1860163fe0f52c7ffcfb4e66a160e14f641b626f641c82369f17d12c885409d3
-Size: 19080
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f803022983a945666afefe192419dc66
+SHA256sum: ab12f194bf9855350301e6010fafd3c65e64210dff18bb2cb67a50966b37a342
+Size: 19086
 Filename: iso-codes-locale-zh-hk_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_HK translations
@@ -3572,10 +3787,10 @@ Provides: iso-codes-locale, zh-tw-translation
 Recommends: virtual-locale-zh-tw
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 541c36dfe2fa33b18346c0f4a50b0bcd
-SHA256sum: 99c61c05ff1fb4b4097d0c380e16992eb31320494e9baf9a45ef1d3ef7e4bead
-Size: 36708
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ec1f83cc898a195e702da1244928549f
+SHA256sum: fcb6d11cbf0e9b373200687add75d019565f5d69c46ee24de5ef066a3092c25c
+Size: 36646
 Filename: iso-codes-locale-zh-tw_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations - zh_TW translations
@@ -3590,9 +3805,9 @@ Provides: iso-codes-locale, zu-translation
 Recommends: virtual-locale-zu
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: a23c1f397c26a546cce531fc7aa41b72
-SHA256sum: 3e6a2b37b97cadfc949d0f2d630621cf57ae8ea8ccb827217d1d8ee86aa8067b
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b30ecb40f8757fd21e750d6ccdc7fa00
+SHA256sum: 7bcea3db33e3801e7de762ba6955cc1fdf698baf46c43aef4e7c529793b12a86
 Size: 4110
 Filename: iso-codes-locale-zu_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
@@ -3606,10 +3821,10 @@ Package: iso-codes
 Version: 4.5.0-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3d009e549301ad387d60f30e83d4fa13
-SHA256sum: 8d8a8e7c80e3547f4fe1f5aca29f43ceea4d1e9d6e95955cea11cf4b3065ed73
-Size: 251562
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bfe9977ff282c305481c3d1bd8bd1b9e
+SHA256sum: 3b15c74520bcc081ee8dd0473fe303cac8f12f1430a639211ff30a9b93d082c5
+Size: 251432
 Filename: iso-codes_4.5.0-r0_all.ipk
 Source: iso-codes_4.5.0.bb
 Description: ISO language, territory, currency, script codes and their translations
@@ -3622,10 +3837,10 @@ Package: run-postinsts-dbg
 Version: 1.0-r10
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7663b56c3235d9979b44603548336bd6
-SHA256sum: 2d079ac84a223ef4612879b29b50c92057ee8a564a42ebb12e4f9a264590dd1c
-Size: 678
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 6c210755cbdce453771ffd6831e1a8d6
+SHA256sum: 5ce6da249559bfe35a20198d81f281e72c58f914c7a58b313e22bbe03387bdb6
+Size: 692
 Filename: run-postinsts-dbg_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Debugging files
@@ -3639,10 +3854,10 @@ Depends: run-postinsts (= 1.0-r10)
 Recommends: initscripts-dev, update-rc.d-dev
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 5f5557932535c9fdfe7ca0485aec7671
-SHA256sum: 2832f51035035239df27805519714875f974c49320af9c53b2bd553f1fadbf36
-Size: 738
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b9a053fbe28cf38262583a14b1bfb03b
+SHA256sum: 3b0ed07943176f4f1791deaef59a67c7b1a0c7eb4b4e109300ffcbad5c4d5a5b
+Size: 746
 Filename: run-postinsts-dev_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device - Development files
@@ -3655,10 +3870,10 @@ Version: 1.0-r10
 Recommends: update-rc.d
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0fd0ae5386297cf99442b7032a7b48e2
-SHA256sum: 0f6730ed0838ba5863065540b878fafb96248f438be5407ebef415ce0e2ba81b
-Size: 1894
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 34211d0cb3a92038bdb11f0465dbd670
+SHA256sum: ca83d2bd4d0ec8401bcb6d139670a93df1503635d37a0b355ef550dd292e7a41
+Size: 1900
 Filename: run-postinsts_1.0-r10_all.ipk
 Source: run-postinsts_1.0.bb
 Description: Runs postinstall scripts on first boot of the target device
@@ -3671,9 +3886,9 @@ Version: 2018102501-r0
 Section: base
 Architecture: all
 Maintainer: OpenPLi team
-MD5Sum: 60f79b062a89b5c74415bdb25f2c841a
-SHA256sum: b7cf7e188b6bf0c3a41b3724ef6bc101a598c3584b4e04ede624451f76b02970
-Size: 5012
+MD5Sum: a5862c1a07fe4733893f3cdbf72c10b6
+SHA256sum: 51df2b748290675310aef5a521b8afb9bf5e41ecfa9a539a2f6eb1b0785ab1bc
+Size: 5016
 Filename: settings-autorestore_2018102501-r0_all.ipk
 Source: settings-autorestore.bb
 Description: settings-autorestore version 2018102501-r0
@@ -3687,8 +3902,8 @@ Recommends: update-rc.d
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 7de194d0b21be9c92c012aaa87c4b1c4
-SHA256sum: 64d38b0353e8fa1248af5e650867c7d2b0206abc199373aa9cfef1653115558a
+MD5Sum: ab9f95f08ba456e3e0bfbb5ba31cdde8
+SHA256sum: 8bd64eb0913d0d1b0ceac0b16939d14479f32ddb3f56e2aa6f89de7ad6b06be5
 Size: 980
 Filename: softcam-support_2-r0_all.ipk
 Source: softcam-support.bb
@@ -3701,10 +3916,10 @@ Package: tuxbox-common-dbg
 Version: 1.0-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b4a7843064ec61d2332ea4dc9667b903
-SHA256sum: 4aa051878e28839371694270b32fc7774c603583d7049dfcd5162fa479ad2ef1
-Size: 658
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 842a3fcb00f777576caafe439f6c2d78
+SHA256sum: 33c5144a099076012b43d06f3311dfd8dd010b8f3681e5415b2e9f4856a20107
+Size: 666
 Filename: tuxbox-common-dbg_1.0-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 1.0-r0 - Debugging files
@@ -3717,10 +3932,10 @@ Version: 1.0-r0
 Depends: tuxbox-common (= 1.0-r0)
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 85734af9d918f71c4ad3ddeca8d5dae2
-SHA256sum: 7087fb90419bc2df39752ba3ff19d4e6d94b31ea8f4ac223d1b27941cdc96638
-Size: 688
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 31d954a0212ac36b621c662219288a03
+SHA256sum: 9fee59d7226b45bca122ea69f75047f269d727e4f3caa1ad5584c5ddd9be974b
+Size: 696
 Filename: tuxbox-common-dev_1.0-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 1.0-r0 - Development files
@@ -3732,10 +3947,10 @@ Package: tuxbox-common
 Version: 1.0-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: ce36908ffd272b75f11d36306f1303f1
-SHA256sum: f260d498ed7ab3f70dd8daac788624b660d0487aa0802bb1ccbf45a4eefffaf5
-Size: 782
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 75d893466045f9c39b7ba7751f45c463
+SHA256sum: 294b5eac64233c4f6ced2c5f182454d4a2cd4f41f0146de15adf00b580e19a37
+Size: 790
 Filename: tuxbox-common_1.0-r0_all.ipk
 Source: tuxbox-common.bb
 Description: tuxbox-common version 1.0-r0
@@ -3748,10 +3963,10 @@ Version: 2020a-r0
 Provides: tzdata-africa
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 33666dd9fc925a554fa65daf51e044ae
-SHA256sum: 7773de05cc7cd56b5e9ec7f7a3ef2314a3aa573d7a3d3148e4b515933a14bebb
-Size: 5676
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: dfff50b6fb35bcdade90fbef7bef7d64
+SHA256sum: a60efea1205e261b12339be7e8dd9af3823ee46e0bbd32630b5f97d039f63b2e
+Size: 5702
 Filename: tzdata-africa_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3765,10 +3980,10 @@ Version: 2020a-r0
 Provides: tzdata-americas
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 3bea58ca6078c3aa07471cbd9be87054
-SHA256sum: 30c719d4a16d60ca92fb56f2370ed3b822910cfeb1e9b63bc72965cb5f90cb41
-Size: 29490
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: afafaa916abd12dbfeaeda2f546a990a
+SHA256sum: 75b4b51de081683138e5d8369842ce2ec9bd8d97d996ec19047acb9e0927f13e
+Size: 29476
 Filename: tzdata-americas_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3782,9 +3997,9 @@ Version: 2020a-r0
 Provides: tzdata-antarctica
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 348c9237bee2ec395948427f71856ee6
-SHA256sum: bb03cd4088d5cc2949b6c44aa18420bc6c61300eeb86dd1108c1c7dcc319979f
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f79161112d5798e80b52eb374999061b
+SHA256sum: 916abee83999123443df8a5dbe0c91fd7b246c0f3f5643dfdd78237b2857095f
 Size: 3880
 Filename: tzdata-antarctica_2020a-r0_all.ipk
 Source: tzdata.bb
@@ -3799,10 +4014,10 @@ Version: 2020a-r0
 Provides: tzdata-arctic
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 4cbcfd48f5beca1e98b8a22fe74dec2a
-SHA256sum: 5378a58e98c6070b6a491dea85c6e42aec129985ef694495c0af5125dccaafb4
-Size: 1688
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b1c544bf3c6115a44049db834d48d45d
+SHA256sum: f5495abd4aef2ef449a7777911104393dface93c4f2e37ad88a5574259eb7372
+Size: 1690
 Filename: tzdata-arctic_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3816,10 +4031,10 @@ Version: 2020a-r0
 Provides: tzdata-asia
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2ac1bc2afca5552499dc9d28f25d606c
-SHA256sum: fd729034b170b9aa872d1926cb7b68ed6132237a2c5e643a7026fa29a57a57b6
-Size: 17708
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 52b9be768d41d50dd840870ffe1af317
+SHA256sum: 1e858f05fc3ac675c19ef9870e85c981480f47eb8707d4880828d30c1ece0164
+Size: 17704
 Filename: tzdata-asia_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3833,10 +4048,10 @@ Version: 2020a-r0
 Provides: tzdata-atlantic
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 0cc802167d1cc8984e903ba00ce02491
-SHA256sum: be38e639b1f68edb2db1bf29304e04e5fe03658e57e4ce10848d96e192f079a3
-Size: 5270
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7ca787b9ee21f9ad54821fdb99ec92f9
+SHA256sum: 1f3313e7450a88f248a16bb27afe77b812ccaae122b2a6ac91f23c4672fcf85a
+Size: 5268
 Filename: tzdata-atlantic_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3850,10 +4065,10 @@ Version: 2020a-r0
 Provides: tzdata-australia
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fd6b5ed39332cc5b51bbf30fda0bf72c
-SHA256sum: 92b6bc77bdd7cb7846378791eff81dcf3cb58a10575dc8f83382b90f61dcbdc7
-Size: 4114
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: aaf9872d8cbfb4e1db58c31db4b30ecb
+SHA256sum: f334709461c283929ff60fe308ae38c3dc231a4e5c20b96f5bf55b9f84922481
+Size: 4124
 Filename: tzdata-australia_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3866,10 +4081,10 @@ Package: tzdata-core
 Version: 2020a-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 60d7f3140ea6b398f6581419e13be529
-SHA256sum: 291eb72cc642569b14d19f03cd1a73e847f9f179f053bc0eac0ac25cdeca4018
-Size: 27828
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4f3f4ed2a1952fd51acca5a8cb3195b7
+SHA256sum: aa8483b6cb1c9abc529958d83c43977cf56811656665270ebd7acf2bb2cfc80b
+Size: 28042
 Filename: tzdata-core_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3883,9 +4098,9 @@ Version: 2020a-r0
 Provides: tzdata-europe
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 6b62ee3c5b45f0dde16f833c38fa7cd6
-SHA256sum: 8d53a33ef9d326823707b555e086b5aa0914e9a592f63afffb9b1ca060319b93
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8682fdc4a8b28e68f9d743834b17606c
+SHA256sum: ca31e17ff2cd559bf4825370562f0ca414a5cb42f112c3cd59fa9e82251c18b5
 Size: 12482
 Filename: tzdata-europe_2020a-r0_all.ipk
 Source: tzdata.bb
@@ -3900,10 +4115,10 @@ Version: 2020a-r0
 Provides: tzdata-misc
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 1b836e52e6e6aef5298bcf4e6f0f690b
-SHA256sum: ea9a6dbcdcf41058c2ab572192c385121edaf7f4a2f43b5216b37fef1bc87969
-Size: 10406
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: efd990cbed165b15bbb31f8a40dab6ec
+SHA256sum: 39176dec42f18162b3e30a38234092f9b59161cef380d9241e07ed13b082017e
+Size: 10400
 Filename: tzdata-misc_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3917,10 +4132,10 @@ Version: 2020a-r0
 Provides: tzdata-pacific
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 161b3b14e91a46476c1d78934f68e6d5
-SHA256sum: 0937ebd7795cedf7c7b730b7d73812daff6bf0d872ee76ba3c05c11098c8fd8f
-Size: 6316
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 86c8faf143d7b6d6511c3cfe769f9563
+SHA256sum: 2e28291e73393eba2913563723545a3144e3e7481ab9281917d33ccd20bb9c65
+Size: 6324
 Filename: tzdata-pacific_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3934,10 +4149,10 @@ Version: 2020a-r0
 Provides: tzdata-posix
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 95788fde06f849ca428dcdc4d86b9ba5
-SHA256sum: 66c46ae134c84d903ed4d1cd1fc9d752430d8a39af45ab1100e127c980474e83
-Size: 72776
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b954de8c6a5b2e4a309f55e0a412181d
+SHA256sum: e78e4a57867db63c38a74245d491e1f4039c18efc1576605a2fae6c609b79ff4
+Size: 72818
 Filename: tzdata-posix_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3951,10 +4166,10 @@ Version: 2020a-r0
 Provides: tzdata-right
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 2c35d240ccede8d0a5ee8d3453772c92
-SHA256sum: 8f84a96f64e899de7c63d6bdc5ef0302dd44bb9ce1aea9e4481cc6e45e6d54b4
-Size: 69868
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 5192e95aeb42363223cfd77b6bab982f
+SHA256sum: 2f266f324620f57a8ebaee104678b27f53c318044018e3544e2b7f1d614377ae
+Size: 69922
 Filename: tzdata-right_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3969,10 +4184,10 @@ Depends: tzdata-africa, tzdata-americas, tzdata-antarctica, tzdata-arctic, tzdat
 Conflicts: timezone-africa, timezone-america, timezone-antarctica, timezone-arctic, timezone-asia, timezone-atlantic, timezone-australia, timezone-europe, timezone-indian, timezone-iso3166.tab, timezone-pacific, timezone-zone.tab, timezones
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 94749aefcd7f977eaa1110e415353869
-SHA256sum: 1b9369ef61144b9982dd72b4de981fd846a3c362f28c4ebfebc2f445eec74106
-Size: 1142
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 1a204dea5b93e1e11189d6869bc92af7
+SHA256sum: 47484279288df151c1380671df9d186ca5651d3b9cad60fec7ad803656ca2579
+Size: 1144
 Filename: tzdata_2020a-r0_all.ipk
 Source: tzdata.bb
 Description: Timezone data
@@ -3985,10 +4200,10 @@ Package: update-rc.d-dbg
 Version: 0.8-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b25dba3d1736fc973007ba981c7ef79d
-SHA256sum: 4866a24be34c3b1ef634b2f69208bd6f38c1c1267230e96152aa55b2dd753402
-Size: 754
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 92c416ddb36edbb47b2419c35363de4c
+SHA256sum: 6efb3e95baf7680150ae34fa779d9165f0f3ae0d7716033bd8ddc7cc06d4e083
+Size: 760
 Filename: update-rc.d-dbg_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d - Debugging files
@@ -4002,10 +4217,10 @@ Version: 0.8-r0
 Depends: update-rc.d (= 0.8-r0)
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 7cbfd73d33c80d5d0f81e2a75d91ac99
-SHA256sum: e20ddbb3078ebbd02d4c6f876fd07f556c1e2acdb4cf04f244fd7f9f997783a6
-Size: 780
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ecbe3e9c9d702270b0906eaf7f067358
+SHA256sum: acfd621aa83bb629ec14def5a348744f94c70daa8e7dd058df02607dca0a8c6e
+Size: 784
 Filename: update-rc.d-dev_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d - Development files
@@ -4018,10 +4233,10 @@ Package: update-rc.d
 Version: 0.8-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: c911240761839652643022053fba1010
-SHA256sum: 255dd4c8d784db302fc9b21ba34f7909df717b111f4557a2129ec782d11c6aa1
-Size: 3018
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9fc84f75ca2d35e848c14498fd5d9bd5
+SHA256sum: 60c074f1568873f252992cedd41874e69dc72bc97e0dd648fc2abfb519bf6994
+Size: 3030
 Filename: update-rc.d_0.8-r0_all.ipk
 Source: update-rc.d_0.8.bb
 Description: manage symlinks in /etc/rcN.d
@@ -4035,9 +4250,9 @@ Version: 2-r0
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 2d2a5499f47bc6da1c9ca1e138f683eb
-SHA256sum: 59829181aea4ec929bb097a842f02fa99e656b33b107c571f01f699a55ffa806
-Size: 938
+MD5Sum: 971e5eec81fa57f0289d270706a4a8ee
+SHA256sum: d73e2a1dc912f7ff036a3f88baedc2c89a22fef6ab89a34968ce2cbc4f313173
+Size: 942
 Filename: volatile-media_2-r0_all.ipk
 Source: volatile-media.bb
 Description: volatile-media version 2-r0
@@ -4049,10 +4264,10 @@ Package: wireless-regdb-static
 Version: 2020.04.29-r0
 Section: net
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: aa493ff9452d74a43ba11b4febfed81f
-SHA256sum: 41188bc792ee4f30f5ab1dcaf1806d3f1982038b4592d50faac22906b4fcab58
-Size: 3254
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 395ca8dd53e8d860f4bba3f2cbdf0121
+SHA256sum: 54f288d7c8cb1deacd5d43ad3411de1c1349c6f4c0504a45b8114ffba3719ed5
+Size: 3256
 Filename: wireless-regdb-static_2020.04.29-r0_all.ipk
 Source: wireless-regdb_2020.04.29.bb
 Description: Wireless Central Regulatory Domain Database
@@ -4067,10 +4282,10 @@ Conflicts: wireless-regdb-static
 Suggests: crda
 Section: net
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: fc99c2ef8a69b22775c1ac72243f9b97
-SHA256sum: 160d12eeb1c752b84b588cce657e0d9c78eb65ce92c839bf927c8b6dd20d3467
-Size: 3150
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 53628bfb67a32575f94dbd50c9132177
+SHA256sum: 265c9b4311f84866c17adf143f23fdf66c371e727b171cffc269740e5bebe579
+Size: 3154
 Filename: wireless-regdb_2020.04.29-r0_all.ipk
 Source: wireless-regdb_2020.04.29.bb
 Description: Wireless Central Regulatory Domain Database
@@ -4083,10 +4298,10 @@ Package: youtube-key-dbg
 Version: 1.0-r0
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: 052d719a9f1f644f0c96bbb8cd149437
-SHA256sum: 6afcc1c0c2fa8d142708406731eb59ab494ae14ba4aaf7eed32601fb075ae24d
-Size: 670
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7c46e0509a65ec2b2715c1903a99e0c4
+SHA256sum: f4fa549a9413dca1d7cc400da68b82b9ad437ead1d15546636db3de62c64416a
+Size: 680
 Filename: youtube-key-dbg_1.0-r0_all.ipk
 Source: youtube-key.bb
 Description: youtube-key version 1.0-r0 - Debugging files
@@ -4099,10 +4314,10 @@ Version: 1.0-r0
 Depends: youtube-key (= 1.0-r0)
 Section: devel
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: e931551fad19a763d3564e3e68f1af05
-SHA256sum: da4a366613a172058e3a443e3efeffa27f36df8a4ad66004fe4808e24f6d5218
-Size: 702
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 44ba45935b879fc33751b84f62bc9d3d
+SHA256sum: 51189ab76a22d7a96fcc5048c894057dc6ba4ad9dc198de4083e13d06406a0ec
+Size: 708
 Filename: youtube-key-dev_1.0-r0_all.ipk
 Source: youtube-key.bb
 Description: youtube-key version 1.0-r0 - Development files
@@ -4114,10 +4329,10 @@ Package: youtube-key
 Version: 1.0-r0
 Section: base
 Architecture: all
-Maintainer: Open Vision developers <forum.openvision.tech>
-MD5Sum: b4071bb4734ef37ecf172243221b4e54
-SHA256sum: 7de75049ce60c954a183c1c509c0626e590f9bb5e54a4e74dfb655536da69f2e
-Size: 966
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 723ea3cfdc5aec5e32c77fec649e6f4c
+SHA256sum: 72354e253049ba2f9fd9d2d393796108fcf98da77fb7f90043336ac3243c7e73
+Size: 804
 Filename: youtube-key_1.0-r0_all.ipk
 Source: youtube-key.bb
 Description: youtube-key version 1.0-r0
