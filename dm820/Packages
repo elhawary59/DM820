@@ -387,8 +387,8 @@ Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, liba
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dd600c5754085194adc5bd8be3d6c0eb
-SHA256sum: 02b65ec0f1bfc464de99995b019297a0684c07ae940640f950c6a4c4a67e931f
+MD5Sum: 0191d7064aab7fa8048813f37de93dec
+SHA256sum: 42e20d5f5bf5610deeaf3ac638144498da26d85de4bc4b7a03aec1a4cc5f4809
 Size: 880
 Filename: enigma2-dbg_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -404,8 +404,8 @@ Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dvd+rw-tools-dev
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 44fa036f9d9796ee9c15a4864e5fb47d
-SHA256sum: 90a7b24529d19d91161bbb34e9d8c740db35d715318f7e7dc697851e23dcc9d9
+MD5Sum: 21ccf8b25ac9529d5563ab1d5f4ef8d0
+SHA256sum: a09aac74f61dd380f606e5b9b2670fa3f65e2cd4e00084b56e0c35e9c1dbe454
 Size: 129372
 Filename: enigma2-dev_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -419,8 +419,8 @@ Version: 2018.08.15-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 268f45cf86a96cb5fa4002ba4c543d71
-SHA256sum: ebe117874adaed349d5b3dfc652e9fabb2883f37090219cc5eb73835b15b1ce7
+MD5Sum: 4d31a8328626e8332f840ca2b71712b3
+SHA256sum: 008be4dca0b864e51036c785ae750ca0859ebbb1038b12dd2d45f2e38e1b6771
 Size: 2324200
 Filename: enigma2-fonts_2018.08.15-r0_dm820.ipk
 Source: enigma2.bb
@@ -435,8 +435,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d6e702955dd82319de42f15f966b2659
-SHA256sum: 991057a353b2d62c9972e61c705a496bc866fb9096a83c4606859c31ba9569ab
+MD5Sum: b85ad06413948ecb89a86fbf92fbb34c
+SHA256sum: cad7bee1c098c7ea7077d09df21194f78de2de6e60b44e80679635cc58ba19d4
 Size: 34284
 Filename: enigma2-locale-ar_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -451,8 +451,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ae1e4a920de97ea9ec1f7696211bb7e9
-SHA256sum: 56ca065817c1dccf3a15bd656f31eac309f60b2fa17ff1ab30ccd0aef6edb2a8
+MD5Sum: a568e2f97b71ff905b044702bdce87b5
+SHA256sum: 37aa0714597994689b8de139bcbd7a75ac874a31b981d3bf37e314293bb49e18
 Size: 87516
 Filename: enigma2-locale-bg_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -467,8 +467,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 314927a5ae0ec1037fdf4b475bd24054
-SHA256sum: 6ce6010a457bf6325ff5ce60def33ad77ed4df53f1bb5e69dba9f838e4e1ccd8
+MD5Sum: 01e2840a29bd327a48ea58774e2fbdd7
+SHA256sum: 3a714759139290d99e8365fd64bd729d601c3ce75d758bdd3bcd406f2376cf8f
 Size: 83708
 Filename: enigma2-locale-ca_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -483,8 +483,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8c1d862db53b475a47d7cea452aecb00
-SHA256sum: ea500e2181819cd712d682235cf743bb6c09c3db3f540fa48ae9d065e2f993a2
+MD5Sum: 07de722e3f761a1a5e6ad7798c59c30f
+SHA256sum: cbf2ac73de7bd00e36e1937bdb6dc82bf458363c1ee07427568f56e8089af349
 Size: 83112
 Filename: enigma2-locale-cs_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -499,9 +499,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 02d5a8ee290d820eeed26f4caabeeae0
-SHA256sum: b849be1e2cd2c48aaeed79915729711cecf6aacd9e5a1c86efe7077ce0bea4de
-Size: 57196
+MD5Sum: 09b9eaf7d67aeef9d50223a10a8fb82a
+SHA256sum: d504b07e57ae3be8a5bc304c7e5fe1922426865bcb2ada6d4b62c35d2ee43196
+Size: 57194
 Filename: enigma2-locale-da_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: da
@@ -515,8 +515,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 03ec575123def8f442867bb9acad51b3
-SHA256sum: 80ee30c6b8e151848c9c7b7cfd283d281d148889f5a3064a9ae9a256a1dc8434
+MD5Sum: 99247d70358e0b9ffd5317e4d5d5be33
+SHA256sum: 8643604cf9142dca7d444115034e9e652f9d4a56b0d7c628dd461bf09e631bbe
 Size: 81990
 Filename: enigma2-locale-de_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -531,8 +531,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f1a48548826c0d55bcb377fa52225ebb
-SHA256sum: 6e30d5c5a1daa2dbf2c52a827e87712b6cf89a7740d8e6287441fe74ea20904f
+MD5Sum: 591a0d31f9538349af2322a0f0273ce0
+SHA256sum: 69a0680356c54a12d67656cd0a38faa089eb2b57d8d3153682d869faf65821a4
 Size: 90212
 Filename: enigma2-locale-el_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -547,8 +547,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a95a3616009377394c40d312b9386fba
-SHA256sum: 1f9a13635132511f610cdd742fc03a7b1351782640eabff1a4a6a1a861bb5f5f
+MD5Sum: 3bb932a8336a378d969c549369e69f41
+SHA256sum: 04543722d983453374ce3156943a4f3d15e85819a9585304fb23a715cc22c2c3
 Size: 28392
 Filename: enigma2-locale-en_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -563,8 +563,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 611aec59b2f3d1ed7f095efe50ecb991
-SHA256sum: c8b6d7bf9a230c6fc474330776e577738cce582dead5e5ef99d68e46be912c16
+MD5Sum: 0ea093668815ece7b37a49430f769195
+SHA256sum: 333167880e4106eb3754ec56daf81f4c8abc94f62438a38d0bc3acaa7eb26928
 Size: 83608
 Filename: enigma2-locale-es_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -579,9 +579,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c402eb7bdc67501b9e20b2256767c20d
-SHA256sum: 12ddb7bf217dec7ceb8ac17fdac52517cbed0b0b49803b22f366808015951834
-Size: 73260
+MD5Sum: 13c2f8242f79e54e6ccc641ff74913ef
+SHA256sum: beb1753867f0ff66f59f40466667fc57ce764a3dbeb8bc96d379d86ea9d8b00b
+Size: 73258
 Filename: enigma2-locale-et_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: et
@@ -595,9 +595,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 26f6d209176b09a375f7ef61acd2ea3a
-SHA256sum: 0ef3a3fae8257a7f400e83a1ae92f39785b7080c1d9ab8415320404222b85aa1
-Size: 23306
+MD5Sum: 5531987b60d2ed3f893b67abe7a880ca
+SHA256sum: b888acccebce7681ecd57585e2f460ba54a9aa7eee2bb8e796c857ad03c586b1
+Size: 23304
 Filename: enigma2-locale-fa_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: fa
@@ -611,9 +611,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d8f8758865f854303c2ed2aa9213a082
-SHA256sum: eb739c89fd57bbd06be3fb062428e26866b2481ba77857fa398d98d0a6ee2206
-Size: 68742
+MD5Sum: 70d8e5bfc365985b99c0f4f02a7aca09
+SHA256sum: cd28aadce2e8ffb105a12ff15ba77949cbf3dbb10ba84948e714b17fad1b25cf
+Size: 68740
 Filename: enigma2-locale-fi_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: fi
@@ -627,8 +627,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cc6855ae0510cb6a43b86b09bc5810fc
-SHA256sum: b2668b242df00022c00df36d9f7652d28c2f2dab0ee003c6b76e337bf08cd91d
+MD5Sum: 02e395dfabd1df3c9ad55ccef60cfed8
+SHA256sum: f5b0b49e96aa2e61f9118e4d9181820cfce76b090ccb685eed7f92aff0cb3d3f
 Size: 84104
 Filename: enigma2-locale-fr_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -643,8 +643,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4dfd4a6ed150235f048a5b2dc504f553
-SHA256sum: 137a65a5fcc629fa1be5f485c2959a41a0617b407b79a27e96924d415666b3e7
+MD5Sum: 0ebe1752b1dfa826a347c22e916323b4
+SHA256sum: f85a46e5049837ad80eee06c8645bb00019dcee3505ea3ddff910891a15ac1bc
 Size: 16530
 Filename: enigma2-locale-fy_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -659,8 +659,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3aeda3d555942850ddb10f9e6454dbc6
-SHA256sum: 4df75b0c7ec98bd216786178e5fcabb9ea4c1ec98baf092863f2139cd2d049c0
+MD5Sum: cf1ba88ee94bdef05a96945ba8a9ed64
+SHA256sum: 104d983cbb84a4a6c21ab61fb775283dca4380c4684ffdfb5756560c234d8eb4
 Size: 16980
 Filename: enigma2-locale-he_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -675,8 +675,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 23c9e0ee5c6fffbde47e5f32af88e652
-SHA256sum: 55a0336748ba0b377eed370d9b1a80de289c914a72c0f006ad3284e05e02da50
+MD5Sum: 6925ce77c42fe513b99d7e53b9629e32
+SHA256sum: f9be4c9a265cf264f0eec4cb27c82c88fb713cef23cee8d1a7aa590f03f8b8fa
 Size: 83644
 Filename: enigma2-locale-hr_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -691,8 +691,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a6382061f1445d6c2ea8185a43fde1d8
-SHA256sum: 08711356658299b156728277825e1f0a4d5d0d450deb277e96a5c83f46731c11
+MD5Sum: ed5b9e266fbe3323c0c64327d995ee74
+SHA256sum: 3c4700f85c7c7cdf42b458145e2ab2f877a1d781993b14062c7fd36cedadc96c
 Size: 84764
 Filename: enigma2-locale-hu_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -707,8 +707,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c578f0d773773eba25511b5c9d563097
-SHA256sum: 83dd81d7ff28972c750841c881b7cb003e1abf3ad4a4252bf42676b19dd8a003
+MD5Sum: 9ab5376c5ea4389074f579918c3dcb77
+SHA256sum: e9c20169433df9bda70a220eca2a967daeb86d74e70e941ae5b9ffc68c8645de
 Size: 68848
 Filename: enigma2-locale-id_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -723,8 +723,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8217e612e5af73c3ad4cfd9122d4f957
-SHA256sum: 88e31f96dd496779314057ba1205f6171638e44273ea76603b731fc7afef0df8
+MD5Sum: 3f66fe52c359f6b04e420961646f2430
+SHA256sum: 35120e40be1a0afd86dc8ab52b68c21f0ba6f9617da7e2d58ec49801253894a8
 Size: 22792
 Filename: enigma2-locale-is_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -739,8 +739,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 5621c5cb873c4755278f8c536e464cb9
-SHA256sum: 4cfa67e571dc7f839194a3af8b977061e9560c631bad43e35992f7245fc68140
+MD5Sum: e5f4e803186f34a4d300e9f9e5f63e3c
+SHA256sum: 6e45d52f9bfbb5b09720fd5b814d6b0d82cda38420210f052a071d3403d7de29
 Size: 79212
 Filename: enigma2-locale-it_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -755,8 +755,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a35afaa835ece28a0e9d0869303f1dad
-SHA256sum: 3bea9898e4b358386710cbbe152e5ba08ab95a6b520a2353ab6b867ce3ef6854
+MD5Sum: e443a154d1448768d6418ba5f10f58ed
+SHA256sum: d144649b97716d83424364566834e229045de6eac207b5c2a107d5bb71bedf90
 Size: 29328
 Filename: enigma2-locale-ku_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -771,8 +771,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cd69477dfa84e35af713624da8ee3756
-SHA256sum: db34f1022847817a20b3d07166010735e8e35dffb77508514724e42aae152443
+MD5Sum: 0766716ef710b2c1d8ce89c71bc6a0c1
+SHA256sum: c4483c8632b60cce489be7ba25f50b1386faf685beba856c57253dd1aa358ec9
 Size: 109552
 Filename: enigma2-locale-lt_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -787,8 +787,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 16f2f19e2c9146a08966941ee1f32c30
-SHA256sum: 43dd477aa8047f866bee7d2ab3f8f786471556c2c0dce1652646b98db9db8b64
+MD5Sum: e9b65c578ba9d6ad613ccdcb61d4e0fc
+SHA256sum: 5e780ed5dfcf1993b246396ec4ef06a4b592854e0c7ffbba81446896b094b3ed
 Size: 79084
 Filename: enigma2-locale-lv_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -850,8 +850,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ad09283cc43f9f1d519b7fa640097cc0
-SHA256sum: 7298aa2d99dad0e3351b58ada301724f1fe50b8be86fa41ea045ebac547a0fbd
+MD5Sum: 5261e7983d68d4e3099d4844e352bba5
+SHA256sum: dc354d82b9502685b5866f79029ac012f41236c7b49a2e39b6d7da4986335886
 Size: 80236
 Filename: enigma2-locale-nb_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -866,8 +866,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c06835b67fdbf5d1e807fd8d94f8d23b
-SHA256sum: 157a0fef88341f0a97c8c0e745723d2d3e20915098c417455ecec55883fece9a
+MD5Sum: d5a01881358e7f041e3fa1295e45560f
+SHA256sum: d0c59a02c9af2358ce9a1f9b0b909cbb3037e75a08a9848e48ff878c39a28239
 Size: 86464
 Filename: enigma2-locale-nl_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -882,8 +882,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7270c9d987dc3268af6538093eeb27c4
-SHA256sum: 38ab6fda1cd65bb42e6b8b7542cdf5129219ebc2ef606184798c5a503bd3965c
+MD5Sum: 8829125c319bad0475d511c76dfe57b6
+SHA256sum: db1adda668dae1865e9901d41b0caffbfc559ace5cfd3c9ef104a3c34bf84f6b
 Size: 44096
 Filename: enigma2-locale-nn_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -898,8 +898,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 304262cfc6744790e405418eaa724adb
-SHA256sum: c4b544d7d4371432b2ef3406e1026cb5042562c88eb9a152ce4d0ab1579cb279
+MD5Sum: d7d257b188bc64aa86c2e24d179f1ed0
+SHA256sum: cd8a1b2c8d29d888d4002a9f2ca56c0d2913fd388c3e1b0a1f3001583454f220
 Size: 78552
 Filename: enigma2-locale-pl_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -914,8 +914,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a97c13300f30e1a0504381039f97d25b
-SHA256sum: a94ad02b367cee6f31712c442e1c1053ec99138dbc0263b747e9a3fb59e1b845
+MD5Sum: 7bb94994f4b4ab48f8ed280c0ced5694
+SHA256sum: 623f7a4b9bc04cebe0f79310a316cdd7160afada8cff181471edde5522f5b44e
 Size: 43712
 Filename: enigma2-locale-pt-br_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -930,8 +930,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 22e747ef0adc47685b8b59511214f9a3
-SHA256sum: f0fbf930a340de28041dba2c58c1023fe536221b88483f59cb5c5522dd01dcc4
+MD5Sum: 0acfb3ee10859c3d920336a7d9f70198
+SHA256sum: 1862de473a29181124df0d7930b7a78a55a85308bf8aa473d6249acdc6584e67
 Size: 41600
 Filename: enigma2-locale-pt_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -946,8 +946,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 045697bebc5be6d4c278a8d29b700978
-SHA256sum: 0e942fb5bbab80c672f6e79f57fe32e75736f7b4274ea84cf5cb973becb0fc18
+MD5Sum: 819f6dd1aacaba3f65572a18d5a56710
+SHA256sum: 78af820142b62736982b7ff8c831cdea7c04b6e4b9fa3cc3152c2f9fb13ab459
 Size: 17672
 Filename: enigma2-locale-ro_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -962,8 +962,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 94b48d5a0b8326d637271e6d8f69e8fc
-SHA256sum: eed2be7e57b70a13a26b9cb9ef63f20cc9399996dff4ad58d3ca215928cd8a47
+MD5Sum: b3ba024982aef1c50444f25f888b5d6a
+SHA256sum: d2ea87f43363cd0e7dbc19f5d1c88128b148330570c1819401cd98917e46812b
 Size: 88360
 Filename: enigma2-locale-ru_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -978,9 +978,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1881375a726e14b588a95b9087c80634
-SHA256sum: 74e77da601a8d54f2526c299b23d8f6b9a046a33327226f18c486c8bf91d5a3b
-Size: 84946
+MD5Sum: 552b4911965dba42cc4ff758654b3998
+SHA256sum: b1517bf7a7028a240f22cb6e88c33151ad7fca215c58931d1450509577e53e27
+Size: 84944
 Filename: enigma2-locale-sk_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: sk
@@ -994,8 +994,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 266df5217bda73f8050a3db379140bdf
-SHA256sum: 91a1c50fb276076231b54b4e4fd3a526d5235da96e185a04dfe40765e9aae078
+MD5Sum: 190b75f414936adccc7253211ec5c5c2
+SHA256sum: ddf7798ecc7b288fcb3299bf96cf01e91ed8a69aa4d7434f3c55522e92f19b45
 Size: 50448
 Filename: enigma2-locale-sl_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1010,8 +1010,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4d5e5d727794857d815c774000ba1127
-SHA256sum: 990ff7f06bf16851b4f2c7bba14bfa11fee22fb8c4dd314c7565dd2ae6ad4750
+MD5Sum: da14077e95dc021547ba3697c3c790a4
+SHA256sum: 1712b7794c1cf14417707316d200286acd92ecdb65df199d132e958802cd8bd4
 Size: 22960
 Filename: enigma2-locale-sr_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1026,8 +1026,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: efa91a79db6f1f44996a1459b26d6b26
-SHA256sum: dfcf758c7bef5f758ad9c70a0441653326bd8e1e21a5057f1886910eb941d295
+MD5Sum: 0eed6fb3b3b3fb062646494d081f9ca4
+SHA256sum: e46ed1256e4c6cb34a155556f9a4f6713137ec133c4b21e1e2b8c951cb081001
 Size: 58580
 Filename: enigma2-locale-sv_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1042,8 +1042,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f7c2a058803c232b4718192089cc72b6
-SHA256sum: b584c31f96df0a4e8d417793d569f1a7f3d1276f79a3072c168c138d66cf2c83
+MD5Sum: c1430385f51fd617d90471543174e637
+SHA256sum: 0e972886116964120f405b01f215a0da5a0bf796b65bc2cf1e7e1a174a4c547a
 Size: 21192
 Filename: enigma2-locale-th_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1058,8 +1058,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 51008c33ed497bbe40e0b3bbedddcdc4
-SHA256sum: 829226fc3057f79e18cdfb01eecf1bd7b5728714730e805bd5d2665e509bec25
+MD5Sum: bc1998fc6b164bf1240cbd2c43e0a945
+SHA256sum: 0dd5166de89710bf0cb76a4b0a691eddf7479c8c1ab07400776d50386a473fad
 Size: 56452
 Filename: enigma2-locale-tr_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1074,9 +1074,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2017ecfed2d8b6ef9bf21b89a2ace6c3
-SHA256sum: aac4803fb5c90328f027f64ebddf32570dfa8c20595dba1fb41b1a7b74d60fa0
-Size: 65512
+MD5Sum: 7f863459eb6c030c15b2aa2e589f2df4
+SHA256sum: 576a8a01616928810bed06c0609499516f346f5723ae90613724dae75db6a173
+Size: 65514
 Filename: enigma2-locale-uk_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: uk
@@ -1090,8 +1090,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3a020e9915e5ad22284549f53f076c14
-SHA256sum: ff2fa877b8f642248d6981226bfe4a347d0e3f454f6a060194eefe827ed6b87e
+MD5Sum: 3769fbf71f9fbadacd880093cb6f6cae
+SHA256sum: ccaaa5952101a85fe27158177ec8a8ab5c77224f2e1ef435af04ff9be057a856
 Size: 81192
 Filename: enigma2-locale-vi_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1106,8 +1106,8 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3350934f93082804b5d481d641b3ecb9
-SHA256sum: 9ffe1d754da2a8f77a84bded2f95abe0b406e5cca9f74b31ec8af49ffeffa400
+MD5Sum: 4922434ea235c23b7474171f72704640
+SHA256sum: 3e0d63d883e665cb85f034ec7fa7ab2e43c2aebd2a095f6f40039a54a73a8a14
 Size: 72600
 Filename: enigma2-locale-zh-cn_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1122,9 +1122,9 @@ Depends: enigma2
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a82b60ff25369d415d1c7810f87cc815
-SHA256sum: ed9018d4d6682235453c896484add26eb9b53f4c5ce20c5473b1a2f9943b72c8
-Size: 21076
+MD5Sum: 6b909295fd3aa2674f64a2c291f29d9d
+SHA256sum: 335123ac974979507dbed33e0115281343d806a204a3be273523dd84d10a6b6e
+Size: 21078
 Filename: enigma2-locale-zh-hk_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: zh-hk
@@ -1137,8 +1137,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7d1c9f540b721f1d41411979388802ab
-SHA256sum: 1f448d6998f20c9bf63e3760102ac83cb254f01a9939a5508900f46faa9d6c95
+MD5Sum: ede222efb9021a24b5e039a93cc7c77d
+SHA256sum: c3a89e95a2fa34ae13e8c2348c78ecbe889a97d8d18b1a1e0c54feff1f601482
 Size: 3938
 Filename: enigma2-meta_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -1954,8 +1954,8 @@ Depends: aio-grab
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 428529b861f9b868e985ca1bd8c147f3
-SHA256sum: aa80943073fbe45ae5b615abcdd31e072f6978e712f36e6cd729ee263a84d81c
+MD5Sum: de9d483304564b6879bfc1d0e370dcd7
+SHA256sum: 316951000fe5db7e9868c7dc4bd9bc8ae2038c5e826a47a350bb31f7e7a9a61c
 Size: 11122
 Filename: enigma2-plugin-extensions-cutlisteditor_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -2258,8 +2258,8 @@ Depends: cdrkit, dvd+rw-tools, dvdauthor, kernel-module-pktcdvd, mjpegtools, pyt
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 74c94f794bb6a59144d2406fb9b0a13b
-SHA256sum: b20bd0d2105a9a07a2646f90918909ed0fd1fe91996b460ecfc0348950159a81
+MD5Sum: f5783a04775971a022fe743d67eab6c1
+SHA256sum: 6aa2c41909dfdf347e5c0ebdba9fef1496fce5f22982e132cc2a240eda61ed89
 Size: 796808
 Filename: enigma2-plugin-extensions-dvdburn_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -2274,8 +2274,8 @@ Depends: kernel-module-udf
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: be72877b0e89138a1760b1f547ab0602
-SHA256sum: 9388a654a47e9775fa3e09be66c8f0f1cd198ea572b1a48c97f4dc5daeb5388a
+MD5Sum: 7ddac197c5cf0ef371c4ee6d02cb2c1f
+SHA256sum: cb934de83a534335e2f4933f732806f46f9949f8cf2e0e567702c91839897cb5
 Size: 2664
 Filename: enigma2-plugin-extensions-dvdplayer_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -3121,8 +3121,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ad742833a93862af27f99e37a4d11723
-SHA256sum: 15c836f9b58532c5c570e6a875d288f71deb9c57dad880d131e82b624b32d9f7
+MD5Sum: 26c93d0419c2fdd855d4e71eb70b74a2
+SHA256sum: c75e65daf126197f6063a23b8f85077e92b3bbf201af5fd6045dc4229be22b89
 Size: 22100
 Filename: enigma2-plugin-extensions-graphmultiepg_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -3520,8 +3520,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 79bdc8b85bacca8829e4019121a9fdf5
-SHA256sum: 2e97c0280269adc93767058a018bc576dce51901b7ac6864419675bfdeab2842
+MD5Sum: 1e945976c74eb3207b1057538f1767e8
+SHA256sum: cf63896ff5a01d9ac0968731edb35edf87884fbcb3f6a8972e44f6f103460e64
 Size: 20558
 Filename: enigma2-plugin-extensions-mediaplayer_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -3535,8 +3535,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6b34920d7d852dc418c8200efcd443c0
-SHA256sum: b93620ab820eadab7719c975084511cbc4da3ee78824c2af00a90482d14164e1
+MD5Sum: a27bcd146169ae4e015ce230ffdf6791
+SHA256sum: 26aefa7a7bb3d69ca3fbcdd187443c8e39c54bc8d24c7c83eeb973037dd363a2
 Size: 5406
 Filename: enigma2-plugin-extensions-mediascanner_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -4798,9 +4798,9 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3c7aff2c3a6fa51f9062b0274c3738b1
-SHA256sum: 2896145bf52e951f12d1c58878e96914bdfb090f01509fb857112091523e1146
-Size: 13248
+MD5Sum: 87ba5209f30b50f81448d5c6ed863787
+SHA256sum: aeefb54612951fd391b5fdf269fd5f95e93da10ad3b919e9472bd0eb82802775
+Size: 13250
 Filename: enigma2-plugin-extensions-pictureplayer_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer
@@ -5550,8 +5550,8 @@ Recommends: freetype-dbg, fribidi-dbg, giflib-dbg, glib-2.0-dbg, glibc-dbg, liba
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4f5a60d8633c3e7d1aa08baf7cb2bde5
-SHA256sum: 69046dac15d71bcc6016629ce51b2d2b18fb82e0264f01285f8a0180b8e52245
+MD5Sum: 6e221b7a42a2de9714aa8cc59a3baaca
+SHA256sum: 647ae03224eec025921fe5ca052e4df555dd517a317715c00411060194650f6f
 Size: 10808720
 Filename: enigma2-plugin-extensions-socketmmi-dbg_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -5565,8 +5565,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6a7760f4490b50e42b0cd31dcd4cf9cd
-SHA256sum: f41e3c1399571ce33829cf313c7fc7c46f1cc61804386ddac3b18813548f2385
+MD5Sum: 3df37c993ebcc2fc86e9674a5dc17c5d
+SHA256sum: a3afcd0fc3b491b6ec3f0861436c69416c40e629ec14a7c691cc1b1be306f06a
 Size: 261504
 Filename: enigma2-plugin-extensions-socketmmi-staticdev_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -5581,9 +5581,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libgcc1 (>= 10.1.0), libstdc++6 (>= 10
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0b3418611559857da2094bc3dfa7fdf0
-SHA256sum: 9528d099874111a7fce34213f7bbbe0ac75029b3d08e5544accb96cfc0227df4
-Size: 9360
+MD5Sum: 2928fbbc91fda8b4505ae2400aed9070
+SHA256sum: 5b7443fbab5e1e63ea75711b5ae17e44824f5439abb912e3e2e6fecd19eafc5f
+Size: 9362
 Filename: enigma2-plugin-extensions-socketmmi_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
@@ -6524,8 +6524,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 93e13b8c681d1263f508e0c02eef421b
-SHA256sum: 1bffca98c8c86c967ac88f56b6e8740277bd0f546215bd08f3a13d320ee78a6d
+MD5Sum: cc12aaf011858ef4dde2078a379b7fb1
+SHA256sum: 35069e41ba723c4064c4c5498a41d5638dc95d12218a5c5c58393594159f4217
 Size: 674
 Filename: enigma2-plugin-font-wqy-microhei_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7050,8 +7050,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 978b89a89d09bfc750aac7a1bb7da978
-SHA256sum: e376ccb355904a0c3b3a6fd656375508665832738f35b1b7af720a718c9b86be
+MD5Sum: 7d8cc8e811dc2e0bdbd535e6d6d37bad
+SHA256sum: a64bcca779f595eb7edfdd669f2378c8c2e1a947cacbdd52562f4d830cfb3c73
 Size: 5840
 Filename: enigma2-plugin-systemplugins-cablescan_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7113,8 +7113,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1d12ab4dff680a756661b12abb14eef8
-SHA256sum: 120abb536d168e36e2efffbcb9641ecc182bb19b551aa9b07ebeb592d320a1a8
+MD5Sum: 3154ad7ffd3804003e8042acf94a8978
+SHA256sum: 6c5e4b13e33ed333f5c277bd5ea4559cf6e2c3d49745560091fa001f52d0a8a1
 Size: 9724
 Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7128,8 +7128,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cbb2707f3409d5d2e5fdbb121a68c1b7
-SHA256sum: e7b37dbf44359c50f5446d6434d8a1e76046909bca75a90430db0c8d1b884c26
+MD5Sum: 4ba3e311dd7247bea84c83db3979465b
+SHA256sum: a02b2efd07aa4f39beb6bbe4ce04557da2d54ebda2918ed2c1c7ae4ac7f24a7a
 Size: 3422
 Filename: enigma2-plugin-systemplugins-defaultservicesscanner_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7143,8 +7143,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 215406ea85b7132e1de02455ea987b96
-SHA256sum: e4753554db0f1a03e4bf3f4283ffb08eed2838fc1f24cf8a7fe1cb29fc80fd65
+MD5Sum: 580806fc05c8f678d345f78c32a7c9f0
+SHA256sum: b69c36f2c37d7d36bfe83945e02dbff63cb0d110ccf54c7ceac9f9e76ca085da
 Size: 8902
 Filename: enigma2-plugin-systemplugins-diseqctester_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7303,8 +7303,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f4c3eaff379a6f6c14286344b7aa5334
-SHA256sum: f1727f7f409ffb36b99bfb7192544347accebca219ef565ac01c80b9b1d90dff
+MD5Sum: 45f269f5d6c611ea67d7e236051b539f
+SHA256sum: 6768488873f1f24a7ebf5c4e7cba8f3a7872e667dc9db0cbf2e358b248e0869e
 Size: 7576
 Filename: enigma2-plugin-systemplugins-fastscan_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7542,8 +7542,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cd9e9437dea763d220852605edf64d5b
-SHA256sum: fdcb85c15297228fb1f03c969e0af3ee930a3d8c9893a13ba220652871baad14
+MD5Sum: 50765aaaf22cd05f0f8782adc82890e2
+SHA256sum: ac26c81ac76f61bbe76c9f58c918e77bf72830abe7e1dd169e39b48cc2b20aa2
 Size: 3816
 Filename: enigma2-plugin-systemplugins-hdmicec_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7558,8 +7558,8 @@ Depends: hotplug-e2-helper
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: c95f15c116907aa69683d21f928f1773
-SHA256sum: bbc0e2dd05359b1766f575ad45a568dbf7792aa033899b02854868c62bb28214
+MD5Sum: 7f855e78fa73f10ac6636064c93e9588
+SHA256sum: 3dc52debd999cc3278cf2f732adce7638ab62401d393d33aeda822a397bea0e9
 Size: 2628
 Filename: enigma2-plugin-systemplugins-hotplug_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7925,8 +7925,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b5b11d179dec52ded98a09c0b93ff270
-SHA256sum: a2591508322ed4fff341ee32a990271757c9290175aafdb33b27f3334c233fb3
+MD5Sum: 7f44a7e8146af222533b33d73010e2f4
+SHA256sum: ffd82a83ec1196707a30b44b7c81a4af76128d347e664c8a53c8555aba5a8dd9
 Size: 7342
 Filename: enigma2-plugin-systemplugins-networkwizard_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -7988,8 +7988,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8c5ab1c286219e01731ba16609f08178
-SHA256sum: efb5fc730499cf09745b235805192c62d2587157713ddc39f05dae4b8d1f53f9
+MD5Sum: c28051d37baf5af452eff86e7fd4b667
+SHA256sum: a79b445314542e6d2580ec29520fd576d7f4f686f3f1b2fe28db6c612cd9194b
 Size: 3470
 Filename: enigma2-plugin-systemplugins-osd3dsetup_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -8003,8 +8003,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 399ebc7521bf1fd41780308f8f57204a
-SHA256sum: ffa60c6329753ec70319b37162a803f75fe81a5ccf023330a57c6ea8444b6b73
+MD5Sum: 7b43104367b5d8055c74765cedbf56eb
+SHA256sum: 0c970a765047bd346e8ee10563af6df33c1ac5bd284abc43af80d05cc82b6afd
 Size: 5472
 Filename: enigma2-plugin-systemplugins-osdpositionsetup_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -8098,9 +8098,9 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7caced2fd2c40d8b7aedcbba96cffb29
-SHA256sum: 4415c2f67faf665360b2e5d0090c9b65ea7d68fd6d81f9261e7c55fde7cfd910
-Size: 21272
+MD5Sum: 4f96e09be7ea39f6e7760108cbf79d23
+SHA256sum: aea06604addf382e3de92051fa7da903f17469975c974641bfa5f7146bfc91c5
+Size: 21270
 Filename: enigma2-plugin-systemplugins-positionersetup_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup
@@ -8305,8 +8305,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7564c91e621289113d90a644d7923f56
-SHA256sum: fc9a38e267253603cc60055e2567ddd8bd5b85d77617e8e028f28fd14836875a
+MD5Sum: bca3c6e7a4489950e8b9ce552043200e
+SHA256sum: 5b76eb8e211916cb917a3f1c40da001f9b9ade163c2d4b4a60a397614398b288
 Size: 2868
 Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -8320,9 +8320,9 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 598478b8dca335104bd6e26fc4a13b39
-SHA256sum: 453dd1d52ca323f1ba1c1550f1797760d7b1ee2a4499dfb1bc7ec30b57f4331c
-Size: 11766
+MD5Sum: 2d137b9c6fc59242c7bee669359b561d
+SHA256sum: c99cca9dd5d6b3701663c7b4d6d6e3d2bbb000fd0af337bcd922c8f3a85f2ace
+Size: 11764
 Filename: enigma2-plugin-systemplugins-satfinder_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
@@ -8689,9 +8689,9 @@ Depends: python-twisted-web
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a088b0308bde81a27f375b5b403d5644
-SHA256sum: 92ba9433e5dcdf0ef71dd17f05182a72144374cf6cf55689b82bd7fda6e16ec6
-Size: 42734
+MD5Sum: a828b26ccc5547eae73a2910bed30d6e
+SHA256sum: 2388af8b4da37ba402902b7048693e070d49bdc7e5809edbdd8b2d3ba0c46891
+Size: 42732
 Filename: enigma2-plugin-systemplugins-softwaremanager_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager
@@ -9025,8 +9025,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 884d28918dc65dbac4723e5a0d82e00f
-SHA256sum: 0ffcf9794f07a88ae94f05262a11e19c2b684ccff7ccd03377cf2c1c3a803020
+MD5Sum: b8a5f86e00583e79e8fd420afc093a4e
+SHA256sum: b25b205bb02e88785de213f2fe5778d875d52c5ccb63d970f3fc0bafb0d8b9db
 Size: 2968
 Filename: enigma2-plugin-systemplugins-videoclippingsetup_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -9088,9 +9088,9 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8babb1df7be4326cd205c6390f06c6bc
-SHA256sum: 02d69a41547fdfdee1bd8d6e06e0b2eb6f8edd85adb9daa6a8480ef4e67e229e
-Size: 8296
+MD5Sum: e9bf9644a6454b9e9200134cd67cbc02
+SHA256sum: 0e309fcba74153f0b6001c36e47140025a98881cbe28a66369179aed885033ca
+Size: 8298
 Filename: enigma2-plugin-systemplugins-videoenhancement_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement
@@ -9103,8 +9103,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ca323abdf7057d776288cf1108f57008
-SHA256sum: 8c8a7bee546aec1f6eb13a23cdf7a442335bb7f67d25ca73372d1af3b41f424f
+MD5Sum: 64cf1791f6fb29ba72f9e266bf3a3eff
+SHA256sum: cd690546db9941093fed60debefe7c2dda82075adf0a5f12a4d802eaed1b752b
 Size: 57308
 Filename: enigma2-plugin-systemplugins-videomode_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -9118,8 +9118,8 @@ Version: develop+git19910+06324a7-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b1f429eb880654d6ce707135701d9487
-SHA256sum: 78f7a2aa9cb79ffdb8a9358bba07e19cddc9084b306e178a8ec957e71cce210a
+MD5Sum: 93865cc5afe0c1d3cf85c7ead5808064
+SHA256sum: c925acce35c9a510b43ec3bcd75d418a9b793d8c963d593f88c65b63c2672c03
 Size: 64948
 Filename: enigma2-plugin-systemplugins-videotune_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -9471,9 +9471,9 @@ Depends: python-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a8dd3890cbb7a7eda011c48499aae00a
-SHA256sum: 7586350011f75825f9c0def59e4ce2f922813fb362c35cfef8dd15e0a055ea4a
-Size: 11172
+MD5Sum: f4de4e24bbd4453a7714378e9aa3ee4b
+SHA256sum: d083cadb66a492d01039c0bbb50d67f563555aa12e9a8c4d645cea7fd2c8e5f2
+Size: 11170
 Filename: enigma2-plugin-systemplugins-wirelesslan_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan
@@ -9708,8 +9708,8 @@ Version: develop+git19910+06324a7-r0
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 45af24e75fdcfd3c2c94a5439f21f80e
-SHA256sum: 89399ecd780b38a10abf610333887fb20549242da502fff2bc1a5c0902c710cc
+MD5Sum: 7e1b88e195f483573a95853aff184b0e
+SHA256sum: 5de45a2b20cf1ef590f3cbecf8a4325b478ffd75acd64db422e0418813938ee1
 Size: 602622
 Filename: enigma2-src_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -9724,8 +9724,8 @@ Depends: enigma2-dev (= develop+git19910+06324a7-r0)
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 494fb54632d4d284b51ee89f2d592952
-SHA256sum: 878365c4cbdbc45a914d56b50da0e16e60b15b48a54b8237e325abbb0c5c2860
+MD5Sum: b7066d8d3db257c3ab75e2c60e0949b2
+SHA256sum: e514f0b4f4bc2022fcf012deb0b031540169979df72fc1543668dcdfac2bd768
 Size: 7656
 Filename: enigma2-staticdev_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -9741,8 +9741,8 @@ Recommends: glibc-gconv-utf-16, hotplug-e2-helper, libdvdcss, python-sendfile, v
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 40cf4f15cb9c06321949172852547bd4
-SHA256sum: 548ef2251037222fc1ea228a3de876274e6cd66d4bd27aa8706ecf8745dade15
+MD5Sum: ccde4d2a431681ae50e4bd6da49ea22c
+SHA256sum: b45050ba8d738cfee341f05702dc8e9dd86a335b75520e5fd792262f745bbd15
 Size: 2634922
 Filename: enigma2_develop+git19910+06324a7-r0_dm820.ipk
 Source: enigma2.bb
@@ -13037,6 +13037,57 @@ Filename: kernel-module-ext3-3.4-4.0-dm820_3.4-openvision_dm820.ipk
 Source: linux-dreambox_3.4.bb
 Description: ext3 kernel module
 OE: linux-dreambox
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-extrawlan-rt5572-dbg
+Version: 2.6.1.3-openvision
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 378207ecde1297bcab1adaafede09064
+SHA256sum: 4b797097ca7908c811c84ccbbb1e89845c038bdb2e58da9bd8ba4aad5d919c87
+Size: 740
+Filename: kernel-module-extrawlan-rt5572-dbg_2.6.1.3-openvision_dm820.ipk
+Source: kernel-module-extrawlan-rt5572_2.6.1.3.bb
+Description: Ralink 2870/3070/8070/3370/3572/5370/5372/5572 v2.6.1.3 - Debugging files
+OE: kernel-module-extrawlan-rt5572
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-extrawlan-rt5572-dev
+Version: 2.6.1.3-openvision
+Depends: kernel-module-extrawlan-rt5572 (= 2.6.1.3-openvision)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-rt5572sta-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 24d06d82000808aa2fc7e6ea1bf6ac0c
+SHA256sum: 5e5945b145db404168dc48643b54b5672e62d4a9a43703221f4cbf066991c72b
+Size: 798
+Filename: kernel-module-extrawlan-rt5572-dev_2.6.1.3-openvision_dm820.ipk
+Source: kernel-module-extrawlan-rt5572_2.6.1.3.bb
+Description: Ralink 2870/3070/8070/3370/3572/5370/5372/5572 v2.6.1.3 - Development files
+OE: kernel-module-extrawlan-rt5572
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-extrawlan-rt5572
+Version: 2.6.1.3-openvision
+Depends: kernel-module-rt5572sta-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ebf1caba3c213aadc7f141114ae528b2
+SHA256sum: cc5573bf171b9a8692eb1bebdfb5bff26130ac453eb8b53b55ae435f20b822d7
+Size: 1692
+Filename: kernel-module-extrawlan-rt5572_2.6.1.3-openvision_dm820.ipk
+Source: kernel-module-extrawlan-rt5572_2.6.1.3.bb
+Description: Ralink 2870/3070/8070/3370/3572/5370/5372/5572 v2.6.1.3
+OE: kernel-module-extrawlan-rt5572
+HomePage: http://www.realtek.com.tw
 License: GPLv2
 Priority: optional
 
@@ -17042,9 +17093,9 @@ Provides: kernel-module-openvision
 Section: kernel/modules
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a794f6c19b3eafd686a4bb2d9e117eb0
-SHA256sum: bb82e33518f165ec7900c1bca9475cbd76e5d5ffa2053d25abb70cbd48b0766e
-Size: 2106
+MD5Sum: e363c5bb89c2ba1ba847938849776888
+SHA256sum: a551164fec1b2424b3e33df075de8fe68180f156472f72485362de3c228e4ea6
+Size: 2104
 Filename: kernel-module-openvision-3.4-4.0-dm820_1.0-openvision_dm820.ipk
 Source: openvision-module.bb
 Description: openvision kernel module
@@ -19497,6 +19548,24 @@ Filename: kernel-module-rt2x00usb-3.4-4.0-dm820_3.4-openvision_dm820.ipk
 Source: linux-dreambox_3.4.bb
 Description: rt2x00usb kernel module
 OE: linux-dreambox
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-rt5572sta-3.4-4.0-dm820
+Version: 2.6.1.3-openvision
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-rt5572sta
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 32ae515491db3e9d26b2fe776adbbbbd
+SHA256sum: 270bedbd3321fdf870aa8324d2b0082d3bc6d25616705c169e6cf0a17519b539
+Size: 360466
+Filename: kernel-module-rt5572sta-3.4-4.0-dm820_2.6.1.3-openvision_dm820.ipk
+Source: kernel-module-extrawlan-rt5572_2.6.1.3.bb
+Description: rt5572sta kernel module
+OE: kernel-module-extrawlan-rt5572
+HomePage: http://www.realtek.com.tw
 License: GPLv2
 Priority: optional
 
@@ -23740,14 +23809,63 @@ OE: make-mod-scripts
 License: GPLv2
 Priority: optional
 
+Package: openmultiboot-dbg
+Version: git110+b7238af-r0
+Recommends: freetype-dbg, glibc-dbg
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: dd25d417e286f8e5d6b144c8b7c5baa2
+SHA256sum: ea345f04e62f33f81b2622789a2bde4a5c16f3c23084f5cc393082a22ae1ba60
+Size: 37254
+Filename: openmultiboot-dbg_git110+b7238af-r0_dm820.ipk
+Source: openmultiboot.bb
+Description: Multi boot loader for enigma2 - Debugging files
+OE: openmultiboot
+License: GPLv2
+Priority: optional
+
+Package: openmultiboot-dev
+Version: git110+b7238af-r0
+Depends: openmultiboot (= git110+b7238af-r0)
+Recommends: freetype-dev, glibc-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 277f6eb9bb723d9607f1e85bc96967b1
+SHA256sum: e1e3e68952ea0deb2ff691d55d418bf365856851d4b61d3b6743b2f622fcb194
+Size: 734
+Filename: openmultiboot-dev_git110+b7238af-r0_dm820.ipk
+Source: openmultiboot.bb
+Description: Multi boot loader for enigma2 - Development files
+OE: openmultiboot
+License: GPLv2
+Priority: optional
+
+Package: openmultiboot
+Version: git110+b7238af-r0
+Depends: libc6 (>= 2.31+git0+1094741224), libfreetype6 (>= 2.10.2)
+Section: base
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b46c5aee159c0daee6a7dd729a2d18e3
+SHA256sum: 9a31909f7c3d6c649e1a2942caeeb217d56fc34455be474594431d16083f42a5
+Size: 40702
+Filename: openmultiboot_git110+b7238af-r0_dm820.ipk
+Source: openmultiboot.bb
+Description: Multi boot loader for enigma2
+OE: openmultiboot
+License: GPLv2
+Priority: optional
+
 Package: openvision-branding-dbg
 Version: git16+b8c8111-r0
 Recommends: glibc-dbg
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 402a2a2aebdb4a0049508ea64c97cd29
-SHA256sum: 9fcc5712a5d69eb01eb18379366b7152e3482fd9a942ae5ca6dcea09881aa3e1
+MD5Sum: e842da816247dea2a847bfcd62119027
+SHA256sum: 405fe831c747827b231d49ff914a5b9f30e6768b8bfe6c6add8a5e5310841051
 Size: 12954
 Filename: openvision-branding-dbg_git16+b8c8111-r0_dm820.ipk
 Source: openvision-branding.bb
@@ -23763,8 +23881,8 @@ Recommends: glibc-dev, python-dev
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 77e5a82587c0f311849d9e15665a578f
-SHA256sum: fa4b68384367fa4043a3b9f5c357dd6e46e1b8cd06d86a8ea66dd27352066c10
+MD5Sum: 3ade70f22373e9ba91cdaa59ebdfa9a5
+SHA256sum: 053191b2b8aea4b7f1f1f1988175dc00014fd71f438426f02fa3515381b2d152
 Size: 752
 Filename: openvision-branding-dev_git16+b8c8111-r0_dm820.ipk
 Source: openvision-branding.bb
@@ -23779,9 +23897,9 @@ Depends: libc6 (>= 2.31+git0+1094741224)
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 31891542588892dc4020fc865f7b8af2
-SHA256sum: cef4e34c8fc476b5a6f011db99da2fed9af0009b297a54869845d75c7c01010b
-Size: 5086
+MD5Sum: 5fe1d349920b019645de7c2e0b7d8fd9
+SHA256sum: f9f3a0b02b60c7cdd1d66bc5384623a5c6d530c770459b6015f4e9524f1772e3
+Size: 5082
 Filename: openvision-branding_git16+b8c8111-r0_dm820.ipk
 Source: openvision-branding.bb
 Description: openvision-branding version gitAUTOINC+b8c8111240-r0
@@ -23794,8 +23912,8 @@ Version: 1.0-openvision
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 71548aca9351840c36780d32f95e9913
-SHA256sum: 6398c51e1f453c8ad21333237fa3be1d82a446aa242af1c257da9f2034e7f935
+MD5Sum: dcadea00294898ff3dd7a350d938f87b
+SHA256sum: 1e224c6ed96c99e1423550c4c9d1743d7d7fc64832956c1a74a7b0084e0a227f
 Size: 668
 Filename: openvision-module-dbg_1.0-openvision_dm820.ipk
 Source: openvision-module.bb
@@ -23811,8 +23929,8 @@ Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-openvision-3.4-4.0-dm820-dev
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 091866c6971b5f3cb600686e9db180e1
-SHA256sum: b3fa5645a901e93acbd0db6faed96976ee4310d64407a3c8df0f6852c5025cc1
+MD5Sum: adbacf9bb53c21157198b9656d225c41
+SHA256sum: 02fb512e33b7e431ae67c4618b3dc68945d0a0aa2dd176ebdc598b6b6a92deff
 Size: 738
 Filename: openvision-module-dev_1.0-openvision_dm820.ipk
 Source: openvision-module.bb
@@ -23827,9 +23945,9 @@ Depends: kernel-module-openvision-3.4-4.0-dm820, ovlock
 Section: kernel/modules
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: da8e2617c5d68419fb2dabb4e6636b86
-SHA256sum: 8fc8122883b8af9eb8833e63ec3850b861e0307c8b92ade914525b13d46f69b5
-Size: 762
+MD5Sum: d89a06c61e7d96bb260ec22875b86247
+SHA256sum: c6d2c0b767e58d778b78f5b91d70ad51f931e658f8428f732a2cdeca54de83ef
+Size: 756
 Filename: openvision-module_1.0-openvision_dm820.ipk
 Source: openvision-module.bb
 Description: openvision-module version 1.0-openvision
@@ -23842,9 +23960,9 @@ Version: 10.1-r178
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 98189ef5c70bd2303999da66b4127c88
-SHA256sum: 5888ffdaaa6778eab31e6f947782ecc6987fdc121a4d8f82b4008195fd898543
-Size: 1648
+MD5Sum: e7af1d57da35f56875ee1a9e263d7813
+SHA256sum: 58cd4830120cf293cdee3f7c0f6141676ffe390ea2077da137b3dda0fa6bd40f
+Size: 1650
 Filename: openvision-version-info_10.1-r178_dm820.ipk
 Source: openvision-version-info.bb
 Description: openvision-version-info version 10.1-r178
