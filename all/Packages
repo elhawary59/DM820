@@ -364,14 +364,14 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-skins-octetfhd-dbg
-Version: git171+462be86-r0
+Version: git177+c7b64f5-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: a92de8e3ea25edfc11cfbb5102af09ca
-SHA256sum: 9410e681708ce9a576db29e6ca37e0bc7d1c7fde689c6031df2e60f9643e5d5b
+MD5Sum: de0b2f9772fc70d6eec32ec295d8b1c2
+SHA256sum: 4c32697ed0118fe55225f9ffd4915bb3fb69dcc44cbe5d54fdaefa8cb974987a
 Size: 692
-Filename: enigma2-plugin-skins-octetfhd-dbg_git171+462be86-r0_all.ipk
+Filename: enigma2-plugin-skins-octetfhd-dbg_git177+c7b64f5-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Debugging files
 OE: enigma2-plugin-skins-octetfhd
@@ -379,16 +379,16 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-octetfhd-dev
-Version: git171+462be86-r0
-Depends: enigma2-plugin-skins-octetfhd (= git171+462be86-r0)
+Version: git177+c7b64f5-r0
+Depends: enigma2-plugin-skins-octetfhd (= git177+c7b64f5-r0)
 Recommends: enigma2-plugin-extensions-weatherplugin-dev, enigma2-plugin-extensions-xtraevent-dev, enigma2-plugin-fonts-opensans-dev, enigma2-plugin-fonts-segoe-dev, enigma2-plugin-skincomponents-weathercomponent-dev, enigma2-plugin-systemplugins-weathercomponenthandler-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7cbcc2a0453911d9cddf0a46c678a7fb
-SHA256sum: 79a5bfea2541951b088578a61da87793fa729bf5e8084890b790a6a007258327
+MD5Sum: 332966e8ac448bf68ccf95cd6c4be9db
+SHA256sum: 474586a5323a265707e5eb0ae1bee2541aa1fe0d730778922d5e260dc339fa6b
 Size: 804
-Filename: enigma2-plugin-skins-octetfhd-dev_git171+462be86-r0_all.ipk
+Filename: enigma2-plugin-skins-octetfhd-dev_git177+c7b64f5-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD - Development files
 OE: enigma2-plugin-skins-octetfhd
@@ -396,15 +396,15 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-octetfhd
-Version: git171+462be86-r0
+Version: git177+c7b64f5-r0
 Depends: enigma2-plugin-extensions-weatherplugin, enigma2-plugin-extensions-xtraevent, enigma2-plugin-fonts-opensans, enigma2-plugin-fonts-segoe, enigma2-plugin-skincomponents-weathercomponent, enigma2-plugin-systemplugins-weathercomponenthandler
 Section: base
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0ba49d82ac3e2bd0ce0b00b8c7402431
-SHA256sum: 16974403dee16c0465f754caafbbb3d9504af647cdc02e58d25f0c5aff427e43
-Size: 1359224
-Filename: enigma2-plugin-skins-octetfhd_git171+462be86-r0_all.ipk
+MD5Sum: 18790ba17c915368548b4dd0c296c57e
+SHA256sum: 556a87d78df7c0861d5b28f7eb65bd5d42807caee732ab9c411673463e745dbd
+Size: 1359466
+Filename: enigma2-plugin-skins-octetfhd_git177+c7b64f5-r0_all.ipk
 Source: enigma2-plugin-skins-octetfhd.bb
 Description: Enigma2 Skin OctEtFHD
 OE: enigma2-plugin-skins-octetfhd
@@ -412,47 +412,47 @@ License: GPLv2+
 Priority: required
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git2133+de19fac-r0
+Version: 0.1+git2135+cec06b0-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: c31b991b7736ad56328c85eabf1c5447
-SHA256sum: ff7645e78269d794476f7361b4e17f52f81f0552f67d27856d82983c4f66923d
-Size: 674
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2133+de19fac-r0_all.ipk
+MD5Sum: 47ec2f11071a2e8e2d3c60fecbe4b10b
+SHA256sum: 2273faa7a9cf8b116603e2b5608bda6ab196e997055e53e43c06f0e91b4be8b4
+Size: 676
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2135+cec06b0-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+de19fac43b-r0 - Debugging files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+cec06b0003-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git2133+de19fac-r0
-Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2133+de19fac-r0)
+Version: 0.1+git2135+cec06b0-r0
+Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2135+cec06b0-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 748e6ba8df29b593eb406b5d69240d86
-SHA256sum: f971feebff817841011571684db2c0eca8a302868fb0240ad2a164505b03435f
+MD5Sum: f34e8e8d8aa51b40064266dd3ffb6e47
+SHA256sum: ad715c35364bf324050eb2c397a237a782eef1e5da646b50708d267d93a68272
 Size: 708
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2133+de19fac-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2135+cec06b0-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+de19fac43b-r0 - Development files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+cec06b0003-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git2133+de19fac-r0
+Version: 0.1+git2135+cec06b0-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: e0ffeb8fd8a404a472cfe664356a7b76
-SHA256sum: 0360ae12d62bedcbfe7c32c80d6f38a3c22bf68816404a6fc15b7cbf6acf531e
-Size: 382934
-Filename: enigma2-plugin-skins-pli-hd_0.1+git2133+de19fac-r0_all.ipk
+MD5Sum: 20ae5c1d453e52740ef2b1a263fb2d17
+SHA256sum: 1ed7f0f5bb644c2d9767e99002348484ec2693dcd02c93b99d25a58c7a6c4769
+Size: 383054
+Filename: enigma2-plugin-skins-pli-hd_0.1+git2135+cec06b0-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+de19fac43b-r0
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+cec06b0003-r0
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
